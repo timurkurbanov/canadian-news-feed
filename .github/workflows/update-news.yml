@@ -1,0 +1,36 @@
+name: Update Canada News Feed
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"  # Every 5 minutes
+  workflow_dispatch:       # Allows manual trigger from Actions tab
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser openai requests
+
+      - name: Generate updated headlines
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python .github/scripts/update_news.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add canada-news.json
+          git diff --cached --quiet || git commit -m "🤖 Auto-update headlines"
+          git push
