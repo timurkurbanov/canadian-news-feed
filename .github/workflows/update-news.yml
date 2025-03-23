@@ -33,5 +33,5 @@ jobs:
           git add canada-news.json
           git commit -m "🔄 Update Canada news feed" || exit 0
           git push https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git HEAD:main
-          env:
+        env:
           GH_PAT: ${{ secrets.GH_PAT }}
