@@ -3,31 +3,38 @@ import openai
 import json
 import random
 import os
+import time
 from datetime import datetime
 
-# Set your OpenAI API key from GitHub Secrets
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-# Define RSS feeds
 feeds = {
     "cbc": "https://www.cbc.ca/cmlink/rss-topstories",
     "global": "https://globalnews.ca/feed/",
     "ctv": "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009"
 }
 
-# Source logos
 logos = {
     "cbc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
     "global": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
     "ctv": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/ctv.png?v=1742728179"
 }
 
-# Get headlines from each feed
+def fetch_with_retries(url, retries=3, delay=3):
+    for attempt in range(retries):
+        try:
+            return feedparser.parse(url)
+        except Exception as e:
+            print(f"Attempt {attempt + 1} failed for {url}: {e}")
+            time.sleep(delay)
+    print(f"❌ Failed to fetch feed after {retries} attempts: {url}")
+    return feedparser.FeedParserDict(entries=[])
+
 def get_headlines():
     items = []
     for source, url in feeds.items():
-        feed = feedparser.parse(url)
-        for entry in feed.entries[:5]:  # Limit to 5 per source
+        feed = fetch_with_retries(url)
+        for entry in feed.entries[:5]:
             items.append({
                 "source": source,
                 "logo": logos[source],
@@ -36,31 +43,25 @@ def get_headlines():
             })
     return items
 
-# Rewrite headline using OpenAI
-def rewrite_headline(headline):
-    prompt = f"Rewrite this news headline to make it more SEO-friendly and unique: {headline}"
-    response = openai.ChatCompletion.create(
-        model="gpt-4",
-        messages=[
-            {"role": "user", "content": prompt}
-        ],
-        temperature=0.7,
-    )
-    return response['choices'][0]['message']['content'].strip()
-
-# Main execution
 def main():
     headlines = get_headlines()
-    selected = random.sample(headlines, 5)
+    selected = random.sample(headlines, min(5, len(headlines)))
 
     rewritten_news = []
     for item in selected:
         try:
-            new_headline = rewrite_headline(item["original"])
+            rewritten = openai.ChatCompletion.create(
+                model="gpt-4",
+                messages=[
+                    {"role": "user", "content": f"Rewrite this news headline to make it more SEO-friendly and unique: {item['original']}"}
+                ],
+                temperature=0.7,
+            )
+            new_headline = rewritten['choices'][0]['message']['content'].strip()
         except Exception as e:
-            print(f"❌ Failed to rewrite headline: {item['original']}")
+            print(f"⚠️ Failed to rewrite headline: {item['original']}")
             print(e)
-            new_headline = item["original"]
+            new_headline = item['original']
 
         rewritten_news.append({
             "source": item["source"],
@@ -69,7 +70,6 @@ def main():
             "url": item["url"]
         })
 
-    # Write to JSON file
     with open("canada-news.json", "w", encoding="utf-8") as f:
         json.dump(rewritten_news, f, indent=2, ensure_ascii=False)
 
