@@ -1,32 +1,32 @@
 [
   {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Five Things: Blue Jays set to kick off ’25 season",
+    "url": "https://globalnews.ca/news/11098745/five-things-blue-jays-set-to-kick-off-25-season/"
+  },
+  {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Warning about ‘dangerous offender’ who attacked 5-year-old issued by Toronto police",
+    "url": "https://globalnews.ca/news/11098725/warning-about-dangerous-offender-who-attacked-5-year-old-issued-by-toronto-police/"
+  },
+  {
     "source": "cbc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Helicopter pilot fighting blaze among 24 killed in South Korea wildfires",
-    "url": "https://www.cbc.ca/news/world/south-korea-wildfires-1.7493533?cmp=rss"
+    "headline": "Live updates: Carney speaks in Ontario's auto sector heartland amid spectre of Trump's trade war",
+    "url": "https://www.cbc.ca/9.6698877?cmp=rss"
   },
   {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Election 2025: Carney, Poilievre shift their campaigns to Quebec",
-    "url": "https://globalnews.ca/news/11098695/canada-election-2025-campaign-day-3/"
+    "headline": "ANALYSIS: President’s Trophy could cap off outstanding regular season for Jets",
+    "url": "https://globalnews.ca/news/11098750/analysis-winnipeg-jets-presidents-trophy/"
   },
   {
     "source": "cbc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Winnipeg automation company lays off 1/3 of staff as trade war leads to 'spending freeze'",
-    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-automation-company-layoffs-trade-war-1.7493105?cmp=rss"
-  },
-  {
-    "source": "global",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Ontario man facing charges in probe of ‘loan-sharking activity’ at casinos",
-    "url": "https://globalnews.ca/news/11098715/ontario-casino-extortion/"
-  },
-  {
-    "source": "global",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Travel in style with these Amazon Canada Spring Sale steals",
-    "url": "https://globalnews.ca/the-curator/11098479/amazon-canada-spring-sale-travel-deals/"
+    "headline": "Hudson's Bay managers will get up to $3M in bonuses, but workers get no severance",
+    "url": "https://www.cbc.ca/news/business/hudons-bay-severance-bonuses-1.7493244?cmp=rss"
   }
 ]
