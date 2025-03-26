@@ -1,5 +1,17 @@
 [
   {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Amid calls to cancel, Premier Danielle Smith stands by plan to go to U.S. fundraiser",
+    "url": "https://globalnews.ca/news/11098897/alberta-danielle-smith-ben-shapiro-prageru/"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Live updates: Carney defends his record at Brookfield, calls Poilievre a 'conspiracy theorist'",
+    "url": "https://www.cbc.ca/9.6698877?cmp=rss"
+  },
+  {
     "source": "cbc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
     "headline": "Hudson's Bay managers will get up to $3M in bonuses, but workers get no severance",
@@ -8,25 +20,13 @@
   {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "ANALYSIS: President’s Trophy could cap off outstanding regular season for Jets",
-    "url": "https://globalnews.ca/news/11098750/analysis-winnipeg-jets-presidents-trophy/"
-  },
-  {
-    "source": "global",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Warning about ‘dangerous offender’ who attacked 5-year-old issued by Toronto police",
-    "url": "https://globalnews.ca/news/11098725/warning-about-dangerous-offender-who-attacked-5-year-old-issued-by-toronto-police/"
-  },
-  {
-    "source": "global",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Suspicious package investigation at Grand Parade shuts down parts of downtown Halifax",
+    "headline": "Hoax improvised explosive device forces downtown Halifax street closures",
     "url": "https://globalnews.ca/news/11098797/suspicious-package-halifax-grand-parade/"
   },
   {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Ottawa's had a nightlife commissioner for almost a year. Is he 'invisible' or 'on the right track?'",
-    "url": "https://www.cbc.ca/news/canada/ottawa/what-has-ottawa-s-night-mayor-actually-done-1.7492564?cmp=rss"
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "How to make health care better in Canada? We asked 5 experts",
+    "url": "https://globalnews.ca/news/11094946/canada-election-health-care/"
   }
 ]
