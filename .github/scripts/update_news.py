@@ -30,16 +30,33 @@ def fetch_with_retries(url, retries=3, delay=3):
     print(f"❌ Failed to fetch feed after {retries} attempts: {url}")
     return feedparser.FeedParserDict(entries=[])
 
+def guess_category(title):
+    title = title.lower()
+    if any(word in title for word in ["election", "minister", "government", "parliament", "policy"]):
+        return "Politics"
+    elif any(word in title for word in ["business", "economy", "inflation", "trade", "market"]):
+        return "Business"
+    elif any(word in title for word in ["sport", "game", "team", "tournament", "score"]):
+        return "Sports"
+    elif any(word in title for word in ["weather", "storm", "climate", "environment"]):
+        return "Weather"
+    elif any(word in title for word in ["art", "music", "festival", "film", "celebrity"]):
+        return "Entertainment"
+    else:
+        return "General"
+
 def get_headlines():
     items = []
     for source, url in feeds.items():
         feed = fetch_with_retries(url)
         for entry in feed.entries[:5]:
+            category = guess_category(entry.title)
             items.append({
                 "source": source,
                 "logo": logos[source],
                 "original": entry.title,
-                "url": entry.link
+                "url": entry.link,
+                "category": category
             })
     return items
 
@@ -51,27 +68,28 @@ def main():
     for item in selected:
         try:
             response = openai.chat.completions.create(
-    model="gpt-4",
-    messages=[
-        {"role": "user", "content": f"Rewrite this news headline to make it more SEO-friendly and unique: {item['original']}"}
-    ],
-    temperature=0.7,
-)
-
+                model="gpt-4",
+                messages=[
+                    {
+                        "role": "user",
+                        "content": f"Rewrite this news headline to make it more SEO-friendly and unique: {item['original']}"
+                    }
+                ],
+                temperature=0.7,
+            )
             new_headline = response.choices[0].message.content.strip()
         except Exception as e:
             print(f"⚠️ Failed to rewrite headline: {item['original']}")
             print(e)
             new_headline = item['original']
 
-rewritten_news.append({
-    "source": item["source"],
-    "logo": item["logo"],
-    "headline": new_headline,
-    "url": item["url"],
-    "category": "Politics"  # <-- temporary placeholder, will improve later
-})
-
+        rewritten_news.append({
+            "source": item["source"],
+            "logo": item["logo"],
+            "headline": new_headline,
+            "url": item["url"],
+            "category": item["category"]
+        })
 
     with open("canada-news.json", "w", encoding="utf-8") as f:
         json.dump(rewritten_news, f, indent=2, ensure_ascii=False)
@@ -80,3 +98,4 @@ rewritten_news.append({
 
 if __name__ == "__main__":
     main()
+
