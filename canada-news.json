@@ -1,98 +1,37 @@
-import feedparser
-import openai
-import json
-import random
-import os
-import time
-from datetime import datetime
-
-openai.api_key = os.getenv("OPENAI_API_KEY")
-
-feeds = {
-    "cbc": "https://www.cbc.ca/cmlink/rss-topstories",
-    "global": "https://globalnews.ca/feed/",
-    "ctv": "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009"
-}
-
-logos = {
-    "cbc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "global": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "ctv": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/ctv.png?v=1742728179"
-}
-
-def fetch_with_retries(url, retries=3, delay=3):
-    for attempt in range(retries):
-        try:
-            return feedparser.parse(url, request_headers={'User-Agent': 'Mozilla/5.0'})
-        except Exception as e:
-            print(f"Attempt {attempt + 1} failed for {url}: {e}")
-            time.sleep(delay)
-    print(f"❌ Failed to fetch feed after {retries} attempts: {url}")
-    return feedparser.FeedParserDict(entries=[])
-
-def classify_category(headline):
-    try:
-        response = openai.chat.completions.create(
-            model="gpt-4",
-            messages=[
-                {"role": "user", "content": f"What category best describes this headline? Choose one of: Politics, Business, Sports, Tech, Health, Entertainment, Other.\nHeadline: {headline}"}
-            ],
-            temperature=0
-        )
-        return response.choices[0].message.content.strip()
-    except Exception as e:
-        print(f"⚠️ Failed to classify category: {headline}")
-        print(e)
-        return "Other"
-
-def get_headlines():
-    items = []
-    for source, url in feeds.items():
-        feed = fetch_with_retries(url)
-        for entry in feed.entries[:5]:
-            items.append({
-                "source": source,
-                "logo": logos[source],
-                "original": entry.title,
-                "url": entry.link
-            })
-    return items
-
-def main():
-    headlines = get_headlines()
-    selected = random.sample(headlines, min(5, len(headlines)))
-
-    rewritten_news = []
-    for item in selected:
-        try:
-            # Rewrite headline
-            response = openai.chat.completions.create(
-                model="gpt-4",
-                messages=[
-                    {"role": "user", "content": f"Rewrite this news headline to make it more SEO-friendly and unique: {item['original']}"}
-                ],
-                temperature=0.7
-            )
-            new_headline = response.choices[0].message.content.strip()
-        except Exception as e:
-            print(f"⚠️ Failed to rewrite headline: {item['original']}")
-            print(e)
-            new_headline = item['original']
-
-        category = classify_category(item['original'])
-
-        rewritten_news.append({
-            "source": item["source"],
-            "logo": item["logo"],
-            "headline": new_headline,
-            "url": item["url"],
-            "category": category
-        })
-
-    with open("canada-news.json", "w", encoding="utf-8") as f:
-        json.dump(rewritten_news, f, indent=2, ensure_ascii=False)
-
-    print("✅ canada-news.json updated successfully!")
-
-if __name__ == "__main__":
-    main()
+[
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Name of serial killer victim Mashkode Bizhiki'ikwe to be released by police today",
+    "url": "https://www.cbc.ca/news/canada/manitoba/buffalo-woman-mashkode-bizhiki-ikwe-police-update-identity-1.7493737?cmp=rss",
+    "category": "General"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Ottawa's had a nightlife commissioner for almost a year. Is he 'invisible' or 'on the right track?'",
+    "url": "https://www.cbc.ca/news/canada/ottawa/what-has-ottawa-s-night-mayor-actually-done-1.7492564?cmp=rss",
+    "category": "General"
+  },
+  {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Carney pledges ‘all in Canada’ auto network amid tariff threats",
+    "url": "https://globalnews.ca/news/11098886/donald-trump-tariffs-canada-auto-plan/",
+    "category": "General"
+  },
+  {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "N.S. legislature sitting marked by moves to consolidate power: political scientist",
+    "url": "https://globalnews.ca/news/11098845/ns-legislature-sitting-consolidate-power/",
+    "category": "General"
+  },
+  {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Is it a bird? A plane? No, it’s a ‘sharktopus’: A marine pairing like no other",
+    "url": "https://globalnews.ca/news/11098753/shark-octopus-new-zealand/",
+    "category": "General"
+  }
+]
