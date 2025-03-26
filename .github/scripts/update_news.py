@@ -1,23 +1,41 @@
 import feedparser
 import openai
 import json
+import random
 import os
 import time
 from datetime import datetime
-from collections import defaultdict
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 feeds = {
     "cbc": "https://www.cbc.ca/cmlink/rss-topstories",
     "global": "https://globalnews.ca/feed/",
-    "ctv": "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009"
+    "ctv": "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009",
+    # Politics
+    "cbc-politics": "https://www.cbc.ca/cmlink/rss-politics",
+    "global-politics": "https://globalnews.ca/politics/feed/",
+    # Business
+    "cbc-business": "https://www.cbc.ca/cmlink/rss-business",
+    "global-business": "https://globalnews.ca/business/feed/",
+    # Sports
+    "cbc-sports": "https://www.cbc.ca/cmlink/rss-sports",
+    "global-sports": "https://globalnews.ca/sports/feed/",
+    # Weather
+    "weather-network": "https://www.theweathernetwork.com/rss/caon0696"
 }
 
 logos = {
     "cbc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
     "global": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "ctv": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/ctv.png?v=1742728179"
+    "ctv": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/ctv.png?v=1742728179",
+    "cbc-politics": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "global-politics": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "cbc-business": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "global-business": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "cbc-sports": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "global-sports": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "weather-network": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/weather.png?v=1"
 }
 
 def fetch_with_retries(url, retries=3, delay=3):
@@ -51,7 +69,7 @@ def get_headlines():
     items = []
     for source, url in feeds.items():
         feed = fetch_with_retries(url)
-        for entry in feed.entries[:15]:  # increase to 15 per source
+        for entry in feed.entries[:15]:
             category = classify_category_ai(entry.title)
             items.append({
                 "source": source,
@@ -65,17 +83,8 @@ def get_headlines():
 def main():
     headlines = get_headlines()
 
-    # collect max 5 per category
-    category_buckets = defaultdict(list)
-    for item in headlines:
-        category_buckets[item["category"]].append(item)
-
-    selected = []
-    for cat_items in category_buckets.values():
-        selected.extend(cat_items[:5])
-
     rewritten_news = []
-    for item in selected:
+    for item in headlines:
         try:
             response = openai.chat.completions.create(
                 model="gpt-4",
