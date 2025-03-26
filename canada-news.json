@@ -1,12 +1,5 @@
 [
   {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Carney's green funds at Brookfield used Bermuda tax haven to attract investors",
-    "url": "https://www.cbc.ca/news/politics/carney-brookfield-bermuda-tax-havens-1.7493419?cmp=rss",
-    "category": "General"
-  },
-  {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
     "headline": "Prince Harry ‘in shock’ after resigning from charity founded in Diana’s honour",
@@ -23,15 +16,22 @@
   {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Not so fast, spring: Snow expected, again, for southern Manitoba",
-    "url": "https://globalnews.ca/news/11098920/southern-manitoba-snow-weather-spring/",
+    "headline": "Edmonton soccer star Alphonso Davies to undergo surgery after suffering injury playing for Canada",
+    "url": "https://globalnews.ca/news/11099162/ealphonso-davies-canada-injury-surgery/",
+    "category": "General"
+  },
+  {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Carney and Poilievre both vow to axe GST on new homes. Will it help?",
+    "url": "https://globalnews.ca/news/11098997/canada-election-gst-cut-on-new-homes/",
     "category": "General"
   },
   {
     "source": "cbc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "When Danielle Smith tried explaining Poilievre to Americans, Canadians heard it too",
-    "url": "https://www.cbc.ca/news/canada/calgary/danielle-smith-breitbart-poilievre-trump-sync-analysis-1.7493168?cmp=rss",
+    "headline": "Ottawa's had a nightlife commissioner for almost a year. Is he 'invisible' or 'on the right track?'",
+    "url": "https://www.cbc.ca/news/canada/ottawa/what-has-ottawa-s-night-mayor-actually-done-1.7492564?cmp=rss",
     "category": "General"
   }
 ]
