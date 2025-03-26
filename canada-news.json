@@ -1,16 +1,9 @@
 [
   {
-    "source": "global",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "‘Heartbroken’: 2 of the men swept away in B.C. avalanche identified",
-    "url": "https://globalnews.ca/news/11099013/men-swept-away-bc-avalanche-identified/",
-    "category": "Entertainment"
-  },
-  {
     "source": "cbc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Carney's green funds at Brookfield used Bermuda tax haven to attract investors",
-    "url": "https://www.cbc.ca/news/politics/carney-brookfield-bermuda-tax-havens-1.7493419?cmp=rss",
+    "headline": "When Danielle Smith tried explaining Poilievre to Americans, Canadians heard it too",
+    "url": "https://www.cbc.ca/news/canada/calgary/danielle-smith-breitbart-poilievre-trump-sync-analysis-1.7493168?cmp=rss",
     "category": "General"
   },
   {
@@ -23,15 +16,22 @@
   {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Hudson’s Bay wants court to OK agreement that gives little time to save 6 stores",
-    "url": "https://globalnews.ca/news/11099115/hudsons-bay-court-agreement/",
+    "headline": "Edmonton soccer star Alphonso Davies to undergo surgery after suffering injury playing for Canada",
+    "url": "https://globalnews.ca/news/11099162/ealphonso-davies-canada-injury-surgery/",
     "category": "General"
   },
   {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Not so fast, spring: Snow expected, again, for southern Manitoba",
-    "url": "https://globalnews.ca/news/11098920/southern-manitoba-snow-weather-spring/",
+    "headline": "‘Heartbroken’: 2 of the men swept away in B.C. avalanche identified",
+    "url": "https://globalnews.ca/news/11099013/men-swept-away-bc-avalanche-identified/",
+    "category": "Entertainment"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Police to name serial killer victim Mashkode Bizhiki'ikwe today",
+    "url": "https://www.cbc.ca/news/canada/manitoba/buffalo-woman-mashkode-bizhiki-ikwe-police-update-identity-1.7493737?cmp=rss",
     "category": "General"
   }
 ]
