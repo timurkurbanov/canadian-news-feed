@@ -11,47 +11,42 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 feeds = {
     "cbc": "https://www.cbc.ca/cmlink/rss-topstories",
     "global": "https://globalnews.ca/feed/",
-    "ctv": "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009",
-    # Uncomment these one by one if needed to debug
-    # "national_post": "https://nationalpost.com/feed/",
-    # "toronto_star": "https://www.thestar.com/content/thestar/feed.RSSManagerServlet.topstories.rss"
+    "ctv": "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009"
 }
 
 logos = {
     "cbc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
     "global": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "ctv": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/ctv.png?v=1742728179",
-    # "national_post": "https://your-cdn.com/nationalpost.png",
-    # "toronto_star": "https://your-cdn.com/thestar.png"
+    "ctv": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/ctv.png?v=1742728179"
 }
 
 def fetch_with_retries(url, retries=3, delay=3):
     for attempt in range(retries):
         try:
-            print(f"Fetching: {url}")
             return feedparser.parse(url, request_headers={'User-Agent': 'Mozilla/5.0'})
         except Exception as e:
-            print(f"❌ Attempt {attempt + 1} failed for {url}: {e}")
+            print(f"Attempt {attempt + 1} failed for {url}: {e}")
             time.sleep(delay)
-    print(f"🔥 Total failure: Could not fetch from {url}")
+    print(f"❌ Failed to fetch feed after {retries} attempts: {url}")
     return feedparser.FeedParserDict(entries=[])
 
 def classify_category_ai(title):
-    prompt = f"""
-    Classify this Canadian news headline into one of the following categories:
-    Politics, Business, Sports, Weather, or General.
-
-    Headline: {title}
-    Category:
-    """
     try:
-        response = openai.Completion.create(
-            engine="text-davinci-003",
-            prompt=prompt,
+        response = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {
+                    "role": "user",
+                    "content": f"""Classify this Canadian news headline into one of the following categories: Politics, Business, Sports, Weather, or General. 
+
+Headline: {title}
+Category:"""
+                }
+            ],
             max_tokens=10,
-            temperature=0.3,
+            temperature=0.2,
         )
-        category = response.choices[0].text.strip()
+        category = response.choices[0].message.content.strip()
         if category not in ["Politics", "Business", "Sports", "Weather", "General"]:
             return "General"
         return category
@@ -63,7 +58,7 @@ def get_headlines():
     items = []
     for source, url in feeds.items():
         feed = fetch_with_retries(url)
-        for entry in feed.entries[:10]:  # Try pulling more headlines to help category fill up
+        for entry in feed.entries[:10]:  # Fetch more entries to increase category variety
             category = classify_category_ai(entry.title)
             items.append({
                 "source": source,
@@ -75,11 +70,10 @@ def get_headlines():
     return items
 
 def main():
-    all_entries = get_headlines()
-    print("Fetched total entries:", len(all_entries))
+    headlines = get_headlines()
 
     rewritten_news = []
-    for item in all_entries:
+    for item in headlines:
         try:
             response = openai.ChatCompletion.create(
                 model="gpt-4",
