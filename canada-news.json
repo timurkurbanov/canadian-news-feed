@@ -6,12 +6,6 @@
     "url": "https://www.cbc.ca/news/business/hudons-bay-severance-bonuses-1.7493244?cmp=rss"
   },
   {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Can you guess how housing costs changed under Harper and Trudeau?",
-    "url": "https://newsinteractives.cbc.ca/features/2025/draw-it/housing/?cmp=rss"
-  },
-  {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
     "headline": "ANALYSIS: President’s Trophy could cap off outstanding regular season for Jets",
@@ -24,9 +18,15 @@
     "url": "https://globalnews.ca/news/11098725/warning-about-dangerous-offender-who-attacked-5-year-old-issued-by-toronto-police/"
   },
   {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Suspicious package investigation at Grand Parade shuts down parts of downtown Halifax",
+    "url": "https://globalnews.ca/news/11098797/suspicious-package-halifax-grand-parade/"
+  },
+  {
     "source": "cbc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Live updates: Carney speaks in Ontario's auto sector heartland amid spectre of Trump's trade war",
-    "url": "https://www.cbc.ca/9.6698877?cmp=rss"
+    "headline": "Ottawa's had a nightlife commissioner for almost a year. Is he 'invisible' or 'on the right track?'",
+    "url": "https://www.cbc.ca/news/canada/ottawa/what-has-ottawa-s-night-mayor-actually-done-1.7492564?cmp=rss"
   }
 ]
