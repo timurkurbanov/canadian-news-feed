@@ -6,7 +6,7 @@ import os
 import time
 from datetime import datetime
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
+client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 feeds = {
     "cbc": "https://www.cbc.ca/cmlink/rss-topstories",
@@ -23,7 +23,7 @@ logos = {
 def fetch_with_retries(url, retries=3, delay=3):
     for attempt in range(retries):
         try:
-            return feedparser.parse(url)
+            return feedparser.parse(url, request_headers={'User-Agent': 'Mozilla/5.0'})
         except Exception as e:
             print(f"Attempt {attempt + 1} failed for {url}: {e}")
             time.sleep(delay)
@@ -50,14 +50,14 @@ def main():
     rewritten_news = []
     for item in selected:
         try:
-            rewritten = openai.ChatCompletion.create(
+            response = client.chat.completions.create(
                 model="gpt-4",
                 messages=[
                     {"role": "user", "content": f"Rewrite this news headline to make it more SEO-friendly and unique: {item['original']}"}
                 ],
                 temperature=0.7,
             )
-            new_headline = rewritten['choices'][0]['message']['content'].strip()
+            new_headline = response.choices[0].message.content.strip()
         except Exception as e:
             print(f"⚠️ Failed to rewrite headline: {item['original']}")
             print(e)
