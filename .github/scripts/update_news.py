@@ -61,13 +61,11 @@ def get_headlines():
                 "category": category
             })
     return items
-
 def main():
     headlines = get_headlines()
-    selected = random.sample(headlines, min(5, len(headlines)))
-
+    
     rewritten_news = []
-    for item in selected:
+    for item in headlines:
         try:
             response = openai.chat.completions.create(
                 model="gpt-4",
@@ -97,6 +95,7 @@ def main():
         json.dump(rewritten_news, f, indent=2, ensure_ascii=False)
 
     print("✅ docs/canada-news.json updated successfully!")
+
 
 if __name__ == "__main__":
     main()
