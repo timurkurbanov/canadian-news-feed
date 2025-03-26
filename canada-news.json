@@ -1,32 +1,32 @@
 [
   {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Hudson's Bay managers will get up to $3M in bonuses, but workers get no severance",
-    "url": "https://www.cbc.ca/news/business/hudons-bay-severance-bonuses-1.7493244?cmp=rss"
-  },
-  {
-    "source": "global",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Judge calls for public inquiry to answer questions on Edmonton prison inmate death",
-    "url": "https://globalnews.ca/news/11098935/edmonton-institution-inmate-death-public-inquiry/"
-  },
-  {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
     "headline": "FDA approves new antibiotic to treat UTIs in females",
     "url": "https://globalnews.ca/news/11098850/fda-approves-new-antibiotic-treat-utis-females/"
   },
   {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Ottawa's had a nightlife commissioner for almost a year. Is he 'invisible' or 'on the right track?'",
-    "url": "https://www.cbc.ca/news/canada/ottawa/what-has-ottawa-s-night-mayor-actually-done-1.7492564?cmp=rss"
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Joe Rogan would ‘rather go to Russia’ than attend UFC event in Canada",
+    "url": "https://globalnews.ca/news/11098769/joe-rogan-rather-go-to-russia-than-canada-ufc/"
+  },
+  {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Carney pledges ‘all in Canada’ auto network amid tariff threats",
+    "url": "https://globalnews.ca/news/11098886/donald-trump-tariffs-canada-auto-plan/"
   },
   {
     "source": "cbc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Live updates: Carney defends his record at Brookfield, calls Poilievre a 'conspiracy theorist'",
-    "url": "https://www.cbc.ca/9.6698877?cmp=rss"
+    "headline": "Carney's green funds at Brookfield used Bermuda tax haven to attract investors",
+    "url": "https://www.cbc.ca/news/politics/carney-brookfield-bermuda-tax-havens-1.7493419?cmp=rss"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "When Danielle Smith tried explaining Poilievre to Americans, Canadians heard it too",
+    "url": "https://www.cbc.ca/news/canada/calgary/danielle-smith-breitbart-poilievre-trump-sync-analysis-1.7493168?cmp=rss"
   }
 ]
