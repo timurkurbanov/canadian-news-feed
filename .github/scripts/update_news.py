@@ -39,7 +39,10 @@ def classify_category_ai(title):
             max_tokens=10,
             temperature=0.3,
         )
-        return response.choices[0].text.strip()
+        category = response.choices[0].text.strip()
+        if category not in ["Politics", "Business", "Sports", "Weather", "General"]:
+            return "General"
+        return category
     except Exception as e:
         print(f"⚠️ Failed to classify headline: {title}\n{e}")
         return "General"
@@ -93,7 +96,7 @@ def main():
     with open("docs/canada-news.json", "w", encoding="utf-8") as f:
         json.dump(rewritten_news, f, indent=2, ensure_ascii=False)
 
-    print("✅ canada-news.json updated successfully!")
+    print("✅ docs/canada-news.json updated successfully!")
 
 if __name__ == "__main__":
     main()
