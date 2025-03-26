@@ -8,25 +8,25 @@
   {
     "source": "cbc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Live updates: Carney defends his record at Brookfield, calls Poilievre a 'conspiracy theorist'",
-    "url": "https://www.cbc.ca/9.6698877?cmp=rss"
+    "headline": "Can you guess how housing costs changed under Harper and Trudeau?",
+    "url": "https://newsinteractives.cbc.ca/features/2025/draw-it/housing/?cmp=rss"
   },
   {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Hudson's Bay managers will get up to $3M in bonuses, but workers get no severance",
-    "url": "https://www.cbc.ca/news/business/hudons-bay-severance-bonuses-1.7493244?cmp=rss"
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "ANALYSIS: President’s Trophy could cap off outstanding regular season for Jets",
+    "url": "https://globalnews.ca/news/11098750/analysis-winnipeg-jets-presidents-trophy/"
+  },
+  {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Winnipeg cops arrest driver in high-speed 2024 crash",
+    "url": "https://globalnews.ca/news/11098802/winnipeg-police-high-speed-st-marys-crash/"
   },
   {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
     "headline": "Hoax improvised explosive device forces downtown Halifax street closures",
     "url": "https://globalnews.ca/news/11098797/suspicious-package-halifax-grand-parade/"
-  },
-  {
-    "source": "global",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "How to make health care better in Canada? We asked 5 experts",
-    "url": "https://globalnews.ca/news/11094946/canada-election-health-care/"
   }
 ]
