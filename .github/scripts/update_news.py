@@ -1,7 +1,6 @@
 import feedparser
 import openai
 import json
-import random
 import os
 import time
 from datetime import datetime
@@ -11,31 +10,13 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 feeds = {
     "cbc": "https://www.cbc.ca/cmlink/rss-topstories",
     "global": "https://globalnews.ca/feed/",
-    "ctv": "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009",
-    # Politics
-    "cbc-politics": "https://www.cbc.ca/cmlink/rss-politics",
-    "global-politics": "https://globalnews.ca/politics/feed/",
-    # Business
-    "cbc-business": "https://www.cbc.ca/cmlink/rss-business",
-    "global-business": "https://globalnews.ca/business/feed/",
-    # Sports
-    "cbc-sports": "https://www.cbc.ca/cmlink/rss-sports",
-    "global-sports": "https://globalnews.ca/sports/feed/",
-    # Weather
-    "weather-network": "https://www.theweathernetwork.com/rss/caon0696"
+    "ctv": "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009"
 }
 
 logos = {
     "cbc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
     "global": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "ctv": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/ctv.png?v=1742728179",
-    "cbc-politics": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "global-politics": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "cbc-business": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "global-business": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "cbc-sports": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "global-sports": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "weather-network": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/weather.png?v=1"
+    "ctv": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/ctv.png?v=1742728179"
 }
 
 def fetch_with_retries(url, retries=3, delay=3):
@@ -48,21 +29,17 @@ def fetch_with_retries(url, retries=3, delay=3):
     print(f"❌ Failed to fetch feed after {retries} attempts: {url}")
     return feedparser.FeedParserDict(entries=[])
 
-def classify_category_ai(title):
-    prompt = f"Classify this Canadian news headline into one of the following categories: Politics, Business, Sports, Weather, or General.\n\nHeadline: {title}\nCategory:"
-    try:
-        response = openai.Completion.create(
-            engine="text-davinci-003",
-            prompt=prompt,
-            max_tokens=10,
-            temperature=0.3,
-        )
-        category = response.choices[0].text.strip()
-        if category not in ["Politics", "Business", "Sports", "Weather", "General"]:
-            return "General"
-        return category
-    except Exception as e:
-        print(f"⚠️ Failed to classify headline: {title}\n{e}")
+def classify_category(title):
+    title = title.lower()
+    if any(word in title for word in ["election", "minister", "government", "trudeau", "parliament", "policy", "liberal", "conservative"]):
+        return "Politics"
+    elif any(word in title for word in ["bank", "inflation", "business", "interest rate", "tax", "stocks", "investment", "economy", "market"]):
+        return "Business"
+    elif any(word in title for word in ["hockey", "soccer", "football", "baseball", "basketball", "olympic", "tournament", "goal", "score", "match"]):
+        return "Sports"
+    elif any(word in title for word in ["storm", "climate", "rain", "snow", "temperature", "heat", "flood", "weather"]):
+        return "Weather"
+    else:
         return "General"
 
 def get_headlines():
@@ -70,7 +47,7 @@ def get_headlines():
     for source, url in feeds.items():
         feed = fetch_with_retries(url)
         for entry in feed.entries[:15]:
-            category = classify_category_ai(entry.title)
+            category = classify_category(entry.title)
             items.append({
                 "source": source,
                 "logo": logos[source],
