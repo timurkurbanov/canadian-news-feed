@@ -1,10 +1,10 @@
 import feedparser
 import openai
 import json
-import random
 import os
 import time
 from datetime import datetime
+from collections import defaultdict
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
@@ -47,43 +47,35 @@ def classify_category_ai(title):
         print(f"⚠️ Failed to classify headline: {title}\n{e}")
         return "General"
 
-
 def get_headlines():
-    category_counts = {
-        "Politics": 0,
-        "Business": 0,
-        "Sports": 0,
-        "Weather": 0,
-        "General": 0
-    }
-
     items = []
     for source, url in feeds.items():
         feed = fetch_with_retries(url)
-        for entry in feed.entries:
-            if all(count >= 5 for count in category_counts.values()):
-                break  # Stop early if we have enough in each category
-
+        for entry in feed.entries[:15]:  # increase to 15 per source
             category = classify_category_ai(entry.title)
-
-            if category_counts[category] < 5:
-                items.append({
-                    "source": source,
-                    "logo": logos[source],
-                    "original": entry.title,
-                    "url": entry.link,
-                    "category": category
-                })
-                category_counts[category] += 1
-
+            items.append({
+                "source": source,
+                "logo": logos[source],
+                "original": entry.title,
+                "url": entry.link,
+                "category": category
+            })
     return items
 
-
 def main():
-    headlines = get_headlines()  # get ALL classified headlines
+    headlines = get_headlines()
+
+    # collect max 5 per category
+    category_buckets = defaultdict(list)
+    for item in headlines:
+        category_buckets[item["category"]].append(item)
+
+    selected = []
+    for cat_items in category_buckets.values():
+        selected.extend(cat_items[:5])
 
     rewritten_news = []
-    for item in headlines:
+    for item in selected:
         try:
             response = openai.chat.completions.create(
                 model="gpt-4",
@@ -113,7 +105,6 @@ def main():
         json.dump(rewritten_news, f, indent=2, ensure_ascii=False)
 
     print("✅ docs/canada-news.json updated successfully!")
-
 
 if __name__ == "__main__":
     main()
