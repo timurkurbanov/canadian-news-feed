@@ -6,7 +6,7 @@ import os
 import time
 from datetime import datetime
 
-client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 feeds = {
     "cbc": "https://www.cbc.ca/cmlink/rss-topstories",
@@ -50,13 +50,14 @@ def main():
     rewritten_news = []
     for item in selected:
         try:
-            response = client.chat.completions.create(
-                model="gpt-4",
-                messages=[
-                    {"role": "user", "content": f"Rewrite this news headline to make it more SEO-friendly and unique: {item['original']}"}
-                ],
-                temperature=0.7,
-            )
+            response = openai.chat.completions.create(
+    model="gpt-4",
+    messages=[
+        {"role": "user", "content": f"Rewrite this news headline to make it more SEO-friendly and unique: {item['original']}"}
+    ],
+    temperature=0.7,
+)
+
             new_headline = response.choices[0].message.content.strip()
         except Exception as e:
             print(f"⚠️ Failed to rewrite headline: {item['original']}")
