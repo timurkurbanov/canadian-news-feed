@@ -4,21 +4,23 @@ import json
 import random
 import os
 import time
-from datetime import datetime
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
+# Canadian news RSS feeds
 feeds = {
     "cbc": "https://www.cbc.ca/cmlink/rss-topstories",
     "global": "https://globalnews.ca/feed/",
     "ctv": "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009"
 }
 
+# Logo URLs for each news source
 logos = {
     "cbc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
     "global": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
     "ctv": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/ctv.png?v=1742728179"
 }
+
 
 def fetch_with_retries(url, retries=3, delay=3):
     for attempt in range(retries):
@@ -30,18 +32,24 @@ def fetch_with_retries(url, retries=3, delay=3):
     print(f"❌ Failed to fetch feed after {retries} attempts: {url}")
     return feedparser.FeedParserDict(entries=[])
 
+
 def classify_category_ai(title):
     try:
-        response = openai.chat.completions.create(
-            model="gpt-4",
+        response = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
             messages=[
                 {
                     "role": "user",
-                    "content": f"Classify this Canadian news headline into one of the following categories: Politics, Business, Sports, Weather, or General.\n\nHeadline: {title}\nCategory:"
+                    "content": f"""Classify this Canadian news headline into one of the following categories:
+Politics, Business, Sports, Weather, or General.
+
+Respond with only the category name.
+
+Headline: "{title}"
+"""
                 }
             ],
-            temperature=0.2,
-            max_tokens=10,
+            temperature=0,
         )
         category = response.choices[0].message.content.strip()
         if category not in ["Politics", "Business", "Sports", "Weather", "General"]:
@@ -51,34 +59,45 @@ def classify_category_ai(title):
         print(f"⚠️ Failed to classify headline: {title}\n{e}")
         return "General"
 
+
 def get_headlines():
-    items = []
+    all_items = []
     for source, url in feeds.items():
         feed = fetch_with_retries(url)
-        for entry in feed.entries[:10]:
+        for entry in feed.entries[:15]:  # increase pool for better category balance
             category = classify_category_ai(entry.title)
-            items.append({
+            all_items.append({
                 "source": source,
                 "logo": logos[source],
                 "original": entry.title,
                 "url": entry.link,
                 "category": category
             })
-    return items
+    return all_items
+
 
 def main():
-    headlines = get_headlines()
-    selected = random.sample(headlines, min(15, len(headlines)))
+    all_headlines = get_headlines()
 
+    # Pick 5 headlines per category
+    categories = ["Politics", "Business", "Sports", "Weather", "General"]
+    final_news = []
+
+    for cat in categories:
+        cat_items = [item for item in all_headlines if item["category"] == cat]
+        selected = random.sample(cat_items, min(5, len(cat_items)))
+        final_news.extend(selected)
+
+    # Rewrite headlines for SEO
     rewritten_news = []
-    for item in selected:
+    for item in final_news:
         try:
-            response = openai.chat.completions.create(
+            response = openai.ChatCompletion.create(
                 model="gpt-4",
                 messages=[
                     {
                         "role": "user",
-                        "content": f"Rewrite this news headline to make it more SEO-friendly and unique: {item['original']}"
+                        "content": f"Rewrite this Canadian news headline to make it more SEO-friendly and unique: {item['original']}"
                     }
                 ],
                 temperature=0.7,
@@ -97,10 +116,13 @@ def main():
             "category": item["category"]
         })
 
+    # Save to JSON
     with open("docs/canada-news.json", "w", encoding="utf-8") as f:
         json.dump(rewritten_news, f, indent=2, ensure_ascii=False)
 
     print("✅ docs/canada-news.json updated successfully!")
 
+
 if __name__ == "__main__":
     main()
+
