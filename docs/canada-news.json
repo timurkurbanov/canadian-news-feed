@@ -1,1 +1,37 @@
-
+[
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Name of serial killer victim Mashkode Bizhiki'ikwe to be released by police today",
+    "url": "https://www.cbc.ca/news/canada/manitoba/buffalo-woman-mashkode-bizhiki-ikwe-police-update-identity-1.7493737?cmp=rss",
+    "category": "General"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Ottawa's had a nightlife commissioner for almost a year. Is he 'invisible' or 'on the right track?'",
+    "url": "https://www.cbc.ca/news/canada/ottawa/what-has-ottawa-s-night-mayor-actually-done-1.7492564?cmp=rss",
+    "category": "General"
+  },
+  {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Carney pledges ‘all in Canada’ auto network amid tariff threats",
+    "url": "https://globalnews.ca/news/11098886/donald-trump-tariffs-canada-auto-plan/",
+    "category": "General"
+  },
+  {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "N.S. legislature sitting marked by moves to consolidate power: political scientist",
+    "url": "https://globalnews.ca/news/11098845/ns-legislature-sitting-consolidate-power/",
+    "category": "General"
+  },
+  {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Is it a bird? A plane? No, it’s a ‘sharktopus’: A marine pairing like no other",
+    "url": "https://globalnews.ca/news/11098753/shark-octopus-new-zealand/",
+    "category": "General"
+  }
+]
