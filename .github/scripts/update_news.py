@@ -30,19 +30,18 @@ def fetch_with_retries(url, retries=3, delay=3):
     print(f"❌ Failed to fetch feed after {retries} attempts: {url}")
     return feedparser.FeedParserDict(entries=[])
 
-def guess_category(title):
-    title = title.lower()
-    if any(word in title for word in ["election", "minister", "government", "parliament", "policy"]):
-        return "Politics"
-    elif any(word in title for word in ["business", "economy", "inflation", "trade", "market"]):
-        return "Business"
-    elif any(word in title for word in ["sport", "game", "team", "tournament", "score"]):
-        return "Sports"
-    elif any(word in title for word in ["weather", "storm", "climate", "environment"]):
-        return "Weather"
-    elif any(word in title for word in ["art", "music", "festival", "film", "celebrity"]):
-        return "Entertainment"
-    else:
+def classify_category_ai(title):
+    prompt = f"Classify this Canadian news headline into one of the following categories: Politics, Business, Sports, Weather, or General.\n\nHeadline: {title}\nCategory:"
+    try:
+        response = openai.Completion.create(
+            engine="text-davinci-003",
+            prompt=prompt,
+            max_tokens=10,
+            temperature=0.3,
+        )
+        return response.choices[0].text.strip()
+    except Exception as e:
+        print(f"⚠️ Failed to classify headline: {title}\n{e}")
         return "General"
 
 def get_headlines():
@@ -50,7 +49,7 @@ def get_headlines():
     for source, url in feeds.items():
         feed = fetch_with_retries(url)
         for entry in feed.entries[:5]:
-            category = guess_category(entry.title)
+            category = classify_category_ai(entry.title)
             items.append({
                 "source": source,
                 "logo": logos[source],
@@ -91,7 +90,7 @@ def main():
             "category": item["category"]
         })
 
-    with open("canada-news.json", "w", encoding="utf-8") as f:
+    with open("docs/canada-news.json", "w", encoding="utf-8") as f:
         json.dump(rewritten_news, f, indent=2, ensure_ascii=False)
 
     print("✅ canada-news.json updated successfully!")
