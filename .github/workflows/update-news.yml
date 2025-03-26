@@ -1,7 +1,9 @@
 name: Update Canada News Feed
 
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: '*/5 * * * *'  # Every 5 minutes (UTC)
+  workflow_dispatch:       # Still allows manual runs
 
 jobs:
   update-news:
