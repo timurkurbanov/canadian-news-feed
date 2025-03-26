@@ -61,13 +61,15 @@ def get_headlines():
                 "category": category
             })
     return items
+
 def main():
     headlines = get_headlines()
-    
+    selected = random.sample(headlines, min(5, len(headlines)))
+
     rewritten_news = []
-    for item in headlines:
+    for item in selected:
         try:
-            response = openai.chat.completions.create(
+            response = openai.ChatCompletion.create(
                 model="gpt-4",
                 messages=[
                     {
@@ -77,7 +79,8 @@ def main():
                 ],
                 temperature=0.7,
             )
-            new_headline = response.choices[0].message.content.strip()
+            new_headline = response.choices[0].message["content"].strip()
+            print("🔁 Rewritten:", new_headline)
         except Exception as e:
             print(f"⚠️ Failed to rewrite headline: {item['original']}")
             print(e)
@@ -96,7 +99,5 @@ def main():
 
     print("✅ docs/canada-news.json updated successfully!")
 
-
 if __name__ == "__main__":
     main()
-
