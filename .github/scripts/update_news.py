@@ -1,86 +1,114 @@
 import feedparser
+import openai
 import json
+import random
 import os
+import time
 from datetime import datetime
+
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 feeds = {
     "cbc": "https://www.cbc.ca/cmlink/rss-topstories",
     "global": "https://globalnews.ca/feed/",
-    "ctv": "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009"
+    "ctv": "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009",
+    # Uncomment these one by one if needed to debug
+    # "national_post": "https://nationalpost.com/feed/",
+    # "toronto_star": "https://www.thestar.com/content/thestar/feed.RSSManagerServlet.topstories.rss"
 }
 
 logos = {
     "cbc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
     "global": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "ctv": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/ctv.png?v=1742728179"
+    "ctv": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/ctv.png?v=1742728179",
+    # "national_post": "https://your-cdn.com/nationalpost.png",
+    # "toronto_star": "https://your-cdn.com/thestar.png"
 }
 
-# Keywords for each category
-categories = {
-    "Politics": ["election", "minister", "government", "parliament", "policy", "bill"],
-    "Business": ["business", "economy", "inflation", "trade", "market", "stock", "investment"],
-    "Sports": ["sport", "game", "team", "match", "score", "tournament", "league"],
-    "Weather": ["weather", "storm", "climate", "temperature", "environment", "rain", "snow"]
-}
+def fetch_with_retries(url, retries=3, delay=3):
+    for attempt in range(retries):
+        try:
+            print(f"Fetching: {url}")
+            return feedparser.parse(url, request_headers={'User-Agent': 'Mozilla/5.0'})
+        except Exception as e:
+            print(f"❌ Attempt {attempt + 1} failed for {url}: {e}")
+            time.sleep(delay)
+    print(f"🔥 Total failure: Could not fetch from {url}")
+    return feedparser.FeedParserDict(entries=[])
 
-def fetch_entries():
-    entries = []
+def classify_category_ai(title):
+    prompt = f"""
+    Classify this Canadian news headline into one of the following categories:
+    Politics, Business, Sports, Weather, or General.
+
+    Headline: {title}
+    Category:
+    """
+    try:
+        response = openai.Completion.create(
+            engine="text-davinci-003",
+            prompt=prompt,
+            max_tokens=10,
+            temperature=0.3,
+        )
+        category = response.choices[0].text.strip()
+        if category not in ["Politics", "Business", "Sports", "Weather", "General"]:
+            return "General"
+        return category
+    except Exception as e:
+        print(f"⚠️ Failed to classify headline: {title}\n{e}")
+        return "General"
+
+def get_headlines():
+    items = []
     for source, url in feeds.items():
-        feed = feedparser.parse(url)
-        for entry in feed.entries:
-            entries.append({
+        feed = fetch_with_retries(url)
+        for entry in feed.entries[:10]:  # Try pulling more headlines to help category fill up
+            category = classify_category_ai(entry.title)
+            items.append({
                 "source": source,
                 "logo": logos[source],
                 "original": entry.title,
-                "url": entry.link
+                "url": entry.link,
+                "category": category
             })
-    return entries
-
-def categorize_entry(title):
-    title_lower = title.lower()
-    for cat, keywords in categories.items():
-        if any(word in title_lower for word in keywords):
-            return cat
-    return "General"
+    return items
 
 def main():
-    all_entries = fetch_entries()
-    sorted_news = []
+    all_entries = get_headlines()
+    print("Fetched total entries:", len(all_entries))
 
-    # Loop through categories and grab 5 for each
-    for cat in list(categories.keys()):
-        matched = [
-            {
-                "source": e["source"],
-                "logo": e["logo"],
-                "headline": e["original"],
-                "url": e["url"],
-                "category": cat
-            }
-            for e in all_entries
-            if categorize_entry(e["original"]) == cat
-        ]
-        sorted_news.extend(matched[:5])
+    rewritten_news = []
+    for item in all_entries:
+        try:
+            response = openai.ChatCompletion.create(
+                model="gpt-4",
+                messages=[
+                    {
+                        "role": "user",
+                        "content": f"Rewrite this news headline to make it more SEO-friendly and unique: {item['original']}"
+                    }
+                ],
+                temperature=0.7,
+            )
+            new_headline = response.choices[0].message.content.strip()
+        except Exception as e:
+            print(f"⚠️ Failed to rewrite headline: {item['original']}")
+            print(e)
+            new_headline = item['original']
 
-    # If still under 5 for a category, add some Generals to make sure the All tab is populated
-    general = [
-        {
-            "source": e["source"],
-            "logo": e["logo"],
-            "headline": e["original"],
-            "url": e["url"],
-            "category": "General"
-        }
-        for e in all_entries
-        if categorize_entry(e["original"]) == "General"
-    ]
-    sorted_news.extend(general[:5])
+        rewritten_news.append({
+            "source": item["source"],
+            "logo": item["logo"],
+            "headline": new_headline,
+            "url": item["url"],
+            "category": item["category"]
+        })
 
-    # Save
     with open("docs/canada-news.json", "w", encoding="utf-8") as f:
-        json.dump(sorted_news, f, indent=2, ensure_ascii=False)
+        json.dump(rewritten_news, f, indent=2, ensure_ascii=False)
 
-    print(f"✅ Saved {len(sorted_news)} categorized headlines to docs/canada-news.json")
+    print("✅ docs/canada-news.json updated successfully!")
 
 if __name__ == "__main__":
     main()
