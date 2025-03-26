@@ -49,19 +49,35 @@ def classify_category_ai(title):
 
 
 def get_headlines():
+    category_counts = {
+        "Politics": 0,
+        "Business": 0,
+        "Sports": 0,
+        "Weather": 0,
+        "General": 0
+    }
+
     items = []
     for source, url in feeds.items():
         feed = fetch_with_retries(url)
-        for entry in feed.entries[:5]:
+        for entry in feed.entries:
+            if all(count >= 5 for count in category_counts.values()):
+                break  # Stop early if we have enough in each category
+
             category = classify_category_ai(entry.title)
-            items.append({
-                "source": source,
-                "logo": logos[source],
-                "original": entry.title,
-                "url": entry.link,
-                "category": category
-            })
+
+            if category_counts[category] < 5:
+                items.append({
+                    "source": source,
+                    "logo": logos[source],
+                    "original": entry.title,
+                    "url": entry.link,
+                    "category": category
+                })
+                category_counts[category] += 1
+
     return items
+
 
 def main():
     headlines = get_headlines()  # get ALL classified headlines
