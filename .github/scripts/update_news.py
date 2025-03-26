@@ -1,11 +1,7 @@
 import feedparser
-import openai
 import json
 import os
-import time
 from datetime import datetime
-
-openai.api_key = os.getenv("OPENAI_API_KEY")
 
 feeds = {
     "cbc": "https://www.cbc.ca/cmlink/rss-topstories",
@@ -19,78 +15,72 @@ logos = {
     "ctv": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/ctv.png?v=1742728179"
 }
 
-def fetch_with_retries(url, retries=3, delay=3):
-    for attempt in range(retries):
-        try:
-            return feedparser.parse(url, request_headers={'User-Agent': 'Mozilla/5.0'})
-        except Exception as e:
-            print(f"Attempt {attempt + 1} failed for {url}: {e}")
-            time.sleep(delay)
-    print(f"❌ Failed to fetch feed after {retries} attempts: {url}")
-    return feedparser.FeedParserDict(entries=[])
+# Keywords for each category
+categories = {
+    "Politics": ["election", "minister", "government", "parliament", "policy", "bill"],
+    "Business": ["business", "economy", "inflation", "trade", "market", "stock", "investment"],
+    "Sports": ["sport", "game", "team", "match", "score", "tournament", "league"],
+    "Weather": ["weather", "storm", "climate", "temperature", "environment", "rain", "snow"]
+}
 
-def classify_category(title):
-    title = title.lower()
-    if any(word in title for word in ["election", "minister", "government", "trudeau", "parliament", "policy", "liberal", "conservative"]):
-        return "Politics"
-    elif any(word in title for word in ["bank", "inflation", "business", "interest rate", "tax", "stocks", "investment", "economy", "market"]):
-        return "Business"
-    elif any(word in title for word in ["hockey", "soccer", "football", "baseball", "basketball", "olympic", "tournament", "goal", "score", "match"]):
-        return "Sports"
-    elif any(word in title for word in ["storm", "climate", "rain", "snow", "temperature", "heat", "flood", "weather"]):
-        return "Weather"
-    else:
-        return "General"
-
-def get_headlines():
-    items = []
+def fetch_entries():
+    entries = []
     for source, url in feeds.items():
-        feed = fetch_with_retries(url)
-        for entry in feed.entries[:15]:
-            category = classify_category(entry.title)
-            items.append({
+        feed = feedparser.parse(url)
+        for entry in feed.entries:
+            entries.append({
                 "source": source,
                 "logo": logos[source],
                 "original": entry.title,
-                "url": entry.link,
-                "category": category
+                "url": entry.link
             })
-    return items
+    return entries
+
+def categorize_entry(title):
+    title_lower = title.lower()
+    for cat, keywords in categories.items():
+        if any(word in title_lower for word in keywords):
+            return cat
+    return "General"
 
 def main():
-    headlines = get_headlines()
+    all_entries = fetch_entries()
+    sorted_news = []
 
-    rewritten_news = []
-    for item in headlines:
-        try:
-            response = openai.chat.completions.create(
-                model="gpt-4",
-                messages=[
-                    {
-                        "role": "user",
-                        "content": f"Rewrite this news headline to make it more SEO-friendly and unique: {item['original']}"
-                    }
-                ],
-                temperature=0.7,
-            )
-            new_headline = response.choices[0].message.content.strip()
-        except Exception as e:
-            print(f"⚠️ Failed to rewrite headline: {item['original']}")
-            print(e)
-            new_headline = item['original']
+    # Loop through categories and grab 5 for each
+    for cat in list(categories.keys()):
+        matched = [
+            {
+                "source": e["source"],
+                "logo": e["logo"],
+                "headline": e["original"],
+                "url": e["url"],
+                "category": cat
+            }
+            for e in all_entries
+            if categorize_entry(e["original"]) == cat
+        ]
+        sorted_news.extend(matched[:5])
 
-        rewritten_news.append({
-            "source": item["source"],
-            "logo": item["logo"],
-            "headline": new_headline,
-            "url": item["url"],
-            "category": item["category"]
-        })
+    # If still under 5 for a category, add some Generals to make sure the All tab is populated
+    general = [
+        {
+            "source": e["source"],
+            "logo": e["logo"],
+            "headline": e["original"],
+            "url": e["url"],
+            "category": "General"
+        }
+        for e in all_entries
+        if categorize_entry(e["original"]) == "General"
+    ]
+    sorted_news.extend(general[:5])
 
+    # Save
     with open("docs/canada-news.json", "w", encoding="utf-8") as f:
-        json.dump(rewritten_news, f, indent=2, ensure_ascii=False)
+        json.dump(sorted_news, f, indent=2, ensure_ascii=False)
 
-    print("✅ docs/canada-news.json updated successfully!")
+    print(f"✅ Saved {len(sorted_news)} categorized headlines to docs/canada-news.json")
 
 if __name__ == "__main__":
     main()
