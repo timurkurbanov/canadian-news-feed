@@ -64,12 +64,14 @@ def main():
             print(e)
             new_headline = item['original']
 
-        rewritten_news.append({
-            "source": item["source"],
-            "logo": item["logo"],
-            "headline": new_headline,
-            "url": item["url"]
-        })
+rewritten_news.append({
+    "source": item["source"],
+    "logo": item["logo"],
+    "headline": new_headline,
+    "url": item["url"],
+    "category": "Politics"  # <-- temporary placeholder, will improve later
+})
+
 
     with open("canada-news.json", "w", encoding="utf-8") as f:
         json.dump(rewritten_news, f, indent=2, ensure_ascii=False)
