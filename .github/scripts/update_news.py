@@ -47,6 +47,7 @@ def classify_category_ai(title):
         print(f"⚠️ Failed to classify headline: {title}\n{e}")
         return "General"
 
+
 def get_headlines():
     items = []
     for source, url in feeds.items():
