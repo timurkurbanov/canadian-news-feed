@@ -32,19 +32,16 @@ def fetch_with_retries(url, retries=3, delay=3):
 
 def classify_category_ai(title):
     try:
-        response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",
+        response = openai.chat.completions.create(
+            model="gpt-4",
             messages=[
                 {
                     "role": "user",
-                    "content": f"""Classify this Canadian news headline into one of the following categories: Politics, Business, Sports, Weather, or General. 
-
-Headline: {title}
-Category:"""
+                    "content": f"Classify this Canadian news headline into one of the following categories: Politics, Business, Sports, Weather, or General.\n\nHeadline: {title}\nCategory:"
                 }
             ],
-            max_tokens=10,
             temperature=0.2,
+            max_tokens=10,
         )
         category = response.choices[0].message.content.strip()
         if category not in ["Politics", "Business", "Sports", "Weather", "General"]:
@@ -58,7 +55,7 @@ def get_headlines():
     items = []
     for source, url in feeds.items():
         feed = fetch_with_retries(url)
-        for entry in feed.entries[:10]:  # Fetch more entries to increase category variety
+        for entry in feed.entries[:10]:
             category = classify_category_ai(entry.title)
             items.append({
                 "source": source,
@@ -71,11 +68,12 @@ def get_headlines():
 
 def main():
     headlines = get_headlines()
+    selected = random.sample(headlines, min(15, len(headlines)))
 
     rewritten_news = []
-    for item in headlines:
+    for item in selected:
         try:
-            response = openai.ChatCompletion.create(
+            response = openai.chat.completions.create(
                 model="gpt-4",
                 messages=[
                     {
