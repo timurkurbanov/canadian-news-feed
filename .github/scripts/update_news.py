@@ -3,9 +3,9 @@ import json
 import random
 import os
 import time
-from openai import OpenAI
+from openai import OpenAI  # NEW: Updated import
 
-client = OpenAI()
+client = OpenAI()  # ✅ Proper instantiation for SDK ≥ v1.0
 
 feeds = {
     "cbc": "https://www.cbc.ca/cmlink/rss-topstories",
@@ -106,4 +106,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
