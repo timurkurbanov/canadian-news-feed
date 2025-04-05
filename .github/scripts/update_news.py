@@ -46,8 +46,10 @@ Headline: "{title}"
             }],
             temperature=0,
         )
-        category = response.choices[0].message.content.strip().capitalize()
-        print(f"🧠 Classified → '{title}' → {category}")
+        raw = response.choices[0].message.content.strip()
+        category = raw.capitalize()
+        print(f"🔎 Raw response: '{raw}' → Final: '{category}'")
+
         if category not in ["Politics", "Business", "Sports", "Weather", "General"]:
             return "General"
         return category
@@ -110,4 +112,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
