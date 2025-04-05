@@ -1,21 +1,18 @@
 import feedparser
+import openai
 import json
 import random
 import os
 import time
-from openai import OpenAI
 
-# Initialize OpenAI client with API key
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
-# Canadian news RSS feeds
 feeds = {
     "cbc": "https://www.cbc.ca/cmlink/rss-topstories",
     "global": "https://globalnews.ca/feed/",
     "ctv": "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009"
 }
 
-# Logo URLs for each news source
 logos = {
     "cbc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
     "global": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
@@ -34,7 +31,7 @@ def fetch_with_retries(url, retries=3, delay=3):
 
 def classify_category_ai(title):
     try:
-        response = client.chat.completions.create(
+        response = openai.ChatCompletion.create(
             model="gpt-3.5-turbo",
             messages=[{
                 "role": "user",
@@ -61,7 +58,7 @@ def get_headlines():
     all_items = []
     for source, url in feeds.items():
         feed = fetch_with_retries(url)
-        for entry in feed.entries[:15]:  # increase pool for better category balance
+        for entry in feed.entries[:15]:
             category = classify_category_ai(entry.title)
             all_items.append({
                 "source": source,
@@ -74,8 +71,6 @@ def get_headlines():
 
 def main():
     all_headlines = get_headlines()
-
-    # Pick 5 headlines per category
     categories = ["Politics", "Business", "Sports", "Weather", "General"]
     final_news = []
 
@@ -84,11 +79,10 @@ def main():
         selected = random.sample(cat_items, min(5, len(cat_items)))
         final_news.extend(selected)
 
-    # Rewrite headlines for SEO
     rewritten_news = []
     for item in final_news:
         try:
-            response = client.chat.completions.create(
+            response = openai.ChatCompletion.create(
                 model="gpt-4",
                 messages=[
                     {
@@ -112,7 +106,6 @@ def main():
             "category": item["category"]
         })
 
-    # Save to JSON
     with open("docs/canada-news.json", "w", encoding="utf-8") as f:
         json.dump(rewritten_news, f, indent=2, ensure_ascii=False)
 
