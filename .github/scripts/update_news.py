@@ -5,7 +5,8 @@ import os
 import time
 import openai
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
+# ✅ Correct client initialization (for openai >= 1.0.0)
+client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 feeds = {
     "cbc": "https://www.cbc.ca/cmlink/rss-topstories",
@@ -31,7 +32,7 @@ def fetch_with_retries(url, retries=3, delay=3):
 
 def classify_category_ai(title):
     try:
-        response = openai.chat.completions.create(
+        response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[{
                 "role": "user",
@@ -40,8 +41,7 @@ Politics, Business, Sports, Weather, or General.
 
 Respond with only the category name.
 
-Headline: "{title}"
-"""
+Headline: "{title}" """
             }],
             temperature=0,
         )
@@ -79,7 +79,7 @@ def main():
     rewritten_news = []
     for item in final_news:
         try:
-            response = openai.chat.completions.create(
+            response = client.chat.completions.create(
                 model="gpt-4",
                 messages=[{
                     "role": "user",
@@ -107,4 +107,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
