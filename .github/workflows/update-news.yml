@@ -25,8 +25,9 @@ jobs:
 
       - name: Generate updated headlines
         run: python .github/scripts/update_news.py
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+env:
+  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
 
       - name: Commit and push if changed
         run: |
