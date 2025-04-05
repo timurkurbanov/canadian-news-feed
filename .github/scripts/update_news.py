@@ -3,22 +3,24 @@ import json
 import random
 import os
 import time
-import openai  # ✅ Correct way for 1.12.0
+import openai  # Correct usage for openai==1.12.0
+
+# Set OpenAI API key from environment
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-
+# RSS feeds
 feeds = {
     "cbc": "https://www.cbc.ca/cmlink/rss-topstories",
     "global": "https://globalnews.ca/feed/",
     "ctv": "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009"
 }
 
+# Logos for each source
 logos = {
     "cbc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
     "global": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
     "ctv": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/ctv.png?v=1742728179"
 }
-
 
 def fetch_with_retries(url, retries=3, delay=3):
     for attempt in range(retries):
@@ -29,7 +31,6 @@ def fetch_with_retries(url, retries=3, delay=3):
             time.sleep(delay)
     print(f"❌ Failed to fetch feed after {retries} attempts: {url}")
     return feedparser.FeedParserDict(entries=[])
-
 
 def classify_category_ai(title):
     try:
@@ -53,12 +54,11 @@ Headline: "{title}" """
         print(f"⚠️ Failed to classify headline: {title}\n{e}")
         return "General"
 
-
 def get_headlines():
     all_items = []
     for source, url in feeds.items():
         feed = fetch_with_retries(url)
-        for entry in feed.entries[:15]:
+        for entry in feed.entries[:15]:  # more entries for better category variety
             category = classify_category_ai(entry.title)
             all_items.append({
                 "source": source,
@@ -68,7 +68,6 @@ def get_headlines():
                 "category": category
             })
     return all_items
-
 
 def main():
     all_headlines = get_headlines()
@@ -108,7 +107,5 @@ def main():
 
     print("✅ docs/canada-news.json updated successfully!")
 
-
 if __name__ == "__main__":
     main()
-
