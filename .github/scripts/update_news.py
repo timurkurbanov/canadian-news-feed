@@ -3,22 +3,26 @@ import json
 import random
 import os
 import time
-from openai import OpenAI  # NEW: Updated import
+from openai import OpenAI
 
-client = OpenAI()  # ✅ Proper instantiation for SDK ≥ v1.0
+# Initialize the OpenAI client
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
+# RSS feed sources
 feeds = {
     "cbc": "https://www.cbc.ca/cmlink/rss-topstories",
     "global": "https://globalnews.ca/feed/",
     "ctv": "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009"
 }
 
+# Logo mapping for display
 logos = {
     "cbc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
     "global": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
     "ctv": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/ctv.png?v=1742728179"
 }
 
+# Retry logic for fetching feeds
 def fetch_with_retries(url, retries=3, delay=3):
     for attempt in range(retries):
         try:
@@ -29,18 +33,21 @@ def fetch_with_retries(url, retries=3, delay=3):
     print(f"❌ Failed to fetch feed after {retries} attempts: {url}")
     return feedparser.FeedParserDict(entries=[])
 
+# Classify category using OpenAI
 def classify_category_ai(title):
     try:
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[{
                 "role": "user",
-                "content": f"""Classify this Canadian news headline into one of the following categories:
+                "content": f"""
+Classify this Canadian news headline into one of the following categories:
 Politics, Business, Sports, Weather, or General.
 
 Respond with only the category name.
 
-Headline: "{title}" """
+Headline: "{title}"
+"""
             }],
             temperature=0,
         )
@@ -51,6 +58,7 @@ Headline: "{title}" """
         print(f"⚠️ Failed to classify headline: {title}\n{e}")
         return "General"
 
+# Fetch and classify headlines
 def get_headlines():
     all_items = []
     for source, url in feeds.items():
@@ -66,6 +74,7 @@ def get_headlines():
             })
     return all_items
 
+# Main logic
 def main():
     all_headlines = get_headlines()
     categories = ["Politics", "Business", "Sports", "Weather", "General"]
