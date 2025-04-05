@@ -3,19 +3,16 @@ import json
 import random
 import os
 import time
-import openai  # Correct usage for openai==1.12.0
+import openai
 
-# Set OpenAI API key from environment
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-# RSS feeds
 feeds = {
     "cbc": "https://www.cbc.ca/cmlink/rss-topstories",
     "global": "https://globalnews.ca/feed/",
     "ctv": "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009"
 }
 
-# Logos for each source
 logos = {
     "cbc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
     "global": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
@@ -38,18 +35,22 @@ def classify_category_ai(title):
             model="gpt-3.5-turbo",
             messages=[{
                 "role": "user",
-                "content": f"""Classify this Canadian news headline into one of the following categories:
+                "content": f"""
+Classify this Canadian news headline into one of the following categories:
 Politics, Business, Sports, Weather, or General.
 
 Respond with only the category name.
 
-Headline: "{title}" """
+Headline: "{title}"
+"""
             }],
             temperature=0,
         )
-        category = response.choices[0].message.content.strip()
-        print(f"🧠 Classified '{title}' as ➜ {category}")
-        return category if category in ["Politics", "Business", "Sports", "Weather", "General"] else "General"
+        category = response.choices[0].message.content.strip().capitalize()
+        print(f"🧠 Classified → '{title}' → {category}")
+        if category not in ["Politics", "Business", "Sports", "Weather", "General"]:
+            return "General"
+        return category
     except Exception as e:
         print(f"⚠️ Failed to classify headline: {title}\n{e}")
         return "General"
@@ -58,7 +59,7 @@ def get_headlines():
     all_items = []
     for source, url in feeds.items():
         feed = fetch_with_retries(url)
-        for entry in feed.entries[:15]:  # more entries for better category variety
+        for entry in feed.entries[:15]:
             category = classify_category_ai(entry.title)
             all_items.append({
                 "source": source,
@@ -109,3 +110,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
