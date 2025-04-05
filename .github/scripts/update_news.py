@@ -5,7 +5,8 @@ import os
 import time
 from openai import OpenAI
 
-client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+# ✅ DO NOT pass api_key manually
+client = OpenAI()
 
 feeds = {
     "cbc": "https://www.cbc.ca/cmlink/rss-topstories",
@@ -33,25 +34,20 @@ def classify_category_ai(title):
     try:
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
-            messages=[
-                {
-                    "role": "user",
-                    "content": f"""Classify this Canadian news headline into one of the following categories:
+            messages=[{
+                "role": "user",
+                "content": f"""Classify this Canadian news headline into one of the following categories:
 Politics, Business, Sports, Weather, or General.
 
 Respond with only the category name.
 
-Headline: "{title}"
-"""
-                }
-            ],
+Headline: "{title}" """
+            }],
             temperature=0,
         )
         category = response.choices[0].message.content.strip()
         print(f"🧠 Classified '{title}' as ➜ {category}")
-        if category not in ["Politics", "Business", "Sports", "Weather", "General"]:
-            return "General"
-        return category
+        return category if category in ["Politics", "Business", "Sports", "Weather", "General"] else "General"
     except Exception as e:
         print(f"⚠️ Failed to classify headline: {title}\n{e}")
         return "General"
@@ -78,26 +74,22 @@ def main():
 
     for cat in categories:
         cat_items = [item for item in all_headlines if item["category"] == cat]
-        selected = random.sample(cat_items, min(5, len(cat_items)))
-        final_news.extend(selected)
+        final_news.extend(random.sample(cat_items, min(5, len(cat_items))))
 
     rewritten_news = []
     for item in final_news:
         try:
             response = client.chat.completions.create(
                 model="gpt-4",
-                messages=[
-                    {
-                        "role": "user",
-                        "content": f"Rewrite this Canadian news headline to make it more SEO-friendly and unique: {item['original']}"
-                    }
-                ],
+                messages=[{
+                    "role": "user",
+                    "content": f"Rewrite this Canadian news headline to make it more SEO-friendly and unique: {item['original']}"
+                }],
                 temperature=0.7,
             )
             new_headline = response.choices[0].message.content.strip()
         except Exception as e:
-            print(f"⚠️ Failed to rewrite headline: {item['original']}")
-            print(e)
+            print(f"⚠️ Failed to rewrite headline: {item['original']}\n{e}")
             new_headline = item['original']
 
         rewritten_news.append({
