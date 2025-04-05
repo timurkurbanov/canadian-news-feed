@@ -5,7 +5,7 @@ import os
 import time
 from openai import OpenAI
 
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+client = OpenAI()
 
 feeds = {
     "cbc": "https://www.cbc.ca/cmlink/rss-topstories",
