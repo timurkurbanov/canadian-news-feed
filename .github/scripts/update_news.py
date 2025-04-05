@@ -3,10 +3,9 @@ import json
 import random
 import os
 import time
-from openai import OpenAI
+import openai  # ✅ CORRECT usage for 1.3.5 or 1.12.0
 
-# ✅ DO NOT pass api_key manually
-client = OpenAI()
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 feeds = {
     "cbc": "https://www.cbc.ca/cmlink/rss-topstories",
@@ -20,6 +19,7 @@ logos = {
     "ctv": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/ctv.png?v=1742728179"
 }
 
+
 def fetch_with_retries(url, retries=3, delay=3):
     for attempt in range(retries):
         try:
@@ -30,9 +30,10 @@ def fetch_with_retries(url, retries=3, delay=3):
     print(f"❌ Failed to fetch feed after {retries} attempts: {url}")
     return feedparser.FeedParserDict(entries=[])
 
+
 def classify_category_ai(title):
     try:
-        response = client.chat.completions.create(
+        response = openai.ChatCompletion.create(
             model="gpt-3.5-turbo",
             messages=[{
                 "role": "user",
@@ -52,6 +53,7 @@ Headline: "{title}" """
         print(f"⚠️ Failed to classify headline: {title}\n{e}")
         return "General"
 
+
 def get_headlines():
     all_items = []
     for source, url in feeds.items():
@@ -67,6 +69,7 @@ def get_headlines():
             })
     return all_items
 
+
 def main():
     all_headlines = get_headlines()
     categories = ["Politics", "Business", "Sports", "Weather", "General"]
@@ -79,7 +82,7 @@ def main():
     rewritten_news = []
     for item in final_news:
         try:
-            response = client.chat.completions.create(
+            response = openai.ChatCompletion.create(
                 model="gpt-4",
                 messages=[{
                     "role": "user",
@@ -105,5 +108,7 @@ def main():
 
     print("✅ docs/canada-news.json updated successfully!")
 
+
 if __name__ == "__main__":
     main()
+
