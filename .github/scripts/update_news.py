@@ -3,9 +3,9 @@ import json
 import random
 import os
 import time
-import openai
+from openai import OpenAI
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
+client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
 feeds = {
     "cbc": "https://www.cbc.ca/cmlink/rss-topstories",
@@ -31,18 +31,20 @@ def fetch_with_retries(url, retries=3, delay=3):
 
 def classify_category_ai(title):
     try:
-        response = openai.ChatCompletion.create(
+        response = client.chat.completions.create(
             model="gpt-3.5-turbo",
-            messages=[{
-                "role": "user",
-                "content": f"""Classify this Canadian news headline into one of the following categories:
+            messages=[
+                {
+                    "role": "user",
+                    "content": f"""Classify this Canadian news headline into one of the following categories:
 Politics, Business, Sports, Weather, or General.
 
 Respond with only the category name.
 
 Headline: "{title}"
 """
-            }],
+                }
+            ],
             temperature=0,
         )
         category = response.choices[0].message.content.strip()
@@ -71,7 +73,6 @@ def get_headlines():
 
 def main():
     all_headlines = get_headlines()
-
     categories = ["Politics", "Business", "Sports", "Weather", "General"]
     final_news = []
 
@@ -83,7 +84,7 @@ def main():
     rewritten_news = []
     for item in final_news:
         try:
-            response = openai.ChatCompletion.create(
+            response = client.chat.completions.create(
                 model="gpt-4",
                 messages=[
                     {
