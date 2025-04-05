@@ -3,9 +3,9 @@ import json
 import random
 import os
 import time
-import openai  # ✅ CORRECT usage for 1.3.5 or 1.12.0
-
+import openai  # ✅ Correct way for 1.12.0
 openai.api_key = os.getenv("OPENAI_API_KEY")
+
 
 feeds = {
     "cbc": "https://www.cbc.ca/cmlink/rss-topstories",
