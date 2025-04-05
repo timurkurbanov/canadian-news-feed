@@ -31,12 +31,11 @@ def fetch_with_retries(url, retries=3, delay=3):
 
 def classify_category_ai(title):
     try:
-        response = openai.ChatCompletion.create(
+        response = openai.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[{
                 "role": "user",
-                "content": f"""
-Classify this Canadian news headline into one of the following categories:
+                "content": f"""Classify this Canadian news headline into one of the following categories:
 Politics, Business, Sports, Weather, or General.
 
 Respond with only the category name.
@@ -46,13 +45,9 @@ Headline: "{title}"
             }],
             temperature=0,
         )
-        raw = response.choices[0].message.content.strip()
-        category = raw.capitalize()
-        print(f"🔎 Raw response: '{raw}' → Final: '{category}'")
-
-        if category not in ["Politics", "Business", "Sports", "Weather", "General"]:
-            return "General"
-        return category
+        category = response.choices[0].message.content.strip().capitalize()
+        print(f"🧠 Classified → '{title}' → {category}")
+        return category if category in ["Politics", "Business", "Sports", "Weather", "General"] else "General"
     except Exception as e:
         print(f"⚠️ Failed to classify headline: {title}\n{e}")
         return "General"
@@ -84,7 +79,7 @@ def main():
     rewritten_news = []
     for item in final_news:
         try:
-            response = openai.ChatCompletion.create(
+            response = openai.chat.completions.create(
                 model="gpt-4",
                 messages=[{
                     "role": "user",
@@ -112,5 +107,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-
 
