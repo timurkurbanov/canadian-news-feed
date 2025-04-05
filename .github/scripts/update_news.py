@@ -3,10 +3,9 @@ import json
 import random
 import os
 import time
-import openai
+from openai import OpenAI
 
-# ✅ Correct client initialization (for openai >= 1.0.0)
-client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 feeds = {
     "cbc": "https://www.cbc.ca/cmlink/rss-topstories",
@@ -107,5 +106,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-
 
