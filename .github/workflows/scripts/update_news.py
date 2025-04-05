@@ -1,13 +1,12 @@
 import feedparser
-import openai
 import json
 import random
 import os
-from datetime import datetime
+import time
+import openai
 
-# Set your OpenAI API key from the GitHub secret\openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
-# Define RSS feeds
 feeds = {
     "cbc": "https://www.cbc.ca/cmlink/rss-topstories",
     "global": "https://globalnews.ca/feed/",
@@ -17,59 +16,101 @@ feeds = {
 logos = {
     "cbc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
     "global": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "ctv": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/ctv.png?v=1742728177"
+    "ctv": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/ctv.png?v=1742728179"
 }
 
-# Pull top headlines from each feed
+def fetch_with_retries(url, retries=3, delay=3):
+    for attempt in range(retries):
+        try:
+            return feedparser.parse(url, request_headers={'User-Agent': 'Mozilla/5.0'})
+        except Exception as e:
+            print(f"Attempt {attempt + 1} failed for {url}: {e}")
+            time.sleep(delay)
+    print(f"❌ Failed to fetch feed after {retries} attempts: {url}")
+    return feedparser.FeedParserDict(entries=[])
+
+def classify_category_ai(title):
+    try:
+        response = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=[{
+                "role": "user",
+                "content": f"""Classify this Canadian news headline into one of the following categories:
+Politics, Business, Sports, Weather, or General.
+
+Respond with only the category name.
+
+Headline: "{title}"
+"""
+            }],
+            temperature=0,
+        )
+        category = response.choices[0].message.content.strip()
+        print(f"🧠 Classified '{title}' as ➜ {category}")
+        if category not in ["Politics", "Business", "Sports", "Weather", "General"]:
+            return "General"
+        return category
+    except Exception as e:
+        print(f"⚠️ Failed to classify headline: {title}\n{e}")
+        return "General"
+
 def get_headlines():
-    items = []
+    all_items = []
     for source, url in feeds.items():
-        feed = feedparser.parse(url)
-        for entry in feed.entries[:5]:  # Limit to top 5
-            items.append({
+        feed = fetch_with_retries(url)
+        for entry in feed.entries[:15]:
+            category = classify_category_ai(entry.title)
+            all_items.append({
                 "source": source,
                 "logo": logos[source],
                 "original": entry.title,
-                "url": entry.link
+                "url": entry.link,
+                "category": category
             })
-    return items
+    return all_items
 
-# Rewrite headline using OpenAI
-async def rewrite_headline(headline):
-    prompt = f"Rewrite this news headline to make it more SEO-friendly and unique: {headline}"
-    try:
-        response = openai.ChatCompletion.create(
-            model="gpt-4",
-            messages=[
-                {"role": "system", "content": "You are a headline optimization assistant."},
-                {"role": "user", "content": prompt}
-            ]
-        )
-        return response.choices[0].message.content.strip()
-    except Exception as e:
-        print("OpenAI error:", e)
-        return headline  # Fallback
+def main():
+    all_headlines = get_headlines()
 
-# Main function to process and write
-async def generate():
-    raw_items = get_headlines()
-    random.shuffle(raw_items)
-    selected = raw_items[:5]  # Pick 5 from mixed sources
+    categories = ["Politics", "Business", "Sports", "Weather", "General"]
+    final_news = []
 
-    rewritten = []
-    for item in selected:
-        new_title = await rewrite_headline(item["original"])
-        rewritten.append({
+    for cat in categories:
+        cat_items = [item for item in all_headlines if item["category"] == cat]
+        selected = random.sample(cat_items, min(5, len(cat_items)))
+        final_news.extend(selected)
+
+    rewritten_news = []
+    for item in final_news:
+        try:
+            response = openai.ChatCompletion.create(
+                model="gpt-4",
+                messages=[
+                    {
+                        "role": "user",
+                        "content": f"Rewrite this Canadian news headline to make it more SEO-friendly and unique: {item['original']}"
+                    }
+                ],
+                temperature=0.7,
+            )
+            new_headline = response.choices[0].message.content.strip()
+        except Exception as e:
+            print(f"⚠️ Failed to rewrite headline: {item['original']}")
+            print(e)
+            new_headline = item['original']
+
+        rewritten_news.append({
             "source": item["source"],
             "logo": item["logo"],
-            "headline": new_title,
-            "url": item["url"]
+            "headline": new_headline,
+            "url": item["url"],
+            "category": item["category"]
         })
 
-    with open("canada-news.json", "w") as f:
-        json.dump(rewritten, f, indent=2)
+    with open("docs/canada-news.json", "w", encoding="utf-8") as f:
+        json.dump(rewritten_news, f, indent=2, ensure_ascii=False)
 
-# Run script
+    print("✅ docs/canada-news.json updated successfully!")
+
 if __name__ == "__main__":
-    import asyncio
-    asyncio.run(generate())
+    main()
