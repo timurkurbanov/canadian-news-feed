@@ -5,20 +5,23 @@ import os
 import time
 from openai import OpenAI
 
-# Correct client setup for openai>=1.0.0
-client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+# Initialize OpenAI client (new SDK style)
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
+# Canadian news RSS feeds
 feeds = {
     "cbc": "https://www.cbc.ca/cmlink/rss-topstories",
     "global": "https://globalnews.ca/feed/",
     "ctv": "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009"
 }
 
+# Logo URLs for each news source
 logos = {
     "cbc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
     "global": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
     "ctv": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/ctv.png?v=1742728179"
 }
+
 
 def fetch_with_retries(url, retries=3, delay=3):
     for attempt in range(retries):
@@ -29,6 +32,7 @@ def fetch_with_retries(url, retries=3, delay=3):
             time.sleep(delay)
     print(f"❌ Failed to fetch feed after {retries} attempts: {url}")
     return feedparser.FeedParserDict(entries=[])
+
 
 def classify_category_ai(title):
     try:
@@ -41,7 +45,8 @@ Politics, Business, Sports, Weather, or General.
 
 Respond with only the category name.
 
-Headline: "{title}" """
+Headline: "{title}"
+"""
             }],
             temperature=0,
         )
@@ -54,11 +59,12 @@ Headline: "{title}" """
         print(f"⚠️ Failed to classify headline: {title}\n{e}")
         return "General"
 
+
 def get_headlines():
     all_items = []
     for source, url in feeds.items():
         feed = fetch_with_retries(url)
-        for entry in feed.entries[:15]:
+        for entry in feed.entries[:15]:  # increase pool for better balance
             category = classify_category_ai(entry.title)
             all_items.append({
                 "source": source,
@@ -69,8 +75,10 @@ def get_headlines():
             })
     return all_items
 
+
 def main():
     all_headlines = get_headlines()
+
     categories = ["Politics", "Business", "Sports", "Weather", "General"]
     final_news = []
 
@@ -110,6 +118,7 @@ def main():
         json.dump(rewritten_news, f, indent=2, ensure_ascii=False)
 
     print("✅ docs/canada-news.json updated successfully!")
+
 
 if __name__ == "__main__":
     main()
