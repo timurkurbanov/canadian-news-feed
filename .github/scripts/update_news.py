@@ -37,21 +37,20 @@ def classify_category_ai(title):
     try:
         response = openai.ChatCompletion.create(
             model="gpt-3.5-turbo",
-            messages=[
-                {
-                    "role": "user",
-                    "content": f"""Classify this Canadian news headline into one of the following categories:
+            messages=[{
+                "role": "user",
+                "content": f"""Classify this Canadian news headline into one of the following categories:
 Politics, Business, Sports, Weather, or General.
 
 Respond with only the category name.
 
 Headline: "{title}"
 """
-                }
-            ],
+            }],
             temperature=0,
         )
         category = response.choices[0].message.content.strip()
+        print(f"🧠 Classified '{title}' as ➜ {category}")  # Add this line
         if category not in ["Politics", "Business", "Sports", "Weather", "General"]:
             return "General"
         return category
