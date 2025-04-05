@@ -1,11 +1,12 @@
 import feedparser
-import openai
 import json
 import random
 import os
 import time
+from openai import OpenAI
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
+# Initialize OpenAI client with API key
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # Canadian news RSS feeds
 feeds = {
@@ -21,7 +22,6 @@ logos = {
     "ctv": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/ctv.png?v=1742728179"
 }
 
-
 def fetch_with_retries(url, retries=3, delay=3):
     for attempt in range(retries):
         try:
@@ -32,10 +32,9 @@ def fetch_with_retries(url, retries=3, delay=3):
     print(f"❌ Failed to fetch feed after {retries} attempts: {url}")
     return feedparser.FeedParserDict(entries=[])
 
-
 def classify_category_ai(title):
     try:
-        response = openai.ChatCompletion.create(
+        response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[{
                 "role": "user",
@@ -50,14 +49,13 @@ Headline: "{title}"
             temperature=0,
         )
         category = response.choices[0].message.content.strip()
-        print(f"🧠 Classified '{title}' as ➜ {category}")  # Add this line
+        print(f"🧠 Classified '{title}' as ➜ {category}")
         if category not in ["Politics", "Business", "Sports", "Weather", "General"]:
             return "General"
         return category
     except Exception as e:
         print(f"⚠️ Failed to classify headline: {title}\n{e}")
         return "General"
-
 
 def get_headlines():
     all_items = []
@@ -73,7 +71,6 @@ def get_headlines():
                 "category": category
             })
     return all_items
-
 
 def main():
     all_headlines = get_headlines()
@@ -91,7 +88,7 @@ def main():
     rewritten_news = []
     for item in final_news:
         try:
-            response = openai.ChatCompletion.create(
+            response = client.chat.completions.create(
                 model="gpt-4",
                 messages=[
                     {
@@ -121,7 +118,5 @@ def main():
 
     print("✅ docs/canada-news.json updated successfully!")
 
-
 if __name__ == "__main__":
     main()
-
