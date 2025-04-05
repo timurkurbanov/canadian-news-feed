@@ -7,27 +7,27 @@ from openai import OpenAI
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-# RSS Feeds grouped by category
-category_feeds = {
+# Define categorized RSS feeds
+feeds = {
     "Politics": [
         "https://www.cbc.ca/cmlink/rss-politics",
         "https://globalnews.ca/politics/feed/",
-        "https://www.ctvnews.ca/rss/ctvnews-ca-politics-public-rss-1.867925"
+        "https://www.ctvnews.ca/rss/ctvnews-ca-politics-public-rss-1.822285"
     ],
     "Business": [
         "https://www.cbc.ca/cmlink/rss-business",
         "https://globalnews.ca/business/feed/",
-        "https://www.ctvnews.ca/rss/ctvnews-ca-business-public-rss-1.867931"
+        "https://www.ctvnews.ca/rss/ctvnews-ca-business-public-rss-1.822284"
     ],
     "Sports": [
         "https://www.cbc.ca/cmlink/rss-sports",
         "https://globalnews.ca/sports/feed/",
-        "https://www.ctvnews.ca/rss/ctvnews-ca-sports-public-rss-1.867933"
+        "https://www.ctvnews.ca/rss/ctvnews-ca-sports-public-rss-1.822291"
     ],
     "Weather": [
-        "https://www.theweathernetwork.com/rss/public/rss10/canada.xml",
-        "https://www.cbc.ca/cmlink/rss-canada",  # catch regional weather
-        "https://www.ctvnews.ca/rss/ctvnews-ca-sci-tech-public-rss-1.867936"
+        "https://www.theweathernetwork.com/rss/weather",
+        "https://www.cbc.ca/cmlink/rss-canada",
+        "https://www.ctvnews.ca/rss/ctvnews-ca-canada-public-rss-1.822287"
     ]
 }
 
@@ -38,75 +38,107 @@ logos = {
     "weathernetwork": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/weather.png?v=1742728180"
 }
 
-def fetch_feed(url, retries=3):
-    for _ in range(retries):
+def fetch_with_retries(url, retries=3, delay=3):
+    for attempt in range(retries):
         try:
             return feedparser.parse(url, request_headers={'User-Agent': 'Mozilla/5.0'})
-        except:
-            time.sleep(2)
+        except Exception as e:
+            print(f"Attempt {attempt + 1} failed for {url}: {e}")
+            time.sleep(delay)
+    print(f"❌ Failed to fetch feed after {retries} attempts: {url}")
     return feedparser.FeedParserDict(entries=[])
 
-def detect_source(url):
-    if "cbc" in url:
+def classify_category_ai(title):
+    try:
+        response = client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[{
+                "role": "user",
+                "content": f"""Classify this Canadian news headline into one of the following categories:
+Politics, Business, Sports, Weather, or General.
+
+Respond with only the category name.
+
+Headline: "{title}"
+"""
+            }],
+            temperature=0,
+        )
+        category = response.choices[0].message.content.strip().capitalize()
+        print(f"🧠 Classified → '{title}' → {category}")
+        return category if category in ["Politics", "Business", "Sports", "Weather", "General"] else "General"
+    except Exception as e:
+        print(f"⚠️ Failed to classify headline: {title}\n{e}")
+        return "General"
+
+def identify_source(url):
+    if "cbc.ca" in url:
         return "cbc"
-    elif "global" in url:
+    elif "globalnews.ca" in url:
         return "global"
-    elif "ctv" in url:
+    elif "ctvnews.ca" in url:
         return "ctv"
     elif "weathernetwork" in url:
         return "weathernetwork"
     else:
         return "cbc"
 
-def rewrite_headline(original):
-    try:
-        response = client.chat.completions.create(
-            model="gpt-4",
-            messages=[{
-                "role": "user",
-                "content": f"Rewrite this Canadian news headline to be SEO-friendly and unique:\n\n{original}"
-            }],
-            temperature=0.7
-        )
-        return response.choices[0].message.content.strip()
-    except Exception as e:
-        print(f"⚠️ Rewrite failed: {original} – {e}")
-        return original
-
-def process_category(category, urls):
-    articles = []
-    for url in urls:
-        feed = fetch_feed(url)
-        for entry in feed.entries[:10]:
-            source = detect_source(entry.link)
-            rewritten = rewrite_headline(entry.title)
-            articles.append({
-                "source": source,
-                "logo": logos[source],
-                "headline": rewritten,
-                "url": entry.link,
-                "category": category
-            })
-    return random.sample(articles, min(5, len(articles)))
+def get_headlines():
+    all_items = []
+    for category, urls in feeds.items():
+        selected_urls = random.sample(urls, min(2, len(urls)))
+        for url in selected_urls:
+            feed = fetch_with_retries(url)
+            for entry in feed.entries[:10]:
+                source = identify_source(entry.link)
+                classified = classify_category_ai(entry.title)
+                all_items.append({
+                    "source": source,
+                    "logo": logos[source],
+                    "original": entry.title,
+                    "url": entry.link,
+                    "category": classified
+                })
+    return all_items
 
 def main():
-    data = {
-        "all": [],
-        "politics": [],
-        "business": [],
-        "sports": [],
-        "weather": []
-    }
+    all_headlines = get_headlines()
 
-    for cat in category_feeds:
-        headlines = process_category(cat, category_feeds[cat])
-        data["all"].extend(headlines)
-        data[cat.lower()] = headlines
+    categories = ["Politics", "Business", "Sports", "Weather", "General"]
+    final_news = []
+
+    for cat in categories:
+        cat_items = [item for item in all_headlines if item["category"] == cat]
+        final_news.extend(random.sample(cat_items, min(5, len(cat_items))))
+
+    rewritten_news = []
+    for item in final_news:
+        try:
+            response = client.chat.completions.create(
+                model="gpt-4",
+                messages=[{
+                    "role": "user",
+                    "content": f"Rewrite this Canadian news headline to make it more SEO-friendly and unique: {item['original']}"
+                }],
+                temperature=0.7,
+            )
+            new_headline = response.choices[0].message.content.strip()
+        except Exception as e:
+            print(f"⚠️ Failed to rewrite headline: {item['original']}\n{e}")
+            new_headline = item['original']
+
+        rewritten_news.append({
+            "source": item["source"],
+            "logo": item["logo"],
+            "headline": new_headline,
+            "url": item["url"],
+            "category": item["category"]
+        })
 
     with open("docs/canada-news.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
+        json.dump(rewritten_news, f, indent=2, ensure_ascii=False)
 
-    print("✅ News data saved to docs/canada-news.json")
+    print("✅ docs/canada-news.json updated successfully!")
 
 if __name__ == "__main__":
     main()
