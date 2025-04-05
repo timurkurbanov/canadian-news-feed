@@ -1,37 +1,37 @@
 [
   {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Fissure among Conservatives undermining Poilievre's pitch he's a national unifier: experts",
-    "url": "https://www.cbc.ca/news/politics/poilievre-manning-smith-fissure-conservative-movement-1.7502543?cmp=rss",
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Canada wanted to ‘cooperate’ on illegal immigration. Trump chose tariffs",
+    "url": "https://globalnews.ca/news/11113722/donald-trump-canada-immigration/",
     "category": "General"
   },
   {
     "source": "cbc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "As these kids get hands-on with food, they're also learning about climate change",
-    "url": "https://www.cbc.ca/radio/whatonearth/kids-climate-lessons-food-1.7492550?cmp=rss",
+    "headline": "Top American scientists just lost their jobs. Canada is rolling out the welcome mat",
+    "url": "https://www.cbc.ca/news/health/us-scientists-canada-1.7502527?cmp=rss",
     "category": "General"
   },
   {
     "source": "cbc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Why Canada is on the cusp of a housing construction crisis",
-    "url": "https://www.cbc.ca/news/canada/housing-affordability-construction-canada-1.7499260?cmp=rss",
+    "headline": "It's clear who sees tariffs as a political winner in Washington. It isn't Trump's side",
+    "url": "https://www.cbc.ca/news/world/tariffs-political-fallout-1.7502562?cmp=rss",
+    "category": "General"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Why Anaida Poilievre has taken on an 'outsized role' in her husband's campaign",
+    "url": "https://www.cbc.ca/news/politics/ana-poilievre-campaign-election-pierre-1.7501082?cmp=rss",
     "category": "General"
   },
   {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Leaders fan out across Canada in 2nd weekend of election",
-    "url": "https://globalnews.ca/news/11117392/canada-election-second-weekend-campaign/",
-    "category": "General"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Canadian detained for 11 days by U.S. immigration speaks out for others stuck in limbo",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/jasmine-mooney-ice-detainee-canada-mexico-border-work-visa-1.7501758?cmp=rss",
+    "headline": "The best natural ways to help manage allergies this spring",
+    "url": "https://globalnews.ca/the-curator/10412603/allergies-natural-remedy/",
     "category": "General"
   }
 ]
