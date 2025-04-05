@@ -5,8 +5,9 @@ import os
 import time
 from openai import OpenAI
 
-# Init OpenAI client (new SDK style)
-client = OpenAI()
+# ✅ Correctly initialize with API key for SDK 1.x
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
 
 # Canadian news RSS feeds
 feeds = {
