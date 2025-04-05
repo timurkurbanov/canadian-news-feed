@@ -2,8 +2,8 @@ name: Update Canada News Feed
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Every 5 minutes (UTC)
-  workflow_dispatch:       # Manual run option
+    - cron: '*/5 * * * *'  # Every 5 minutes
+  workflow_dispatch:
 
 jobs:
   update-news:
@@ -33,5 +33,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add docs/canada-news.json
-          git commit -m "Update Canada news feed" || exit 0
+          git commit -m "Update Canada news feed" || echo "No changes to commit"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
