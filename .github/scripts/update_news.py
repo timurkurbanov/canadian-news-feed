@@ -3,10 +3,10 @@ import json
 import random
 import os
 import time
-from openai import OpenAI
+import openai
 
-# Initialize OpenAI client
-openai = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+# ✅ Correct OpenAI API key setup for v1+
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # RSS feeds grouped by category
 rss_feeds = {
@@ -51,7 +51,7 @@ def fetch_with_retries(url, retries=3, delay=3):
 
 def rewrite_headline(original):
     try:
-        response = openai.chat.completions.create(
+        response = openai.ChatCompletion.create(
             model="gpt-4",
             messages=[{
                 "role": "user",
@@ -78,38 +78,26 @@ def extract_source(link):
     return "cbc"  # fallback
 
 def get_category_news(category, feeds):
-    all_entries = []
+    all_items = []
+    seen_titles = set()
 
-    # Collect entries from all sources first
     for url in feeds:
         feed = fetch_with_retries(url)
-        all_entries.extend(feed.entries[:10])  # Up to 10 from each feed
+        for entry in feed.entries[:10]:
+            title = entry.title.strip()
+            if title not in seen_titles:
+                seen_titles.add(title)
+                source = extract_source(entry.link)
+                rewritten = rewrite_headline(title)
+                all_items.append({
+                    "source": source,
+                    "logo": logos.get(source, ""),
+                    "headline": rewritten,
+                    "url": entry.link,
+                    "category": category
+                })
 
-    # Shuffle to mix sources
-    random.shuffle(all_entries)
-
-    seen_titles = set()
-    final_items = []
-
-    for entry in all_entries:
-        title = entry.title.strip()
-        if title in seen_titles:
-            continue
-        seen_titles.add(title)
-
-        source = extract_source(entry.link)
-        rewritten = rewrite_headline(title)
-
-        final_items.append({
-            "source": source,
-            "logo": logos.get(source, ""),
-            "headline": rewritten,
-            "url": entry.link,
-            "category": category
-        })
-
-    return final_items
-
+    return all_items
 
 def main():
     os.makedirs("docs", exist_ok=True)
@@ -122,14 +110,13 @@ def main():
             json.dump(items, f, indent=2, ensure_ascii=False)
         combined.extend(items)
 
-    # ✅ Shuffle to avoid repeated CBC dominance
+    # ✅ Shuffle to avoid repeated source dominance
     random.shuffle(combined)
 
     with open("docs/all.json", "w", encoding="utf-8") as f:
         json.dump(combined, f, indent=2, ensure_ascii=False)
 
     print("✅ All feeds updated!")
-
 
 if __name__ == "__main__":
     main()
