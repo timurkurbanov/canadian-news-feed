@@ -3,10 +3,10 @@ import json
 import random
 import os
 import time
-from openai import OpenAI
+import openai
 
-# Initialize OpenAI client
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+# Set your API key securely
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # RSS feeds grouped by category
 rss_feeds = {
@@ -31,7 +31,6 @@ rss_feeds = {
     ]
 }
 
-# Logo for each source
 logos = {
     "cbc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
     "global": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
@@ -51,7 +50,7 @@ def fetch_with_retries(url, retries=3, delay=3):
 
 def rewrite_headline(original):
     try:
-        response = client.chat.completions.create(
+        response = openai.ChatCompletion.create(
             model="gpt-4",
             messages=[{
                 "role": "user",
@@ -59,9 +58,7 @@ def rewrite_headline(original):
             }],
             temperature=0.7,
         )
-        rewritten = response.choices[0].message.content.strip()
-        print(f"✅ Rewritten: {original} => {rewritten}")
-        return rewritten
+        return response.choices[0].message.content.strip()
     except Exception as e:
         print(f"⚠️ Failed to rewrite headline: {original}\n{e}")
         return original
@@ -99,7 +96,7 @@ def get_category_news(category, feeds):
                     "category": category
                 })
 
-    return all_items
+    return all_items  # DO NOT LIMIT TO 5!
 
 def main():
     os.makedirs("docs", exist_ok=True)
