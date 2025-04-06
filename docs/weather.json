@@ -2,49 +2,28 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "No watches or warnings in effect, Ottawa",
-    "url": "https://weather.gc.ca/index_e.html",
-    "category": "Weather"
-  },
-  {
-    "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "Current Conditions: Mostly Cloudy, 2.7°C",
+    "headline": "Sunday: Chance of showers. High plus 5. POP 40%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "Saturday night: Periods of rain or drizzle. Low plus 2.",
+    "headline": "Wednesday: A mix of sun and cloud. High plus 1.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "Sunday: Chance of rain showers or flurries. High plus 5. POP 40%",
+    "headline": "Current Conditions: Cloudy, 3.6°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "Sunday night: Chance of showers. Low minus 5. POP 40%",
-    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
-    "category": "Weather"
-  },
-  {
-    "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "Monday: Cloudy. High 6.",
-    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
-    "category": "Weather"
-  },
-  {
-    "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "Monday night: Chance of flurries or rain showers. Low minus 3. POP 60%",
+    "headline": "Wednesday night: Cloudy periods. Low minus 5.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
@@ -58,14 +37,35 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "Tuesday night: Chance of flurries. Low minus 8. POP 40%",
+    "headline": "No watches or warnings in effect, Ottawa",
+    "url": "https://weather.gc.ca/index_e.html",
+    "category": "Weather"
+  },
+  {
+    "source": "weather.gc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
+    "headline": "Monday night: Chance of flurries or rain showers. Low minus 3. POP 60%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "Wednesday: A mix of sun and cloud. High plus 1.",
+    "headline": "Sunday night: A few clouds. Low minus 5.",
+    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
+    "category": "Weather"
+  },
+  {
+    "source": "weather.gc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
+    "headline": "Monday: Increasing cloudiness. High 6.",
+    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
+    "category": "Weather"
+  },
+  {
+    "source": "weather.gc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
+    "headline": "Tuesday night: Chance of flurries. Low minus 8. POP 40%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   }

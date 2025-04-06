@@ -1,93 +1,9 @@
 [
   {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Carney warns of 'tough days ahead' as tariffs make U.S. recession 'likely'",
-    "url": "https://www.cbc.ca/news/politics/mark-carney-tough-days-tariffs-likely-u-s-recession-1.7502981?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Arrest made after man 'barricaded' himself in Parliament Hill's East Block, say police",
-    "url": "https://www.cbc.ca/news/politics/parliament-hill-lockdown-1.7503089?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Alexa McDonough's family helps NDP campaign in Halifax",
-    "url": "https://www.cbc.ca/news/politics/mcdonough-halifax-ndp-1.7503123?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Singh promises more doctors, Carney supports the trades, Poilievre vows to cut red tape",
-    "url": "https://www.cbc.ca/news/politics/singh-promises-more-doctors-carney-supports-the-trades-poilievre-vows-to-cut-red-tape-1.7502992?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "U.S. set to significantly hike softwood lumber duties against Canada",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/us-hikes-softwood-lumber-duties-1.7503120?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Carney distances himself from late father's views of Indigenous children, residential schools",
-    "url": "https://www.cbc.ca/news/politics/mark-carney-robert-indigenous-people-residential-schools-defence-1.7502997?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Nomination contenders accuse Conservatives of skipping nomination process in Brampton",
-    "url": "https://www.cbc.ca/news/canada/toronto/brampton-conservative-nomination-contenders-1.7503094?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Why Anaida Poilievre has taken on an 'outsized role' in her husband's campaign",
-    "url": "https://www.cbc.ca/news/politics/ana-poilievre-campaign-election-pierre-1.7501082?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Fissure among Conservatives undermining Poilievre's pitch he's a national unifier: experts",
-    "url": "https://www.cbc.ca/news/politics/poilievre-manning-smith-fissure-conservative-movement-1.7502543?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Why Canada is on the cusp of a housing construction crisis",
-    "url": "https://www.cbc.ca/news/canada/housing-affordability-construction-canada-1.7499260?cmp=rss",
-    "category": "Politics"
-  },
-  {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Poilievre defends candidate accused of denying residential schools history",
-    "url": "https://globalnews.ca/news/11117563/conservative-party-candidate-aaron-gunn-pierre-poilievre-defence/",
-    "category": "Politics"
-  },
-  {
-    "source": "global",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Carney, Poilievre focus on trades and red tape as Singh tackles health care",
-    "url": "https://globalnews.ca/news/11117392/canada-election-second-weekend-campaign/",
-    "category": "Politics"
-  },
-  {
-    "source": "global",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Canada wanted to ‘cooperate’ on illegal immigration. Trump chose tariffs",
-    "url": "https://globalnews.ca/news/11113722/donald-trump-canada-immigration/",
+    "headline": "Poilievre promises tougher penalties for intimate partner violence",
+    "url": "https://globalnews.ca/news/11116108/conservative-intimate-partner-violence-plan/",
     "category": "Politics"
   },
   {
@@ -100,6 +16,83 @@
   {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Carney, Poilievre focus on trades and red tape as Singh tackles health care",
+    "url": "https://globalnews.ca/news/11117392/canada-election-second-weekend-campaign/",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Alexa McDonough's family helps NDP campaign in Halifax",
+    "url": "https://www.cbc.ca/news/politics/mcdonough-halifax-ndp-1.7503123?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Carney distances himself from late father's views of Indigenous children, residential schools",
+    "url": "https://www.cbc.ca/news/politics/mark-carney-robert-indigenous-people-residential-schools-defence-1.7502997?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "U.S. set to significantly hike softwood lumber duties against Canada",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/us-hikes-softwood-lumber-duties-1.7503120?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Why Anaida Poilievre has taken on an 'outsized role' in her husband's campaign",
+    "url": "https://www.cbc.ca/news/politics/ana-poilievre-campaign-election-pierre-1.7501082?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Why Canada is on the cusp of a housing construction crisis",
+    "url": "https://www.cbc.ca/news/canada/housing-affordability-construction-canada-1.7499260?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Fissure among Conservatives undermining Poilievre's pitch he's a national unifier: experts",
+    "url": "https://www.cbc.ca/news/politics/poilievre-manning-smith-fissure-conservative-movement-1.7502543?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Carney warns of 'tough days ahead' as tariffs make U.S. recession 'likely'",
+    "url": "https://www.cbc.ca/news/politics/mark-carney-tough-days-tariffs-likely-u-s-recession-1.7502981?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Canada wanted to ‘cooperate’ on illegal immigration. Trump chose tariffs",
+    "url": "https://globalnews.ca/news/11113722/donald-trump-canada-immigration/",
+    "category": "Politics"
+  },
+  {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Inside the NDP’s struggling campaign as party faces possible collapse",
+    "url": "https://globalnews.ca/news/11115129/inside-the-ndps-struggling-federal-election-campaign/",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Singh promises more doctors, Carney supports the trades, Poilievre vows to cut red tape",
+    "url": "https://www.cbc.ca/news/politics/singh-promises-more-doctors-carney-supports-the-trades-poilievre-vows-to-cut-red-tape-1.7502992?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
     "headline": "Tories drop candidate who said Quebec massacre survivor plays ‘victim game’",
     "url": "https://globalnews.ca/news/11116520/canada-election-conservative-candidate-dropped-simon-payette/",
     "category": "Politics"
@@ -107,15 +100,22 @@
   {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Trump wants NATO to spend 5% on defence. What do Canada party leaders say?",
-    "url": "https://globalnews.ca/news/11115774/canada-election-defence-spending-nato-trump/",
+    "headline": "Poilievre defends candidate accused of denying residential schools history",
+    "url": "https://globalnews.ca/news/11117563/conservative-party-candidate-aaron-gunn-pierre-poilievre-defence/",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Arrest made after man 'barricaded' himself in Parliament Hill's East Block, say police",
+    "url": "https://www.cbc.ca/news/politics/parliament-hill-lockdown-1.7503089?cmp=rss",
     "category": "Politics"
   },
   {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Poilievre promises tougher penalties for intimate partner violence",
-    "url": "https://globalnews.ca/news/11116108/conservative-intimate-partner-violence-plan/",
+    "headline": "Trump wants NATO to spend 5% on defence. What do Canada party leaders say?",
+    "url": "https://globalnews.ca/news/11115774/canada-election-defence-spending-nato-trump/",
     "category": "Politics"
   },
   {
@@ -133,10 +133,10 @@
     "category": "Politics"
   },
   {
-    "source": "global",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "China hits back at U.S. with 34% tariff on all products",
-    "url": "https://globalnews.ca/news/11115511/donald-trump-tariffs-china-us/",
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Nomination contenders accuse Conservatives of skipping nomination process in Brampton",
+    "url": "https://www.cbc.ca/news/canada/toronto/brampton-conservative-nomination-contenders-1.7503094?cmp=rss",
     "category": "Politics"
   }
 ]
