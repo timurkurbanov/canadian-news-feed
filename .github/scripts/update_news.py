@@ -78,26 +78,38 @@ def extract_source(link):
     return "cbc"  # fallback
 
 def get_category_news(category, feeds):
-    all_items = []
-    seen_titles = set()
+    all_entries = []
 
+    # Collect entries from all sources first
     for url in feeds:
         feed = fetch_with_retries(url)
-        for entry in feed.entries[:10]:
-            title = entry.title.strip()
-            if title not in seen_titles:
-                seen_titles.add(title)
-                source = extract_source(entry.link)
-                rewritten = rewrite_headline(title)
-                all_items.append({
-                    "source": source,
-                    "logo": logos.get(source, ""),
-                    "headline": rewritten,
-                    "url": entry.link,
-                    "category": category
-                })
+        all_entries.extend(feed.entries[:10])  # Up to 10 from each feed
 
-    return all_items
+    # Shuffle to mix sources
+    random.shuffle(all_entries)
+
+    seen_titles = set()
+    final_items = []
+
+    for entry in all_entries:
+        title = entry.title.strip()
+        if title in seen_titles:
+            continue
+        seen_titles.add(title)
+
+        source = extract_source(entry.link)
+        rewritten = rewrite_headline(title)
+
+        final_items.append({
+            "source": source,
+            "logo": logos.get(source, ""),
+            "headline": rewritten,
+            "url": entry.link,
+            "category": category
+        })
+
+    return final_items
+
 
 def main():
     os.makedirs("docs", exist_ok=True)
