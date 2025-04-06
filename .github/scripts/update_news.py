@@ -97,9 +97,7 @@ def get_category_news(category, feeds):
                     "category": category
                 })
 
-    random.shuffle(all_items)
-return all_items if limit is None else all_items[:limit]
-
+    return all_items  # No limit!
 
 def main():
     os.makedirs("docs", exist_ok=True)
@@ -107,16 +105,19 @@ def main():
 
     for category, feeds in rss_feeds.items():
         print(f"🔎 Processing category: {category}")
-        items = get_category_news(category, feeds, limit=5)  # Limit each category
+        items = get_category_news(category, feeds)
+
+        # Save category-specific JSON file
         with open(f"docs/{category.lower()}.json", "w", encoding="utf-8") as f:
             json.dump(items, f, indent=2, ensure_ascii=False)
-        combined.extend(get_category_news(category, feeds, limit=None))  # Full headlines for ALL
 
-    with open("docs/all.json", "w", encoding="utf-8") as f:
+        combined.extend(items)
+
+    # Save full ALL news JSON file (no limit)
+    with open("docs/canada-news.json", "w", encoding="utf-8") as f:
         json.dump(combined, f, indent=2, ensure_ascii=False)
 
     print("✅ All feeds updated!")
-
 
 if __name__ == "__main__":
     main()
