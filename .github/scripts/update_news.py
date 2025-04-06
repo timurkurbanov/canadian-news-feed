@@ -36,8 +36,7 @@ logos = {
     "cbc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
     "global": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
     "ctv": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/ctv.png?v=1742728179",
-    "weathernetwork": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/weather.png?v=1742728180",
-    "weather.gc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181"
+    "weather": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181"
 }
 
 def fetch_with_retries(url, retries=3, delay=3):
@@ -71,12 +70,7 @@ def extract_source(link):
         return "global"
     elif "ctvnews.ca" in link:
         return "ctv"
-    elif "theweathernetwork.com" in link:
-        return "weathernetwork"
-    elif "weather.gc.ca" in link:
-        return "weather.gc"
-    else:
-        return "cbc"
+    return "cbc"  # default fallback
 
 def get_category_news(category, feeds):
     all_items = []
@@ -88,7 +82,10 @@ def get_category_news(category, feeds):
             title = entry.title.strip()
             if title not in seen_titles:
                 seen_titles.add(title)
-                source = extract_source(entry.link)
+                if category == "Weather":
+                    source = "weather"
+                else:
+                    source = extract_source(entry.link)
                 rewritten = rewrite_headline(title)
                 all_items.append({
                     "source": source,
@@ -98,7 +95,7 @@ def get_category_news(category, feeds):
                     "category": category
                 })
 
-    return all_items  # ⚠️ Do NOT limit to 5 here — let Liquid control how many to show
+    return all_items  # no limit, Shopify handles slicing with JS
 
 def main():
     os.makedirs("docs", exist_ok=True)
@@ -118,5 +115,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
