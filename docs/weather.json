@@ -1,71 +1,71 @@
 [
   {
     "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "High of zero with periods of snow expected on Tuesday in Canada.",
+    "source_logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
+    "headline": "Midweek Weather Update: Expect a Blend of Sunshine and Clouds with a High of 1°C in Canada.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "Midweek Weather Update: Cloudy with Periods of Clear Skies, Low of -5°C.",
+    "source_logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
+    "headline": "Cloudy Skies and 3.6°C Temperature in Canada: Latest Weather Update",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "Sunday Night Weather Forecast: Partly Cloudy with Low of -5°C",
+    "source_logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
+    "headline": "Tuesday's Weather Forecast: Snowy with a High of Zero",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "\"Ottawa Weather: No Alerts or Warnings Currently in Place\"",
+    "source_logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
+    "headline": "Monday Night Weather Forecast: Chance of Flurries or Rain Showers with Low of -3°C, 60% Probability of Precipitation",
+    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
+    "category": "Weather"
+  },
+  {
+    "source": "weather.gc",
+    "source_logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
+    "headline": "\"Ottawa Weather: No Watches or Warnings Currently in Effect\"",
     "url": "https://weather.gc.ca/index_e.html",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "Weather forecast for Monday night in Canada: 60% chance of flurries or rain showers with a low of minus 3 degrees.",
+    "source_logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
+    "headline": "Sunday Weather Forecast: Chance of Showers with High of +5°C, POP 40%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "Wednesday Weather Forecast: Mix of Sun and Cloud with High of Plus 1 in Canada",
+    "source_logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
+    "headline": "Canadian Weather Forecast: Tuesday Night Flurries with 40% Chance of Snow, Low Temperature of Minus 8",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "\"Canadian Weather Forecast: Monday's High of 6 with Growing Cloud Cover\"",
+    "source_logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
+    "headline": "Weather forecast for Sunday night in Canada: Expect a few clouds with a low of minus 5 degrees.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "Tuesday Night Weather Forecast: Chance of Flurries with Low of Minus 8°C and 40% Probability of Precipitation",
+    "source_logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
+    "headline": "Wednesday night weather forecast: Cloudy with lows dropping to minus 5.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "Sunday Weather Forecast: Chance of Showers with High of Plus 5 and 40% Probability of Precipitation",
-    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
-    "category": "Weather"
-  },
-  {
-    "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "Cloudy Weather Update: Temperature at 3.6°C in Canada",
+    "source_logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
+    "headline": "Monday Weather Forecast: Clouds on the Rise with High of 6 Degrees in Canada",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   }
