@@ -52,7 +52,7 @@ def fetch_with_retries(url, retries=3, delay=3):
 def rewrite_headline(original):
     try:
         response = client.chat.completions.create(
-            model="gpt-4",
+            model="gpt-3.5-turbo",
             messages=[{
                 "role": "user",
                 "content": f"Rewrite this Canadian news headline to make it more SEO-friendly and unique: {original}"
