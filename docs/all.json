@@ -2,15 +2,22 @@
   {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "TikTok deal deadline extended after China pulled out over tariffs: reports",
-    "url": "https://globalnews.ca/news/11116206/tiktok-trump-us-deal-75-day-extension/",
+    "headline": "Carney, Poilievre focus on trades and red tape as Singh tackles health care",
+    "url": "https://globalnews.ca/news/11117392/canada-election-second-weekend-campaign/",
     "category": "Politics"
   },
   {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "China hits back at U.S. with 34% tariff on all products",
-    "url": "https://globalnews.ca/news/11115511/donald-trump-tariffs-china-us/",
+    "headline": "Tories drop candidate who said Quebec massacre survivor plays ‘victim game’",
+    "url": "https://globalnews.ca/news/11116520/canada-election-conservative-candidate-dropped-simon-payette/",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "U.S. set to significantly hike softwood lumber duties against Canada",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/us-hikes-softwood-lumber-duties-1.7503120?cmp=rss",
     "category": "Politics"
   },
   {
@@ -23,36 +30,15 @@
   {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Poilievre defends candidate accused of denying residential schools history",
-    "url": "https://globalnews.ca/news/11117563/conservative-party-candidate-aaron-gunn-pierre-poilievre-defence/",
+    "headline": "China hits back at U.S. with 34% tariff on all products",
+    "url": "https://globalnews.ca/news/11115511/donald-trump-tariffs-china-us/",
     "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Why Anaida Poilievre has taken on an 'outsized role' in her husband's campaign",
-    "url": "https://www.cbc.ca/news/politics/ana-poilievre-campaign-election-pierre-1.7501082?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "As U.S. tariffs roil markets, Canadian businesses build on European ties at world trade fair",
-    "url": "https://www.cbc.ca/news/world/world-trade-canada-tariff-us-1.7501841?cmp=rss",
-    "category": "Business"
   },
   {
     "source": "cbc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
     "headline": "Trump wants to upend the entire global order. Can he stomach the price tag?",
     "url": "https://www.cbc.ca/news/business/trump-tariffs-price-tag-global-economy-1.7501340?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Deadline for TikTok sale extended by 75 days, as Trump vows to work with China",
-    "url": "https://www.cbc.ca/news/business/tiktok-deadline-extended-1.7502361?cmp=rss",
     "category": "Business"
   },
   {
@@ -65,36 +51,43 @@
   {
     "source": "cbc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Suffering from a case of tariff whiplash? Here's what you need to know",
-    "url": "https://www.cbc.ca/news/business/tariff-explainer-1.7501372?cmp=rss",
+    "headline": "Why Canada is on the cusp of a housing construction crisis",
+    "url": "https://www.cbc.ca/news/canada/housing-affordability-construction-canada-1.7499260?cmp=rss",
     "category": "Business"
-  },
-  {
-    "source": "global",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Jays’ Lucas impresses in first start in the majors",
-    "url": "https://globalnews.ca/news/11112841/jays-lucas-impresses-in-first-start-in-the-majors/",
-    "category": "Sports"
-  },
-  {
-    "source": "global",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Easton Lucas delivers for Jays with composed start",
-    "url": "https://globalnews.ca/news/11113080/easton-lucas-delivers-for-jays-with-composed-start/",
-    "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Budding friendship with teammate has Marco Arop 'reinvigorated' entering Grand Slam Track",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/marco-arop-philibert-thiboutot-grand-slam-track-kingston-jamaica-1.7501146?cmp=rss",
+    "headline": "Digging into the 'insane' formula the White House used to calculate its tariffs",
+    "url": "https://www.cbc.ca/news/business/trump-fake-tariff-rates-1.7501604?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Canada lost 33,000 jobs in March as unemployment rate rose slightly to 6.7%",
+    "url": "https://www.cbc.ca/news/business/canada-unemployment-march-2025-1.7501875?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Gabby Thomas, Sydney McLaughlin-Levrone notch wins as Grand Slam Track makes debut",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/grand-slam-track-kingston-april-4-1.7502931?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Alex Ovechkin ties Wayne Gretzky’s NHL goals record",
-    "url": "https://globalnews.ca/news/11117382/alex-ovechkin-ties-wayne-gretzky-nhl-goals-record/",
+    "headline": "Ingram, Dick to miss end of Raptors season",
+    "url": "https://globalnews.ca/news/11116817/ingram-dick-to-miss-end-of-raptors-season/",
+    "category": "Sports"
+  },
+  {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Healthy Walter throwing weight around for Raptors",
+    "url": "https://globalnews.ca/news/11117228/healthy-walter-throwing-weight-around-for-raptors/",
     "category": "Sports"
   },
   {
@@ -105,23 +98,23 @@
     "category": "Sports"
   },
   {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Sharpe powers Trail Blazers past Raptors 112-103",
+    "url": "https://globalnews.ca/news/11115203/sharpe-powers-trail-blazers-past-raptors-112-103/",
+    "category": "Sports"
+  },
+  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "Wednesday: A mix of sun and cloud. High plus 1.",
+    "headline": "Saturday night: Periods of rain or drizzle. Low plus 2.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "Sunday: Chance of rain showers or flurries. High plus 5. POP 40%",
-    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
-    "category": "Weather"
-  },
-  {
-    "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "Tuesday: Periods of snow. High zero.",
+    "headline": "Current Conditions: Mist, 2.6°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
@@ -136,6 +129,13 @@
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
     "headline": "Sunday night: Chance of showers. Low minus 5. POP 40%",
+    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
+    "category": "Weather"
+  },
+  {
+    "source": "weather.gc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
+    "headline": "Tuesday: Periods of snow. High zero.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   }

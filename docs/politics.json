@@ -2,15 +2,22 @@
   {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "TikTok deal deadline extended after China pulled out over tariffs: reports",
-    "url": "https://globalnews.ca/news/11116206/tiktok-trump-us-deal-75-day-extension/",
+    "headline": "Carney, Poilievre focus on trades and red tape as Singh tackles health care",
+    "url": "https://globalnews.ca/news/11117392/canada-election-second-weekend-campaign/",
     "category": "Politics"
   },
   {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "China hits back at U.S. with 34% tariff on all products",
-    "url": "https://globalnews.ca/news/11115511/donald-trump-tariffs-china-us/",
+    "headline": "Tories drop candidate who said Quebec massacre survivor plays ‘victim game’",
+    "url": "https://globalnews.ca/news/11116520/canada-election-conservative-candidate-dropped-simon-payette/",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "U.S. set to significantly hike softwood lumber duties against Canada",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/us-hikes-softwood-lumber-duties-1.7503120?cmp=rss",
     "category": "Politics"
   },
   {
@@ -23,15 +30,8 @@
   {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Poilievre defends candidate accused of denying residential schools history",
-    "url": "https://globalnews.ca/news/11117563/conservative-party-candidate-aaron-gunn-pierre-poilievre-defence/",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Why Anaida Poilievre has taken on an 'outsized role' in her husband's campaign",
-    "url": "https://www.cbc.ca/news/politics/ana-poilievre-campaign-election-pierre-1.7501082?cmp=rss",
+    "headline": "China hits back at U.S. with 34% tariff on all products",
+    "url": "https://globalnews.ca/news/11115511/donald-trump-tariffs-china-us/",
     "category": "Politics"
   }
 ]

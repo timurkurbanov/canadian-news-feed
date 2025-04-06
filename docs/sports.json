@@ -1,30 +1,23 @@
 [
   {
-    "source": "global",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Jays’ Lucas impresses in first start in the majors",
-    "url": "https://globalnews.ca/news/11112841/jays-lucas-impresses-in-first-start-in-the-majors/",
-    "category": "Sports"
-  },
-  {
-    "source": "global",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Easton Lucas delivers for Jays with composed start",
-    "url": "https://globalnews.ca/news/11113080/easton-lucas-delivers-for-jays-with-composed-start/",
-    "category": "Sports"
-  },
-  {
     "source": "cbc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Budding friendship with teammate has Marco Arop 'reinvigorated' entering Grand Slam Track",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/marco-arop-philibert-thiboutot-grand-slam-track-kingston-jamaica-1.7501146?cmp=rss",
+    "headline": "Gabby Thomas, Sydney McLaughlin-Levrone notch wins as Grand Slam Track makes debut",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/grand-slam-track-kingston-april-4-1.7502931?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Alex Ovechkin ties Wayne Gretzky’s NHL goals record",
-    "url": "https://globalnews.ca/news/11117382/alex-ovechkin-ties-wayne-gretzky-nhl-goals-record/",
+    "headline": "Ingram, Dick to miss end of Raptors season",
+    "url": "https://globalnews.ca/news/11116817/ingram-dick-to-miss-end-of-raptors-season/",
+    "category": "Sports"
+  },
+  {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Healthy Walter throwing weight around for Raptors",
+    "url": "https://globalnews.ca/news/11117228/healthy-walter-throwing-weight-around-for-raptors/",
     "category": "Sports"
   },
   {
@@ -32,6 +25,13 @@
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
     "headline": "Sharpe coming into focus in third NBA season",
     "url": "https://globalnews.ca/news/11115279/sharpe-coming-into-focus-in-third-nba-season/",
+    "category": "Sports"
+  },
+  {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Sharpe powers Trail Blazers past Raptors 112-103",
+    "url": "https://globalnews.ca/news/11115203/sharpe-powers-trail-blazers-past-raptors-112-103/",
     "category": "Sports"
   }
 ]
