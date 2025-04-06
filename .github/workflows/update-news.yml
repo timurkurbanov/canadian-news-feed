@@ -25,6 +25,8 @@ jobs:
 
       - name: 🔁 Run update script to generate all JSON feeds
         run: python .github/scripts/update_news.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
       - name: 🚀 Commit and Push updated JSON files
         run: |
