@@ -3,10 +3,10 @@ import json
 import random
 import os
 import time
-import openai  # ← import directly
+from openai import OpenAI
 
-openai.api_key = os.getenv("OPENAI_API_KEY")  # ← correctly set key
-
+# Initialize OpenAI client
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # RSS feeds grouped by category
 rss_feeds = {
@@ -51,7 +51,7 @@ def fetch_with_retries(url, retries=3, delay=3):
 
 def rewrite_headline(original):
     try:
-        response = openai.chat.completions.create(
+        response = client.chat.completions.create(
             model="gpt-4",
             messages=[{
                 "role": "user",
@@ -59,7 +59,9 @@ def rewrite_headline(original):
             }],
             temperature=0.7,
         )
-        return response.choices[0].message.content.strip()
+        rewritten = response.choices[0].message.content.strip()
+        print(f"✅ Rewritten: {original} => {rewritten}")
+        return rewritten
     except Exception as e:
         print(f"⚠️ Failed to rewrite headline: {original}\n{e}")
         return original
@@ -97,7 +99,7 @@ def get_category_news(category, feeds):
                     "category": category
                 })
 
-    return all_items  # No limit!
+    return all_items
 
 def main():
     os.makedirs("docs", exist_ok=True)
@@ -106,14 +108,10 @@ def main():
     for category, feeds in rss_feeds.items():
         print(f"🔎 Processing category: {category}")
         items = get_category_news(category, feeds)
-
-        # Save category-specific JSON file
         with open(f"docs/{category.lower()}.json", "w", encoding="utf-8") as f:
             json.dump(items, f, indent=2, ensure_ascii=False)
-
         combined.extend(items)
 
-    # Save full ALL news JSON file (no limit)
     with open("docs/canada-news.json", "w", encoding="utf-8") as f:
         json.dump(combined, f, indent=2, ensure_ascii=False)
 
