@@ -3,10 +3,10 @@ import json
 import random
 import os
 import time
-import openai
+from openai import OpenAI
 
-# ✅ Correct OpenAI API key setup for v1+
-openai.api_key = os.getenv("OPENAI_API_KEY")
+# Initialize OpenAI client for SDK v1+
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # RSS feeds grouped by category
 rss_feeds = {
@@ -31,7 +31,7 @@ rss_feeds = {
     ]
 }
 
-# Logos for each source
+# Logo for each source
 logos = {
     "cbc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
     "global": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
@@ -51,7 +51,7 @@ def fetch_with_retries(url, retries=3, delay=3):
 
 def rewrite_headline(original):
     try:
-        response = openai.ChatCompletion.create(
+        response = client.chat.completions.create(
             model="gpt-4",
             messages=[{
                 "role": "user",
@@ -75,7 +75,7 @@ def extract_source(link):
         return "weathernetwork"
     elif "weather.gc.ca" in link:
         return "weather.gc"
-    return "cbc"  # fallback
+    return "cbc"
 
 def get_category_news(category, feeds):
     all_items = []
@@ -97,23 +97,32 @@ def get_category_news(category, feeds):
                     "category": category
                 })
 
-    random.shuffle(all_items)  # ✅ Shuffle inside category
+    random.shuffle(all_items)
     return all_items
-
 
 def main():
     os.makedirs("docs", exist_ok=True)
-    combined = []
+    all_by_category = {}
 
+    # Generate per-category JSON and collect for interleaving
     for category, feeds in rss_feeds.items():
         print(f"🔎 Processing category: {category}")
         items = get_category_news(category, feeds)
         with open(f"docs/{category.lower()}.json", "w", encoding="utf-8") as f:
             json.dump(items, f, indent=2, ensure_ascii=False)
-        combined.extend(items)
+        all_by_category[category] = items
 
-    # ✅ Shuffle to avoid repeated source dominance
-    random.shuffle(combined)
+    # Interleave across all categories to balance sources
+    combined = []
+    max_len = max(len(items) for items in all_by_category.values())
+
+    for i in range(max_len):
+        for category in rss_feeds.keys():
+            if i < len(all_by_category[category]):
+                combined.append(all_by_category[category][i])
+
+    # Optionally shuffle top 20
+    combined[:20] = random.sample(combined[:20], len(combined[:20]))
 
     with open("docs/all.json", "w", encoding="utf-8") as f:
         json.dump(combined, f, indent=2, ensure_ascii=False)
