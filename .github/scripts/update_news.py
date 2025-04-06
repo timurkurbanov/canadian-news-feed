@@ -36,11 +36,10 @@ source_logos = {
     "weather.gc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410"
 }
 
-# Rewrite headline with OpenAI
 def rewrite_headline(original):
     try:
         response = openai.ChatCompletion.create(
-            model="gpt-4",
+            model="gpt-3.5-turbo",
             messages=[
                 {"role": "system", "content": "You are a helpful assistant that rephrases headlines for clarity and SEO."},
                 {"role": "user", "content": f"Rewrite this Canadian news headline for clarity and SEO: {original}"}
@@ -48,10 +47,14 @@ def rewrite_headline(original):
             temperature=0.7,
             max_tokens=60
         )
-        return response['choices'][0]['message']['content'].strip()
+        rewritten = response['choices'][0]['message']['content'].strip()
+        print(f"🔹 Original: {original}")
+        print(f"🔹 Rewritten: {rewritten}")
+        return rewritten
     except Exception as e:
         print(f"⚠️ Failed to rewrite headline: {original}\nError: {e}")
         return original
+
 
 # Parse feeds and classify
 def parse_and_classify():
