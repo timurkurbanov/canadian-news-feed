@@ -3,10 +3,10 @@ import json
 import random
 import os
 import time
-from openai import OpenAI
+import openai  # ← import directly
 
-# Initialize OpenAI client
-openai = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+openai.api_key = os.getenv("OPENAI_API_KEY")  # ← correctly set key
+
 
 # RSS feeds grouped by category
 rss_feeds = {
