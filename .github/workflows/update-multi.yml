@@ -1,0 +1,41 @@
+name: Update All Canada News Sections
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install openai==1.12.0 feedparser
+
+      - name: Run ALL update scripts
+        run: |
+          python .github/scripts/update_news.py
+          python .github/scripts/update_politics.py
+          python .github/scripts/update_business.py
+          python .github/scripts/update_sports.py
+          python .github/scripts/update_weather.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add docs/*.json
+          git commit -m "Update all Canada news JSON files" || echo "No changes"
+          git push
