@@ -31,12 +31,13 @@ rss_feeds = {
     ]
 }
 
-# Logo for each source
+# Logos for each source
 logos = {
     "cbc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
     "global": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
     "ctv": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/ctv.png?v=1742728179",
-    "weather": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181"
+    "weathernetwork": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/weather.png?v=1742728180",
+    "weather.gc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181"
 }
 
 def fetch_with_retries(url, retries=3, delay=3):
@@ -70,7 +71,11 @@ def extract_source(link):
         return "global"
     elif "ctvnews.ca" in link:
         return "ctv"
-    return "cbc"  # default fallback
+    elif "theweathernetwork.com" in link:
+        return "weathernetwork"
+    elif "weather.gc.ca" in link:
+        return "weather.gc"
+    return "cbc"  # fallback
 
 def get_category_news(category, feeds):
     all_items = []
@@ -82,10 +87,7 @@ def get_category_news(category, feeds):
             title = entry.title.strip()
             if title not in seen_titles:
                 seen_titles.add(title)
-                if category == "Weather":
-                    source = "weather"
-                else:
-                    source = extract_source(entry.link)
+                source = extract_source(entry.link)
                 rewritten = rewrite_headline(title)
                 all_items.append({
                     "source": source,
@@ -95,7 +97,7 @@ def get_category_news(category, feeds):
                     "category": category
                 })
 
-    return all_items  # no limit, Shopify handles slicing with JS
+    return all_items
 
 def main():
     os.makedirs("docs", exist_ok=True)
@@ -115,3 +117,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
