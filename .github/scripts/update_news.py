@@ -5,7 +5,7 @@ import os
 import time
 import openai
 
-# Set your API key securely
+# Set OpenAI API key
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # RSS feeds grouped by category
@@ -31,6 +31,7 @@ rss_feeds = {
     ]
 }
 
+# Logo for each source
 logos = {
     "cbc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
     "global": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
@@ -50,17 +51,17 @@ def fetch_with_retries(url, retries=3, delay=3):
 
 def rewrite_headline(original):
     try:
-        response = openai.ChatCompletion.create(
+        response = openai.chat.completions.create(
             model="gpt-4",
-            messages=[{
-                "role": "user",
-                "content": f"Rewrite this Canadian news headline to make it more SEO-friendly and unique: {original}"
-            }],
-            temperature=0.7,
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant that rewrites Canadian news headlines for SEO."},
+                {"role": "user", "content": f"Rewrite this headline to be SEO-friendly and unique: {original}"}
+            ],
+            temperature=0.7
         )
         return response.choices[0].message.content.strip()
     except Exception as e:
-        print(f"⚠️ Failed to rewrite headline: {original}\n{e}")
+        print(f"\u26a0\ufe0f Failed to rewrite headline: {original}\n{e}")
         return original
 
 def extract_source(link):
@@ -96,23 +97,23 @@ def get_category_news(category, feeds):
                     "category": category
                 })
 
-    return all_items  # DO NOT LIMIT TO 5!
+    return all_items
 
 def main():
     os.makedirs("docs", exist_ok=True)
     combined = []
 
     for category, feeds in rss_feeds.items():
-        print(f"🔎 Processing category: {category}")
+        print(f"\U0001f50e Processing category: {category}")
         items = get_category_news(category, feeds)
         with open(f"docs/{category.lower()}.json", "w", encoding="utf-8") as f:
             json.dump(items, f, indent=2, ensure_ascii=False)
         combined.extend(items)
 
-    with open("docs/canada-news.json", "w", encoding="utf-8") as f:
+    with open("docs/all.json", "w", encoding="utf-8") as f:
         json.dump(combined, f, indent=2, ensure_ascii=False)
 
-    print("✅ All feeds updated!")
+    print("\u2705 All feeds updated!")
 
 if __name__ == "__main__":
     main()
