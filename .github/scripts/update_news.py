@@ -97,7 +97,9 @@ def get_category_news(category, feeds):
                     "category": category
                 })
 
+    random.shuffle(all_items)  # ✅ Shuffle inside category
     return all_items
+
 
 def main():
     os.makedirs("docs", exist_ok=True)
