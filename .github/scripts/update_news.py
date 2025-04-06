@@ -5,7 +5,7 @@ import os
 import time
 from openai import OpenAI
 
-# Initialize OpenAI client properly
+# ✅ Initialize OpenAI client
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # RSS feeds grouped by category
@@ -97,6 +97,7 @@ def get_category_news(category, feeds):
                     "category": category
                 })
 
+    random.shuffle(all_items)
     return all_items
 
 def main():
@@ -106,12 +107,11 @@ def main():
     for category, feeds in rss_feeds.items():
         print(f"🔎 Processing category: {category}")
         items = get_category_news(category, feeds)
-        random.shuffle(items)  # Shuffle per category
         with open(f"docs/{category.lower()}.json", "w", encoding="utf-8") as f:
             json.dump(items, f, indent=2, ensure_ascii=False)
         combined.extend(items)
 
-    # Final shuffle for /all.json
+    # ✅ Shuffle all before writing
     random.shuffle(combined)
 
     with open("docs/all.json", "w", encoding="utf-8") as f:
