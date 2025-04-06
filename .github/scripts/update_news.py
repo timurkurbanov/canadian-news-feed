@@ -40,7 +40,6 @@ logos = {
     "weather.gc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181"
 }
 
-
 def fetch_with_retries(url, retries=3, delay=3):
     for attempt in range(retries):
         try:
@@ -62,7 +61,7 @@ def rewrite_headline(original):
         )
         return response.choices[0].message.content.strip()
     except Exception as e:
-        print(f"\u26a0\ufe0f Failed to rewrite headline: {original}\n{e}")
+        print(f"⚠️ Failed to rewrite headline: {original}\n{e}")
         return original
 
 def extract_source(link):
@@ -72,11 +71,12 @@ def extract_source(link):
         return "global"
     elif "ctvnews.ca" in link:
         return "ctv"
-    elif "weathernetwork" in link:
+    elif "theweathernetwork.com" in link:
         return "weathernetwork"
     elif "weather.gc.ca" in link:
-        return "weathergc"
-    return "cbc"
+        return "weather.gc"
+    else:
+        return "cbc"
 
 def get_category_news(category, feeds):
     all_items = []
@@ -98,14 +98,14 @@ def get_category_news(category, feeds):
                     "category": category
                 })
 
-    return random.sample(all_items, min(10, len(all_items)))
+    return all_items  # ⚠️ Do NOT limit to 5 here — let Liquid control how many to show
 
 def main():
     os.makedirs("docs", exist_ok=True)
     combined = []
 
     for category, feeds in rss_feeds.items():
-        print(f"\U0001f50e Processing category: {category}")
+        print(f"🔎 Processing category: {category}")
         items = get_category_news(category, feeds)
         with open(f"docs/{category.lower()}.json", "w", encoding="utf-8") as f:
             json.dump(items, f, indent=2, ensure_ascii=False)
@@ -114,8 +114,9 @@ def main():
     with open("docs/all.json", "w", encoding="utf-8") as f:
         json.dump(combined, f, indent=2, ensure_ascii=False)
 
-    print("\u2705 All feeds updated!")
+    print("✅ All feeds updated!")
 
 if __name__ == "__main__":
     main()
+
 
