@@ -3,10 +3,10 @@ import json
 import random
 import os
 import time
-import openai
+from openai import OpenAI
 
-# Set OpenAI API key
-openai.api_key = os.getenv("OPENAI_API_KEY")
+# Initialize OpenAI client
+openai = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # RSS feeds grouped by category
 rss_feeds = {
@@ -37,7 +37,7 @@ logos = {
     "global": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
     "ctv": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/ctv.png?v=1742728179",
     "weathernetwork": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/weather.png?v=1742728180",
-    "weather.gc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181"
+    "weathergc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181"
 }
 
 def fetch_with_retries(url, retries=3, delay=3):
@@ -53,11 +53,11 @@ def rewrite_headline(original):
     try:
         response = openai.chat.completions.create(
             model="gpt-4",
-            messages=[
-                {"role": "system", "content": "You are a helpful assistant that rewrites Canadian news headlines for SEO."},
-                {"role": "user", "content": f"Rewrite this headline to be SEO-friendly and unique: {original}"}
-            ],
-            temperature=0.7
+            messages=[{
+                "role": "user",
+                "content": f"Rewrite this Canadian news headline to make it more SEO-friendly and unique: {original}"
+            }],
+            temperature=0.7,
         )
         return response.choices[0].message.content.strip()
     except Exception as e:
@@ -74,7 +74,7 @@ def extract_source(link):
     elif "weathernetwork" in link:
         return "weathernetwork"
     elif "weather.gc.ca" in link:
-        return "weather.gc"
+        return "weathergc"
     return "cbc"
 
 def get_category_news(category, feeds):
@@ -97,7 +97,7 @@ def get_category_news(category, feeds):
                     "category": category
                 })
 
-    return all_items
+    return random.sample(all_items, min(10, len(all_items)))
 
 def main():
     os.makedirs("docs", exist_ok=True)
@@ -117,5 +117,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-
 
