@@ -3,10 +3,10 @@ import json
 import random
 import os
 import time
-import openai
+from openai import OpenAI
 
-# ✅ Set OpenAI API Key (modern SDK syntax)
-openai.api_key = os.getenv("OPENAI_API_KEY")
+# Initialize OpenAI client properly
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # RSS feeds grouped by category
 rss_feeds = {
@@ -51,7 +51,7 @@ def fetch_with_retries(url, retries=3, delay=3):
 
 def rewrite_headline(original):
     try:
-        response = openai.chat.completions.create(
+        response = client.chat.completions.create(
             model="gpt-4",
             messages=[{
                 "role": "user",
@@ -97,8 +97,6 @@ def get_category_news(category, feeds):
                     "category": category
                 })
 
-    # ✅ Shuffle headlines in each category
-    random.shuffle(all_items)
     return all_items
 
 def main():
@@ -108,11 +106,12 @@ def main():
     for category, feeds in rss_feeds.items():
         print(f"🔎 Processing category: {category}")
         items = get_category_news(category, feeds)
+        random.shuffle(items)  # Shuffle per category
         with open(f"docs/{category.lower()}.json", "w", encoding="utf-8") as f:
             json.dump(items, f, indent=2, ensure_ascii=False)
         combined.extend(items)
 
-    # ✅ Final shuffle to ensure top headlines vary
+    # Final shuffle for /all.json
     random.shuffle(combined)
 
     with open("docs/all.json", "w", encoding="utf-8") as f:
@@ -122,3 +121,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
