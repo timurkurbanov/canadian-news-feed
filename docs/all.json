@@ -1,142 +1,9 @@
 [
   {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Why Canada is on the cusp of a housing construction crisis",
-    "url": "https://www.cbc.ca/news/canada/housing-affordability-construction-canada-1.7499260?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Why Anaida Poilievre has taken on an 'outsized role' in her husband's campaign",
-    "url": "https://www.cbc.ca/news/politics/ana-poilievre-campaign-election-pierre-1.7501082?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Arrest made after man 'barricaded' himself in Parliament Hill's East Block, say police",
-    "url": "https://www.cbc.ca/news/politics/parliament-hill-lockdown-1.7503089?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "Tuesday: Periods of snow. High zero.",
-    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
-    "category": "Weather"
-  },
-  {
-    "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "No watches or warnings in effect, Ottawa",
-    "url": "https://weather.gc.ca/index_e.html",
-    "category": "Weather"
-  },
-  {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Ingram, Dick to miss end of Raptors season",
-    "url": "https://globalnews.ca/news/11116817/ingram-dick-to-miss-end-of-raptors-season/",
-    "category": "Sports"
-  },
-  {
-    "source": "global",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Trump wants NATO to spend 5% on defence. What do Canada party leaders say?",
-    "url": "https://globalnews.ca/news/11115774/canada-election-defence-spending-nato-trump/",
-    "category": "Politics"
-  },
-  {
-    "source": "global",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Healthy Walter throwing weight around for Raptors",
-    "url": "https://globalnews.ca/news/11117228/healthy-walter-throwing-weight-around-for-raptors/",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Fissure among Conservatives undermining Poilievre's pitch he's a national unifier: experts",
-    "url": "https://www.cbc.ca/news/politics/poilievre-manning-smith-fissure-conservative-movement-1.7502543?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "Sunday: Chance of showers. High plus 5. POP 40%",
-    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
-    "category": "Weather"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Canada lost 33,000 jobs in March as unemployment rate rose slightly to 6.7%",
-    "url": "https://www.cbc.ca/news/business/canada-unemployment-march-2025-1.7501875?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Markets plunge worldwide for a second day straight following China's tariff retaliation",
-    "url": "https://www.cbc.ca/news/business/stock-market-falls-1.7501962?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Gabby Thomas, Sydney McLaughlin-Levrone notch wins as Grand Slam Track makes debut",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/grand-slam-track-kingston-april-4-1.7502931?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "Current Conditions: Cloudy, 3.6°C",
-    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
-    "category": "Weather"
-  },
-  {
-    "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "Tuesday night: Chance of flurries. Low minus 8. POP 40%",
-    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
-    "category": "Weather"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Ovechkin ties Gretzky's once-unthinkable NHL career goals record with No. 894",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/alex-ovechkin-record-chase-april-4-1.7502652?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Canadian women's rugby 7s team advance to Cup semifinals in Singapore",
-    "url": "https://www.cbc.ca/sports/rugby/canada-rugby-sevens-singapore-april-5-1.7503011?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "global",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "TikTok deal deadline extended after China pulled out over tariffs: reports",
-    "url": "https://globalnews.ca/news/11116206/tiktok-trump-us-deal-75-day-extension/",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Global stock markets reeling following Trump's tariffs shock",
-    "url": "https://www.cbc.ca/news/business/eu-countermeasures-us-tariffs-1.7500731?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Singh promises more doctors, Carney supports the trades, Poilievre vows to cut red tape",
-    "url": "https://www.cbc.ca/news/politics/singh-promises-more-doctors-carney-supports-the-trades-poilievre-vows-to-cut-red-tape-1.7502992?cmp=rss",
+    "headline": "Tories drop candidate who said Quebec massacre survivor plays ‘victim game’",
+    "url": "https://globalnews.ca/news/11116520/canada-election-conservative-candidate-dropped-simon-payette/",
     "category": "Politics"
   },
   {
@@ -145,20 +12,6 @@
     "headline": "Sunday night: A few clouds. Low minus 5.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Digging into the 'insane' formula the White House used to calculate its tariffs",
-    "url": "https://www.cbc.ca/news/business/trump-fake-tariff-rates-1.7501604?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Nomination contenders accuse Conservatives of skipping nomination process in Brampton",
-    "url": "https://www.cbc.ca/news/canada/toronto/brampton-conservative-nomination-contenders-1.7503094?cmp=rss",
-    "category": "Politics"
   },
   {
     "source": "weather.gc",
@@ -170,58 +23,16 @@
   {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Tories drop candidate who said Quebec massacre survivor plays ‘victim game’",
-    "url": "https://globalnews.ca/news/11116520/canada-election-conservative-candidate-dropped-simon-payette/",
-    "category": "Politics"
-  },
-  {
-    "source": "global",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Carney, Singh pledge support for CBC/Radio-Canada amid U.S. threats",
-    "url": "https://globalnews.ca/news/11116941/carney-singh-pledge-support-for-cbc-radio-canada-amid-u-s-threats/",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "What to watch this weekend in Olympic sports",
-    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-lookahead-april-4-1.7502574?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Canada's Marco Arop finishes 6th in 3rd career 1500m at Grand Slam Track event",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/grand-slam-track-kingston-april-5-1.7503021?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Carmelo Anthony, Dwight Howard and Sue Bird highlight Basketball Hall of Fame class",
-    "url": "https://www.cbc.ca/sports/basketball/nba/naismith-basketball-hall-of-fame-nba-april-5-1.7503015?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Canada wins 4x100m race at Florida Relays",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/florida-relays-canada-gold-2025-1.7503047?cmp=rss",
+    "headline": "Healthy Walter throwing weight around for Raptors",
+    "url": "https://globalnews.ca/news/11117228/healthy-walter-throwing-weight-around-for-raptors/",
     "category": "Sports"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "Wednesday: A mix of sun and cloud. High plus 1.",
-    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
+    "headline": "No watches or warnings in effect, Ottawa",
+    "url": "https://weather.gc.ca/index_e.html",
     "category": "Weather"
-  },
-  {
-    "source": "global",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Alex Ovechkin ties Wayne Gretzky’s NHL goals record",
-    "url": "https://globalnews.ca/news/11117382/alex-ovechkin-ties-wayne-gretzky-nhl-goals-record/",
-    "category": "Sports"
   },
   {
     "source": "cbc",
@@ -233,23 +44,240 @@
   {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "TikTok deal deadline extended after China pulled out over tariffs: reports",
+    "url": "https://globalnews.ca/news/11116206/tiktok-trump-us-deal-75-day-extension/",
+    "category": "Politics"
+  },
+  {
+    "source": "weather.gc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
+    "headline": "Wednesday: A mix of sun and cloud. High plus 1.",
+    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
+    "category": "Weather"
+  },
+  {
+    "source": "weather.gc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
+    "headline": "Wednesday night: Cloudy periods. Low minus 5.",
+    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
+    "category": "Weather"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Alexa McDonough's family helps NDP campaign in Halifax",
+    "url": "https://www.cbc.ca/news/politics/mcdonough-halifax-ndp-1.7503123?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Canada's Marco Arop finishes 6th in 3rd career 1500m at Grand Slam Track event",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/grand-slam-track-kingston-april-5-1.7503021?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "weather.gc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
+    "headline": "Sunday: Chance of showers. High plus 5. POP 40%",
+    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
+    "category": "Weather"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Arrest made after man 'barricaded' himself in Parliament Hill's East Block, say police",
+    "url": "https://www.cbc.ca/news/politics/parliament-hill-lockdown-1.7503089?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Nomination contenders accuse Conservatives of skipping nomination process in Brampton",
+    "url": "https://www.cbc.ca/news/canada/toronto/brampton-conservative-nomination-contenders-1.7503094?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "A reprieve for snowbirds? Trump administration sued over traveller registration requirement",
+    "url": "https://www.cbc.ca/news/business/snowbirds-sue-registration-1.7500683?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Hardaway has 23 points as Pistons top Raptors",
+    "url": "https://globalnews.ca/news/11117185/hardaway-has-23-points-as-pistons-top-raptors/",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Why Anaida Poilievre has taken on an 'outsized role' in her husband's campaign",
+    "url": "https://www.cbc.ca/news/politics/ana-poilievre-campaign-election-pierre-1.7501082?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "U.S. set to significantly hike softwood lumber duties against Canada",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/us-hikes-softwood-lumber-duties-1.7503120?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Mark Carney says Edmonton candidate is ‘no longer’ in the race",
+    "url": "https://globalnews.ca/news/11115658/liberal-candidate-dropped-edmonton/",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Singh promises more doctors, Carney supports the trades, Poilievre vows to cut red tape",
+    "url": "https://www.cbc.ca/news/politics/singh-promises-more-doctors-carney-supports-the-trades-poilievre-vows-to-cut-red-tape-1.7502992?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Carmelo Anthony, Dwight Howard and Sue Bird highlight Basketball Hall of Fame class",
+    "url": "https://www.cbc.ca/sports/basketball/nba/naismith-basketball-hall-of-fame-nba-april-5-1.7503015?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Ovechkin ties Gretzky's once-unthinkable NHL career goals record with No. 894",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/alex-ovechkin-record-chase-april-4-1.7502652?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Poilievre defends candidate accused of denying residential schools history",
+    "url": "https://globalnews.ca/news/11117563/conservative-party-candidate-aaron-gunn-pierre-poilievre-defence/",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Canada's Éliot Grondin clinches snowboard cross Crystal Globe with silver-medal win in Quebec",
+    "url": "https://www.cbc.ca/sports/olympics/winter/snowboard/eliot-grondin-snowboard-cross-world-cup-mont-sainte-anne-april-5-1.7502988?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Sharpe coming into focus in third NBA season",
+    "url": "https://globalnews.ca/news/11115279/sharpe-coming-into-focus-in-third-nba-season/",
+    "category": "Sports"
+  },
+  {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Easton Lucas delivers for Jays with composed start",
+    "url": "https://globalnews.ca/news/11113080/easton-lucas-delivers-for-jays-with-composed-start/",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Canada falls to Scotland, will play China for bronze at world curling playdowns",
+    "url": "https://www.cbc.ca/sports/olympics/winter/curling/bkt-mens-curling-april-5-1.7503052?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Alex Ovechkin ties Wayne Gretzky’s NHL goals record",
+    "url": "https://globalnews.ca/news/11117382/alex-ovechkin-ties-wayne-gretzky-nhl-goals-record/",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Trump wants to upend the entire global order. Can he stomach the price tag?",
+    "url": "https://www.cbc.ca/news/business/trump-tariffs-price-tag-global-economy-1.7501340?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Canada wins 4x100m race at Florida Relays",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/florida-relays-canada-gold-2025-1.7503047?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
     "headline": "Carney, Poilievre focus on trades and red tape as Singh tackles health care",
     "url": "https://globalnews.ca/news/11117392/canada-election-second-weekend-campaign/",
     "category": "Politics"
   },
   {
-    "source": "global",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Canada wanted to ‘cooperate’ on illegal immigration. Trump chose tariffs",
-    "url": "https://globalnews.ca/news/11113722/donald-trump-canada-immigration/",
-    "category": "Politics"
+    "source": "weather.gc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
+    "headline": "Tuesday night: Chance of flurries. Low minus 8. POP 40%",
+    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
+    "category": "Weather"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Budding friendship with teammate has Marco Arop 'reinvigorated' entering Grand Slam Track",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/marco-arop-philibert-thiboutot-grand-slam-track-kingston-jamaica-1.7501146?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Canada lost 33,000 jobs in March as unemployment rate rose slightly to 6.7%",
+    "url": "https://www.cbc.ca/news/business/canada-unemployment-march-2025-1.7501875?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Global stock markets reeling following Trump's tariffs shock",
+    "url": "https://www.cbc.ca/news/business/eu-countermeasures-us-tariffs-1.7500731?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "weather.gc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
+    "headline": "Tuesday: Periods of snow. High zero.",
+    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
+    "category": "Weather"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Gabby Thomas, Sydney McLaughlin-Levrone notch wins as Grand Slam Track makes debut",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/grand-slam-track-kingston-april-4-1.7502931?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Suffering from a case of tariff whiplash? Here's what you need to know",
+    "url": "https://www.cbc.ca/news/business/tariff-explainer-1.7501372?cmp=rss",
+    "category": "Business"
   },
   {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Poilievre promises tougher penalties for intimate partner violence",
-    "url": "https://globalnews.ca/news/11116108/conservative-intimate-partner-violence-plan/",
+    "headline": "Inside the NDP’s struggling campaign as party faces possible collapse",
+    "url": "https://globalnews.ca/news/11115129/inside-the-ndps-struggling-federal-election-campaign/",
     "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Digging into the 'insane' formula the White House used to calculate its tariffs",
+    "url": "https://www.cbc.ca/news/business/trump-fake-tariff-rates-1.7501604?cmp=rss",
+    "category": "Business"
   },
   {
     "source": "global",
@@ -266,74 +294,18 @@
     "category": "Sports"
   },
   {
-    "source": "global",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Hardaway has 23 points as Pistons top Raptors",
-    "url": "https://globalnews.ca/news/11117185/hardaway-has-23-points-as-pistons-top-raptors/",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Why Canada is on the cusp of a housing construction crisis",
-    "url": "https://www.cbc.ca/news/canada/housing-affordability-construction-canada-1.7499260?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Canada's Éliot Grondin clinches snowboard cross Crystal Globe with silver-medal win in Quebec",
-    "url": "https://www.cbc.ca/sports/olympics/winter/snowboard/eliot-grondin-snowboard-cross-world-cup-mont-sainte-anne-april-5-1.7502988?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "global",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Mark Carney says Edmonton candidate is ‘no longer’ in the race",
-    "url": "https://globalnews.ca/news/11115658/liberal-candidate-dropped-edmonton/",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Trump wants to upend the entire global order. Can he stomach the price tag?",
-    "url": "https://www.cbc.ca/news/business/trump-tariffs-price-tag-global-economy-1.7501340?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Carney distances himself from late father's views of Indigenous children, residential schools",
-    "url": "https://www.cbc.ca/news/politics/mark-carney-robert-indigenous-people-residential-schools-defence-1.7502997?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "global",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Raptors sign Swider for remainder of NBA season",
-    "url": "https://globalnews.ca/news/11117556/raptors-sign-swider-for-remainder-of-nba-season/",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "As U.S. tariffs roil markets, Canadian businesses build on European ties at world trade fair",
-    "url": "https://www.cbc.ca/news/world/world-trade-canada-tariff-us-1.7501841?cmp=rss",
-    "category": "Business"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "Wednesday night: Cloudy periods. Low minus 5.",
+    "headline": "Monday: Increasing cloudiness. High 6.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
-    "source": "global",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Inside the NDP’s struggling campaign as party faces possible collapse",
-    "url": "https://globalnews.ca/news/11115129/inside-the-ndps-struggling-federal-election-campaign/",
-    "category": "Politics"
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "What to watch this weekend in Olympic sports",
+    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-lookahead-april-4-1.7502574?cmp=rss",
+    "category": "Sports"
   },
   {
     "source": "global",
@@ -345,58 +317,93 @@
   {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Poilievre defends candidate accused of denying residential schools history",
-    "url": "https://globalnews.ca/news/11117563/conservative-party-candidate-aaron-gunn-pierre-poilievre-defence/",
+    "headline": "Ingram, Dick to miss end of Raptors season",
+    "url": "https://globalnews.ca/news/11116817/ingram-dick-to-miss-end-of-raptors-season/",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Carney distances himself from late father's views of Indigenous children, residential schools",
+    "url": "https://www.cbc.ca/news/politics/mark-carney-robert-indigenous-people-residential-schools-defence-1.7502997?cmp=rss",
     "category": "Politics"
   },
   {
     "source": "cbc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Alexa McDonough's family helps NDP campaign in Halifax",
-    "url": "https://www.cbc.ca/news/politics/mcdonough-halifax-ndp-1.7503123?cmp=rss",
+    "headline": "Fissure among Conservatives undermining Poilievre's pitch he's a national unifier: experts",
+    "url": "https://www.cbc.ca/news/politics/poilievre-manning-smith-fissure-conservative-movement-1.7502543?cmp=rss",
     "category": "Politics"
   },
   {
     "source": "global",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Sharpe coming into focus in third NBA season",
-    "url": "https://globalnews.ca/news/11115279/sharpe-coming-into-focus-in-third-nba-season/",
-    "category": "Sports"
+    "headline": "Canada wanted to ‘cooperate’ on illegal immigration. Trump chose tariffs",
+    "url": "https://globalnews.ca/news/11113722/donald-trump-canada-immigration/",
+    "category": "Politics"
+  },
+  {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Carney, Singh pledge support for CBC/Radio-Canada amid U.S. threats",
+    "url": "https://globalnews.ca/news/11116941/carney-singh-pledge-support-for-cbc-radio-canada-amid-u-s-threats/",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Markets plunge worldwide for a second day straight following China's tariff retaliation",
+    "url": "https://www.cbc.ca/news/business/stock-market-falls-1.7501962?cmp=rss",
+    "category": "Business"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/environment_canada.png?v=1742728181",
-    "headline": "Monday: Increasing cloudiness. High 6.",
+    "headline": "Current Conditions: Cloudy, 3.6°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "cbc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Canada falls to Scotland, will play China for bronze at world curling playdowns",
-    "url": "https://www.cbc.ca/sports/olympics/winter/curling/bkt-mens-curling-april-5-1.7503052?cmp=rss",
+    "headline": "Why Canada is on the cusp of a housing construction crisis",
+    "url": "https://www.cbc.ca/news/canada/housing-affordability-construction-canada-1.7499260?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "headline": "Canadian women's rugby 7s team advance to Cup semifinals in Singapore",
+    "url": "https://www.cbc.ca/sports/rugby/canada-rugby-sevens-singapore-april-5-1.7503011?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Suffering from a case of tariff whiplash? Here's what you need to know",
-    "url": "https://www.cbc.ca/news/business/tariff-explainer-1.7501372?cmp=rss",
+    "headline": "As U.S. tariffs roil markets, Canadian businesses build on European ties at world trade fair",
+    "url": "https://www.cbc.ca/news/world/world-trade-canada-tariff-us-1.7501841?cmp=rss",
     "category": "Business"
   },
   {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "A reprieve for snowbirds? Trump administration sued over traveller registration requirement",
-    "url": "https://www.cbc.ca/news/business/snowbirds-sue-registration-1.7500683?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "Budding friendship with teammate has Marco Arop 'reinvigorated' entering Grand Slam Track",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/marco-arop-philibert-thiboutot-grand-slam-track-kingston-jamaica-1.7501146?cmp=rss",
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Raptors sign Swider for remainder of NBA season",
+    "url": "https://globalnews.ca/news/11117556/raptors-sign-swider-for-remainder-of-nba-season/",
     "category": "Sports"
+  },
+  {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Trump wants NATO to spend 5% on defence. What do Canada party leaders say?",
+    "url": "https://globalnews.ca/news/11115774/canada-election-defence-spending-nato-trump/",
+    "category": "Politics"
+  },
+  {
+    "source": "global",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "headline": "Poilievre promises tougher penalties for intimate partner violence",
+    "url": "https://globalnews.ca/news/11116108/conservative-intimate-partner-violence-plan/",
+    "category": "Politics"
   },
   {
     "source": "cbc",
@@ -406,17 +413,10 @@
     "category": "Politics"
   },
   {
-    "source": "global",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "headline": "Easton Lucas delivers for Jays with composed start",
-    "url": "https://globalnews.ca/news/11113080/easton-lucas-delivers-for-jays-with-composed-start/",
-    "category": "Sports"
-  },
-  {
     "source": "cbc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "headline": "U.S. set to significantly hike softwood lumber duties against Canada",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/us-hikes-softwood-lumber-duties-1.7503120?cmp=rss",
-    "category": "Politics"
+    "headline": "Why Canada is on the cusp of a housing construction crisis",
+    "url": "https://www.cbc.ca/news/canada/housing-affordability-construction-canada-1.7499260?cmp=rss",
+    "category": "Business"
   }
 ]
