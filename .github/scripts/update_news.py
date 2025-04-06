@@ -110,10 +110,14 @@ def main():
             json.dump(items, f, indent=2, ensure_ascii=False)
         combined.extend(items)
 
+    # ✅ Shuffle to avoid repeated CBC dominance
+    random.shuffle(combined)
+
     with open("docs/all.json", "w", encoding="utf-8") as f:
         json.dump(combined, f, indent=2, ensure_ascii=False)
 
     print("✅ All feeds updated!")
+
 
 if __name__ == "__main__":
     main()
