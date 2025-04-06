@@ -3,9 +3,10 @@ import json
 import random
 import os
 import time
-import openai
+from openai import OpenAI
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
+# Initialize OpenAI client
+openai = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # RSS feeds grouped by category
 rss_feeds = {
@@ -50,7 +51,7 @@ def fetch_with_retries(url, retries=3, delay=3):
 
 def rewrite_headline(original):
     try:
-        response = openai.ChatCompletion.create(
+        response = openai.chat.completions.create(
             model="gpt-4",
             messages=[{
                 "role": "user",
@@ -116,4 +117,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
