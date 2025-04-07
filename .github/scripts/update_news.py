@@ -6,7 +6,6 @@ from datetime import datetime
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-# RSS Feeds per category
 rss_feeds = {
     "Politics": [
         "https://www.cbc.ca/cmlink/rss-politics",
@@ -28,7 +27,6 @@ rss_feeds = {
     ]
 }
 
-# Logos by source
 source_logos = {
     "cbc": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "global": "https://upload.wikimedia.org/wikipedia/commons/2/24/Global_News_logo.svg",
@@ -36,7 +34,6 @@ source_logos = {
     "weather.gc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410"
 }
 
-# Rewrite headline with OpenAI
 def rewrite_headline(original):
     try:
         response = openai.ChatCompletion.create(
@@ -49,30 +46,30 @@ def rewrite_headline(original):
             max_tokens=60
         )
         rewritten = response['choices'][0]['message']['content'].strip()
-        print(f"🔹 Original: {original}")
-        print(f"🔹 Rewritten: {rewritten}")
         return rewritten
     except Exception as e:
-        print(f"⚠️ Failed to rewrite headline: {original}\nError: {e}")
+        print(f"⚠️ OpenAI error: {e}")
         return original
 
-# Parse feeds and classify
 def parse_and_classify():
     all_news = []
 
     for category, feeds in rss_feeds.items():
+        print(f"\n📡 Processing category: {category}")
         items = []
         for url in feeds:
+            print(f"🔗 Fetching: {url}")
             try:
                 feed = feedparser.parse(url)
                 for entry in feed.entries:
                     headline = entry.title
                     link = entry.link
-                    source = url.split("//")[1].split("/")[0].split(".")[1]
+                    source_url = url.split("//")[1].split("/")[0]
+                    source = "weather.gc" if "weather.gc" in url else source_url.split(".")[1]
 
                     rewritten = rewrite_headline(headline)
-                    logo = source_logos.get("weather.gc" if "weather.gc" in url else source, "")
 
+                    logo = source_logos.get(source, "")
                     items.append({
                         "source": source,
                         "logo": logo,
@@ -81,17 +78,22 @@ def parse_and_classify():
                         "category": category
                     })
             except Exception as e:
-                print(f"⚠️ Skipping feed due to error: {url}\n{e}")
+                print(f"❌ Failed to parse {url}: {e}")
 
-        # Write category file
+        print(f"✅ {len(items)} items parsed in category: {category}")
+
+        # Save per-category JSON
+        os.makedirs("docs", exist_ok=True)
         with open(f"docs/{category.lower()}.json", "w", encoding="utf-8") as f:
             json.dump(items, f, indent=2, ensure_ascii=False)
 
         all_news.extend(items)
 
-    # Save combined 'All' file
+    # Save combined JSON
     with open("docs/canada-news.json", "w", encoding="utf-8") as f:
         json.dump(all_news, f, indent=2, ensure_ascii=False)
+
+    print(f"\n✅ Total news items written: {len(all_news)}")
 
 if __name__ == "__main__":
     print("🔄 Updating Canadian news...")
