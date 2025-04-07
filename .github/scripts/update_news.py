@@ -1,13 +1,13 @@
 import os
 import json
 import feedparser
-import openai
+from openai import OpenAI
 from datetime import datetime
 
-# ✅ Set OpenAI API key from environment
-openai.api_key = os.getenv("OPENAI_API_KEY")
+# ✅ Initialize OpenAI client (new SDK v1.x format)
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-# RSS feeds per category
+# ✅ RSS feeds per category
 rss_feeds = {
     "Politics": [
         "https://www.cbc.ca/cmlink/rss-politics",
@@ -29,7 +29,7 @@ rss_feeds = {
     ]
 }
 
-# Source logos
+# ✅ Source logos
 source_logos = {
     "cbc": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "global": "https://upload.wikimedia.org/wikipedia/commons/2/24/Global_News_logo.svg",
@@ -40,7 +40,7 @@ source_logos = {
 # ✅ Rewrite a headline with OpenAI
 def rewrite_headline(original):
     try:
-        response = openai.chat.completions.create(
+        response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[
                 {"role": "system", "content": "You are a helpful assistant that rephrases headlines for clarity and SEO."},
@@ -63,18 +63,25 @@ def parse_and_classify():
         items = []
         for url in feeds:
             try:
-                feed = feedparser.parse(url)
+                feed = feedparser.parse(url, request_headers={'User-Agent': 'Mozilla/5.0'})
                 print(f"✅ Fetched {len(feed.entries)} items from {url}")
                 for entry in feed.entries:
-                    headline = entry.title
-                    link = entry.link
-                    source = url.split("//")[1].split("/")[0].split(".")[1]
+                    headline = entry.get("title", "")
+                    link = entry.get("link", "")
+                    netloc = url.split("//")[1].split("/")[0]
+                    source_key = (
+                        "weather.gc" if "weather.gc" in url else
+                        "cbc" if "cbc.ca" in netloc else
+                        "global" if "globalnews.ca" in netloc else
+                        "ctv" if "ctvnews.ca" in netloc else
+                        "unknown"
+                    )
 
                     rewritten = rewrite_headline(headline)
-                    logo = source_logos.get("weather.gc" if "weather.gc" in url else source, "")
+                    logo = source_logos.get(source_key, "")
 
                     items.append({
-                        "source": source,
+                        "source": source_key,
                         "logo": logo,
                         "headline": rewritten,
                         "url": link,
@@ -83,13 +90,13 @@ def parse_and_classify():
             except Exception as e:
                 print(f"❌ Failed to parse feed {url}: {e}")
 
-        # Write individual category JSON
+        # Save per-category JSON
         with open(f"docs/{category.lower()}.json", "w", encoding="utf-8") as f:
             json.dump(items, f, indent=2, ensure_ascii=False)
 
         all_news.extend(items)
 
-    # Write combined JSON
+    # Save combined JSON
     with open("docs/canada-news.json", "w", encoding="utf-8") as f:
         json.dump(all_news, f, indent=2, ensure_ascii=False)
 
@@ -98,3 +105,4 @@ if __name__ == "__main__":
     print("🔄 Updating Canadian news...")
     parse_and_classify()
     print("✅ All feeds updated!")
+
