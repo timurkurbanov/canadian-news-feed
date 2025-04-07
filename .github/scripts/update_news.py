@@ -4,7 +4,7 @@ import feedparser
 from openai import OpenAI
 from datetime import datetime
 
-# ✅ Correct initialization using new SDK (v1.0+)
+# Initialize OpenAI Client (v1.x)
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 rss_feeds = {
@@ -65,7 +65,6 @@ def parse_and_classify():
                     headline = entry.title
                     link = entry.link
                     source = url.split("//")[1].split("/")[0].split(".")[1]
-
                     rewritten = rewrite_headline(headline)
                     logo = source_logos.get("weather.gc" if "weather.gc" in url else source, "")
 
