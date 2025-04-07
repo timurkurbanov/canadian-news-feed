@@ -1,12 +1,13 @@
 import os
 import json
 import feedparser
-from openai import OpenAI
+import openai
 from datetime import datetime
 
-# Initialize OpenAI Client (v1.x)
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+# ✅ Set OpenAI API key from environment
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
+# RSS feeds per category
 rss_feeds = {
     "Politics": [
         "https://www.cbc.ca/cmlink/rss-politics",
@@ -28,6 +29,7 @@ rss_feeds = {
     ]
 }
 
+# Source logos
 source_logos = {
     "cbc": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "global": "https://upload.wikimedia.org/wikipedia/commons/2/24/Global_News_logo.svg",
@@ -35,9 +37,10 @@ source_logos = {
     "weather.gc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410"
 }
 
+# ✅ Rewrite a headline with OpenAI
 def rewrite_headline(original):
     try:
-        response = client.chat.completions.create(
+        response = openai.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[
                 {"role": "system", "content": "You are a helpful assistant that rephrases headlines for clarity and SEO."},
@@ -51,6 +54,7 @@ def rewrite_headline(original):
         print(f"⚠️ Rewrite failed: {e}")
         return original
 
+# ✅ Main parsing and writing logic
 def parse_and_classify():
     all_news = []
 
@@ -65,6 +69,7 @@ def parse_and_classify():
                     headline = entry.title
                     link = entry.link
                     source = url.split("//")[1].split("/")[0].split(".")[1]
+
                     rewritten = rewrite_headline(headline)
                     logo = source_logos.get("weather.gc" if "weather.gc" in url else source, "")
 
@@ -78,14 +83,17 @@ def parse_and_classify():
             except Exception as e:
                 print(f"❌ Failed to parse feed {url}: {e}")
 
+        # Write individual category JSON
         with open(f"docs/{category.lower()}.json", "w", encoding="utf-8") as f:
             json.dump(items, f, indent=2, ensure_ascii=False)
 
         all_news.extend(items)
 
+    # Write combined JSON
     with open("docs/canada-news.json", "w", encoding="utf-8") as f:
         json.dump(all_news, f, indent=2, ensure_ascii=False)
 
+# ✅ Entry point
 if __name__ == "__main__":
     print("🔄 Updating Canadian news...")
     parse_and_classify()
