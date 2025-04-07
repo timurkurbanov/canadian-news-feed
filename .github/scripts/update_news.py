@@ -1,11 +1,10 @@
 import os
 import json
 import feedparser
-from openai import OpenAI
 from datetime import datetime
+from openai import OpenAI
 
-# Initialize OpenAI client
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+client = OpenAI()
 
 # RSS Feeds per category
 rss_feeds = {
