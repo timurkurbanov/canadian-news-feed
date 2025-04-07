@@ -35,6 +35,9 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
+          
+          git pull --rebase origin main  # ✅ Pull before pushing
+          
           git add docs/*.json
           git commit -m "🔄 Auto-update news JSON files [skip ci]" || echo "No changes to commit"
           git push
