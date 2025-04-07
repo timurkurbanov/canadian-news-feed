@@ -1,10 +1,11 @@
 import os
 import json
 import feedparser
-import time
-from openai import OpenAI
+import openai
+from datetime import datetime
 
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+# Setup for OpenAI SDK v1.0+
+client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # RSS Feeds per category
 rss_feeds = {
@@ -39,7 +40,7 @@ source_logos = {
 def rewrite_headline(original):
     try:
         response = client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4",
             messages=[
                 {"role": "system", "content": "You are a helpful assistant that rephrases headlines for clarity and SEO."},
                 {"role": "user", "content": f"Rewrite this Canadian news headline for clarity and SEO: {original}"}
@@ -47,10 +48,7 @@ def rewrite_headline(original):
             temperature=0.7,
             max_tokens=60
         )
-        rewritten = response.choices[0].message.content.strip()
-        print(f"🔹 Original: {original}")
-        print(f"🔹 Rewritten: {rewritten}")
-        return rewritten
+        return response.choices[0].message.content.strip()
     except Exception as e:
         print(f"⚠️ Rewrite failed: {e}")
         return original
@@ -64,27 +62,18 @@ def parse_and_classify():
         for url in feeds:
             try:
                 feed = feedparser.parse(url)
-                if not feed.entries:
-                    raise ValueError("No entries returned")
+                print(f"✅ Fetched {len(feed.entries)} items from {url}")
             except Exception as e:
                 print(f"❌ Failed to parse feed {url}: {e}")
-                print("🔁 Retrying...")
-                time.sleep(2)
-                try:
-                    feed = feedparser.parse(url)
-                except Exception as e:
-                    print(f"❌ Second attempt failed for {url}: {e}")
-                    continue
-
-            print(f"✅ Fetched {len(feed.entries)} items from {url}")
+                continue
 
             for entry in feed.entries:
                 headline = entry.title
                 link = entry.link
                 source = url.split("//")[1].split("/")[0].split(".")[1]
-                logo = source_logos.get("weather.gc" if "weather.gc" in url else source, "")
 
                 rewritten = rewrite_headline(headline)
+                logo = source_logos.get("weather.gc" if "weather.gc" in url else source, "")
 
                 items.append({
                     "source": source,
@@ -106,3 +95,4 @@ if __name__ == "__main__":
     print("🔄 Updating Canadian news...")
     parse_and_classify()
     print("✅ All feeds updated!")
+
