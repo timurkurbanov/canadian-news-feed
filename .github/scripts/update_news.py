@@ -36,6 +36,7 @@ source_logos = {
     "weather.gc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410"
 }
 
+# Rewrite headline with OpenAI
 def rewrite_headline(original):
     try:
         response = openai.ChatCompletion.create(
@@ -55,7 +56,6 @@ def rewrite_headline(original):
         print(f"⚠️ Failed to rewrite headline: {original}\nError: {e}")
         return original
 
-
 # Parse feeds and classify
 def parse_and_classify():
     all_news = []
@@ -63,22 +63,25 @@ def parse_and_classify():
     for category, feeds in rss_feeds.items():
         items = []
         for url in feeds:
-            feed = feedparser.parse(url)
-            for entry in feed.entries:
-                headline = entry.title
-                link = entry.link
-                source = url.split("//")[1].split("/")[0].split(".")[1]
+            try:
+                feed = feedparser.parse(url)
+                for entry in feed.entries:
+                    headline = entry.title
+                    link = entry.link
+                    source = url.split("//")[1].split("/")[0].split(".")[1]
 
-                rewritten = rewrite_headline(headline)
+                    rewritten = rewrite_headline(headline)
+                    logo = source_logos.get("weather.gc" if "weather.gc" in url else source, "")
 
-                logo = source_logos.get("weather.gc" if "weather.gc" in url else source, "")
-                items.append({
-                    "source": source,
-                    "logo": logo,
-                    "headline": rewritten,
-                    "url": link,
-                    "category": category
-                })
+                    items.append({
+                        "source": source,
+                        "logo": logo,
+                        "headline": rewritten,
+                        "url": link,
+                        "category": category
+                    })
+            except Exception as e:
+                print(f"⚠️ Skipping feed due to error: {url}\n{e}")
 
         # Write category file
         with open(f"docs/{category.lower()}.json", "w", encoding="utf-8") as f:
@@ -94,4 +97,3 @@ if __name__ == "__main__":
     print("🔄 Updating Canadian news...")
     parse_and_classify()
     print("✅ All feeds updated!")
-
