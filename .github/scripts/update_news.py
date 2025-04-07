@@ -1,12 +1,12 @@
 import os
 import json
 import feedparser
-from openai import OpenAI
+import openai  # ✅ Do not use: from openai import OpenAI
 from datetime import datetime
 
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+# ✅ Modern OpenAI client
+client = openai.OpenAI()  # This uses the OPENAI_API_KEY from env automatically
 
-# RSS Feeds per category
 rss_feeds = {
     "Politics": [
         "https://www.cbc.ca/cmlink/rss-politics",
@@ -28,15 +28,12 @@ rss_feeds = {
     ]
 }
 
-# Logos by source
 source_logos = {
     "cbc": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "global": "https://upload.wikimedia.org/wikipedia/commons/2/24/Global_News_logo.svg",
     "ctv": "https://upload.wikimedia.org/wikipedia/commons/3/35/CTV_logo.svg",
     "weather.gc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410"
 }
-
-# Rewrite headline using OpenAI
 
 def rewrite_headline(original):
     try:
@@ -53,8 +50,6 @@ def rewrite_headline(original):
     except Exception as e:
         print(f"⚠️ Rewrite failed: {e}")
         return original
-
-# Parse and classify feeds
 
 def parse_and_classify():
     all_news = []
@@ -84,17 +79,13 @@ def parse_and_classify():
             except Exception as e:
                 print(f"❌ Failed to parse feed {url}: {e}")
 
-        # Write individual category files
         with open(f"docs/{category.lower()}.json", "w", encoding="utf-8") as f:
             json.dump(items, f, indent=2, ensure_ascii=False)
 
         all_news.extend(items)
 
-    # Write combined feed
     with open("docs/canada-news.json", "w", encoding="utf-8") as f:
         json.dump(all_news, f, indent=2, ensure_ascii=False)
-
-# Entry point
 
 if __name__ == "__main__":
     print("🔄 Updating Canadian news...")
