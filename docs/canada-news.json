@@ -2,112 +2,112 @@
   {
     "source": "gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "\"Ottawa Issues Weather Advisory for Residents\"",
+    "headline": "WEATHER ADVISORY, Ottawa",
     "url": "https://weather.gc.ca/warnings/report_e.html?onrm104",
     "category": "Weather"
   },
   {
     "source": "gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Weather Update: Mostly Sunny with Temperature of -4.0°C in Canada",
+    "headline": "Current Conditions: Mainly Sunny, 5.1°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Monday's Weather Forecast in Canada: Clouds Expected to Increase with a High of 5 Degrees.",
+    "headline": "Monday: Increasing cloudiness. High 7.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Monday night's weather forecast in Canada: Expect a mix of snow and rain with a low of minus 5 degrees.",
+    "headline": "Monday night: Snow or rain. Low minus 5.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Tuesday's Weather Forecast in Canada: Expect Light Snow Showers with a High of -3 Degrees Celsius.",
+    "headline": "Tuesday: Flurries. High minus 3.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Tuesday night weather forecast in Canada: Chance of flurries with a low of minus 9 degrees, 40% chance of precipitation.",
+    "headline": "Tuesday night: Chance of flurries. Low minus 9. POP 40%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Wednesday's weather forecast in Canada: Expect a combination of sunshine and clouds with a high temperature reaching plus 3 degrees.",
+    "headline": "Wednesday: A mix of sun and cloud. High plus 2.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Clear skies expected on Wednesday night with a low temperature of minus 9.",
+    "headline": "Wednesday night: Clear. Low minus 8.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Thursday's weather forecast in Canada: Expect sunny skies with a high of 8 degrees.",
+    "headline": "Thursday: Chance of rain showers or flurries. High 8. POP 40%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Thursday night weather forecast in Canada: Chance of rain showers or flurries with a low of zero degrees. Probability of precipitation is 30%.",
+    "headline": "Thursday night: Chance of rain showers or flurries. Low plus 1. POP 40%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Friday's weather forecast for Canada: Expect cloudy skies with a high of 8 degrees.",
+    "headline": "Friday: Chance of showers. High 6. POP 40%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Friday Night Weather Forecast: Cloudy with a Low of Zero Degrees.",
+    "headline": "Friday night: Chance of showers. Low plus 2. POP 40%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Saturday's weather forecast for Canada: Cloudy skies with a high of 8 degrees.",
+    "headline": "Saturday: Chance of showers. High 9. POP 60%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Weather forecast for Saturday night in Canada: Expect cloudy periods with a low temperature of plus 1.",
+    "headline": "Saturday night: Chance of showers. Low plus 2. POP 60%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Sunday's weather forecast in Canada: Partly sunny with a mix of clouds, reaching a high of 10 degrees.",
+    "headline": "Sunday: A mix of sun and cloud. High 12.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "\"Important Notice Issued in Canada\"",
+    "headline": "Notice",
     "url": "https://weather.gc.ca/canada_e.html",
     "category": "Weather"
   }
