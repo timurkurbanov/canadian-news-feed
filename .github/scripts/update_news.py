@@ -4,8 +4,8 @@ import feedparser
 import openai
 from datetime import datetime
 
-# ✅ Set the OpenAI API key from environment
-openai.api_key = os.getenv("OPENAI_API_KEY")
+from openai import OpenAI
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # RSS feeds per category
 rss_feeds = {
