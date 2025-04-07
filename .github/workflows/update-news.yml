@@ -3,7 +3,7 @@ name: Update Canadian News
 on:
   schedule:
     - cron: "*/5 * * * *"  # Every 5 minutes
-  workflow_dispatch:       # Allow manual triggering
+  workflow_dispatch:       # Manual trigger allowed
 
 jobs:
   update-news:
@@ -21,7 +21,7 @@ jobs:
       - name: 📥 Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install feedparser openai
+          pip install feedparser openai>=1.0.0
 
       - name: 🤖 Run update script to generate all JSON feeds
         env:
@@ -32,14 +32,11 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add docs/*.json
-          git commit -m "🔄 Auto-update news JSON files [skip ci]" || echo "No changes to commit"
-          git push
-
+          
           git add docs/*.json
           if git diff --cached --quiet; then
             echo "🟢 No changes to commit"
           else
-            git commit -m "🔄 Update Canada news sections"
+            git commit -m "🔄 Auto-update news JSON files [skip ci]"
             git push
           fi
