@@ -1,12 +1,13 @@
 import os
 import json
 import feedparser
-import openai  # ✅ Do not use: from openai import OpenAI
+import openai
 from datetime import datetime
 
-# ✅ Modern OpenAI client
-client = openai.OpenAI()  # This uses the OPENAI_API_KEY from env automatically
+# ✅ Set API key from environment
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
+# RSS feeds per category
 rss_feeds = {
     "Politics": [
         "https://www.cbc.ca/cmlink/rss-politics",
@@ -28,6 +29,7 @@ rss_feeds = {
     ]
 }
 
+# Logos for each source
 source_logos = {
     "cbc": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "global": "https://upload.wikimedia.org/wikipedia/commons/2/24/Global_News_logo.svg",
@@ -35,9 +37,10 @@ source_logos = {
     "weather.gc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410"
 }
 
+# Rewrites headlines using OpenAI
 def rewrite_headline(original):
     try:
-        response = client.chat.completions.create(
+        response = openai.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[
                 {"role": "system", "content": "You are a helpful assistant that rephrases headlines for clarity and SEO."},
@@ -51,6 +54,7 @@ def rewrite_headline(original):
         print(f"⚠️ Rewrite failed: {e}")
         return original
 
+# Parse all feeds and generate JSON files
 def parse_and_classify():
     all_news = []
 
@@ -87,6 +91,7 @@ def parse_and_classify():
     with open("docs/canada-news.json", "w", encoding="utf-8") as f:
         json.dump(all_news, f, indent=2, ensure_ascii=False)
 
+# Entry point
 if __name__ == "__main__":
     print("🔄 Updating Canadian news...")
     parse_and_classify()
