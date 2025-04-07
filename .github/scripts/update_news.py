@@ -4,7 +4,7 @@ import feedparser
 import openai
 from datetime import datetime
 
-# Set API key from environment (uses new openai>=1.0.0 default config)
+# ✅ Set the OpenAI API key from environment
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # RSS feeds per category
@@ -37,8 +37,7 @@ source_logos = {
     "weather.gc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410"
 }
 
-# Rewrite headline using OpenAI GPT
-
+# Rewrites headlines using OpenAI
 def rewrite_headline(original):
     try:
         response = openai.chat.completions.create(
@@ -55,8 +54,7 @@ def rewrite_headline(original):
         print(f"⚠️ Rewrite failed: {e}")
         return original
 
-# Parse and classify feeds
-
+# Parse all feeds and generate JSON files
 def parse_and_classify():
     all_news = []
 
@@ -65,14 +63,17 @@ def parse_and_classify():
         items = []
         for url in feeds:
             try:
-                feed = feedparser.parse(url)
+                # ✅ Add User-Agent header to avoid connection issues
+                feed = feedparser.parse(url, request_headers={'User-Agent': 'Mozilla/5.0'})
                 print(f"✅ Fetched {len(feed.entries)} items from {url}")
                 for entry in feed.entries:
                     headline = entry.title
                     link = entry.link
                     source = url.split("//")[1].split("/")[0].split(".")[1]
+
                     rewritten = rewrite_headline(headline)
                     logo = source_logos.get("weather.gc" if "weather.gc" in url else source, "")
+
                     items.append({
                         "source": source,
                         "logo": logo,
@@ -87,10 +88,6 @@ def parse_and_classify():
             json.dump(items, f, indent=2, ensure_ascii=False)
 
         all_news.extend(items)
-
-    # Shuffle all_news for randomness
-    import random
-    random.shuffle(all_news)
 
     with open("docs/canada-news.json", "w", encoding="utf-8") as f:
         json.dump(all_news, f, indent=2, ensure_ascii=False)
