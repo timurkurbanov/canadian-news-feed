@@ -303,6 +303,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Alex Faulkner, N.L.'s first NHL player, dead at 88",
+    "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/alex-faulkner-obit-nl-1.7504645?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "World Cup ski champion Federica Brignone's return uncertain 10 months from Olympics",
+    "url": "https://www.cbc.ca/sports/olympics/winter/alpine-skiing/federica-brignone-discharged-hospital-broken-leg-surgery-1.7504690?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "World 800m champ Marco Arop prioritizes winning track medals over world record 'passion project'",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/marco-arop-passion-project-grand-slam-track-kingston-1.7503960?cmp=rss",
     "category": "Sports"
@@ -399,20 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Torpedo baseball bats are all the rage. This Quebec factory is trying to keep up with demand",
-    "url": "https://www.cbc.ca/player/play/9.6712362?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Marco Arop places 6th in 3rd career 1,500m at Grand Slam Track event",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/grand-slam-track-kingston-april-5-1.7503021?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "SNOWFALL WARNING, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Snow and Blowing Snow, -7.3°C",
+    "headline": "Current Conditions: Snow and Blowing Snow, -7.2°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
