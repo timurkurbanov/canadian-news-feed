@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poilievre digs at Carney's 'banker's haircut,' Liberal says his rival hasn't managed a crisis",
+    "url": "https://www.cbc.ca/news/politics/poilievre-personal-digs-carney-political-career-1.7505275?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Leaders focus campaigns on housing, tax loopholes and each other",
     "url": "https://www.cbc.ca/9.6715755?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Liberal Leader Carney pokes at Alberta Premier Smith at first Western campaign stop",
     "url": "https://www.cbc.ca/news/canada/calgary/carney-smith-campaign-stop-1.7503621?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Conservatives target supervised consumption sites, NDP promises rent control",
-    "url": "https://www.cbc.ca/news/politics/election-2025-day-15-campaign-promises-1.7503265?cmp=rss",
     "category": "Politics"
   }
 ]
