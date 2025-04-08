@@ -1,15 +1,30 @@
 import os
 import json
-import hashlib
 import feedparser
-import random
+import openai
 from datetime import datetime
-from openai import OpenAI
 
-# Initialize OpenAI client
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+# ✅ Old SDK style (stable)
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
-# RSS feeds by category
+# ✅ Rewrite a headline with OpenAI
+def rewrite_headline(original):
+    try:
+        response = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant that rephrases headlines for clarity and SEO."},
+                {"role": "user", "content": f"Rewrite this Canadian news headline for clarity and SEO: {original}"}
+            ],
+            temperature=0.7,
+            max_tokens=60
+        )
+        return response.choices[0].message.content.strip()
+    except Exception as e:
+        print(f"⚠️ Rewrite failed: {e}")
+        return original
+
+# ✅ RSS feeds
 rss_feeds = {
     "Politics": [
         "https://www.cbc.ca/cmlink/rss-politics",
@@ -31,113 +46,61 @@ rss_feeds = {
     ]
 }
 
-# Source logos
+# ✅ Logos
 source_logos = {
-    "cbc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
-    "global": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
-    "ctv": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/ctv.png?v=1742728177",
+    "cbc": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "global": "https://upload.wikimedia.org/wikipedia/commons/2/24/Global_News_logo.svg",
+    "ctv": "https://upload.wikimedia.org/wikipedia/commons/3/35/CTV_logo.svg",
     "weather.gc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410"
 }
 
-# Cache file
-CACHE_FILE = "docs/news_cache.json"
-if os.path.exists(CACHE_FILE):
-    with open(CACHE_FILE, "r", encoding="utf-8") as f:
-        cache = set(json.load(f))
-else:
-    cache = set()
-
-# Rewrite headlines using OpenAI
-def rewrite_headline(original):
-    try:
-        response = client.chat.completions.create(
-            model="gpt-3.5-turbo",
-            messages=[
-                {"role": "system", "content": "You are a helpful assistant that rephrases headlines for clarity and SEO."},
-                {"role": "user", "content": f"Rewrite this Canadian news headline for clarity and SEO: {original}"}
-            ],
-            temperature=0.7,
-            max_tokens=60
-        )
-        return response.choices[0].message.content.strip()
-    except Exception as e:
-        print(f"⚠️ Rewrite failed: {e}")
-        return original
-
-# Parse, rewrite, save
+# ✅ Main function
 def parse_and_classify():
     all_news = []
-    updated_cache = set(cache)
 
     for category, feeds in rss_feeds.items():
         print(f"\n🔍 Fetching {category} news...")
         items = []
-
         for url in feeds:
             try:
                 feed = feedparser.parse(url, request_headers={'User-Agent': 'Mozilla/5.0'})
-                print(f"✅ {len(feed.entries)} items from {url}")
-
+                print(f"✅ Fetched {len(feed.entries)} items from {url}")
                 for entry in feed.entries:
                     headline = entry.get("title", "")
                     link = entry.get("link", "")
-                    published = entry.get("published", "") or entry.get("updated", "")
-                    try:
-                        published_dt = datetime(*entry.published_parsed[:6])
-                        published_str = published_dt.isoformat()
-                    except:
-                        published_str = ""
-
-                    key = hashlib.md5((headline + link).encode('utf-8')).hexdigest()
-                    if key in cache:
-                        continue
-
-                    source = (
+                    netloc = url.split("//")[1].split("/")[0]
+                    source_key = (
                         "weather.gc" if "weather.gc" in url else
-                        "cbc" if "cbc.ca" in url else
-                        "global" if "globalnews.ca" in url else
-                        "ctv" if "ctvnews.ca" in url else
+                        "cbc" if "cbc.ca" in netloc else
+                        "global" if "globalnews.ca" in netloc else
+                        "ctv" if "ctvnews.ca" in netloc else
                         "unknown"
                     )
 
                     rewritten = rewrite_headline(headline)
-                    logo = source_logos.get(source, "")
+                    logo = source_logos.get(source_key, "")
 
                     items.append({
-                        "source": source,
+                        "source": source_key,
                         "logo": logo,
                         "headline": rewritten,
                         "url": link,
-                        "category": category,
-                        "published_at": published_str
+                        "category": category
                     })
-
-                    updated_cache.add(key)
-
             except Exception as e:
-                print(f"❌ Error parsing {url}: {e}")
+                print(f"❌ Failed to parse feed {url}: {e}")
 
-        # Sort by date
-        items.sort(key=lambda x: x.get("published_at", ""), reverse=True)
-
-        # Save category-specific file
+        # Write individual category JSON
         with open(f"docs/{category.lower()}.json", "w", encoding="utf-8") as f:
             json.dump(items, f, indent=2, ensure_ascii=False)
 
         all_news.extend(items)
 
-    # Shuffle for mixed-source display
-    random.shuffle(all_news)
-
-    # Save combined news
+    # Write all combined
     with open("docs/canada-news.json", "w", encoding="utf-8") as f:
         json.dump(all_news, f, indent=2, ensure_ascii=False)
 
-    # Save updated cache
-    with open(CACHE_FILE, "w", encoding="utf-8") as f:
-        json.dump(list(updated_cache), f)
-
-# Entry point
+# ✅ Entry
 if __name__ == "__main__":
     print("🔄 Updating Canadian news...")
     parse_and_classify()
