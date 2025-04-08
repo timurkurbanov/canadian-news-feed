@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "As a pastor, I preach forgiveness. As a concerned dad, I see the need for bail reform",
+    "url": "https://www.cbc.ca/news/canada/first-person-jason-mcallister-bail-reform-1.7501831?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney heading to Calgary for first Alberta campaign stop",
     "url": "https://www.cbc.ca/news/canada/calgary/carney-calgary-campaign-stop-1.7504562?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Former Liberal justice minister endorses Bloc Québécois's Alexis Brunelle-Duceppe",
     "url": "https://www.cbc.ca/news/politics/irwin-cotler-alexis-brunelle-duceppe-1.7503249?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Ruth Ellen Brosseau eyes return to Parliament, will run for NDP in Quebec riding",
-    "url": "https://www.cbc.ca/news/politics/canada-election-ndp-ruth-ellen-brosseau-berthier-maskinonge-1.7503288?cmp=rss",
     "category": "Politics"
   },
   {
