@@ -30,6 +30,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Neither of these baseball teams has won a game in years. That's about to change",
+    "url": "https://www.cbc.ca/radio/asithappens/college-baseball-losing-teams-1.7503850?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Jays, Vladimir Guerrero Jr., agree to 14-year, $500M US extension: reports",
     "url": "https://www.cbc.ca/sports/blue-jays-vladimir-guerrero-jr-contract-extension-1.7503474?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Marco Arop places 6th in 3rd career 1,500m at Grand Slam Track event",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/grand-slam-track-kingston-april-5-1.7503021?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada wins 4x100m race at Florida Relays",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/florida-relays-canada-gold-2025-1.7503047?cmp=rss",
     "category": "Sports"
   }
 ]

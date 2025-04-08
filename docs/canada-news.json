@@ -310,6 +310,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Neither of these baseball teams has won a game in years. That's about to change",
+    "url": "https://www.cbc.ca/radio/asithappens/college-baseball-losing-teams-1.7503850?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Jays, Vladimir Guerrero Jr., agree to 14-year, $500M US extension: reports",
     "url": "https://www.cbc.ca/sports/blue-jays-vladimir-guerrero-jr-contract-extension-1.7503474?cmp=rss",
     "category": "Sports"
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada wins 4x100m race at Florida Relays",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/florida-relays-canada-gold-2025-1.7503047?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "SNOWFALL WARNING, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Snow and Drifting Snow, -5.9°C",
+    "headline": "Current Conditions: Light Snow and Drifting Snow, -6.9°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
