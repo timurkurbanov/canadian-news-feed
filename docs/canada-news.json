@@ -289,8 +289,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Florida Gators rally to 3rd NCAA men's basketball title with thriller vs. Houston",
-    "url": "https://www.cbc.ca/sports/basketball/mens-march-madness-final-florida-houston-1.7504550?cmp=rss",
+    "headline": "In shocking move, Nuggets fire head coach Malone, GM Calvin Booth as playoffs loom",
+    "url": "https://www.cbc.ca/sports/basketball/nba/michael-malone-calvin-booth-denver-nuggets-firings-nba-1.7504989?cmp=rss",
     "category": "Sports"
   },
   {
@@ -298,6 +298,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Northern Super League laden with talent from 21 countries ahead of April 16 opening match",
     "url": "https://www.cbc.ca/sports/soccer/northern-super-league-womens-soccer-player-pool-1.7504947?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Florida Gators rally to 3rd NCAA men's basketball title with thriller vs. Houston",
+    "url": "https://www.cbc.ca/sports/basketball/mens-march-madness-final-florida-houston-1.7504550?cmp=rss",
     "category": "Sports"
   },
   {
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Brad Jacobs leads Canada to world men's curling bronze for its 4th straight medal",
-    "url": "https://www.cbc.ca/sports/olympics/winter/curling/brad-jacobs-canada-world-mens-curling-bronze-medal-moose-jaw-1.7503295?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "SNOWFALL WARNING, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Snow and Blowing Snow, -6.3°C",
+    "headline": "Current Conditions: Light Snow, -6.1°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
