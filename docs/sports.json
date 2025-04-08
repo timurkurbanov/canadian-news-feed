@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "PWHL star Natalie Spooner relishing 11th world championship after returning from knee surgery",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/canada-womens-hockey-worlds-spooner-return-2025-1.7504102?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's Chloe Primerano poised for women's world hockey championship debut",
     "url": "https://www.cbc.ca/sports/hockey/chloe-primerano-canada-womens-hockey-worlds-czech-republic-1.7503666?cmp=rss",
     "category": "Sports"
@@ -9,8 +16,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Former NHL goaltender, hockey broadcaster Greg Millen dead at 67",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/greg-millen-obituary-1.7504375?cmp=rss",
+    "headline": "Florida Gators rally to 3rd NCAA men's basketball title with thriller vs. Houston",
+    "url": "https://www.cbc.ca/sports/basketball/mens-march-madness-final-florida-houston-1.7504550?cmp=rss",
     "category": "Sports"
   },
   {
@@ -23,8 +30,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Florida Gators rally to 3rd NCAA men's basketball title with thriller vs. Houston",
-    "url": "https://www.cbc.ca/sports/basketball/mens-march-madness-final-florida-houston-1.7504550?cmp=rss",
+    "headline": "Former NHL goaltender, hockey broadcaster Greg Millen dead at 67",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/greg-millen-obituary-1.7504375?cmp=rss",
     "category": "Sports"
   },
   {
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada wins 4x100m race at Florida Relays",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/florida-relays-canada-gold-2025-1.7503047?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian rugby women down France at Singapore 7s, finish 3rd in consecutive weeks",
-    "url": "https://www.cbc.ca/sports/rugby/canada-france-recap-rugby-sevens-singapore-1.7503269?cmp=rss",
     "category": "Sports"
   }
 ]
