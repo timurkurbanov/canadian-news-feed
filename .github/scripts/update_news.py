@@ -1,11 +1,45 @@
 import os
 import json
 import feedparser
-from openai import OpenAI
 from datetime import datetime
 
-# ✅ Initialize OpenAI client (new SDK v1.x format)
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+# ✅ Safe OpenAI client import (works with both v0.x and v1.x)
+try:
+    from openai import OpenAI  # new SDK v1.x
+    client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+    def rewrite_headline(original):
+        try:
+            response = client.chat.completions.create(
+                model="gpt-3.5-turbo",
+                messages=[
+                    {"role": "system", "content": "You are a helpful assistant that rephrases headlines for clarity and SEO."},
+                    {"role": "user", "content": f"Rewrite this Canadian news headline for clarity and SEO: {original}"}
+                ],
+                temperature=0.7,
+                max_tokens=60
+            )
+            return response.choices[0].message.content.strip()
+        except Exception as e:
+            print(f"⚠️ Rewrite failed (v1.x): {e}")
+            return original
+except ImportError:
+    import openai  # fallback to legacy SDK
+    openai.api_key = os.getenv("OPENAI_API_KEY")
+    def rewrite_headline(original):
+        try:
+            response = openai.ChatCompletion.create(
+                model="gpt-3.5-turbo",
+                messages=[
+                    {"role": "system", "content": "You are a helpful assistant that rephrases headlines for clarity and SEO."},
+                    {"role": "user", "content": f"Rewrite this Canadian news headline for clarity and SEO: {original}"}
+                ],
+                temperature=0.7,
+                max_tokens=60
+            )
+            return response.choices[0].message.content.strip()
+        except Exception as e:
+            print(f"⚠️ Rewrite failed (legacy): {e}")
+            return original
 
 # ✅ RSS feeds per category
 rss_feeds = {
@@ -37,24 +71,7 @@ source_logos = {
     "weather.gc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410"
 }
 
-# ✅ Rewrite a headline with OpenAI
-def rewrite_headline(original):
-    try:
-        response = client.chat.completions.create(
-            model="gpt-3.5-turbo",
-            messages=[
-                {"role": "system", "content": "You are a helpful assistant that rephrases headlines for clarity and SEO."},
-                {"role": "user", "content": f"Rewrite this Canadian news headline for clarity and SEO: {original}"}
-            ],
-            temperature=0.7,
-            max_tokens=60
-        )
-        return response.choices[0].message.content.strip()
-    except Exception as e:
-        print(f"⚠️ Rewrite failed: {e}")
-        return original
-
-# ✅ Main parsing and writing logic
+# ✅ Main logic
 def parse_and_classify():
     all_news = []
 
@@ -90,13 +107,13 @@ def parse_and_classify():
             except Exception as e:
                 print(f"❌ Failed to parse feed {url}: {e}")
 
-        # Save per-category JSON
+        # Write category-specific file
         with open(f"docs/{category.lower()}.json", "w", encoding="utf-8") as f:
             json.dump(items, f, indent=2, ensure_ascii=False)
 
         all_news.extend(items)
 
-    # Save combined JSON
+    # Write combined file
     with open("docs/canada-news.json", "w", encoding="utf-8") as f:
         json.dump(all_news, f, indent=2, ensure_ascii=False)
 
@@ -105,4 +122,3 @@ if __name__ == "__main__":
     print("🔄 Updating Canadian news...")
     parse_and_classify()
     print("✅ All feeds updated!")
-
