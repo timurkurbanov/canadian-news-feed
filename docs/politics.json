@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Jagmeet Singh remains defiant despite NDP's slump in the polls",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/jagmeet-singh-confident-he-will-win-burnaby-south-ndp-support-waning-1.7505109?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "1 in 4 Bank of Canada managers needs French training",
     "url": "https://www.cbc.ca/news/politics/1-in-4-bank-of-canada-managers-needs-french-training-1.7504851?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Conservatives target supervised consumption sites, NDP promises rent control",
     "url": "https://www.cbc.ca/news/politics/election-2025-day-15-campaign-promises-1.7503265?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Former Liberal justice minister endorses Bloc Québécois's Alexis Brunelle-Duceppe",
-    "url": "https://www.cbc.ca/news/politics/irwin-cotler-alexis-brunelle-duceppe-1.7503249?cmp=rss",
     "category": "Politics"
   }
 ]
