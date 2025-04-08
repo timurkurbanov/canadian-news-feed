@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Alberta New Democrats for Carney? It's more complicated than that",
+    "url": "https://www.cbc.ca/news/canada/calgary/alberta-ndp-liberals-provincial-federal-analysis-1.7504173?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ex-PM Stephen Harper endorses Conservative Leader Pierre Poilievre",
     "url": "https://www.cbc.ca/9.6715290?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Alexa McDonough's family helps NDP campaign in Halifax",
     "url": "https://www.cbc.ca/news/politics/mcdonough-halifax-ndp-1.7503123?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre stands by B.C. candidate called out for residential school posts",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/pierre-poilievre-aaron-gunn-1.7503105?cmp=rss",
     "category": "Politics"
   }
 ]
