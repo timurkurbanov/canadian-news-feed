@@ -2,7 +2,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada election: Poilievre pledges tax haven crackdown, touts size of Edmonton rally",
+    "headline": "Canada election: Singh pledges housing help while Poilievre promises tax haven crackdown",
     "url": "https://www.cbc.ca/9.6715755?cmp=rss",
     "category": "Politics"
   },
@@ -303,6 +303,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Matteo Berrettini upends top-seeded Alex Zverev in Monte Carlo Masters 2nd round",
+    "url": "https://www.cbc.ca/sports/tennis/berrettini-zverev-monte-carlo-masters-recap-second-round-1.7504877?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Alex Faulkner, N.L.'s first NHL player, dead at 88",
     "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/alex-faulkner-obit-nl-1.7504645?cmp=rss",
     "category": "Sports"
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Everything you need to know about Canada at the women's hockey world championship",
-    "url": "https://www.cbc.ca/sports/hockey/canada-women-s-worlds-roster-preview-2025-1.7502568?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "SNOWFALL WARNING, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Snow and Blowing Snow, -7.6°C",
+    "headline": "Current Conditions: Snow and Blowing Snow, -7.5°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

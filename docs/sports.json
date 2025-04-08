@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Matteo Berrettini upends top-seeded Alex Zverev in Monte Carlo Masters 2nd round",
+    "url": "https://www.cbc.ca/sports/tennis/berrettini-zverev-monte-carlo-masters-recap-second-round-1.7504877?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Alex Faulkner, N.L.'s first NHL player, dead at 88",
     "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/alex-faulkner-obit-nl-1.7504645?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's Grondin wins snowboard cross gold after securing season title in Quebec",
     "url": "https://www.cbc.ca/sports/olympics/winter/snowboard/eliot-grondin-snowboard-cross-world-cup-win-quebec-1.7503281?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Everything you need to know about Canada at the women's hockey world championship",
-    "url": "https://www.cbc.ca/sports/hockey/canada-women-s-worlds-roster-preview-2025-1.7502568?cmp=rss",
     "category": "Sports"
   }
 ]
