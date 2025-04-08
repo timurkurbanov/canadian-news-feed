@@ -2,13 +2,14 @@ import os
 import json
 import hashlib
 import feedparser
-from openai import OpenAI
+import random
 from datetime import datetime
+from openai import OpenAI
 
-# ✅ OpenAI client
+# Initialize OpenAI client
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-# ✅ RSS feeds
+# RSS feeds by category
 rss_feeds = {
     "Politics": [
         "https://www.cbc.ca/cmlink/rss-politics",
@@ -30,15 +31,15 @@ rss_feeds = {
     ]
 }
 
-# ✅ Logos
+# Source logos
 source_logos = {
-    "cbc": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "global": "https://upload.wikimedia.org/wikipedia/commons/2/24/Global_News_logo.svg",
-    "ctv": "https://upload.wikimedia.org/wikipedia/commons/3/35/CTV_logo.svg",
+    "cbc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/cbc.png?v=1742728178",
+    "global": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/global_news.png?v=1742728177",
+    "ctv": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/ctv.png?v=1742728177",
     "weather.gc": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410"
 }
 
-# ✅ Load cache
+# Cache file
 CACHE_FILE = "docs/news_cache.json"
 if os.path.exists(CACHE_FILE):
     with open(CACHE_FILE, "r", encoding="utf-8") as f:
@@ -46,7 +47,7 @@ if os.path.exists(CACHE_FILE):
 else:
     cache = set()
 
-# ✅ Rewrite headline
+# Rewrite headlines using OpenAI
 def rewrite_headline(original):
     try:
         response = client.chat.completions.create(
@@ -63,7 +64,7 @@ def rewrite_headline(original):
         print(f"⚠️ Rewrite failed: {e}")
         return original
 
-# ✅ Main logic
+# Parse, rewrite, save
 def parse_and_classify():
     all_news = []
     updated_cache = set(cache)
@@ -75,24 +76,21 @@ def parse_and_classify():
         for url in feeds:
             try:
                 feed = feedparser.parse(url, request_headers={'User-Agent': 'Mozilla/5.0'})
-                print(f"✅ Fetched {len(feed.entries)} items from {url}")
+                print(f"✅ {len(feed.entries)} items from {url}")
 
                 for entry in feed.entries:
                     headline = entry.get("title", "")
                     link = entry.get("link", "")
                     published = entry.get("published", "") or entry.get("updated", "")
-                    published_dt = None
-
                     try:
                         published_dt = datetime(*entry.published_parsed[:6])
                         published_str = published_dt.isoformat()
-                    except Exception:
+                    except:
                         published_str = ""
 
-                    # ✅ Hash the link or headline to detect duplicates
                     key = hashlib.md5((headline + link).encode('utf-8')).hexdigest()
                     if key in cache:
-                        continue  # Skip duplicates
+                        continue
 
                     source = (
                         "weather.gc" if "weather.gc" in url else
@@ -105,38 +103,41 @@ def parse_and_classify():
                     rewritten = rewrite_headline(headline)
                     logo = source_logos.get(source, "")
 
-                    item = {
+                    items.append({
                         "source": source,
                         "logo": logo,
                         "headline": rewritten,
                         "url": link,
                         "category": category,
                         "published_at": published_str
-                    }
-                    items.append(item)
+                    })
+
                     updated_cache.add(key)
 
             except Exception as e:
-                print(f"❌ Failed to parse feed {url}: {e}")
+                print(f"❌ Error parsing {url}: {e}")
 
-        # ✅ Sort by date (newest first)
+        # Sort by date
         items.sort(key=lambda x: x.get("published_at", ""), reverse=True)
 
-        # ✅ Save category file
+        # Save category-specific file
         with open(f"docs/{category.lower()}.json", "w", encoding="utf-8") as f:
             json.dump(items, f, indent=2, ensure_ascii=False)
 
         all_news.extend(items)
 
-    # ✅ Save combined news
+    # Shuffle for mixed-source display
+    random.shuffle(all_news)
+
+    # Save combined news
     with open("docs/canada-news.json", "w", encoding="utf-8") as f:
         json.dump(all_news, f, indent=2, ensure_ascii=False)
 
-    # ✅ Save updated cache
+    # Save updated cache
     with open(CACHE_FILE, "w", encoding="utf-8") as f:
         json.dump(list(updated_cache), f)
 
-# ✅ Run
+# Entry point
 if __name__ == "__main__":
     print("🔄 Updating Canadian news...")
     parse_and_classify()
