@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Markets calmer to begin trading day, but U.S.-China threats loom large",
+    "url": "https://www.cbc.ca/news/business/tuesday-global-markets-tariffs-1.7504536?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Apparel brands grappling with 'tariff hell,' says Canadian industry group",
     "url": "https://www.cbc.ca/news/canada/calgary/tariffs-canada-clothing-china-vietnam-1.7504380?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Stocks rise before closing ahead of Trump's tariff announcement in shaky trading day",
     "url": "https://www.cbc.ca/news/business/stocks-trump-market-tariffs-1.7500317?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Looking to buy a car? Expect higher prices under U.S. auto tariffs",
-    "url": "https://www.cbc.ca/news/business/auto-tariffs-car-prices-1.7498847?cmp=rss",
     "category": "Business"
   }
 ]

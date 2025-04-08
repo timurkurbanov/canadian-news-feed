@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "How safe is B.C.'s safe federal Green Party seat?",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/federal-green-party-saanich-gulf-islands-1.7504183?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ex-PM Stephen Harper endorses Conservative Leader Pierre Poilievre",
     "url": "https://www.cbc.ca/9.6715290?cmp=rss",
     "category": "Politics"
@@ -135,9 +142,9 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Alexa McDonough's family helps NDP campaign in Halifax",
-    "url": "https://www.cbc.ca/news/politics/mcdonough-halifax-ndp-1.7503123?cmp=rss",
-    "category": "Politics"
+    "headline": "Markets calmer to begin trading day, but U.S.-China threats loom large",
+    "url": "https://www.cbc.ca/news/business/tuesday-global-markets-tariffs-1.7504536?cmp=rss",
+    "category": "Business"
   },
   {
     "source": "cbc",
@@ -270,13 +277,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Stocks rise before closing ahead of Trump's tariff announcement in shaky trading day",
     "url": "https://www.cbc.ca/news/business/stocks-trump-market-tariffs-1.7500317?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Looking to buy a car? Expect higher prices under U.S. auto tariffs",
-    "url": "https://www.cbc.ca/news/business/auto-tariffs-car-prices-1.7498847?cmp=rss",
     "category": "Business"
   },
   {
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Snow, -2.7°C",
+    "headline": "Current Conditions: Heavy Snow, -3.2°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

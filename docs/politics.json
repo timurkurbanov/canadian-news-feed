@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "How safe is B.C.'s safe federal Green Party seat?",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/federal-green-party-saanich-gulf-islands-1.7504183?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ex-PM Stephen Harper endorses Conservative Leader Pierre Poilievre",
     "url": "https://www.cbc.ca/9.6715290?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney warns of 'tough days ahead' as tariffs make U.S. recession 'likely'",
     "url": "https://www.cbc.ca/news/politics/mark-carney-tough-days-tariffs-likely-u-s-recession-1.7502981?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Alexa McDonough's family helps NDP campaign in Halifax",
-    "url": "https://www.cbc.ca/news/politics/mcdonough-halifax-ndp-1.7503123?cmp=rss",
     "category": "Politics"
   }
 ]
