@@ -415,7 +415,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "SNOWFALL WARNING, Ottawa",
+    "headline": "SNOWFALL WARNING ENDED, Ottawa",
     "url": "https://weather.gc.ca/warnings/report_e.html?onrm104",
     "category": "Weather"
   },
