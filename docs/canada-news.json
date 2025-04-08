@@ -303,6 +303,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Florida Gators rally to 3rd NCAA men's basketball title with thriller vs. Houston",
+    "url": "https://www.cbc.ca/sports/basketball/mens-march-madness-final-florida-houston-1.7504550?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ohtani, Betts and World Series champion Dodgers visit Trump at White House",
     "url": "https://www.cbc.ca/sports/baseball/mlb/los-angeles-dodgers-white-house-visit-donald-trump-1.7504171?cmp=rss",
     "category": "Sports"
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada falls to Scotland, will play China for bronze at world curling playdowns",
-    "url": "https://www.cbc.ca/sports/olympics/winter/curling/bkt-mens-curling-april-5-1.7503052?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "SNOWFALL WARNING, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Snow, -2.7°C",
+    "headline": "Current Conditions: Snow, -2.7°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
