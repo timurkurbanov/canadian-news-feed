@@ -1,1 +1,142 @@
-[]
+[
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ex-PM Stephen Harper endorses Conservative Leader Pierre Poilievre",
+    "url": "https://www.cbc.ca/9.6715290?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney lays out plan to help economy along amid Trump-induced market chaos",
+    "url": "https://www.cbc.ca/news/politics/carney-plan-economy-1.7503904?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Another day of stock market mayhem as nations ask Trump to reconsider tariffs",
+    "url": "https://www.cbc.ca/9.6714075?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Don't forget about softwood lumber sector, B.C. premier tells Mark Carney",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/eby-carney-softwood-lumber-1.7504406?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Longest ballot protest targets Conservative Leader Pierre Poilievre's riding",
+    "url": "https://www.cbc.ca/news/politics/longest-ballot-protest-candidates-carleton-riding-poilievre-1.7503993?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Party leaders promise to boost home building, help seniors and speed up resource project approvals",
+    "url": "https://www.cbc.ca/news/politics/poilievre-carney-singh-approvals-retirees-housing-1.7503742?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Security officials report a Beijing-linked online operation focused on Carney",
+    "url": "https://www.cbc.ca/news/politics/carney-wechat-china-1.7503711?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "It took 7 years to get my family to Canada. I'm unsure if any party truly supports immigrants",
+    "url": "https://www.cbc.ca/news/canada/first-person-yasmeen-awadh-immigration-1.7481616?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney's former firm Brookfield has been accused of breaching Indigenous rights in 4 countries",
+    "url": "https://www.cbc.ca/news/indigenous/brookfield-carney-indigenous-rights-1.7498967?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Pierre Poilievre's record on Indigenous rights concerns advocates",
+    "url": "https://www.cbc.ca/news/indigenous/pierre-poilievre-indigenous-record-1.7502511?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Liberal Leader Carney pokes at Alberta Premier Smith at first Western campaign stop",
+    "url": "https://www.cbc.ca/news/canada/calgary/carney-smith-campaign-stop-1.7503621?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Conservatives target supervised consumption sites, NDP promises rent control",
+    "url": "https://www.cbc.ca/news/politics/election-2025-day-15-campaign-promises-1.7503265?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Former Liberal justice minister endorses Bloc Québécois's Alexis Brunelle-Duceppe",
+    "url": "https://www.cbc.ca/news/politics/irwin-cotler-alexis-brunelle-duceppe-1.7503249?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ruth Ellen Brosseau eyes return to Parliament, will run for NDP in Quebec riding",
+    "url": "https://www.cbc.ca/news/politics/canada-election-ndp-ruth-ellen-brosseau-berthier-maskinonge-1.7503288?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Parties lost a swath of candidates last week. After Monday, it'll be too late to replace them",
+    "url": "https://www.cbc.ca/news/politics/parties-kicking-out-candidates-deadline-to-nominate-1.7502677?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "NDP's Singh drops 'I'm running for prime minister' messaging two weeks into the campaign",
+    "url": "https://www.cbc.ca/news/politics/canada-election-singh-ndp-campaign-week-3-pm-messaging-1.7502671?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ottawa man charged after lockdown on Parliament Hill, police say",
+    "url": "https://www.cbc.ca/news/politics/parliament-hill-lockdown-1.7503089?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney warns of 'tough days ahead' as tariffs make U.S. recession 'likely'",
+    "url": "https://www.cbc.ca/news/politics/mark-carney-tough-days-tariffs-likely-u-s-recession-1.7502981?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Alexa McDonough's family helps NDP campaign in Halifax",
+    "url": "https://www.cbc.ca/news/politics/mcdonough-halifax-ndp-1.7503123?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poilievre stands by B.C. candidate called out for residential school posts",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/pierre-poilievre-aaron-gunn-1.7503105?cmp=rss",
+    "category": "Politics"
+  }
+]

@@ -1,111 +1,517 @@
 [
   {
-    "source": "gc",
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ex-PM Stephen Harper endorses Conservative Leader Pierre Poilievre",
+    "url": "https://www.cbc.ca/9.6715290?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney lays out plan to help economy along amid Trump-induced market chaos",
+    "url": "https://www.cbc.ca/news/politics/carney-plan-economy-1.7503904?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Another day of stock market mayhem as nations ask Trump to reconsider tariffs",
+    "url": "https://www.cbc.ca/9.6714075?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Don't forget about softwood lumber sector, B.C. premier tells Mark Carney",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/eby-carney-softwood-lumber-1.7504406?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Longest ballot protest targets Conservative Leader Pierre Poilievre's riding",
+    "url": "https://www.cbc.ca/news/politics/longest-ballot-protest-candidates-carleton-riding-poilievre-1.7503993?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Party leaders promise to boost home building, help seniors and speed up resource project approvals",
+    "url": "https://www.cbc.ca/news/politics/poilievre-carney-singh-approvals-retirees-housing-1.7503742?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Security officials report a Beijing-linked online operation focused on Carney",
+    "url": "https://www.cbc.ca/news/politics/carney-wechat-china-1.7503711?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "It took 7 years to get my family to Canada. I'm unsure if any party truly supports immigrants",
+    "url": "https://www.cbc.ca/news/canada/first-person-yasmeen-awadh-immigration-1.7481616?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney's former firm Brookfield has been accused of breaching Indigenous rights in 4 countries",
+    "url": "https://www.cbc.ca/news/indigenous/brookfield-carney-indigenous-rights-1.7498967?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Pierre Poilievre's record on Indigenous rights concerns advocates",
+    "url": "https://www.cbc.ca/news/indigenous/pierre-poilievre-indigenous-record-1.7502511?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Liberal Leader Carney pokes at Alberta Premier Smith at first Western campaign stop",
+    "url": "https://www.cbc.ca/news/canada/calgary/carney-smith-campaign-stop-1.7503621?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Conservatives target supervised consumption sites, NDP promises rent control",
+    "url": "https://www.cbc.ca/news/politics/election-2025-day-15-campaign-promises-1.7503265?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Former Liberal justice minister endorses Bloc Québécois's Alexis Brunelle-Duceppe",
+    "url": "https://www.cbc.ca/news/politics/irwin-cotler-alexis-brunelle-duceppe-1.7503249?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ruth Ellen Brosseau eyes return to Parliament, will run for NDP in Quebec riding",
+    "url": "https://www.cbc.ca/news/politics/canada-election-ndp-ruth-ellen-brosseau-berthier-maskinonge-1.7503288?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Parties lost a swath of candidates last week. After Monday, it'll be too late to replace them",
+    "url": "https://www.cbc.ca/news/politics/parties-kicking-out-candidates-deadline-to-nominate-1.7502677?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "NDP's Singh drops 'I'm running for prime minister' messaging two weeks into the campaign",
+    "url": "https://www.cbc.ca/news/politics/canada-election-singh-ndp-campaign-week-3-pm-messaging-1.7502671?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ottawa man charged after lockdown on Parliament Hill, police say",
+    "url": "https://www.cbc.ca/news/politics/parliament-hill-lockdown-1.7503089?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney warns of 'tough days ahead' as tariffs make U.S. recession 'likely'",
+    "url": "https://www.cbc.ca/news/politics/mark-carney-tough-days-tariffs-likely-u-s-recession-1.7502981?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Alexa McDonough's family helps NDP campaign in Halifax",
+    "url": "https://www.cbc.ca/news/politics/mcdonough-halifax-ndp-1.7503123?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poilievre stands by B.C. candidate called out for residential school posts",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/pierre-poilievre-aaron-gunn-1.7503105?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Stock markets close slightly lower after another day of Wall Street chaos and tariff threats",
+    "url": "https://www.cbc.ca/news/business/monday-markets-tariffs-1.7503498?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Trade uncertainty taking a toll on business and consumer confidence: Bank of Canada reports",
+    "url": "https://www.cbc.ca/news/business/boc-surveys-trade-uncertainty-1.7503766?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Trump calls his tariffs economic 'medicine' after trillions wiped out from U.S. stock market",
+    "url": "https://www.cbc.ca/news/world/trump-tariffs-medicine-markets-1.7503125?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Why Canada is on the cusp of a housing construction crisis",
+    "url": "https://www.cbc.ca/news/canada/housing-affordability-construction-canada-1.7499260?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Deadline for TikTok sale extended by 75 days, as Trump vows to work with China",
+    "url": "https://www.cbc.ca/news/business/tiktok-deadline-extended-1.7502361?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Markets plunge worldwide for a second day straight following China's tariff retaliation",
+    "url": "https://www.cbc.ca/news/business/stock-market-falls-1.7501962?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "As U.S. tariffs roil markets, Canadian businesses build on European ties at world trade fair",
+    "url": "https://www.cbc.ca/news/world/world-trade-canada-tariff-us-1.7501841?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada lost 33,000 jobs in March as unemployment rate rose slightly to 6.7%",
+    "url": "https://www.cbc.ca/news/business/canada-unemployment-march-2025-1.7501875?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "A reprieve for snowbirds? Trump administration sued over traveller registration requirement",
+    "url": "https://www.cbc.ca/news/business/snowbirds-sue-registration-1.7500683?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Trump wants to upend the entire global order. Can he stomach the price tag?",
+    "url": "https://www.cbc.ca/news/business/trump-tariffs-price-tag-global-economy-1.7501340?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Digging into the 'insane' formula the White House used to calculate its tariffs",
+    "url": "https://www.cbc.ca/news/business/trump-fake-tariff-rates-1.7501604?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Suffering from a case of tariff whiplash? Here's what you need to know",
+    "url": "https://www.cbc.ca/news/business/tariff-explainer-1.7501372?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Global stock markets reeling following Trump's tariffs shock",
+    "url": "https://www.cbc.ca/news/business/eu-countermeasures-us-tariffs-1.7500731?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Rogers, NHL have agreed to another broadcast deal. What will that mean for how you watch the game?",
+    "url": "https://www.cbc.ca/news/business/rogers-nhl-broadcast-deal-1.7500505?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Trump slaps retaliatory tariffs on dozens of countries but Canada is spared the worst this time",
+    "url": "https://www.cbc.ca/news/politics/trump-tariffs-canada-1.7500316?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'A real sense of betrayal' among workers as Stellantis plans to idle Windsor, Ont., plant due to tariffs",
+    "url": "https://www.cbc.ca/news/canada/windsor/windsor-assembly-plant-stellantis-down-pacifica-1.7500644?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Stocks rise before closing ahead of Trump's tariff announcement in shaky trading day",
+    "url": "https://www.cbc.ca/news/business/stocks-trump-market-tariffs-1.7500317?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Looking to buy a car? Expect higher prices under U.S. auto tariffs",
+    "url": "https://www.cbc.ca/news/business/auto-tariffs-car-prices-1.7498847?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Amazon among bidders to acquire TikTok as deadline looms for a buyer to be found",
+    "url": "https://www.cbc.ca/news/business/amazon-tiktok-bidding-1.7500275?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Nintendo reveals Switch 2 launch date, new features of interactive chat, screen sharing",
+    "url": "https://www.cbc.ca/news/entertainment/nintendo-switch-2-announcement-1.7499794?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada's Chloe Primerano poised for women's world hockey championship debut",
+    "url": "https://www.cbc.ca/sports/hockey/chloe-primerano-canada-womens-hockey-worlds-czech-republic-1.7503666?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Former NHL goaltender, hockey broadcaster Greg Millen dead at 67",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/greg-millen-obituary-1.7504375?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Jays, Vladimir Guerrero Jr., agree to 14-year, $500M US extension: reports",
+    "url": "https://www.cbc.ca/sports/blue-jays-vladimir-guerrero-jr-contract-extension-1.7503474?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ohtani, Betts and World Series champion Dodgers visit Trump at White House",
+    "url": "https://www.cbc.ca/sports/baseball/mlb/los-angeles-dodgers-white-house-visit-donald-trump-1.7504171?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Vladimir Putin congratulates Alex Ovechkin on 'outstanding' NHL goals record",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/vladimir-putin-alex-ovechkin-nhl-goals-record-1.7503778?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "World 800m champ Marco Arop prioritizes winning track medals over world record 'passion project'",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/marco-arop-passion-project-grand-slam-track-kingston-1.7503960?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Red Sox's Jarren Duran opens up about mental health, attempted suicide in Netflix documentary",
+    "url": "https://www.cbc.ca/sports/baseball/mlb/jarren-duran-mental-health-suicide-attempt-netflix-doc-1.7504336?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ovechkin scores No. 895, surpassing Gretzky's all-time NHL goals record",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/alex-ovechkin-breaks-gretzky-career-goals-record-1.7503198?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Auger-Aliassime, Shapovalov make quick exit at Monte Carlo Masters",
+    "url": "https://www.cbc.ca/sports/tennis/auger-aliassime-shapovalov-monte-carlo-masters-recap-1.7503793?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Marco Arop goes wire-to-wire, winning 800m on final day of Grand Slam Track in Jamaica",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/grand-slam-track-kingston-april-6-1.7503379?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "UConn returns to top of women's basketball, dominating South Carolina en route to 12th title",
+    "url": "https://www.cbc.ca/sports/basketball/womens-march-madness-final-uconn-south-carolina-1.7503422?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Brad Jacobs leads Canada to world men's curling bronze for its 4th straight medal",
+    "url": "https://www.cbc.ca/sports/olympics/winter/curling/brad-jacobs-canada-world-mens-curling-bronze-medal-moose-jaw-1.7503295?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada's Grondin wins snowboard cross gold after securing season title in Quebec",
+    "url": "https://www.cbc.ca/sports/olympics/winter/snowboard/eliot-grondin-snowboard-cross-world-cup-win-quebec-1.7503281?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Everything you need to know about Canada at the women's hockey world championship",
+    "url": "https://www.cbc.ca/sports/hockey/canada-women-s-worlds-roster-preview-2025-1.7502568?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Torpedo baseball bats are all the rage. This Quebec factory is trying to keep up with demand",
+    "url": "https://www.cbc.ca/player/play/9.6712362?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Marco Arop places 6th in 3rd career 1,500m at Grand Slam Track event",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/grand-slam-track-kingston-april-5-1.7503021?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada wins 4x100m race at Florida Relays",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/florida-relays-canada-gold-2025-1.7503047?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadian rugby women down France at Singapore 7s, finish 3rd in consecutive weeks",
+    "url": "https://www.cbc.ca/sports/rugby/canada-france-recap-rugby-sevens-singapore-1.7503269?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada falls to Scotland, will play China for bronze at world curling playdowns",
+    "url": "https://www.cbc.ca/sports/olympics/winter/curling/bkt-mens-curling-april-5-1.7503052?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "WEATHER ADVISORY, Ottawa",
+    "headline": "SNOWFALL WARNING, Ottawa",
     "url": "https://weather.gc.ca/warnings/report_e.html?onrm104",
     "category": "Weather"
   },
   {
-    "source": "gc",
+    "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Partly Cloudy, 6.5°C",
+    "headline": "Current Conditions: Light Snow, -0.1°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
-    "source": "gc",
+    "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Monday: Increasing cloudiness. High 7.",
+    "headline": "Monday night: Snow at times heavy or rain. Low minus 4.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
-    "source": "gc",
+    "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Monday night: Snow at times heavy or rain. Low minus 5.",
+    "headline": "Tuesday: Snow. Temperature steady near minus 4.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
-    "source": "gc",
+    "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Tuesday: Snow. High minus 3.",
+    "headline": "Tuesday night: Chance of flurries. Low minus 9. POP 30%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
-    "source": "gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Tuesday night: Chance of flurries. Low minus 9. POP 40%",
-    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
-    "category": "Weather"
-  },
-  {
-    "source": "gc",
+    "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "Wednesday: A mix of sun and cloud. High plus 2.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
-    "source": "gc",
+    "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "Wednesday night: Clear. Low minus 8.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
-    "source": "gc",
+    "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "Thursday: Chance of rain showers or flurries. High 8. POP 40%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
-    "source": "gc",
+    "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "Thursday night: Chance of rain showers or flurries. Low plus 1. POP 40%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
-    "source": "gc",
+    "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "Friday: Chance of showers. High 6. POP 40%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
-    "source": "gc",
+    "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "Friday night: Chance of showers. Low plus 2. POP 40%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
-    "source": "gc",
+    "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "Saturday: Chance of showers. High 9. POP 60%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
-    "source": "gc",
+    "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "Saturday night: Chance of showers. Low plus 2. POP 60%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
-    "source": "gc",
+    "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "Sunday: A mix of sun and cloud. High 12.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
-    "source": "gc",
+    "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "Notice",
     "url": "https://weather.gc.ca/canada_e.html",
