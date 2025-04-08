@@ -1,12 +1,12 @@
-name: Update Canadian News
+name: ⏱️ Update Canadian News
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: '*/5 * * * *'  # Every 5 minutes
   workflow_dispatch:
 
 jobs:
-  update-news:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -18,35 +18,19 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: 🧼 Force uninstall all OpenAI SDK versions
-        run: |
-          pip uninstall -y openai || true
-          pip uninstall -y openai || true  # Run twice just in case
-          pip uninstall -y openai || true
+      - name: ✅ Install required Python packages
+        run: pip install openai==1.12.0 feedparser
 
-      - name: 🧹 Clean __pycache__ and old builds
-        run: find . -type d -name "__pycache__" -exec rm -r {} +
-
-      - name: 📥 Install latest OpenAI SDK + dependencies
-        run: |
-          pip install openai==1.12.0 feedparser
-
-      - name: ✅ Verify OpenAI version
-        run: python -c "import openai; print('✅ OpenAI version:', openai.__version__)"
-
-      - name: 🗂️ Ensure docs directory exists
-        run: mkdir -p docs
-
-      - name: 🤖 Run update script to generate all JSON feeds
+      - name: 📄 Run update script to generate all JSON feeds
+        run: python .github/scripts/update_news.py
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python .github/scripts/update_news.py
 
       - name: 🚀 Commit and Push updated JSON files
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git pull --rebase origin main || true
-          git add docs/*.json || true
+          git pull --rebase || true
+          git add docs/*.json
           git commit -m "🔄 Auto-update news JSON files [skip ci]" || echo "No changes to commit"
-          git push || echo "Nothing to push"
+          git push
