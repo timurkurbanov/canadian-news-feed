@@ -9,7 +9,14 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre promises to raise $1B by cracking down on offshore tax havens",
+    "headline": "1 in 4 Bank of Canada managers needs French training",
+    "url": "https://www.cbc.ca/news/politics/1-in-4-bank-of-canada-managers-needs-french-training-1.7504851?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poilievre promises to raise up to $1B by cracking down on offshore tax havens",
     "url": "https://www.cbc.ca/news/politics/poilievre-crack-down-tax-havens-1.7504587?cmp=rss",
     "category": "Politics"
   },
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ruth Ellen Brosseau eyes return to Parliament, will run for NDP in Quebec riding",
     "url": "https://www.cbc.ca/news/politics/canada-election-ndp-ruth-ellen-brosseau-berthier-maskinonge-1.7503288?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Parties lost a swath of candidates last week. After Monday, it'll be too late to replace them",
-    "url": "https://www.cbc.ca/news/politics/parties-kicking-out-candidates-deadline-to-nominate-1.7502677?cmp=rss",
     "category": "Politics"
   }
 ]
