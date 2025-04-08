@@ -18,17 +18,21 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: 🧹 Uninstall old OpenAI SDK (clean slate)
+      - name: 🧼 Force uninstall all OpenAI SDK versions
         run: |
           pip uninstall -y openai || true
+          pip uninstall -y openai || true  # Run twice just in case
+          pip uninstall -y openai || true
 
-      - name: 📥 Install correct dependencies
+      - name: 🧹 Clean __pycache__ and old builds
+        run: find . -type d -name "__pycache__" -exec rm -r {} +
+
+      - name: 📥 Install latest OpenAI SDK + dependencies
         run: |
           pip install openai==1.12.0 feedparser
 
-      - name: ✅ Verify OpenAI SDK version
-        run: |
-          python -c "import openai; print('OpenAI version:', openai.__version__)"
+      - name: ✅ Verify OpenAI version
+        run: python -c "import openai; print('✅ OpenAI version:', openai.__version__)"
 
       - name: 🗂️ Ensure docs directory exists
         run: mkdir -p docs
