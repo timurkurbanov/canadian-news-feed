@@ -22,15 +22,11 @@ jobs:
           pip install --upgrade pip
           pip install openai==1.12.0 feedparser
 
-      - name: Run ALL update scripts
-        run: |
-          python .github/scripts/update_news.py
-          python .github/scripts/update_politics.py
-          python .github/scripts/update_business.py
-          python .github/scripts/update_sports.py
-          python .github/scripts/update_weather.py
+      - name: Run combined update script
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python .github/scripts/update_news.py
 
       - name: Commit changes
         run: |
