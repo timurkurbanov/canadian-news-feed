@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada election: Poilievre to pledge tax haven crackdown fresh off of Harper endorsement",
+    "url": "https://www.cbc.ca/9.6715755?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre promises to raise $1B by cracking down on offshore tax havens",
     "url": "https://www.cbc.ca/news/politics/poilievre-crack-down-tax-havens-1.7504587?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Parties lost a swath of candidates last week. After Monday, it'll be too late to replace them",
     "url": "https://www.cbc.ca/news/politics/parties-kicking-out-candidates-deadline-to-nominate-1.7502677?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "NDP's Singh drops 'I'm running for prime minister' messaging two weeks into the campaign",
-    "url": "https://www.cbc.ca/news/politics/canada-election-singh-ndp-campaign-week-3-pm-messaging-1.7502671?cmp=rss",
     "category": "Politics"
   }
 ]

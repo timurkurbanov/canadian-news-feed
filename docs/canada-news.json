@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada election: Poilievre to pledge tax haven crackdown fresh off of Harper endorsement",
+    "url": "https://www.cbc.ca/9.6715755?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre promises to raise $1B by cracking down on offshore tax havens",
     "url": "https://www.cbc.ca/news/politics/poilievre-crack-down-tax-havens-1.7504587?cmp=rss",
     "category": "Politics"
@@ -135,14 +142,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "NDP's Singh drops 'I'm running for prime minister' messaging two weeks into the campaign",
-    "url": "https://www.cbc.ca/news/politics/canada-election-singh-ndp-campaign-week-3-pm-messaging-1.7502671?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Markets calmer to begin trading day, but U.S.-China threats loom large",
+    "headline": "North American markets open high as relief spreads through trading worldwide, but U.S.-China threats loom",
     "url": "https://www.cbc.ca/news/business/tuesday-global-markets-tariffs-1.7504536?cmp=rss",
     "category": "Business"
   },
