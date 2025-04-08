@@ -2,7 +2,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada election: Poilievre pledges tax haven crackdown fresh off of Harper endorsement",
+    "headline": "Canada election: Poilievre pledges tax haven crackdown, touts size of Edmonton rally",
     "url": "https://www.cbc.ca/9.6715755?cmp=rss",
     "category": "Politics"
   },
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Snow and Blowing Snow, -7.2°C",
+    "headline": "Current Conditions: Snow and Blowing Snow, -7.6°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
