@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "In 2021, there was nearly a consensus on climate change. In 2025, Carney and Poilievre are far apart",
+    "url": "https://www.cbc.ca/news/politics/liberals-conservatives-carney-poilievre-climate-change-analysis-1.7505872?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Trump official creates confusion by saying Canadian goods would face 10% tariff",
     "url": "https://www.cbc.ca/news/politics/trump-official-canada-baseline-tariff-1.7506155?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney heading to Calgary for first Alberta campaign stop",
     "url": "https://www.cbc.ca/news/canada/calgary/carney-calgary-campaign-stop-1.7504562?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Alberta New Democrats for Carney? It's more complicated than that",
-    "url": "https://www.cbc.ca/news/canada/calgary/alberta-ndp-liberals-provincial-federal-analysis-1.7504173?cmp=rss",
     "category": "Politics"
   },
   {
@@ -338,6 +338,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Djokovic eliminated at Monte Carlo Masters, misses another chance for 100th career title",
+    "url": "https://www.cbc.ca/sports/tennis/novak-djokovic-monte-carlo-masters-second-round-alejandro-tabilo-1.7506221?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Get ready for another Canada-U.S. hockey showdown",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-canada-us-womens-hockey-world-championship-1.7505172?cmp=rss",
     "category": "Sports"
@@ -410,13 +417,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Matteo Berrettini upends top-seeded Alex Zverev in Monte Carlo Masters 2nd round",
     "url": "https://www.cbc.ca/sports/tennis/berrettini-zverev-monte-carlo-masters-recap-second-round-1.7504877?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "World Cup ski champion Federica Brignone's return uncertain 10 months from Olympics",
-    "url": "https://www.cbc.ca/sports/olympics/winter/alpine-skiing/federica-brignone-discharged-hospital-broken-leg-surgery-1.7504690?cmp=rss",
     "category": "Sports"
   },
   {

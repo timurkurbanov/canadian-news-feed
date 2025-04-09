@@ -58,6 +58,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Djokovic eliminated at Monte Carlo Masters, misses another chance for 100th career title",
+    "url": "https://www.cbc.ca/sports/tennis/novak-djokovic-monte-carlo-masters-second-round-alejandro-tabilo-1.7506221?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Get ready for another Canada-U.S. hockey showdown",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-canada-us-womens-hockey-world-championship-1.7505172?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Matteo Berrettini upends top-seeded Alex Zverev in Monte Carlo Masters 2nd round",
     "url": "https://www.cbc.ca/sports/tennis/berrettini-zverev-monte-carlo-masters-recap-second-round-1.7504877?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "World Cup ski champion Federica Brignone's return uncertain 10 months from Olympics",
-    "url": "https://www.cbc.ca/sports/olympics/winter/alpine-skiing/federica-brignone-discharged-hospital-broken-leg-surgery-1.7504690?cmp=rss",
     "category": "Sports"
   }
 ]
