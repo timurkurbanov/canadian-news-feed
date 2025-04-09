@@ -2,6 +2,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Pierre Poilievre is boasting about his rallies. But does size indicate success?",
+    "url": "https://www.cbc.ca/news/politics/pierre-poilievre-crowd-sizes-1.7504980?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Have renters been forgotten this election campaign?",
+    "url": "https://www.cbc.ca/news/politics/renters-federal-election-1.7505452?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre digs at Carney's 'banker's haircut,' Liberal says his rival hasn't managed a crisis",
     "url": "https://www.cbc.ca/news/politics/poilievre-personal-digs-carney-political-career-1.7505275?cmp=rss",
     "category": "Politics"
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "It took 7 years to get my family to Canada. I'm unsure if any party truly supports immigrants",
     "url": "https://www.cbc.ca/news/canada/first-person-yasmeen-awadh-immigration-1.7481616?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney's former firm Brookfield has been accused of breaching Indigenous rights in 4 countries",
-    "url": "https://www.cbc.ca/news/indigenous/brookfield-carney-indigenous-rights-1.7498967?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Pierre Poilievre's record on Indigenous rights concerns advocates",
-    "url": "https://www.cbc.ca/news/indigenous/pierre-poilievre-indigenous-record-1.7502511?cmp=rss",
     "category": "Politics"
   }
 ]
