@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Over 100,000 Canadians already voted as election campaign hits halfway point",
+    "url": "https://www.cbc.ca/news/politics/canadians-voting-early-special-ballots-1.7506211?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "In 2021, there was nearly a consensus on climate change. In 2025, Carney and Poilievre are far apart",
     "url": "https://www.cbc.ca/news/politics/liberals-conservatives-carney-poilievre-climate-change-analysis-1.7505872?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "As a pastor, I preach forgiveness. As a concerned dad, I see the need for bail reform",
     "url": "https://www.cbc.ca/news/canada/first-person-jason-mcallister-bail-reform-1.7501831?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney heading to Calgary for first Alberta campaign stop",
-    "url": "https://www.cbc.ca/news/canada/calgary/carney-calgary-campaign-stop-1.7504562?cmp=rss",
     "category": "Politics"
   }
 ]
