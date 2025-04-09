@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Answering your questions on Canada’s federal election",
+    "url": "https://www.cbc.ca/player/play/9.6716539?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Pierre Poilievre is boasting about his rallies. But does size indicate success?",
     "url": "https://www.cbc.ca/news/politics/pierre-poilievre-crowd-sizes-1.7504980?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney lays out plan to help economy along amid Trump-induced market chaos",
     "url": "https://www.cbc.ca/news/politics/carney-plan-economy-1.7503904?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Another day of stock market mayhem as nations ask Trump to reconsider tariffs",
-    "url": "https://www.cbc.ca/9.6714075?cmp=rss",
     "category": "Politics"
   }
 ]
