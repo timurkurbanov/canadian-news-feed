@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "In Canada's election campaign, a warming planet sits on the back burner",
+    "url": "https://www.cbc.ca/news/canada/manitoba/climate-election-1.7505024?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre digs at Carney's 'banker's haircut,' Liberal says his rival hasn't managed a crisis",
     "url": "https://www.cbc.ca/news/politics/poilievre-personal-digs-carney-political-career-1.7505275?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Security officials report a Beijing-linked online operation focused on Carney",
     "url": "https://www.cbc.ca/news/politics/carney-wechat-china-1.7503711?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "It took 7 years to get my family to Canada. I'm unsure if any party truly supports immigrants",
-    "url": "https://www.cbc.ca/news/canada/first-person-yasmeen-awadh-immigration-1.7481616?cmp=rss",
     "category": "Politics"
   }
 ]
