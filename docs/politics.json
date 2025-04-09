@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Trump official creates confusion by saying Canadian goods would face 10% tariff",
+    "url": "https://www.cbc.ca/news/politics/trump-official-canada-baseline-tariff-1.7506155?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Asked to clarify if he sees genocide in Gaza, Carney says he 'didn't hear that word'",
     "url": "https://www.cbc.ca/news/politics/carney-clarifies-genocide-remarks-1.7506027?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Alberta New Democrats for Carney? It's more complicated than that",
     "url": "https://www.cbc.ca/news/canada/calgary/alberta-ndp-liberals-provincial-federal-analysis-1.7504173?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "How safe is B.C.'s safe federal Green Party seat?",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/federal-green-party-saanich-gulf-islands-1.7504183?cmp=rss",
     "category": "Politics"
   }
 ]
