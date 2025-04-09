@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "No Conservative candidate in Quebec City riding due to submission issue",
+    "url": "https://www.cbc.ca/news/canada/montreal/quebec-conservative-candidate-quebec-city-riding-1.7505949?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Pierre Poilievre is boasting about his rallies. But does size indicate success?",
     "url": "https://www.cbc.ca/news/politics/pierre-poilievre-crowd-sizes-1.7504980?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ex-PM Stephen Harper endorses Conservative Leader Pierre Poilievre",
     "url": "https://www.cbc.ca/9.6715290?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney lays out plan to help economy along amid Trump-induced market chaos",
-    "url": "https://www.cbc.ca/news/politics/carney-plan-economy-1.7503904?cmp=rss",
     "category": "Politics"
   },
   {
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Partly Cloudy, -1.1°C",
+    "headline": "Current Conditions: Partly Cloudy, -0.2°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
