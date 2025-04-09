@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Surge in young gun owners hitting voting age amid calls in firearm circles to loosen bans",
+    "url": "https://www.cbc.ca/news/canada/gun-ownership-young-men-bans-politics-1.7504247?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "In Canada's election campaign, a warming planet sits on the back burner",
     "url": "https://www.cbc.ca/news/canada/manitoba/climate-election-1.7505024?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Party leaders promise to boost home building, help seniors and speed up resource project approvals",
     "url": "https://www.cbc.ca/news/politics/poilievre-carney-singh-approvals-retirees-housing-1.7503742?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Security officials report a Beijing-linked online operation focused on Carney",
-    "url": "https://www.cbc.ca/news/politics/carney-wechat-china-1.7503711?cmp=rss",
     "category": "Politics"
   }
 ]
