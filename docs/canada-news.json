@@ -9,6 +9,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Trump official creates confusion by saying Canadian goods would face 10% tariff",
+    "url": "https://www.cbc.ca/news/politics/trump-official-canada-baseline-tariff-1.7506155?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney pledges faster project reviews to make Canada 'energy superpower'",
+    "url": "https://www.cbc.ca/news/canada/calgary/mark-carney-liberals-energy-reviews-oil-gas-calgary-promise-conservative-pierre-poilievre-1.7506199?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Over 100,000 Canadians already voted as election campaign hits halfway point",
     "url": "https://www.cbc.ca/news/politics/canadians-voting-early-special-ballots-1.7506211?cmp=rss",
     "category": "Politics"
@@ -23,8 +37,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump official creates confusion by saying Canadian goods would face 10% tariff",
-    "url": "https://www.cbc.ca/news/politics/trump-official-canada-baseline-tariff-1.7506155?cmp=rss",
+    "headline": "Poilievre tries to draw voter attention to violent crime as Trump concerns dominate",
+    "url": "https://www.cbc.ca/news/politics/poilievre-tough-on-crime-1.7505978?cmp=rss",
     "category": "Politics"
   },
   {
@@ -32,13 +46,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Asked to clarify if he sees genocide in Gaza, Carney says he 'didn't hear that word'",
     "url": "https://www.cbc.ca/news/politics/carney-clarifies-genocide-remarks-1.7506027?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre tries to draw voter attention to violent crime as Trump concerns dominate",
-    "url": "https://www.cbc.ca/news/politics/poilievre-tough-on-crime-1.7505978?cmp=rss",
     "category": "Politics"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "1 in 4 Bank of Canada managers needs French training",
     "url": "https://www.cbc.ca/news/politics/1-in-4-bank-of-canada-managers-needs-french-training-1.7504851?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "As a pastor, I preach forgiveness. As a concerned dad, I see the need for bail reform",
-    "url": "https://www.cbc.ca/news/canada/first-person-jason-mcallister-bail-reform-1.7501831?cmp=rss",
     "category": "Politics"
   },
   {
