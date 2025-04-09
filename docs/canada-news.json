@@ -37,6 +37,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Indigenous child welfare is a part of my family and is shaping my vote",
+    "url": "https://www.cbc.ca/news/canada/ottawa/indigenous-child-welfare-first-person-federal-election-1.7498288?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "In Canada's election campaign, a warming planet sits on the back burner",
     "url": "https://www.cbc.ca/news/canada/manitoba/climate-election-1.7505024?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Another day of stock market mayhem as nations ask Trump to reconsider tariffs",
     "url": "https://www.cbc.ca/9.6714075?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Don't forget about softwood lumber sector, B.C. premier tells Mark Carney",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/eby-carney-softwood-lumber-1.7504406?cmp=rss",
     "category": "Politics"
   },
   {
@@ -310,6 +310,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "American trans athletes find safe space in gymnastics while under scrutiny",
+    "url": "https://www.cbc.ca/sports/olympics/summer/gymnastics/trans-athletes-united-states-safe-place-gymnastics-naigc-1.7505846?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PWHL star Natalie Spooner relishing 11th world championship after returning from knee surgery",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/canada-womens-hockey-worlds-spooner-return-2025-1.7504102?cmp=rss",
     "category": "Sports"
@@ -403,13 +410,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Neither of these baseball teams has won a game in years. That's about to change",
     "url": "https://www.cbc.ca/radio/asithappens/college-baseball-losing-teams-1.7503850?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Jays, Vladimir Guerrero Jr., agree to 14-year, $500M US extension: reports",
-    "url": "https://www.cbc.ca/sports/blue-jays-vladimir-guerrero-jr-contract-extension-1.7503474?cmp=rss",
     "category": "Sports"
   },
   {

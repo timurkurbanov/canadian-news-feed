@@ -30,6 +30,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "American trans athletes find safe space in gymnastics while under scrutiny",
+    "url": "https://www.cbc.ca/sports/olympics/summer/gymnastics/trans-athletes-united-states-safe-place-gymnastics-naigc-1.7505846?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PWHL star Natalie Spooner relishing 11th world championship after returning from knee surgery",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/canada-womens-hockey-worlds-spooner-return-2025-1.7504102?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Neither of these baseball teams has won a game in years. That's about to change",
     "url": "https://www.cbc.ca/radio/asithappens/college-baseball-losing-teams-1.7503850?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Jays, Vladimir Guerrero Jr., agree to 14-year, $500M US extension: reports",
-    "url": "https://www.cbc.ca/sports/blue-jays-vladimir-guerrero-jr-contract-extension-1.7503474?cmp=rss",
     "category": "Sports"
   }
 ]
