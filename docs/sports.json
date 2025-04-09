@@ -2,29 +2,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's women's rugby team, ranked No. 2, fights through funding crisis as it prepares for World Cup",
-    "url": "https://www.cbc.ca/sports/opinion-rugby-canada-crowdfunding-women-team-world-cup-ahmed-shireen-ahmed-1.7504931?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Get ready for another Canada-U.S. hockey showdown",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-canada-us-womens-hockey-world-championship-1.7505172?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "PWHL star Natalie Spooner relishing 11th world championship after returning from knee surgery",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/canada-womens-hockey-worlds-spooner-return-2025-1.7504102?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Argentina hands Canadian women's soccer team 1st loss of Stoney era",
-    "url": "https://www.cbc.ca/sports/soccer/canada-argentina-womens-soccer-friendly-april-9-1.7505557?cmp=rss",
     "category": "Sports"
   },
   {
@@ -37,8 +16,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Injury-plagued Winnipeg Jets prospect retires from hockey due to hereditary disorder",
-    "url": "https://www.cbc.ca/news/canada/manitoba/chaz-lucius-retirement-ehlers-danlos-syndrome-1.7505491?cmp=rss",
+    "headline": "PWHL star Natalie Spooner relishing 11th world championship after returning from knee surgery",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/canada-womens-hockey-worlds-spooner-return-2025-1.7504102?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,6 +109,27 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Vladimir Putin congratulates Alex Ovechkin on 'outstanding' NHL goals record",
     "url": "https://www.cbc.ca/sports/hockey/nhl/vladimir-putin-alex-ovechkin-nhl-goals-record-1.7503778?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Marco Arop goes wire-to-wire, winning 800m on final day of Grand Slam Track in Jamaica",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/grand-slam-track-kingston-april-6-1.7503379?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Red Sox's Jarren Duran opens up about mental health, attempted suicide in Netflix documentary",
+    "url": "https://www.cbc.ca/sports/baseball/mlb/jarren-duran-mental-health-suicide-attempt-netflix-doc-1.7504336?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ovechkin scores No. 895, surpassing Gretzky's all-time NHL goals record",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/alex-ovechkin-breaks-gretzky-career-goals-record-1.7503198?cmp=rss",
     "category": "Sports"
   }
 ]
