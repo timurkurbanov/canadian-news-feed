@@ -9,13 +9,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Answering your questions on Canada’s federal election",
-    "url": "https://www.cbc.ca/player/play/9.6716539?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre tries to draw voter attention to violent crime as Trump concerns dominate",
     "url": "https://www.cbc.ca/news/politics/poilievre-tough-on-crime-1.7505978?cmp=rss",
     "category": "Politics"
@@ -137,6 +130,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "How safe is B.C.'s safe federal Green Party seat?",
     "url": "https://www.cbc.ca/news/canada/british-columbia/federal-green-party-saanich-gulf-islands-1.7504183?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ex-PM Stephen Harper endorses Conservative Leader Pierre Poilievre",
+    "url": "https://www.cbc.ca/9.6715290?cmp=rss",
     "category": "Politics"
   }
 ]
