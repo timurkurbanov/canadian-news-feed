@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "China strikes back with retaliatory tariffs on U.S. after Trump’s 104% levy kicks in",
+    "url": "https://www.cbc.ca/news/world/livestory/china-strikes-back-with-retaliatory-tariffs-on-u-s-after-trumps-104-levy-kicks-in-9.6717027?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Pierre Poilievre is boasting about his rallies. But does size indicate success?",
     "url": "https://www.cbc.ca/news/politics/pierre-poilievre-crowd-sizes-1.7504980?cmp=rss",
     "category": "Politics"
@@ -11,6 +18,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Have renters been forgotten this election campaign?",
     "url": "https://www.cbc.ca/news/politics/renters-federal-election-1.7505452?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Surge in young gun owners hitting voting age amid calls in firearm circles to loosen bans",
+    "url": "https://www.cbc.ca/news/canada/gun-ownership-young-men-bans-politics-1.7504247?cmp=rss",
     "category": "Politics"
   },
   {
@@ -128,21 +142,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Party leaders promise to boost home building, help seniors and speed up resource project approvals",
-    "url": "https://www.cbc.ca/news/politics/poilievre-carney-singh-approvals-retirees-housing-1.7503742?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Security officials report a Beijing-linked online operation focused on Carney",
-    "url": "https://www.cbc.ca/news/politics/carney-wechat-china-1.7503711?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trade war escalates as China raises its retaliatory tariff on the U.S. to 84%, effective Thursday",
+    "headline": "Trade war escalates as China raises its retaliatory tariff on the U.S. to 84%, effective April 10",
     "url": "https://www.cbc.ca/news/world/china-trade-war-u-s-1.7505559?cmp=rss",
     "category": "Business"
   },
