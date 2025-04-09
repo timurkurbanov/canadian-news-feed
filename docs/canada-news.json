@@ -296,6 +296,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Fresh off world men's curling title, Mouat wins early draw at Players' Championship",
+    "url": "https://www.cbc.ca/sports/olympics/winter/curling/curling-players-championship-toronto-roundup-april9-1.7505761?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Get ready for another Canada-U.S. hockey showdown",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-canada-us-womens-hockey-world-championship-1.7505172?cmp=rss",
     "category": "Sports"
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Former NHL goaltender, hockey broadcaster Greg Millen dead at 67",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/greg-millen-obituary-1.7504375?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Sunny, -4.5°C",
+    "headline": "Current Conditions: Mainly Sunny, -3.5°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

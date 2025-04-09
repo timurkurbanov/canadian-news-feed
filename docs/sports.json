@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Fresh off world men's curling title, Mouat wins early draw at Players' Championship",
+    "url": "https://www.cbc.ca/sports/olympics/winter/curling/curling-players-championship-toronto-roundup-april9-1.7505761?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Get ready for another Canada-U.S. hockey showdown",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-canada-us-womens-hockey-world-championship-1.7505172?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Jays, Vladimir Guerrero Jr., agree to 14-year, $500M US extension: reports",
     "url": "https://www.cbc.ca/sports/blue-jays-vladimir-guerrero-jr-contract-extension-1.7503474?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Former NHL goaltender, hockey broadcaster Greg Millen dead at 67",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/greg-millen-obituary-1.7504375?cmp=rss",
     "category": "Sports"
   }
 ]
