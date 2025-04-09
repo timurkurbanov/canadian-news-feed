@@ -2,8 +2,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "China strikes back with retaliatory tariffs on U.S. after Trump’s 104% levy kicks in",
-    "url": "https://www.cbc.ca/news/world/livestory/china-strikes-back-with-retaliatory-tariffs-on-u-s-after-trumps-104-levy-kicks-in-9.6717027?cmp=rss",
+    "headline": "More countries fight back against Trump’s tariffs, with China and Canada leading on retaliation",
+    "url": "https://www.cbc.ca/news/world/livestory/more-countries-fight-back-against-trumps-tariffs-with-china-and-canada-leading-on-retaliation-9.6717027?cmp=rss",
     "category": "Politics"
   },
   {
@@ -289,6 +289,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Sweden pulls away from Germany in 3rd period to take women's hockey worlds opener",
+    "url": "https://www.cbc.ca/sports/hockey/womens-hockey-worlds-roundup-ceske-budejovice-1.7505627?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Get ready for another Canada-U.S. hockey showdown",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-canada-us-womens-hockey-world-championship-1.7505172?cmp=rss",
     "category": "Sports"
@@ -303,7 +310,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Vancouver Canucks make NHL history with 3 goals in final minute, stun Stars 6-5 in OT",
+    "headline": "Canucks make NHL history with 3 goals in final minute, stun Stars 6-5 in OT",
     "url": "https://www.cbc.ca/sports/hockey/nhl/nhl-vancouver-canucks-nhl-recordd-comeback-1.7505569?cmp=rss",
     "category": "Sports"
   },
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Ohtani, Betts and World Series champion Dodgers visit Trump at White House",
-    "url": "https://www.cbc.ca/sports/baseball/mlb/los-angeles-dodgers-white-house-visit-donald-trump-1.7504171?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -450,70 +450,70 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Thursday night: Chance of rain showers or flurries. Low plus 1. POP 70%",
+    "headline": "Thursday night: Chance of flurries or rain showers. Low zero. POP 70%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Friday: Chance of showers. High 6. POP 40%",
+    "headline": "Friday: Chance of showers. High plus 5. POP 40%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Friday night: Chance of showers. Low plus 3. POP 30%",
+    "headline": "Friday night: Chance of showers. Low plus 2. POP 30%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Saturday: Cloudy. High 7.",
+    "headline": "Saturday: Cloudy. High 9.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Saturday night: Cloudy. Low plus 2.",
+    "headline": "Saturday night: Cloudy periods. Low plus 2.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Sunday: A mix of sun and cloud. High 12.",
+    "headline": "Sunday: A mix of sun and cloud. High 13.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Sunday night: Cloudy periods. Low plus 3.",
+    "headline": "Sunday night: Cloudy periods. Low plus 4.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Monday: A mix of sun and cloud. High 16.",
+    "headline": "Monday: Chance of showers. High 14. POP 30%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Monday night: Chance of showers. Low 6. POP 30%",
+    "headline": "Monday night: Chance of showers. Low 6. POP 40%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Tuesday: Chance of showers. High 15. POP 30%",
+    "headline": "Tuesday: Chance of showers. High 9. POP 30%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
