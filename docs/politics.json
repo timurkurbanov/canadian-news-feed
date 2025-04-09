@@ -2,8 +2,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump pauses tariffs for most of the world, but shifts new 10% tariff onto Canada and Mexico",
-    "url": "https://www.cbc.ca/news/world/livestory/trump-pauses-tariffs-for-most-of-the-world-but-shifts-new-10-tariff-onto-canada-and-mexico-9.6717027?cmp=rss",
+    "headline": "Trump pauses most global tariffs, but consequences for Canada and Mexico unclear",
+    "url": "https://www.cbc.ca/news/world/livestory/trump-pauses-most-global-tariffs-but-consequences-for-canada-and-mexico-unclear-9.6717027?cmp=rss",
     "category": "Politics"
   },
   {
@@ -11,6 +11,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Answering your questions on Canada’s federal election",
     "url": "https://www.cbc.ca/player/play/9.6716539?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poilievre tries to draw voter attention to violent crime as Trump concerns dominate",
+    "url": "https://www.cbc.ca/news/politics/poilievre-tough-on-crime-1.7505978?cmp=rss",
     "category": "Politics"
   },
   {
@@ -25,13 +32,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Pierre Poilievre is boasting about his rallies. But does size indicate success?",
     "url": "https://www.cbc.ca/news/politics/pierre-poilievre-crowd-sizes-1.7504980?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre tries to draw voter attention to violent crime as Trump concerns dominate",
-    "url": "https://www.cbc.ca/news/politics/poilievre-tough-on-crime-1.7505978?cmp=rss",
     "category": "Politics"
   },
   {
