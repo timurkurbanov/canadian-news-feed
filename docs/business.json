@@ -2,13 +2,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trade war escalates as China raises its retaliatory tariff on the U.S. to 84%, effective Thursday",
-    "url": "https://www.cbc.ca/news/world/china-trade-war-u-s-1.7505559?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "A global recession is coming, economists warn",
     "url": "https://www.cbc.ca/news/business/global-recession-tariffs-1.7505272?cmp=rss",
     "category": "Business"
@@ -137,6 +130,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Trump slaps retaliatory tariffs on dozens of countries but Canada is spared the worst this time",
     "url": "https://www.cbc.ca/news/politics/trump-tariffs-canada-1.7500316?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'A real sense of betrayal' among workers as Stellantis plans to idle Windsor, Ont., plant due to tariffs",
+    "url": "https://www.cbc.ca/news/canada/windsor/windsor-assembly-plant-stellantis-down-pacifica-1.7500644?cmp=rss",
     "category": "Business"
   }
 ]
