@@ -2,8 +2,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump says he’s pausing global reciprocal tariff, raising tariffs on China",
-    "url": "https://www.cbc.ca/news/world/livestory/trump-says-hes-pausing-global-reciprocal-tariff-raising-tariffs-on-china-9.6717027?cmp=rss",
+    "headline": "Trump pauses tariffs for most of the world, but shifts new 10% tariff onto Canada and Mexico",
+    "url": "https://www.cbc.ca/news/world/livestory/trump-pauses-tariffs-for-most-of-the-world-but-shifts-new-10-tariff-onto-canada-and-mexico-9.6717027?cmp=rss",
     "category": "Politics"
   },
   {
@@ -282,6 +282,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Blue Jays announce record 14-year, $500M US extension with star slugger Guerrero Jr.",
+    "url": "https://www.cbc.ca/sports/baseball/mlb/blue-jays-announce-contract-vladimir-guerrero-jr-1.7505996?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadian goaltender Kristen Campbell to get 1st world-championship start",
+    "url": "https://www.cbc.ca/sports/canadian-goaltender-kristen-campbell-gets-first-world-championship-start-1.7505997?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Female athletes to be in majority at 2028 L.A. Olympics after big win for women's soccer",
     "url": "https://www.cbc.ca/sports/olympics/summer/soccer/2028-olympic-womens-soccer-tourney-los-angeles-1.7505935?cmp=rss",
     "category": "Sports"
@@ -403,20 +417,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's Chloe Primerano poised for women's world hockey championship debut",
     "url": "https://www.cbc.ca/sports/hockey/chloe-primerano-canada-womens-hockey-worlds-czech-republic-1.7503666?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Alex Faulkner, N.L.'s first NHL player, dead at 88",
-    "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/alex-faulkner-obit-nl-1.7504645?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "World 800m champ Marco Arop prioritizes winning track medals over world record 'passion project'",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/marco-arop-passion-project-grand-slam-track-kingston-1.7503960?cmp=rss",
     "category": "Sports"
   },
   {
