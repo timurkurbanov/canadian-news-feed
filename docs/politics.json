@@ -2,8 +2,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump pauses most global tariffs, but consequences for Canada and Mexico unclear",
-    "url": "https://www.cbc.ca/news/world/livestory/trump-pauses-most-global-tariffs-but-consequences-for-canada-and-mexico-unclear-9.6717027?cmp=rss",
+    "headline": "Trump pauses most global tariffs, but changes nothing for Canada and Mexico",
+    "url": "https://www.cbc.ca/news/world/livestory/trump-pauses-most-global-tariffs-but-changes-nothing-for-canada-and-mexico-9.6717027?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Asked to clarify if he sees genocide in Gaza, Carney says he 'didn't hear that word'",
+    "url": "https://www.cbc.ca/news/politics/carney-clarifies-genocide-remarks-1.7506027?cmp=rss",
     "category": "Politics"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "How safe is B.C.'s safe federal Green Party seat?",
     "url": "https://www.cbc.ca/news/canada/british-columbia/federal-green-party-saanich-gulf-islands-1.7504183?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Ex-PM Stephen Harper endorses Conservative Leader Pierre Poilievre",
-    "url": "https://www.cbc.ca/9.6715290?cmp=rss",
     "category": "Politics"
   }
 ]
