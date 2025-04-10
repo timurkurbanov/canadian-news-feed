@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Brookfield used Cayman Islands to register 3rd fund managed by Carney",
+    "url": "https://www.cbc.ca/news/politics/brookfield-used-cayman-islands-to-register-3rd-fund-managed-by-carney-1.7506817?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre takes aim at Carney's ability to handle Trump and his tariffs",
     "url": "https://www.cbc.ca/news/politics/poilievre-carney-trump-tariffs-negotiation-1.7506851?cmp=rss",
     "category": "Politics"
@@ -135,9 +142,9 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "In first Alberta campaign stop, Carney promises 'new clean energy era'",
-    "url": "https://www.cbc.ca/news/canada/calgary/alberta-liberal-mark-carney-canada-calgary-danielle-smith-1.7505385?cmp=rss",
-    "category": "Politics"
+    "headline": "Frank And Oak to close 9 stores across Ontario, Quebec and B.C.",
+    "url": "https://www.cbc.ca/news/business/frank-oak-close-stores-1.7506907?cmp=rss",
+    "category": "Business"
   },
   {
     "source": "cbc",
@@ -270,13 +277,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "A reprieve for snowbirds? Trump administration sued over traveller registration requirement",
     "url": "https://www.cbc.ca/news/business/snowbirds-sue-registration-1.7500683?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump wants to upend the entire global order. Can he stomach the price tag?",
-    "url": "https://www.cbc.ca/news/business/trump-tariffs-price-tag-global-economy-1.7501340?cmp=rss",
     "category": "Business"
   },
   {
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 2.3°C",
+    "headline": "Current Conditions: Mostly Cloudy, 2.8°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

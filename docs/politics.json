@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Brookfield used Cayman Islands to register 3rd fund managed by Carney",
+    "url": "https://www.cbc.ca/news/politics/brookfield-used-cayman-islands-to-register-3rd-fund-managed-by-carney-1.7506817?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre takes aim at Carney's ability to handle Trump and his tariffs",
     "url": "https://www.cbc.ca/news/politics/poilievre-carney-trump-tariffs-negotiation-1.7506851?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Have renters been forgotten this election campaign?",
     "url": "https://www.cbc.ca/news/politics/renters-federal-election-1.7505452?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "In first Alberta campaign stop, Carney promises 'new clean energy era'",
-    "url": "https://www.cbc.ca/news/canada/calgary/alberta-liberal-mark-carney-canada-calgary-danielle-smith-1.7505385?cmp=rss",
     "category": "Politics"
   }
 ]
