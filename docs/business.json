@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadian travel to the U.S. has plummeted. One reason why: fear",
+    "url": "https://www.cbc.ca/news/business/canada-us-travel-fears-1.7506048?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Stock markets skyrocket after Trump announces 90-day pause on some tariffs, 125% rate for China",
     "url": "https://www.cbc.ca/news/world/china-trade-war-u-s-1.7505559?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Suffering from a case of tariff whiplash? Here's what you need to know",
     "url": "https://www.cbc.ca/news/business/tariff-explainer-1.7501372?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Global stock markets reeling following Trump's tariffs shock",
-    "url": "https://www.cbc.ca/news/business/eu-countermeasures-us-tariffs-1.7500731?cmp=rss",
     "category": "Business"
   }
 ]
