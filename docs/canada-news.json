@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poilievre takes aim at Carney's ability to handle Trump and his tariffs",
+    "url": "https://www.cbc.ca/news/politics/poilievre-carney-trump-tariffs-negotiation-1.7506851?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre promises to cut municipal housing taxes in bid to boost home building",
     "url": "https://www.cbc.ca/news/politics/conservatives-gta-crime-housing-1.7506678?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "In first Alberta campaign stop, Carney promises 'new clean energy era'",
     "url": "https://www.cbc.ca/news/canada/calgary/alberta-liberal-mark-carney-canada-calgary-danielle-smith-1.7505385?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Surge in young gun owners hitting voting age amid calls in firearm circles to loosen bans",
-    "url": "https://www.cbc.ca/news/canada/gun-ownership-young-men-bans-politics-1.7504247?cmp=rss",
     "category": "Politics"
   },
   {
@@ -339,7 +339,7 @@
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Sweden pulls away from Germany in 3rd period to take women's hockey worlds opener",
-    "url": "https://www.cbc.ca/sports/hockey/womens-hockey-worlds-roundup-ceske-budejovice-1.7505627?cmp=rss",
+    "url": "https://www.cbc.ca/sports/hockey/womens-hockey-worlds-roundup-april10-1.7505627?cmp=rss",
     "category": "Sports"
   },
   {
