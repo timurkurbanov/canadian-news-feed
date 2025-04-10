@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Some Conservative supporters question whether the polls can be trusted",
+    "url": "https://www.cbc.ca/news/politics/do-you-believe-the-polls-poilievre-supporters-ask-1.7507437?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney announces sweeping plan to crack down on crime, strengthen the border",
     "url": "https://www.cbc.ca/news/politics/carney-plan-border-rcmp-bail-1.7507110?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "No Conservative candidate in Quebec City riding due to submission issue",
     "url": "https://www.cbc.ca/news/canada/montreal/quebec-conservative-candidate-quebec-city-riding-1.7505949?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Pierre Poilievre is boasting about his rallies. But does size indicate success?",
-    "url": "https://www.cbc.ca/news/politics/pierre-poilievre-crowd-sizes-1.7504980?cmp=rss",
     "category": "Politics"
   },
   {
