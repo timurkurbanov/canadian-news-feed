@@ -9,7 +9,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Liberals, Conservatives in vote-rich GTA to pitch crime, housing policies",
+    "headline": "Poilievre promises to cut municipal housing taxes in bid to boost home building",
     "url": "https://www.cbc.ca/news/politics/conservatives-gta-crime-housing-1.7506678?cmp=rss",
     "category": "Politics"
   },
@@ -142,8 +142,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "European Union hits pause on planned retaliatory tariffs for U.S.",
-    "url": "https://www.cbc.ca/news/world/eu-tariff-response-1.7506560?cmp=rss",
+    "headline": "After massive surge on Wednesday, stock markets fall as trade war continues",
+    "url": "https://www.cbc.ca/news/business/stock-markets-thursday-1.7506773?cmp=rss",
     "category": "Business"
   },
   {
@@ -151,6 +151,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian travel to the U.S. has plummeted. One reason why: fear",
     "url": "https://www.cbc.ca/news/business/canada-us-travel-fears-1.7506048?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "European Union hits pause on planned retaliatory tariffs for U.S.",
+    "url": "https://www.cbc.ca/news/world/eu-tariff-response-1.7506560?cmp=rss",
     "category": "Business"
   },
   {
@@ -275,15 +282,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Digging into the 'insane' formula the White House used to calculate its tariffs",
-    "url": "https://www.cbc.ca/news/business/trump-fake-tariff-rates-1.7501604?cmp=rss",
-    "category": "Business"
+    "headline": "5 things to watch as Canada aims to repeat as world champions of women's hockey",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/5-storylines-to-watch-canada-worlds-2025-1.7506206?cmp=rss",
+    "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "5 things to watch as Canada aims to repeat as world champions of women's hockey",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/5-storylines-to-watch-canada-worlds-2025-1.7506206?cmp=rss",
+    "headline": "Canadian champ Jacobs edges Italy's Retornaz despite curling at game-low 70 per cent",
+    "url": "https://www.cbc.ca/sports/olympics/winter/curling/curling-players-championship-roundup-brad-jacobs-april10-1.7506842?cmp=rss",
     "category": "Sports"
   },
   {
@@ -410,13 +417,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Injury-plagued Winnipeg Jets prospect retires from hockey due to hereditary disorder",
     "url": "https://www.cbc.ca/news/canada/manitoba/chaz-lucius-retirement-ehlers-danlos-syndrome-1.7505491?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Northern Super League laden with talent from 21 countries ahead of April 16 opening match",
-    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-womens-soccer-player-pool-1.7504947?cmp=rss",
     "category": "Sports"
   },
   {

@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadian champ Jacobs edges Italy's Retornaz despite curling at game-low 70 per cent",
+    "url": "https://www.cbc.ca/sports/olympics/winter/curling/curling-players-championship-roundup-brad-jacobs-april10-1.7506842?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Mei Miura paces Japanese attack in women's hockey worlds win over newcomer Norway",
     "url": "https://www.cbc.ca/sports/hockey/womens-hockey-worlds-roundup-czech-republic-april10-1.7506661?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Injury-plagued Winnipeg Jets prospect retires from hockey due to hereditary disorder",
     "url": "https://www.cbc.ca/news/canada/manitoba/chaz-lucius-retirement-ehlers-danlos-syndrome-1.7505491?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Northern Super League laden with talent from 21 countries ahead of April 16 opening match",
-    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-womens-soccer-player-pool-1.7504947?cmp=rss",
     "category": "Sports"
   }
 ]
