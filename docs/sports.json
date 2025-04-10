@@ -9,15 +9,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian champ Jacobs edges Italy's Retornaz despite curling at game-low 70 per cent",
-    "url": "https://www.cbc.ca/sports/olympics/winter/curling/curling-players-championship-roundup-brad-jacobs-april10-1.7506842?cmp=rss",
+    "headline": "Mei Miura paces Japanese attack in women's hockey worlds win over newcomer Norway",
+    "url": "https://www.cbc.ca/sports/hockey/womens-hockey-worlds-roundup-april10-1.7506661?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Mei Miura paces Japanese attack in women's hockey worlds win over newcomer Norway",
-    "url": "https://www.cbc.ca/sports/hockey/womens-hockey-worlds-roundup-april10-1.7506661?cmp=rss",
+    "headline": "Scheffler off to quick start at a Masters where McIlroy is the sentimental favourite",
+    "url": "https://www.cbc.ca/sports/golf/masters-tournament-round-1-1.7507055?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadian champ Jacobs edges Italy's Retornaz despite curling at game-low 70 per cent",
+    "url": "https://www.cbc.ca/sports/olympics/winter/curling/curling-players-championship-roundup-brad-jacobs-april10-1.7506842?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "In shocking move, Nuggets fire head coach Malone, GM Calvin Booth as playoffs loom",
     "url": "https://www.cbc.ca/sports/basketball/nba/michael-malone-calvin-booth-denver-nuggets-firings-nba-1.7504989?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Injury-plagued Winnipeg Jets prospect retires from hockey due to hereditary disorder",
-    "url": "https://www.cbc.ca/news/canada/manitoba/chaz-lucius-retirement-ehlers-danlos-syndrome-1.7505491?cmp=rss",
     "category": "Sports"
   }
 ]
