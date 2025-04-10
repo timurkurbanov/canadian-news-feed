@@ -37,6 +37,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Taylor vs. Serrano to headline again at Madison Square Garden in all-women boxing card",
+    "url": "https://www.cbc.ca/sports/boxing-taylor-serrano-msg-april-10-1.7506559?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Sweden pulls away from Germany in 3rd period to take women's hockey worlds opener",
     "url": "https://www.cbc.ca/sports/hockey/womens-hockey-worlds-roundup-ceske-budejovice-1.7505627?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Scheffler paired with Justin Thomas on Thursday morning to begin Masters title defence",
     "url": "https://www.cbc.ca/sports/golf/scheffler-thomas-masters-tee-time-augusta-1.7505151?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Florida Gators rally to 3rd NCAA men's basketball title with thriller vs. Houston",
-    "url": "https://www.cbc.ca/sports/basketball/mens-march-madness-final-florida-houston-1.7504550?cmp=rss",
     "category": "Sports"
   }
 ]
