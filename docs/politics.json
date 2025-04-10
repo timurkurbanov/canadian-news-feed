@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Conservatives are limiting media access to Poilievre. Is it helping or hurting him?",
+    "url": "https://www.cbc.ca/news/politics/pierre-poilievre-media-access-1.7506045?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Some voters say B.C. oil tanker ban must be lifted for national unity. Others warn it will reopen an old fight",
     "url": "https://www.cbc.ca/news/canada/british-columbia/oil-tanker-ban-north-coast-election-ellis-ross-taylor-bachrach-1.7505383?cmp=rss",
     "category": "Politics"
@@ -9,8 +16,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Conservatives are limiting media access to Poilievre. Is it helping or hurting him?",
-    "url": "https://www.cbc.ca/news/politics/pierre-poilievre-media-access-1.7506045?cmp=rss",
+    "headline": "Pete Hoekstra confirmed as U.S. ambassador to Canada",
+    "url": "https://www.cbc.ca/news/world/hoekstra-us-ambassador-canada-1.7506554?cmp=rss",
     "category": "Politics"
   },
   {
@@ -25,6 +32,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Trying to fix my combine, I need politicians who really get what farmers are facing",
     "url": "https://www.cbc.ca/news/canada/calgary/jason-jackson-first-person-federal-election-1.7498162?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "The world order of the last few decades may be over — what emerges could include China",
+    "url": "https://www.cbc.ca/news/world/trump-world-order-tariff-trump-china-1.7506095?cmp=rss",
     "category": "Politics"
   },
   {
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "In Canada's election campaign, a warming planet sits on the back burner",
     "url": "https://www.cbc.ca/news/canada/manitoba/climate-election-1.7505024?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre digs at Carney's 'banker's haircut,' Liberal says his rival hasn't managed a crisis",
-    "url": "https://www.cbc.ca/news/politics/poilievre-personal-digs-carney-political-career-1.7505275?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Leaders focus campaigns on housing, tax loopholes and each other",
-    "url": "https://www.cbc.ca/9.6715755?cmp=rss",
     "category": "Politics"
   }
 ]
