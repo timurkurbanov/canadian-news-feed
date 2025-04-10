@@ -2,13 +2,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "5 things to watch as Canada aims to repeat as world champions of women's hockey",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/5-storylines-to-watch-canada-worlds-2025-1.7506206?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's Gardiner posts 3 points, Campbell pitches shutout in world championship debuts",
     "url": "https://www.cbc.ca/sports/hockey/womens-hockey-worlds-roundup-april10-1.7506661?cmp=rss",
     "category": "Sports"
@@ -16,7 +9,14 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Scheffler off to quick start at a Masters where McIlroy is the sentimental favourite",
+    "headline": "5 things to watch as Canada aims to repeat as world champions of women's hockey",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/5-storylines-to-watch-canada-worlds-2025-1.7506206?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Scheffler off to quick start at Masters, while Canada's Conners claims share of 2nd",
     "url": "https://www.cbc.ca/sports/golf/masters-tournament-round-1-1.7507055?cmp=rss",
     "category": "Sports"
   },
