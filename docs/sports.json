@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadian men to open Gold Cup in Vancouver with coach suspended from sideline",
+    "url": "https://www.cbc.ca/sports/soccer/canada-soccer-men-concacaf-gold-cup-1.7508592?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada tops Romania 3-0 in Billie Jean King Cup qualification tie",
     "url": "https://www.cbc.ca/sports/tennis/tennis-canada-billie-jean-cup-romania-qualifier-1.7508013?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's women's rugby team, ranked No. 2, fights through funding crisis as it prepares for World Cup",
     "url": "https://www.cbc.ca/sports/opinion-rugby-canada-crowdfunding-women-team-world-cup-ahmed-shireen-ahmed-1.7504931?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "NFL revises OT rule for regular season, expands replay assist",
-    "url": "https://www.cbc.ca/sports/football/nfl/nfl-owners-approval-overtime-rule-replay-assist-1.7498980?cmp=rss",
     "category": "Sports"
   }
 ]
