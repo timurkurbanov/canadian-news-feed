@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "McEwen outscores Dunstone in early draw at Grand Slam of Curling event in Toronto",
+    "url": "https://www.cbc.ca/sports/olympics/winter/curling/curling-players-championship-roundup-april-11-1.7508145?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Fever's Caitlin Clark vs. Sky's Angel Reese tip off new WNBA Rivals Week",
     "url": "https://www.cbc.ca/sports/basketball/wnba-rivals-week-1.7507923?cmp=rss",
     "category": "Sports"
@@ -46,13 +53,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada sweeps Romania at Billie Jean King Cup Qualifier",
     "url": "https://www.cbc.ca/player/play/9.6720037?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "World champ Homan beats Einarson at Grand Slam of Curling event in Toronto",
-    "url": "https://www.cbc.ca/sports/olympics/winter/curling/curling-players-championship-roundup-april-10-1.7506842?cmp=rss",
     "category": "Sports"
   },
   {
@@ -100,20 +100,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Masters preview: Is it finally Rory's year?",
-    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-masters-preview-1.7506200?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Sweden pulls away from Germany in 3rd period to take women's hockey worlds opener",
-    "url": "https://www.cbc.ca/sports/hockey/womens-hockey-worlds-roundup-april9-1.7505627?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's women's rugby team, ranked No. 2, fights through funding crisis as it prepares for World Cup",
     "url": "https://www.cbc.ca/sports/opinion-rugby-canada-crowdfunding-women-team-world-cup-ahmed-shireen-ahmed-1.7504931?cmp=rss",
     "category": "Sports"
@@ -121,22 +107,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Longtime NHL executive Ray Shero, who led Penguins to 2009 Stanley Cup win, dead at 62",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/ray-shero-obituary-1.7505972?cmp=rss",
+    "headline": "NFL revises OT rule for regular season, expands replay assist",
+    "url": "https://www.cbc.ca/sports/football/nfl/nfl-owners-approval-overtime-rule-replay-assist-1.7498980?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "American trans athletes find safe space in gymnastics while under scrutiny",
-    "url": "https://www.cbc.ca/sports/olympics/summer/gymnastics/trans-athletes-united-states-safe-place-gymnastics-naigc-1.7505846?cmp=rss",
+    "headline": "Fashion and sports: Women athletes more empowered than ever to express themselves",
+    "url": "https://www.cbc.ca/sports/women-athletes-style-sport-1.7494090?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Djokovic eliminated at Monte Carlo Masters, misses another chance for 100th career title",
-    "url": "https://www.cbc.ca/sports/tennis/novak-djokovic-monte-carlo-masters-second-round-alejandro-tabilo-1.7506221?cmp=rss",
+    "headline": "PWHL standout Hannah Miller barred from playing for Canada at upcoming world tourney",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/hannah-miller-ineligible-canada-iihf-2025-1.7498399?cmp=rss",
     "category": "Sports"
   }
 ]
