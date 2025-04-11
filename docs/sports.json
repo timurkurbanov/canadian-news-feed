@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Justin Rose stays in Masters lead with some all-star company",
+    "url": "https://www.cbc.ca/sports/golf/masters-tournament-round-2-1.7508578?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada tops Romania 3-0 in Billie Jean King Cup qualification tie",
     "url": "https://www.cbc.ca/sports/tennis/tennis-canada-billie-jean-cup-romania-qualifier-1.7508013?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "NFL revises OT rule for regular season, expands replay assist",
     "url": "https://www.cbc.ca/sports/football/nfl/nfl-owners-approval-overtime-rule-replay-assist-1.7498980?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Fashion and sports: Women athletes more empowered than ever to express themselves",
-    "url": "https://www.cbc.ca/sports/women-athletes-style-sport-1.7494090?cmp=rss",
     "category": "Sports"
   }
 ]
