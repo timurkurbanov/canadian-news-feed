@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada tops Romania 3-0 in Billie Jean King Cup qualification tie",
+    "url": "https://www.cbc.ca/sports/tennis/tennis-canada-billie-jean-cup-romania-qualifier-1.7508013?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Fever's Caitlin Clark vs. Sky's Angel Reese tip off new WNBA Rivals Week",
     "url": "https://www.cbc.ca/sports/basketball/wnba-rivals-week-1.7507923?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Get ready for another Canada-U.S. hockey showdown",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-canada-us-womens-hockey-world-championship-1.7505172?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "World champion Mouat beats Dropkin, Schwaller in season-ending Grand Slam event",
-    "url": "https://www.cbc.ca/sports/olympics/winter/curling/curling-players-championship-toronto-roundup-april9-1.7505761?cmp=rss",
     "category": "Sports"
   }
 ]
