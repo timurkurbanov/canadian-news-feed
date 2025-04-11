@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Australian teen Gout Gout runs sub-10 100m twice in the same day",
+    "url": "https://www.cbc.ca/player/play/9.6720431?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What's at stake over the final week of the NHL season",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-final-week-nhl-season-2025-1.7507282?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Djokovic eliminated at Monte Carlo Masters, misses another chance for 100th career title",
     "url": "https://www.cbc.ca/sports/tennis/novak-djokovic-monte-carlo-masters-second-round-alejandro-tabilo-1.7506221?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Get ready for another Canada-U.S. hockey showdown",
-    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-canada-us-womens-hockey-world-championship-1.7505172?cmp=rss",
     "category": "Sports"
   }
 ]
