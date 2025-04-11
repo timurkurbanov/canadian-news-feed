@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Fever's Caitlin Clark vs. Sky's Angel Reese tip off new WNBA Rivals Week",
+    "url": "https://www.cbc.ca/sports/basketball/wnba-rivals-week-1.7507923?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What's at stake over the final week of the NHL season",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-final-week-nhl-season-2025-1.7507282?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "World champion Mouat beats Dropkin, Schwaller in season-ending Grand Slam event",
     "url": "https://www.cbc.ca/sports/olympics/winter/curling/curling-players-championship-toronto-roundup-april9-1.7505761?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "PWHL star Natalie Spooner relishing 11th world championship after returning from knee surgery",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/canada-womens-hockey-worlds-spooner-return-2025-1.7504102?cmp=rss",
     "category": "Sports"
   }
 ]

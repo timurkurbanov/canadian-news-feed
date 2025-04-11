@@ -289,6 +289,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Fever's Caitlin Clark vs. Sky's Angel Reese tip off new WNBA Rivals Week",
+    "url": "https://www.cbc.ca/sports/basketball/wnba-rivals-week-1.7507923?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What's at stake over the final week of the NHL season",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-final-week-nhl-season-2025-1.7507282?cmp=rss",
     "category": "Sports"
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "PWHL star Natalie Spooner relishing 11th world championship after returning from knee surgery",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/canada-womens-hockey-worlds-spooner-return-2025-1.7504102?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mist, 1.5°C",
+    "headline": "Current Conditions: Mist, 1.6°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
