@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Hundreds of workers laid off at Ingersoll, Ont. assembly plant as GM halts production",
+    "url": "https://www.cbc.ca/news/canada/london/hundreds-of-workers-laid-off-at-ingersoll-ont-assembly-plant-as-gm-halts-production-1.7508190?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Wall Street opens lower again as China-U.S. trade spat continues",
     "url": "https://www.cbc.ca/news/business/stock-market-april-11-1.7507754?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Markets plunge worldwide for a second day straight following China's tariff retaliation",
     "url": "https://www.cbc.ca/news/business/stock-market-falls-1.7501962?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "As U.S. tariffs roil markets, Canadian businesses build on European ties at world trade fair",
-    "url": "https://www.cbc.ca/news/world/world-trade-canada-tariff-us-1.7501841?cmp=rss",
     "category": "Business"
   }
 ]
