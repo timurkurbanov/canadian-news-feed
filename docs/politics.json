@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney convenes Canada-U.S. committee, warns tariffs slowing both global and Canadian economies",
+    "url": "https://www.cbc.ca/news/politics/carney-committee-canada-us-1.7508193?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Liberals and Conservatives said their rallies drew thousands. We decided to count",
     "url": "https://www.cbc.ca/news/canada/liberal-conservative-crowd-size-investigation-1.7507222?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney pledges faster project reviews to make Canada 'energy superpower'",
     "url": "https://www.cbc.ca/news/canada/calgary/mark-carney-liberals-energy-reviews-oil-gas-calgary-promise-conservative-pierre-poilievre-1.7506199?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Over 100,000 Canadians already voted as election campaign hits halfway point",
-    "url": "https://www.cbc.ca/news/politics/canadians-voting-early-special-ballots-1.7506211?cmp=rss",
     "category": "Politics"
   }
 ]
