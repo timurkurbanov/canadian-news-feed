@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "China hits back at Trump's tariff hike with 125% duties on U.S. goods",
+    "url": "https://www.cbc.ca/news/world/china-tariffs-us-trump-1.7507719?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Frank And Oak to close 9 stores across Ontario, Quebec and B.C.",
     "url": "https://www.cbc.ca/news/business/frank-oak-close-stores-1.7506907?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada lost 33,000 jobs in March as unemployment rate rose slightly to 6.7%",
     "url": "https://www.cbc.ca/news/business/canada-unemployment-march-2025-1.7501875?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "A reprieve for snowbirds? Trump administration sued over traveller registration requirement",
-    "url": "https://www.cbc.ca/news/business/snowbirds-sue-registration-1.7500683?cmp=rss",
     "category": "Business"
   }
 ]
