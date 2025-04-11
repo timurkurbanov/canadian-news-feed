@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada election: Poilievre announces economic plan as Carney leaves campaign trail for cabinet meeting",
+    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-poilievre-announces-economic-plan-as-carney-leaves-campaign-trail-for-cabinet-meeting-9.6720108?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Liberals and Conservatives said their rallies drew thousands. We decided to count",
     "url": "https://www.cbc.ca/news/canada/liberal-conservative-crowd-size-investigation-1.7507222?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Over 100,000 Canadians already voted as election campaign hits halfway point",
     "url": "https://www.cbc.ca/news/politics/canadians-voting-early-special-ballots-1.7506211?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "In 2021, there was nearly a consensus on climate change. In 2025, Carney and Poilievre are far apart",
-    "url": "https://www.cbc.ca/news/politics/liberals-conservatives-carney-poilievre-climate-change-analysis-1.7505872?cmp=rss",
     "category": "Politics"
   }
 ]
