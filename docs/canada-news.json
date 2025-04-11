@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Sask. Party MLA who called Jagmeet Singh a 'terrorist' stripped of additional MLA duties",
+    "url": "https://www.cbc.ca/news/canada/saskatchewan/racquel-hilbert-singh-comment-1.7508308?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian mayors push federal leaders for action on climate, not pipelines",
     "url": "https://www.cbc.ca/news/politics/letter-mayors-federal-leaders-1.7507440?cmp=rss",
     "category": "Politics"
@@ -135,15 +142,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney pledges faster project reviews to make Canada 'energy superpower'",
-    "url": "https://www.cbc.ca/news/canada/calgary/mark-carney-liberals-energy-reviews-oil-gas-calgary-promise-conservative-pierre-poilievre-1.7506199?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Hundreds of workers laid off at Ingersoll, Ont. assembly plant as GM halts production",
-    "url": "https://www.cbc.ca/news/canada/london/hundreds-of-workers-laid-off-at-ingersoll-ont-assembly-plant-as-gm-halts-production-1.7508190?cmp=rss",
+    "headline": "GM halts production, lays off hundreds at Ingersoll, Ont., assembly plant, to reopen in October",
+    "url": "https://www.cbc.ca/news/canada/london/ingersoll-assembly-plant-halting-production-layoffs-1.7508190?cmp=rss",
     "category": "Business"
   },
   {
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Rain, 2.9°C",
+    "headline": "Current Conditions: Light Rain, 3.4°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

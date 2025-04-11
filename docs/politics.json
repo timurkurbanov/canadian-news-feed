@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Sask. Party MLA who called Jagmeet Singh a 'terrorist' stripped of additional MLA duties",
+    "url": "https://www.cbc.ca/news/canada/saskatchewan/racquel-hilbert-singh-comment-1.7508308?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian mayors push federal leaders for action on climate, not pipelines",
     "url": "https://www.cbc.ca/news/politics/letter-mayors-federal-leaders-1.7507440?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Trump official creates confusion by saying Canadian goods would face 10% tariff",
     "url": "https://www.cbc.ca/news/politics/trump-official-canada-baseline-tariff-1.7506155?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney pledges faster project reviews to make Canada 'energy superpower'",
-    "url": "https://www.cbc.ca/news/canada/calgary/mark-carney-liberals-energy-reviews-oil-gas-calgary-promise-conservative-pierre-poilievre-1.7506199?cmp=rss",
     "category": "Politics"
   }
 ]
