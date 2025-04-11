@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada sweeps Romania at Billie Jean King Cup Qualifier",
+    "url": "https://www.cbc.ca/player/play/9.6720037?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "World champ Homan beats Einarson at Grand Slam of Curling event in Toronto",
     "url": "https://www.cbc.ca/sports/olympics/winter/curling/curling-players-championship-roundup-april-10-1.7506842?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PWHL star Natalie Spooner relishing 11th world championship after returning from knee surgery",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/canada-womens-hockey-worlds-spooner-return-2025-1.7504102?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canucks make NHL history with 3 goals in final minute before beating Stars 6-5 in OT",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/nhl-vancouver-canucks-nhl-recordd-comeback-1.7505569?cmp=rss",
     "category": "Sports"
   }
 ]

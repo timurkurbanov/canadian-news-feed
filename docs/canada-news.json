@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Liberals and Conservatives said their rallies drew thousands. We decided to count",
+    "url": "https://www.cbc.ca/news/canada/liberal-conservative-crowd-size-investigation-1.7507222?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian mayors push federal leaders for action on climate, not pipelines",
     "url": "https://www.cbc.ca/news/politics/letter-mayors-federal-leaders-1.7507440?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "In 2021, there was nearly a consensus on climate change. In 2025, Carney and Poilievre are far apart",
     "url": "https://www.cbc.ca/news/politics/liberals-conservatives-carney-poilievre-climate-change-analysis-1.7505872?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre tries to draw voter attention to violent crime as Trump concerns dominate",
-    "url": "https://www.cbc.ca/news/politics/poilievre-tough-on-crime-1.7505978?cmp=rss",
     "category": "Politics"
   },
   {
@@ -303,6 +303,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada sweeps Romania at Billie Jean King Cup Qualifier",
+    "url": "https://www.cbc.ca/player/play/9.6720037?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "World champ Homan beats Einarson at Grand Slam of Curling event in Toronto",
     "url": "https://www.cbc.ca/sports/olympics/winter/curling/curling-players-championship-roundup-april-10-1.7506842?cmp=rss",
     "category": "Sports"
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canucks make NHL history with 3 goals in final minute before beating Stars 6-5 in OT",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/nhl-vancouver-canucks-nhl-recordd-comeback-1.7505569?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mist, 0.2°C",
+    "headline": "Current Conditions: Mist, 0.4°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

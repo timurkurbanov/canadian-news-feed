@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Liberals and Conservatives said their rallies drew thousands. We decided to count",
+    "url": "https://www.cbc.ca/news/canada/liberal-conservative-crowd-size-investigation-1.7507222?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian mayors push federal leaders for action on climate, not pipelines",
     "url": "https://www.cbc.ca/news/politics/letter-mayors-federal-leaders-1.7507440?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "In 2021, there was nearly a consensus on climate change. In 2025, Carney and Poilievre are far apart",
     "url": "https://www.cbc.ca/news/politics/liberals-conservatives-carney-poilievre-climate-change-analysis-1.7505872?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre tries to draw voter attention to violent crime as Trump concerns dominate",
-    "url": "https://www.cbc.ca/news/politics/poilievre-tough-on-crime-1.7505978?cmp=rss",
     "category": "Politics"
   }
 ]
