@@ -2,6 +2,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadian mayors push federal leaders for action on climate, not pipelines",
+    "url": "https://www.cbc.ca/news/politics/letter-mayors-federal-leaders-1.7507440?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "My baby girl almost died. That's why national pharmacare will decide my vote",
+    "url": "https://www.cbc.ca/news/canada/healthcare-insurance-pharmacare-election-1.7505014?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Some Conservative supporters question whether the polls can be trusted",
     "url": "https://www.cbc.ca/news/politics/do-you-believe-the-polls-poilievre-supporters-ask-1.7507437?cmp=rss",
     "category": "Politics"
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre tries to draw voter attention to violent crime as Trump concerns dominate",
     "url": "https://www.cbc.ca/news/politics/poilievre-tough-on-crime-1.7505978?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Asked to clarify if he sees genocide in Gaza, Carney says he 'didn't hear that word'",
-    "url": "https://www.cbc.ca/news/politics/carney-clarifies-genocide-remarks-1.7506027?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "No Conservative candidate in Quebec City riding due to submission issue",
-    "url": "https://www.cbc.ca/news/canada/montreal/quebec-conservative-candidate-quebec-city-riding-1.7505949?cmp=rss",
     "category": "Politics"
   },
   {
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Snow, 0.1°C",
+    "headline": "Current Conditions: Light Snow, 0.0°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
