@@ -65,6 +65,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Whitehorse retailer stuck with Buffalo Sabres merch after trade sends Dylan Cozens to Ottawa",
+    "url": "https://www.cbc.ca/news/canada/north/sabres-buffalo-dylan-cozens-gear-ottawa-senators-1.7508350?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada tops Romania 3-0 in Billie Jean King Cup qualification tie",
     "url": "https://www.cbc.ca/sports/tennis/tennis-canada-billie-jean-cup-romania-qualifier-1.7508013?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian rugby sevens men win three straight at Challenger Series event in Poland",
     "url": "https://www.cbc.ca/sports/rugby/canada-rugby-sevens-challenger-series-poland-1.7508295?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "B.C. volleyball coach arrested for alleged sexual assaults",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/volleyball-coach-sexual-assaults-1.7507311?cmp=rss",
     "category": "Sports"
   }
 ]
