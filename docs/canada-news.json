@@ -282,6 +282,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "AFC Toronto gears up for start of historic 1st season next week",
+    "url": "https://www.cbc.ca/news/canada/toronto/afc-toronto-gears-up-first-game-april-19-1.7509004?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "B.C. players surge onto Canadian women's hockey team after drought",
     "url": "https://www.cbc.ca/sports/olympics/winter/hockey/canadian-womens-hockey-bc-players-1.7508951?cmp=rss",
     "category": "Sports"
@@ -291,6 +298,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What to watch this weekend in sports",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-lookahead-april-11-1.7508496?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada's Homan steals pair in 8th end for quarterfinal win over Yoshimura",
+    "url": "https://www.cbc.ca/sports/olympics/winter/curling/curling-players-championship-roundup-april-12-1.7508878?cmp=rss",
     "category": "Sports"
   },
   {
@@ -399,20 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Whitecaps to face Inter Miami in key CONCACAF Champions Cup semi. Will Lionel Messi make the trip?",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/whitecaps-lionel-messi-concacaf-1.7507616?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Female athletes to be in majority at 2028 L.A. Olympics after big win for women's soccer",
-    "url": "https://www.cbc.ca/sports/olympics/summer/soccer/2028-olympic-womens-soccer-tourney-los-angeles-1.7505935?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,28 +429,21 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Saturday: Mainly cloudy. High 11.",
+    "headline": "Saturday night: Mainly cloudy. Low plus 1.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Saturday night: Partly cloudy. Low plus 1.",
+    "headline": "Sunday: Mainly cloudy. High 13.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Sunday: A mix of sun and cloud. High 13.",
-    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
-    "category": "Weather"
-  },
-  {
-    "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Sunday night: Cloudy periods. Low plus 1.",
+    "headline": "Sunday night: Clearing. Low minus 1.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
