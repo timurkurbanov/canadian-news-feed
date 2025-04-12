@@ -9,8 +9,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Will the U.S.-China tariff war drive up online shopping prices for Canadians?",
-    "url": "https://www.cbc.ca/news/canada/tariffs-online-shopping-canadians-1.7507786?cmp=rss",
+    "headline": "Trump administration to exclude smartphones and computers from reciprocal tariffs",
+    "url": "https://www.cbc.ca/news/world/trump-electronics-retaliatory-tariffs-exemption-1.7508923?cmp=rss",
     "category": "Business"
   },
   {
@@ -18,6 +18,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Democrats pen letter asking SEC to investigate Trump, allies for alleged market manipulation",
     "url": "https://www.cbc.ca/news/business/democrats-trump-sec-investigation-insider-trading-1.7507167?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Will the U.S.-China tariff war drive up online shopping prices for Canadians?",
+    "url": "https://www.cbc.ca/news/canada/tariffs-online-shopping-canadians-1.7507786?cmp=rss",
     "category": "Business"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Stock markets close slightly lower after another day of Wall Street chaos and tariff threats",
     "url": "https://www.cbc.ca/news/business/monday-markets-tariffs-1.7503498?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trade uncertainty taking a toll on business and consumer confidence: Bank of Canada reports",
-    "url": "https://www.cbc.ca/news/business/boc-surveys-trade-uncertainty-1.7503766?cmp=rss",
     "category": "Business"
   }
 ]
