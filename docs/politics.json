@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "I have MAGA-in-laws. Despite our political differences, I adore them",
+    "url": "https://www.cbc.ca/news/canada/first-person-jordan-kawchuk-maga-in-laws-1.7504242?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney and Poilievre have both pledged 'energy corridors.' That could be complicated",
     "url": "https://www.cbc.ca/news/politics/carney-poilievre-energy-platform-corridor-1.7508253?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Conservatives are limiting media access to Poilievre. Is it helping or hurting him?",
     "url": "https://www.cbc.ca/news/politics/pierre-poilievre-media-access-1.7506045?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre promises to let tankers carry oil through B.C. oceans. Some voters warn it will reopen an old fight",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/oil-tanker-ban-north-coast-election-ellis-ross-taylor-bachrach-1.7505383?cmp=rss",
     "category": "Politics"
   }
 ]
