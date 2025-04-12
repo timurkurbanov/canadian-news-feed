@@ -2,6 +2,27 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney and Poilievre have both pledged 'energy corridors.' That could be complicated",
+    "url": "https://www.cbc.ca/news/politics/carney-poilievre-energy-platform-corridor-1.7508253?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Fewer Canadians say climate change is their top issue. This Green candidate's not worried",
+    "url": "https://www.cbc.ca/news/politics/fewer-canadians-say-climate-change-is-their-top-issue-this-green-candidate-s-not-worried-1.7508673?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Environmental issues taking a backseat this election, Vote Compass data shows",
+    "url": "https://www.cbc.ca/news/politics/environment-vote-compass-1.7508335?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "RECAP: Carney, Poilievre vow to fight for workers affected by upcoming layoffs at GM assembly plant in Ontario",
     "url": "https://www.cbc.ca/news/politics/livestory/recap-carney-poilievre-vow-to-fight-for-workers-affected-by-upcoming-layoffs-at-gm-assembly-plant-in-ontario-9.6720108?cmp=rss",
     "category": "Politics"
@@ -121,23 +142,16 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "The world order of the last few decades may be over — what emerges could include China",
-    "url": "https://www.cbc.ca/news/world/trump-world-order-tariff-trump-china-1.7506095?cmp=rss",
-    "category": "Politics"
+    "headline": "Are you paying more than before to buy Canadian? Experts say it's complicated",
+    "url": "https://www.cbc.ca/news/marketplace/are-you-paying-more-than-before-to-buy-canadian-experts-say-it-s-complicated-1.7508107?cmp=rss",
+    "category": "Business"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump pauses most global tariffs, but changes nothing for Canada and Mexico",
-    "url": "https://www.cbc.ca/news/world/livestory/trump-pauses-most-global-tariffs-but-changes-nothing-for-canada-and-mexico-9.6717027?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump official creates confusion by saying Canadian goods would face 10% tariff",
-    "url": "https://www.cbc.ca/news/politics/trump-official-canada-baseline-tariff-1.7506155?cmp=rss",
-    "category": "Politics"
+    "headline": "Will the U.S.-China tariff war drive up online shopping prices for Canadians?",
+    "url": "https://www.cbc.ca/news/canada/tariffs-online-shopping-canadians-1.7507786?cmp=rss",
+    "category": "Business"
   },
   {
     "source": "cbc",
@@ -263,20 +277,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Trade uncertainty taking a toll on business and consumer confidence: Bank of Canada reports",
     "url": "https://www.cbc.ca/news/business/boc-surveys-trade-uncertainty-1.7503766?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump calls his tariffs economic 'medicine' after trillions wiped out from U.S. stock market",
-    "url": "https://www.cbc.ca/news/world/trump-tariffs-medicine-markets-1.7503125?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Why Canada is on the cusp of a housing construction crisis",
-    "url": "https://www.cbc.ca/news/canada/housing-affordability-construction-canada-1.7499260?cmp=rss",
     "category": "Business"
   },
   {
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Drizzle, 3.3°C",
+    "headline": "Current Conditions: Light Drizzle, 3.4°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

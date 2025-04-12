@@ -2,6 +2,27 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney and Poilievre have both pledged 'energy corridors.' That could be complicated",
+    "url": "https://www.cbc.ca/news/politics/carney-poilievre-energy-platform-corridor-1.7508253?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Fewer Canadians say climate change is their top issue. This Green candidate's not worried",
+    "url": "https://www.cbc.ca/news/politics/fewer-canadians-say-climate-change-is-their-top-issue-this-green-candidate-s-not-worried-1.7508673?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Environmental issues taking a backseat this election, Vote Compass data shows",
+    "url": "https://www.cbc.ca/news/politics/environment-vote-compass-1.7508335?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "RECAP: Carney, Poilievre vow to fight for workers affected by upcoming layoffs at GM assembly plant in Ontario",
     "url": "https://www.cbc.ca/news/politics/livestory/recap-carney-poilievre-vow-to-fight-for-workers-affected-by-upcoming-layoffs-at-gm-assembly-plant-in-ontario-9.6720108?cmp=rss",
     "category": "Politics"
@@ -116,27 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Trying to fix my combine, I need politicians who really get what farmers are facing",
     "url": "https://www.cbc.ca/news/canada/calgary/jason-jackson-first-person-federal-election-1.7498162?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "The world order of the last few decades may be over — what emerges could include China",
-    "url": "https://www.cbc.ca/news/world/trump-world-order-tariff-trump-china-1.7506095?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump pauses most global tariffs, but changes nothing for Canada and Mexico",
-    "url": "https://www.cbc.ca/news/world/livestory/trump-pauses-most-global-tariffs-but-changes-nothing-for-canada-and-mexico-9.6717027?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump official creates confusion by saying Canadian goods would face 10% tariff",
-    "url": "https://www.cbc.ca/news/politics/trump-official-canada-baseline-tariff-1.7506155?cmp=rss",
     "category": "Politics"
   }
 ]
