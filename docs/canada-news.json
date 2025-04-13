@@ -282,8 +282,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Why WNBA draft could provide clearest route for Tempo to acquire franchise player in 2026",
-    "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-wnba-draft-april-13-1.7508842?cmp=rss",
+    "headline": "United States ekes out win over Canada, clinches Group A at women's hockey worlds",
+    "url": "https://www.cbc.ca/sports/hockey/womens-hockey-world-championship-roundup-april11-czech-republic-1.7509147?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Homan's comeback falls short as Switzerland's Tirinzoni wins women's Grand Slam final in Toronto",
+    "url": "https://www.cbc.ca/sports/olympics/winter/curling/curling-players-championship-roundup-april-13-1.7509304?cmp=rss",
     "category": "Sports"
   },
   {
@@ -291,6 +298,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Corey Conners 4 shots behind Masters leader Rory McIlroy: 'Just doing my thing'",
     "url": "https://www.cbc.ca/sports/golf/masters-tournament-round-3-april-12-1.7508880?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Why WNBA draft could provide clearest route for Tempo to acquire franchise player in 2026",
+    "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-wnba-draft-april-13-1.7508842?cmp=rss",
     "category": "Sports"
   },
   {
@@ -312,13 +326,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Former Toronto Maple Leafs GM, scout, goalie Gerry McNamara dead at 90",
     "url": "https://www.cbc.ca/news/canada/toronto/gerry-mcnamara-leafs-gm-scout-goalie-dead-at-90-1.7509114?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "United States ekes out win over Canada, clinches Group A at women's hockey worlds",
-    "url": "https://www.cbc.ca/sports/hockey/womens-hockey-world-championship-roundup-april11-czech-republic-1.7509147?cmp=rss",
     "category": "Sports"
   },
   {
@@ -410,13 +417,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Whitehorse retailer stuck with Buffalo Sabres merch after trade sends Dylan Cozens to Ottawa",
     "url": "https://www.cbc.ca/news/canada/north/sabres-buffalo-dylan-cozens-gear-ottawa-senators-1.7508350?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada tops Romania 3-0 in Billie Jean King Cup qualification tie",
-    "url": "https://www.cbc.ca/sports/tennis/tennis-canada-billie-jean-cup-romania-qualifier-1.7508013?cmp=rss",
     "category": "Sports"
   },
   {
