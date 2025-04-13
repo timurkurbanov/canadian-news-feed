@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Former LSU receiver Kyren Lacy dead at 24, was facing negligent homicide charge",
+    "url": "https://www.cbc.ca/sports/football/nfl/former-lsu-receiver-kyren-lacy-dead-1.7509231?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Former Toronto Maple Leafs GM, scout, goalie Gerry McNamara dead at 90",
     "url": "https://www.cbc.ca/news/canada/toronto/gerry-mcnamara-leafs-gm-scout-goalie-dead-at-90-1.7509114?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada tops Romania 3-0 in Billie Jean King Cup qualification tie",
     "url": "https://www.cbc.ca/sports/tennis/tennis-canada-billie-jean-cup-romania-qualifier-1.7508013?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "World champion Homan outlasts Kim at the Players' Championship",
-    "url": "https://www.cbc.ca/sports/olympics/winter/curling/curling-players-championship-roundup-april-11-1.7508145?cmp=rss",
     "category": "Sports"
   }
 ]
