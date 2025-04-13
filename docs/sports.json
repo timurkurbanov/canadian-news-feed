@@ -44,6 +44,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Olympic champion swimmer Lukas Martens sets world record in men's 400m freestyle",
+    "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/lukas-martens-world-record-400m-freestyle-1.7509178?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Germany, Finland get 1st win at women's ice hockey world championship",
     "url": "https://www.cbc.ca/sports/hockey/womens-hockey-worlds-roundup-april-12-1.7508879?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Regina Pats win No. 1 pick, shot at hometown phenom in WHL Prospects Draft",
     "url": "https://www.cbc.ca/news/canada/saskatchewan/pats-likely-to-choose-hometown-player-no-1-pick-whl-prospects-draft-1.7508305?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "What's at stake over the final week of the NHL season",
-    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-final-week-nhl-season-2025-1.7507282?cmp=rss",
     "category": "Sports"
   }
 ]
