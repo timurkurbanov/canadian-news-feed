@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Glory for Rory: McIlroy beats Rose in playoff to win the Masters, completing career Grand Slam",
+    "url": "https://www.cbc.ca/sports/golf/masters-tournament-round-4-april-13-1.7509362?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "United States ekes out win over Canada, clinches Group A at women's hockey worlds",
     "url": "https://www.cbc.ca/sports/hockey/womens-hockey-world-championship-roundup-april11-czech-republic-1.7509147?cmp=rss",
     "category": "Sports"
@@ -16,7 +23,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Corey Conners 4 shots behind Masters leader Rory McIlroy: 'Just doing my thing'",
+    "headline": "Corey Conners enters final round 4 shots behind Masters leader Rory McIlroy",
     "url": "https://www.cbc.ca/sports/golf/masters-tournament-round-3-april-12-1.7508880?cmp=rss",
     "category": "Sports"
   },
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian men to open Gold Cup in Vancouver with coach suspended from sideline",
     "url": "https://www.cbc.ca/sports/soccer/canada-soccer-men-concacaf-gold-cup-1.7508592?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Whitehorse retailer stuck with Buffalo Sabres merch after trade sends Dylan Cozens to Ottawa",
-    "url": "https://www.cbc.ca/news/canada/north/sabres-buffalo-dylan-cozens-gear-ottawa-senators-1.7508350?cmp=rss",
     "category": "Sports"
   }
 ]
