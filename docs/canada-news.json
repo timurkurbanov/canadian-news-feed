@@ -317,8 +317,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "B.C. players surge onto Canadian women's hockey team after drought",
-    "url": "https://www.cbc.ca/sports/olympics/winter/hockey/canadian-womens-hockey-bc-players-1.7508951?cmp=rss",
+    "headline": "Jets clinch 1st Central Division title but lose key forward Ehlers in win over Chicago",
+    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-central-division-chicago-blackhawks-1.7509100?cmp=rss",
     "category": "Sports"
   },
   {
@@ -326,6 +326,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Olympic champion swimmer Lukas Martens sets world record in men's 400m freestyle",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/lukas-martens-world-record-400m-freestyle-1.7509178?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "B.C. players surge onto Canadian women's hockey team after drought",
+    "url": "https://www.cbc.ca/sports/olympics/winter/hockey/canadian-womens-hockey-bc-players-1.7508951?cmp=rss",
     "category": "Sports"
   },
   {
@@ -410,13 +417,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Australian teen Gout Gout runs sub-10 100m twice in the same day",
     "url": "https://www.cbc.ca/player/play/9.6720431?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Regina Pats win No. 1 pick, shot at hometown phenom in WHL Prospects Draft",
-    "url": "https://www.cbc.ca/news/canada/saskatchewan/pats-likely-to-choose-hometown-player-no-1-pick-whl-prospects-draft-1.7508305?cmp=rss",
     "category": "Sports"
   },
   {
