@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poll of Sask. voters has Conservatives maintaining strong support, but Liberals gaining ground",
+    "url": "https://www.cbc.ca/news/canada/saskatchewan/federal-election-saskatchewan-poll-results-1.7508391?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre accuses Liberals of mixed messaging as candidate calls Gaza war 'genocide'",
     "url": "https://www.cbc.ca/news/politics/poilievre-accuses-liberals-of-mixed-messaging-as-candidate-calls-gaza-war-genocide-1.7508990?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre takes aim at Carney's ability to handle Trump and his tariffs",
     "url": "https://www.cbc.ca/news/politics/poilievre-carney-trump-tariffs-negotiation-1.7506851?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney to return to Ottawa, Poilievre condemns Trump as tariff fallout hits election campaign",
-    "url": "https://www.cbc.ca/9.6718604?cmp=rss",
     "category": "Politics"
   }
 ]
