@@ -296,6 +296,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Former Toronto Maple Leafs GM, scout, goalie Gerry McNamara dead at 90",
+    "url": "https://www.cbc.ca/news/canada/toronto/gerry-mcnamara-leafs-gm-scout-goalie-dead-at-90-1.7509114?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Norway blanks Hungary for 1st win at women's hockey worlds after 27-year absence",
+    "url": "https://www.cbc.ca/sports/hockey/womens-hockey-world-championship-roundup-april11-czech-republic-1.7509147?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "AFC Toronto gears up for start of historic 1st season next week",
     "url": "https://www.cbc.ca/news/canada/toronto/afc-toronto-gears-up-first-game-april-19-1.7509004?cmp=rss",
     "category": "Sports"
@@ -406,20 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Ontario Summer Games coming to Waterloo region in 2026",
-    "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/ontario-summer-games-coming-to-waterloo-region-in-2026-1.7507995?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's Conners level with tournament favourite Scheffler after strong opening round at Masters",
-    "url": "https://www.cbc.ca/sports/golf/masters-tournament-round-1-1.7507055?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Partly Cloudy, 3.4°C",
+    "headline": "Current Conditions: Partly Cloudy, 6.3°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
