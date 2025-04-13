@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Why this WNBA draft could provide clearest route for Tempo to acquire franchise player in 2026",
+    "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-wnba-draft-april-13-1.7508842?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "B.C. players surge onto Canadian women's hockey team after drought",
     "url": "https://www.cbc.ca/sports/olympics/winter/hockey/canadian-womens-hockey-bc-players-1.7508951?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's Conners level with tournament favourite Scheffler after strong opening round at Masters",
     "url": "https://www.cbc.ca/sports/golf/masters-tournament-round-1-1.7507055?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian rugby sevens men win three straight at Challenger Series event in Poland",
-    "url": "https://www.cbc.ca/sports/rugby/canada-rugby-sevens-challenger-series-poland-1.7508295?cmp=rss",
     "category": "Sports"
   }
 ]
