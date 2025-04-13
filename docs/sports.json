@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada fails to qualify for Billie Jean King Cup Finals with loss to Japan",
+    "url": "https://www.cbc.ca/sports/tennis/canada-billie-jean-king-cup-japan-april-13-1.7509185?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Former Toronto Maple Leafs GM, scout, goalie Gerry McNamara dead at 90",
     "url": "https://www.cbc.ca/news/canada/toronto/gerry-mcnamara-leafs-gm-scout-goalie-dead-at-90-1.7509114?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Fever's Caitlin Clark vs. Sky's Angel Reese tip off new WNBA Rivals Week",
     "url": "https://www.cbc.ca/sports/basketball/wnba-rivals-week-1.7507923?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Australian teen Gout Gout runs sub-10 100m twice in the same day",
-    "url": "https://www.cbc.ca/player/play/9.6720431?cmp=rss",
     "category": "Sports"
   }
 ]
