@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Corey Conners sits in 3rd going into Sunday's final round at 2025 Masters",
+    "url": "https://www.cbc.ca/sports/golf/masters-tournament-round-3-april-12-1.7508880?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "AFC Toronto gears up for start of historic 1st season next week",
     "url": "https://www.cbc.ca/news/canada/toronto/afc-toronto-gears-up-first-game-april-19-1.7509004?cmp=rss",
     "category": "Sports"
@@ -23,6 +30,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "2 medals for Canada on Day 3 of World Aquatics Diving World Cup",
+    "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/diving/world-aquatics-diving-world-cup-day-3-recap-canada-1.7509053?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What to watch this weekend in sports",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-lookahead-april-11-1.7508496?cmp=rss",
     "category": "Sports"
@@ -39,13 +53,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian men's rugby 7s team finish 4th in Poland, move on to promotion playoff",
     "url": "https://www.cbc.ca/sports/rugby/canada-mens-rugby-finish-fourth-world-rugby-challenger-series-1.7508978?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian Corey Conners 2 shots back at halfway point of Masters",
-    "url": "https://www.cbc.ca/sports/golf/masters-tournament-round-2-1.7508578?cmp=rss",
     "category": "Sports"
   },
   {
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's Conners level with tournament favourite Scheffler after strong opening round at Masters",
     "url": "https://www.cbc.ca/sports/golf/masters-tournament-round-1-1.7507055?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian rugby sevens men win three straight at Challenger Series event in Poland",
-    "url": "https://www.cbc.ca/sports/rugby/canada-rugby-sevens-challenger-series-poland-1.7508295?cmp=rss",
     "category": "Sports"
   }
 ]
