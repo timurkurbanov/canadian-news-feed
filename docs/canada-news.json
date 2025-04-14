@@ -2,8 +2,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada election: Poilievre's vow to override Charter in crime crackdown draws fire from rivals",
-    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-poilievres-vow-to-override-charter-in-crime-crackdown-draws-fire-from-rivals-9.6722644?cmp=rss",
+    "headline": "RECAP | Canada election: Poilievre's vow to override Charter in crime crackdown draws fire from rivals",
+    "url": "https://www.cbc.ca/news/politics/livestory/recap-canada-election-poilievres-vow-to-override-charter-in-crime-crackdown-draws-fire-from-rivals-9.6722644?cmp=rss",
     "category": "Politics"
   },
   {
@@ -282,7 +282,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'A Blue Jay forever': Guerrero Jr. and franchise celebrate as star slugger inks historic extension",
+    "headline": "Guerrero Jr. celebrates becoming 'a Blue Jay forever' after inking historic extension",
     "url": "https://www.cbc.ca/sports/baseball/mlb/vladimir-guerrero-jr-contract-conference-1.7509881?cmp=rss",
     "category": "Sports"
   },
@@ -436,28 +436,21 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Monday: A mix of sun and cloud. High 16.",
+    "headline": "Monday night: Chance of showers. Low plus 5. POP 60%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Monday night: Chance of showers. Low 6. POP 60%",
+    "headline": "Tuesday: Showers. High 11.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Tuesday: Showers. High 10.",
-    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
-    "category": "Weather"
-  },
-  {
-    "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Tuesday night: Rain showers or flurries. Low plus 1.",
+    "headline": "Tuesday night: A few rain showers or flurries. Low zero.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

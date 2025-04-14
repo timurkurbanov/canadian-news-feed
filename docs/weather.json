@@ -16,28 +16,21 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Monday: A mix of sun and cloud. High 16.",
+    "headline": "Monday night: Chance of showers. Low plus 5. POP 60%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Monday night: Chance of showers. Low 6. POP 60%",
+    "headline": "Tuesday: Showers. High 11.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Tuesday: Showers. High 10.",
-    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
-    "category": "Weather"
-  },
-  {
-    "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Tuesday night: Rain showers or flurries. Low plus 1.",
+    "headline": "Tuesday night: A few rain showers or flurries. Low zero.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
