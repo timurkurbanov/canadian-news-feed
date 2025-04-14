@@ -30,6 +30,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "The oilpatch gave me a great career. I want a party that sees its potential for national unity",
+    "url": "https://www.cbc.ca/news/canada/calgary/kiran-somanchi-first-person-1.7499103?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney has renounced his British and Irish citizenships, pays his taxes in Canada: campaign",
     "url": "https://www.cbc.ca/news/politics/carney-citizenship-taxes-1.7509618?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "I have MAGA-in-laws. Despite our political differences, I adore them",
     "url": "https://www.cbc.ca/news/canada/first-person-jordan-kawchuk-maga-in-laws-1.7504242?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney and Poilievre have both pledged 'energy corridors.' That could be complicated",
-    "url": "https://www.cbc.ca/news/politics/carney-poilievre-energy-platform-corridor-1.7508253?cmp=rss",
     "category": "Politics"
   },
   {
@@ -282,7 +282,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Guerrero Jr. and Blue Jays hold celebratory conference as star slugger inks historic extension",
+    "headline": "'A Blue Jay forever': Guerrero Jr. and franchise celebrate as star slugger inks historic extension",
     "url": "https://www.cbc.ca/sports/baseball/mlb/vladimir-guerrero-jr-contract-conference-1.7509881?cmp=rss",
     "category": "Sports"
   },
