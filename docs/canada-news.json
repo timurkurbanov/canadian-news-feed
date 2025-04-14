@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada election: Poilievre's vow to override Charter in crime crackdown draws fire from rivals",
+    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-poilievres-vow-to-override-charter-in-crime-crackdown-draws-fire-from-rivals-9.6722644?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Liberal staffers responsible for planting phoney buttons have been reassigned, Carney says",
     "url": "https://www.cbc.ca/news/politics/carney-buttons-staffers-reassigned-1.7509662?cmp=rss",
     "category": "Politics"
@@ -11,13 +18,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney has renounced his British and Irish citizenships, pays his taxes in Canada: campaign",
     "url": "https://www.cbc.ca/news/politics/carney-citizenship-taxes-1.7509618?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada election: Poilievre's vow to override Charter in crime crackdown draws fire from rivals",
-    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-poilievres-vow-to-override-charter-in-crime-crackdown-draws-fire-from-rivals-9.6722644?cmp=rss",
     "category": "Politics"
   },
   {
@@ -282,6 +282,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "The making of the 2026 Milano-Cortina Olympic torch",
+    "url": "https://www.cbc.ca/player/play/9.6723053?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Why WNBA draft could provide clearest route for Tempo to acquire franchise player in 2026",
     "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-wnba-draft-april-13-1.7508842?cmp=rss",
     "category": "Sports"
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian men to open Gold Cup in Vancouver with coach suspended from sideline",
-    "url": "https://www.cbc.ca/sports/soccer/canada-soccer-men-concacaf-gold-cup-1.7508592?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 14.0°C",
+    "headline": "Current Conditions: Mostly Cloudy, 14.9°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "The making of the 2026 Milano-Cortina Olympic torch",
+    "url": "https://www.cbc.ca/player/play/9.6723053?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Why WNBA draft could provide clearest route for Tempo to acquire franchise player in 2026",
     "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-wnba-draft-april-13-1.7508842?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian men's rugby 7s team finish 4th in Poland, move on to promotion playoff",
     "url": "https://www.cbc.ca/sports/rugby/canada-mens-rugby-finish-fourth-world-rugby-challenger-series-1.7508978?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian men to open Gold Cup in Vancouver with coach suspended from sideline",
-    "url": "https://www.cbc.ca/sports/soccer/canada-soccer-men-concacaf-gold-cup-1.7508592?cmp=rss",
     "category": "Sports"
   }
 ]
