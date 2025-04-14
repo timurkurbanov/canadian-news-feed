@@ -2,13 +2,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "As Poilievre targets tax havens, Conservatives rack up big business endorsements",
-    "url": "https://www.cbc.ca/news/politics/pierre-poilievre-criticism-tax-havens-loopholes-1.7509260?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney defends knowledge of Quebec culture, Poilievre insists he's no 'mini-Trump' on Tout le monde en parle",
     "url": "https://www.cbc.ca/news/politics/canada-election-2025-pierre-poilievre-mark-carney-quebec-tout-le-monde-en-parle-1.7509366?cmp=rss",
     "category": "Politics"
@@ -16,8 +9,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "As Poilievre targets tax havens, Conservatives rack up big business endorsements",
+    "url": "https://www.cbc.ca/news/politics/pierre-poilievre-criticism-tax-havens-loopholes-1.7509260?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "'Unprecedented growth' in Canadian food banks prompts calls for it to be a top federal election issue",
     "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/food-banks-insecurity-user-demand-growing-federal-election-issue-1.7508264?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Amid trade turmoil, Ontario government mulls sweeping overhaul of permits",
+    "url": "https://www.cbc.ca/news/canada/toronto/ontario-government-permits-red-tape-1.7507444?cmp=rss",
     "category": "Politics"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Sask. Party MLA who called Jagmeet Singh a 'terrorist' stripped of additional MLA duties",
     "url": "https://www.cbc.ca/news/canada/saskatoon/racquel-hilbert-singh-comment-1.7508308?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian mayors push federal leaders for action on climate, not pipelines",
-    "url": "https://www.cbc.ca/news/politics/letter-mayors-federal-leaders-1.7507440?cmp=rss",
     "category": "Politics"
   }
 ]
