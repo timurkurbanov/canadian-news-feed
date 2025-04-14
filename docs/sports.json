@@ -37,6 +37,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Suns fire head coach Mike Budenholzer after missing NBA playoffs in his 1st season",
+    "url": "https://www.cbc.ca/sports/basketball/nba/mike-budenholzer-fired-head-coach-phoenix-suns-nba-1.7509912?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "All eyes on Canadiens recruit Ivan Demidov as he makes debut against Chicago",
     "url": "https://www.cbc.ca/news/canada/montreal/ivan-demidov-montreal-canadiens-playoff-blackhawks-debut-1.7509663?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "B.C. players surge onto Canadian women's hockey team after drought",
     "url": "https://www.cbc.ca/sports/olympics/winter/hockey/canadian-womens-hockey-bc-players-1.7508951?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "2 medals for Canada on Day 3 of World Aquatics Diving World Cup",
-    "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/diving/world-aquatics-diving-world-cup-day-3-recap-canada-1.7509053?cmp=rss",
     "category": "Sports"
   }
 ]
