@@ -37,6 +37,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Organizers unveil sleek metallic torches for Milan-Cortina Olympics and Paralympics",
+    "url": "https://www.cbc.ca/sports/olympics/summer/soccer/2026-olympic-torch-milan-cortina-1.7509473?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada fails to qualify for Billie Jean King Cup Finals with loss to Japan, ending 4-year streak",
     "url": "https://www.cbc.ca/sports/tennis/canada-billie-jean-king-cup-japan-april-13-1.7509185?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Australian teen Gout Gout runs sub-10 100m twice in the same day",
     "url": "https://www.cbc.ca/player/play/9.6720431?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Regina Pats win No. 1 pick, shot at hometown phenom in WHL Prospects Draft",
-    "url": "https://www.cbc.ca/news/canada/saskatchewan/pats-likely-to-choose-hometown-player-no-1-pick-whl-prospects-draft-1.7508305?cmp=rss",
     "category": "Sports"
   }
 ]
