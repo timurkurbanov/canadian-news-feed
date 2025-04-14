@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Germany sends Hungary to 4th consecutive loss at women's world hockey championship",
+    "url": "https://www.cbc.ca/sports/hockey/womens-hockey-world-championship-roundup-april11-czech-republic-1.7509602?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "U.S. Original Six NHL clubs all miss playoffs for 1st time",
     "url": "https://www.cbc.ca/sports/hockey/original-six-us-nhl-teams-playoffs-1.7509444?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Whitehorse retailer stuck with Buffalo Sabres merch after trade sends Dylan Cozens to Ottawa",
     "url": "https://www.cbc.ca/news/canada/north/sabres-buffalo-dylan-cozens-gear-ottawa-senators-1.7508350?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Fever's Caitlin Clark vs. Sky's Angel Reese tip off new WNBA Rivals Week",
-    "url": "https://www.cbc.ca/sports/basketball/wnba-rivals-week-1.7507923?cmp=rss",
     "category": "Sports"
   }
 ]
