@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Guerrero Jr. and Blue Jays hold celebratory conference as star slugger inks historic extension",
+    "url": "https://www.cbc.ca/sports/baseball/mlb/vladimir-guerrero-jr-contract-conference-1.7509881?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "The making of the 2026 Milano-Cortina Olympic torch",
     "url": "https://www.cbc.ca/player/play/9.6723053?cmp=rss",
     "category": "Sports"
@@ -9,15 +16,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Why WNBA draft could provide clearest route for Tempo to acquire franchise player in 2026",
-    "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-wnba-draft-april-13-1.7508842?cmp=rss",
+    "headline": "Glory for Rory: McIlroy beats Rose in playoff to win the Masters, completing career Grand Slam",
+    "url": "https://www.cbc.ca/sports/golf/masters-tournament-round-4-april-13-1.7509362?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Glory for Rory: McIlroy beats Rose in playoff to win the Masters, completing career Grand Slam",
-    "url": "https://www.cbc.ca/sports/golf/masters-tournament-round-4-april-13-1.7509362?cmp=rss",
+    "headline": "Why WNBA draft could provide clearest route for Tempo to acquire franchise player in 2026",
+    "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-wnba-draft-april-13-1.7508842?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "2 medals for Canada on Day 3 of World Aquatics Diving World Cup",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/diving/world-aquatics-diving-world-cup-day-3-recap-canada-1.7509053?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian men's rugby 7s team finish 4th in Poland, move on to promotion playoff",
-    "url": "https://www.cbc.ca/sports/rugby/canada-mens-rugby-finish-fourth-world-rugby-challenger-series-1.7508978?cmp=rss",
     "category": "Sports"
   }
 ]
