@@ -9,15 +9,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "The making of the 2026 Milano-Cortina Olympic torch",
-    "url": "https://www.cbc.ca/player/play/9.6723053?cmp=rss",
+    "headline": "Victorious Canada rides 3rd-period outburst against host Czechs at women's hockey worlds",
+    "url": "https://www.cbc.ca/sports/hockey/womens-hockey-world-championship-roundup-april11-czech-republic-1.7509602?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Glory for Rory: McIlroy beats Rose in playoff to win the Masters, completing career Grand Slam",
-    "url": "https://www.cbc.ca/sports/golf/masters-tournament-round-4-april-13-1.7509362?cmp=rss",
+    "headline": "Weekend recap: Rory wins the Masters (in very Rory fashion)",
+    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-recap-mcilroy-masters-1.7510046?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "The making of the 2026 Milano-Cortina Olympic torch",
+    "url": "https://www.cbc.ca/player/play/9.6723053?cmp=rss",
     "category": "Sports"
   },
   {
@@ -30,15 +37,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Victorious Canada rides 3rd-period outburst against host Czechs at women's hockey worlds",
-    "url": "https://www.cbc.ca/sports/hockey/womens-hockey-world-championship-roundup-april11-czech-republic-1.7509602?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Suns fire head coach Mike Budenholzer after missing NBA playoffs in his 1st season",
-    "url": "https://www.cbc.ca/sports/basketball/nba/mike-budenholzer-fired-head-coach-phoenix-suns-nba-1.7509912?cmp=rss",
+    "headline": "Glory for Rory: McIlroy beats Rose in playoff to win the Masters, completing career Grand Slam",
+    "url": "https://www.cbc.ca/sports/golf/masters-tournament-round-4-april-13-1.7509362?cmp=rss",
     "category": "Sports"
   },
   {
@@ -46,6 +46,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "All eyes on Canadiens recruit Ivan Demidov as he makes debut against Chicago",
     "url": "https://www.cbc.ca/news/canada/montreal/ivan-demidov-montreal-canadiens-playoff-blackhawks-debut-1.7509663?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Suns fire head coach Mike Budenholzer after missing NBA playoffs in his 1st season",
+    "url": "https://www.cbc.ca/sports/basketball/nba/mike-budenholzer-fired-head-coach-phoenix-suns-nba-1.7509912?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Jets clinch 1st Central Division title but lose key forward Ehlers in win over Chicago",
     "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-central-division-chicago-blackhawks-1.7509100?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "B.C. players surge onto Canadian women's hockey team after drought",
-    "url": "https://www.cbc.ca/sports/olympics/winter/hockey/canadian-womens-hockey-bc-players-1.7508951?cmp=rss",
     "category": "Sports"
   }
 ]
