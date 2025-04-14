@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poilievre says he'll use notwithstanding clause to ensure multiple-murderers die in prison",
+    "url": "https://www.cbc.ca/news/politics/poilievre-notwithstanding-clause-multiple-murders-1.7509497?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney defends knowledge of Quebec culture, Poilievre insists he's no 'mini-Trump' on Tout le monde en parle",
     "url": "https://www.cbc.ca/news/politics/canada-election-2025-pierre-poilievre-mark-carney-quebec-tout-le-monde-en-parle-1.7509366?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Liberals and Conservatives said their rallies drew thousands. We decided to count",
     "url": "https://www.cbc.ca/news/canada/liberal-conservative-crowd-size-investigation-1.7507222?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Sask. Party MLA who called Jagmeet Singh a 'terrorist' stripped of additional MLA duties",
-    "url": "https://www.cbc.ca/news/canada/saskatoon/racquel-hilbert-singh-comment-1.7508308?cmp=rss",
     "category": "Politics"
   }
 ]
