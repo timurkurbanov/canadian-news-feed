@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Liberals revive campaign pitch for centralized military procurement agency",
+    "url": "https://www.cbc.ca/news/politics/liberals-pitch-procurement-agency-1.7509906?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Liberal staffers responsible for planting phoney buttons have been reassigned, Carney says",
     "url": "https://www.cbc.ca/news/politics/carney-buttons-staffers-reassigned-1.7509662?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney and Poilievre have both pledged 'energy corridors.' That could be complicated",
     "url": "https://www.cbc.ca/news/politics/carney-poilievre-energy-platform-corridor-1.7508253?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "How young men are changing what conservatism looks like in Canada",
-    "url": "https://www.cbc.ca/news/investigates/canada-votes-election-conservative-divide-1.7507694?cmp=rss",
     "category": "Politics"
   },
   {
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 15.6°C",
+    "headline": "Current Conditions: Mostly Cloudy, 17.1°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
