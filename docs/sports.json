@@ -23,13 +23,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "The making of the 2026 Milano-Cortina Olympic torch",
-    "url": "https://www.cbc.ca/player/play/9.6723053?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Why WNBA draft could provide clearest route for Tempo to acquire franchise player in 2026",
     "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-wnba-draft-april-13-1.7508842?cmp=rss",
     "category": "Sports"
@@ -37,8 +30,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "The making of the 2026 Milano-Cortina Olympic torch",
+    "url": "https://www.cbc.ca/player/play/9.6723053?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Glory for Rory: McIlroy beats Rose in playoff to win the Masters, completing career Grand Slam",
     "url": "https://www.cbc.ca/sports/golf/masters-tournament-round-4-april-13-1.7509362?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Manitoba among 4 provinces interested in jointly hosting 2030 Commonwealth Games",
+    "url": "https://www.cbc.ca/news/canada/manitoba/2030-commonwealth-games-1.7509820?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Alcaraz beats injured Musetti to win in Monte Carlo for his 6th Masters 1000 title",
     "url": "https://www.cbc.ca/sports/tennis/carlos-alcaraz-monte-carlo-masters-title-musetti-monaco-1.7509196?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Jets clinch 1st Central Division title but lose key forward Ehlers in win over Chicago",
-    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-central-division-chicago-blackhawks-1.7509100?cmp=rss",
     "category": "Sports"
   }
 ]
