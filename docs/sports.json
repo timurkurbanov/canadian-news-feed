@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "All eyes on new Canadiens prized recruit Ivan Demidov as he makes debut against Chicago",
+    "url": "https://www.cbc.ca/news/canada/montreal/ivan-demidov-montreal-canadiens-playoff-blackhawks-debut-1.7509663?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "U.S. Original Six NHL clubs all miss playoffs for 1st time",
     "url": "https://www.cbc.ca/sports/hockey/original-six-us-nhl-teams-playoffs-1.7509444?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian men to open Gold Cup in Vancouver with coach suspended from sideline",
     "url": "https://www.cbc.ca/sports/soccer/canada-soccer-men-concacaf-gold-cup-1.7508592?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Whitehorse retailer stuck with Buffalo Sabres merch after trade sends Dylan Cozens to Ottawa",
-    "url": "https://www.cbc.ca/news/canada/north/sabres-buffalo-dylan-cozens-gear-ottawa-senators-1.7508350?cmp=rss",
     "category": "Sports"
   }
 ]
