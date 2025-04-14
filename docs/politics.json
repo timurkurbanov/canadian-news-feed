@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "As Poilievre targets tax havens, Conservatives rack up big business endorsements",
+    "url": "https://www.cbc.ca/news/politics/pierre-poilievre-criticism-tax-havens-loopholes-1.7509260?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney defends knowledge of Quebec culture, Poilievre insists he's no 'mini-Trump' on Tout le monde en parle",
     "url": "https://www.cbc.ca/news/politics/canada-election-2025-pierre-poilievre-mark-carney-quebec-tout-le-monde-en-parle-1.7509366?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "My baby girl almost died. That's why national pharmacare will decide my vote",
     "url": "https://www.cbc.ca/news/canada/healthcare-insurance-pharmacare-election-1.7505014?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Some Conservative supporters question whether the polls can be trusted",
-    "url": "https://www.cbc.ca/news/politics/do-you-believe-the-polls-poilievre-supporters-ask-1.7507437?cmp=rss",
     "category": "Politics"
   }
 ]
