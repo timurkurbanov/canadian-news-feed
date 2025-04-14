@@ -142,6 +142,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Rising Canada recession risk to trigger at least 2 more rate cuts this year, economists predict",
+    "url": "https://www.cbc.ca/news/business/canada-recession-risk-1.7509434?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'Asleep at the wheel': Michigan city braces for impact of Trump's tariffs",
+    "url": "https://www.cbc.ca/news/canada/windsor/michigan-city-braces-for-trump-tariff-1.7509450?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Are you paying more than before to buy Canadian? Experts say it's complicated",
     "url": "https://www.cbc.ca/news/marketplace/are-you-paying-more-than-before-to-buy-canadian-experts-say-it-s-complicated-1.7508107?cmp=rss",
     "category": "Business"
@@ -268,20 +282,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "As tariffs roil the markets, here's why some sectors are faring worse than others",
-    "url": "https://www.cbc.ca/news/business/market-sectors-tariffs-1.7504207?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Stock markets close slightly lower after another day of Wall Street chaos and tariff threats",
-    "url": "https://www.cbc.ca/news/business/monday-markets-tariffs-1.7503498?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Glory for Rory: McIlroy beats Rose in playoff to win the Masters, completing career Grand Slam",
     "url": "https://www.cbc.ca/sports/golf/masters-tournament-round-4-april-13-1.7509362?cmp=rss",
     "category": "Sports"
@@ -291,6 +291,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Why WNBA draft could provide clearest route for Tempo to acquire franchise player in 2026",
     "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-wnba-draft-april-13-1.7508842?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "U.S. Original Six NHL clubs all miss playoffs for 1st time ever",
+    "url": "https://www.cbc.ca/sports/hockey/original-six-us-nhl-teams-playoffs-1.7509444?cmp=rss",
     "category": "Sports"
   },
   {
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "What's at stake over the final week of the NHL season",
-    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-final-week-nhl-season-2025-1.7507282?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Sunny, 0.0°C",
+    "headline": "Current Conditions: Partly Cloudy, 4.4°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
