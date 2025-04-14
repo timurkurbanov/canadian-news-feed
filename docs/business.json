@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Meta heads to court over alleged illegal monopoly that could force it to sell Instagram, Whatsapp",
+    "url": "https://www.cbc.ca/news/business/meta-court-monopoly-1.7509525?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Rising Canada recession risk to trigger at least 2 more rate cuts this year, economists predict",
     "url": "https://www.cbc.ca/news/business/canada-recession-risk-1.7509434?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "North American stocks rise, then drop again after another day of tariff uncertainty",
     "url": "https://www.cbc.ca/news/business/tuesday-global-markets-tariffs-1.7504536?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Apparel brands grappling with 'tariff hell,' says Canadian industry group",
-    "url": "https://www.cbc.ca/news/canada/calgary/tariffs-canada-clothing-china-vietnam-1.7504380?cmp=rss",
     "category": "Business"
   }
 ]
