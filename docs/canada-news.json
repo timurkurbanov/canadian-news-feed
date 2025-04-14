@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ford says 'truth hurts' when asked about criticism of federal Conservative campaign",
+    "url": "https://www.cbc.ca/news/canada/toronto/ford-responds-teneycke-criticism-poilievre-campaign-1.7510103?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Liberal staffers responsible for planting phoney buttons have been reassigned, Carney says",
     "url": "https://www.cbc.ca/news/politics/carney-buttons-staffers-reassigned-1.7509662?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney attacked for wanting 'free ride,' 'hiding' from public amid latest campaign break",
     "url": "https://www.cbc.ca/news/politics/mark-carney-free-ride-hiding-campaign-pauses-1.7508937?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "I have MAGA-in-laws. Despite our political differences, I adore them",
-    "url": "https://www.cbc.ca/news/canada/first-person-jordan-kawchuk-maga-in-laws-1.7504242?cmp=rss",
     "category": "Politics"
   },
   {
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 16.2°C",
+    "headline": "Current Conditions: Mostly Cloudy, 15.7°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
