@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'Unprecedented growth' in Canadian food banks prompts calls for it to be a top federal election issue",
+    "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/food-banks-insecurity-user-demand-growing-federal-election-issue-1.7508264?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Liberal operatives planted 'stop the steal' buttons at conservative conference",
     "url": "https://www.cbc.ca/news/politics/liberal-oppo-csfn-1.7509217?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian mayors push federal leaders for action on climate, not pipelines",
     "url": "https://www.cbc.ca/news/politics/letter-mayors-federal-leaders-1.7507440?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "My baby girl almost died. That's why national pharmacare will decide my vote",
-    "url": "https://www.cbc.ca/news/canada/healthcare-insurance-pharmacare-election-1.7505014?cmp=rss",
     "category": "Politics"
   },
   {
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Clear, 1.7°C",
+    "headline": "Current Conditions: Mainly Clear, 0.4°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
