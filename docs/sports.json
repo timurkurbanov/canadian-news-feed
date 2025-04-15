@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "1st Northern Super League game is something to be savoured",
+    "url": "https://www.cbc.ca/sports/soccer/opinion-nsl-first-game-vancouver-shireen-ahmed-april15-1.7510506?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PWHL draft set for June in Ottawa, featuring surplus of talent with national team experience",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-draft-2025-ottawa-1.7509900?cmp=rss",
     "category": "Sports"
@@ -16,6 +23,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadian-American entrepreneur new majority owner of Toronto's Northern Super League club",
+    "url": "https://www.cbc.ca/sports/soccer/mark-mitchell-majority-owner-nsl-afc-toronto-1.7510965?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Japanese women top Germany at hockey worlds, will meet Canadians in quarterfinals",
+    "url": "https://www.cbc.ca/sports/hockey/womens-hockey-world-championship-roundup-april15-czech-republic-1.7510758?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Playing 1st-ever Northern Super League game 'a privilege' for Vancouver Rise, Calgary Wild",
     "url": "https://www.cbc.ca/sports/soccer/northern-super-league-opening-games-vancouver-rise-calgary-wild-1.7510527?cmp=rss",
     "category": "Sports"
@@ -25,13 +46,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Norwegian snowboarder goes orbital to land historic quad flip in Swiss Alps stunner",
     "url": "https://www.cbc.ca/sports/olympics/winter/snowboard/norwegian-snowboarder-goes-orbital-to-land-historic-quad-flip-in-swiss-alps-stunner-1.7510568?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Japanese women top Germany at hockey worlds, will meet Canadians in quarterfinals",
-    "url": "https://www.cbc.ca/sports/hockey/womens-hockey-world-championship-roundup-april15-czech-republic-1.7510758?cmp=rss",
     "category": "Sports"
   },
   {
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "U.S. Original Six NHL clubs all miss playoffs for 1st time",
     "url": "https://www.cbc.ca/sports/hockey/original-six-us-nhl-teams-playoffs-1.7509444?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Presidents' Trophy-winning Winnipeg Jets have sights set on much larger prize",
-    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-presidents-trophy-nhl-1.7509501?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "United States ekes out win over Canada, clinches Group A at women's hockey worlds",
-    "url": "https://www.cbc.ca/sports/hockey/womens-hockey-world-championship-roundup-april11-czech-republic-1.7509147?cmp=rss",
     "category": "Sports"
   }
 ]
