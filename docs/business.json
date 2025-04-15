@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Surprise, Gen X! History didn't end, your RRSP is tanking and the nihilism isn't fun anymore",
+    "url": "https://www.cbc.ca/news/canada/calgary/generation-x-experience-liberation-day-tariffs-global-recession-1.7505252?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Inflation in Canada cooled slightly to 2.3% in March as gas prices fell",
     "url": "https://www.cbc.ca/news/business/cpi-march-2025-1.7510351?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian travel to the U.S. has plummeted. One reason why: fear",
     "url": "https://www.cbc.ca/news/business/canada-us-travel-fears-1.7506048?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "European Union hits pause on planned retaliatory tariffs for U.S.",
-    "url": "https://www.cbc.ca/news/world/eu-tariff-response-1.7506560?cmp=rss",
     "category": "Business"
   }
 ]
