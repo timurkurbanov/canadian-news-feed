@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Retiring Conservative MP Ed Fast endorses Independent Abbotsford-South Langley candidate",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/ed-fast-mike-de-jong-endorsement-1.7510817?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre pledges to protect seniors by forcing banks, telcos to crack down on scammers",
     "url": "https://www.cbc.ca/news/politics/poilievre-pledges-protect-seniors-from-scammers-1.7510548?cmp=rss",
     "category": "Politics"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "The border issue Indigenous communities are talking about this election",
     "url": "https://www.cbc.ca/news/canada/ottawa/indigenous-community-worried-about-border-mobility-election-1.7506829?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'Unprecedented growth' in Canadian food banks prompts calls for it to be a top federal election issue",
-    "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/food-banks-insecurity-user-demand-growing-federal-election-issue-1.7508264?cmp=rss",
     "category": "Politics"
   }
 ]
