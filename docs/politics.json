@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Conservative MPs attack Carney for his work at Brookfield. They also invested in its companies",
+    "url": "https://www.cbc.ca/news/politics/canada-election-brookfield-corp-conservative-party-mp-investments-mark-carney-1.7511153?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada election: Tariff-stricken auto industry dominates campaign as Honda disputes relocation rumour",
     "url": "https://www.cbc.ca/news/politics/livestory/canada-election-tariff-stricken-auto-industry-dominates-campaign-as-honda-disputes-relocation-rumour-9.6724078?cmp=rss",
     "category": "Politics"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre says he'll use notwithstanding clause to ensure multiple-murderers die in prison",
     "url": "https://www.cbc.ca/news/politics/poilievre-notwithstanding-clause-multiple-murders-1.7509497?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney defends knowledge of Quebec culture, Poilievre insists he's no 'mini-Trump' on Tout le monde en parle",
-    "url": "https://www.cbc.ca/news/politics/canada-election-2025-pierre-poilievre-mark-carney-quebec-tout-le-monde-en-parle-1.7509366?cmp=rss",
     "category": "Politics"
   }
 ]
