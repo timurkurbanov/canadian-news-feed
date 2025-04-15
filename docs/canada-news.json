@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Bloc, NDP ask for French-language debate to be postponed due to Montreal Canadiens game",
+    "url": "https://www.cbc.ca/news/canada/montreal/french-language-debate-quebec-1.7510909?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ottawa announces help for businesses hurt by U.S. tariffs",
     "url": "https://www.cbc.ca/news/politics/tariff-help-canada-1.7510658?cmp=rss",
     "category": "Politics"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "As Poilievre targets tax havens, Conservatives rack up big business endorsements",
     "url": "https://www.cbc.ca/news/politics/pierre-poilievre-criticism-tax-havens-loopholes-1.7509260?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "The border issue Indigenous communities are talking about this election",
-    "url": "https://www.cbc.ca/news/canada/ottawa/indigenous-community-worried-about-border-mobility-election-1.7506829?cmp=rss",
     "category": "Politics"
   },
   {
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 5.0°C",
+    "headline": "Current Conditions: Mostly Cloudy, 8.4°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
