@@ -2,7 +2,14 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Inflation in Canada cooled slightly to 2.3% in March",
+    "headline": "Honda considering moving some auto production out of Canada: Japanese report",
+    "url": "https://www.cbc.ca/news/canada/toronto/honda-considering-moving-auto-production-canada-1.7510455?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Inflation in Canada cooled slightly to 2.3% in March as gas prices fell",
     "url": "https://www.cbc.ca/news/business/cpi-march-2025-1.7510351?cmp=rss",
     "category": "Business"
   },
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "U.S. bond sell-off drives market worries around the world",
     "url": "https://www.cbc.ca/news/business/us-bonds-market-1.7505606?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Owner of three shopping malls in B.C. says she wants to buy Hudson's Bay",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/hudsons-bay-bc-shopping-mall-owner-1.7505841?cmp=rss",
     "category": "Business"
   }
 ]
