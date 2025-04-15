@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Norwegian snowboarder goes orbital to land historic quad flip in Swiss Alps stunner",
+    "url": "https://www.cbc.ca/sports/olympics/winter/snowboard/norwegian-snowboarder-goes-orbital-to-land-historic-quad-flip-in-swiss-alps-stunner-1.7510568?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Guerrero Jr. celebrates becoming 'a Blue Jay forever' after inking historic extension",
     "url": "https://www.cbc.ca/sports/baseball/mlb/vladimir-guerrero-jr-contract-conference-1.7509881?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada fails to qualify for Billie Jean King Cup Finals with loss to Japan, ending 4-year streak",
     "url": "https://www.cbc.ca/sports/tennis/canada-billie-jean-king-cup-japan-april-13-1.7509185?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Former LSU receiver Kyren Lacy dies in apparent suicide during police chase, authorities say",
-    "url": "https://www.cbc.ca/sports/football/nfl/former-lsu-receiver-kyren-lacy-dead-1.7509231?cmp=rss",
     "category": "Sports"
   }
 ]
