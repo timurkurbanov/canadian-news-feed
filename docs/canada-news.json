@@ -2,8 +2,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "RECAP | Canada election: Poilievre's vow to override Charter in crime crackdown draws fire from rivals",
-    "url": "https://www.cbc.ca/news/politics/livestory/recap-canada-election-poilievres-vow-to-override-charter-in-crime-crackdown-draws-fire-from-rivals-9.6722644?cmp=rss",
+    "headline": "Ford says 'truth hurts' when asked about criticism of federal Conservative campaign",
+    "url": "https://www.cbc.ca/news/canada/toronto/ford-responds-teneycke-criticism-poilievre-campaign-1.7510103?cmp=rss",
     "category": "Politics"
   },
   {
@@ -16,15 +16,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Liberals revive campaign pitch for centralized military procurement agency",
-    "url": "https://www.cbc.ca/news/politics/liberals-pitch-procurement-agency-1.7509906?cmp=rss",
+    "headline": "RECAP | Canada election: Poilievre's vow to override Charter in crime crackdown draws fire from rivals",
+    "url": "https://www.cbc.ca/news/politics/livestory/recap-canada-election-poilievres-vow-to-override-charter-in-crime-crackdown-draws-fire-from-rivals-9.6722644?cmp=rss",
     "category": "Politics"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Ford says 'truth hurts' when asked about criticism of federal Conservative campaign",
-    "url": "https://www.cbc.ca/news/canada/toronto/ford-responds-teneycke-criticism-poilievre-campaign-1.7510103?cmp=rss",
+    "headline": "Liberals revive campaign pitch for centralized military procurement agency",
+    "url": "https://www.cbc.ca/news/politics/liberals-pitch-procurement-agency-1.7509906?cmp=rss",
     "category": "Politics"
   },
   {
@@ -142,7 +142,14 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Mark Zuckerberg takes stand at antitrust trial into Meta's purchase of Instagram, Whatsapp",
+    "headline": "Trump says he's considering 'help' for auto companies hit by tariffs",
+    "url": "https://www.cbc.ca/news/world/trump-auto-tariffs-car-companies-exemption-1.7510033?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Mark Zuckerberg takes stand at antitrust trial into Meta's purchase of Instagram, WhatsApp",
     "url": "https://www.cbc.ca/news/business/meta-court-monopoly-1.7509525?cmp=rss",
     "category": "Business"
   },
@@ -275,13 +282,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "North American stocks rise, then drop again after another day of tariff uncertainty",
-    "url": "https://www.cbc.ca/news/business/tuesday-global-markets-tariffs-1.7504536?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Guerrero Jr. celebrates becoming 'a Blue Jay forever' after inking historic extension",
     "url": "https://www.cbc.ca/sports/baseball/mlb/vladimir-guerrero-jr-contract-conference-1.7509881?cmp=rss",
     "category": "Sports"
@@ -289,8 +289,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Victorious Canada rides 3rd-period outburst against host Czechs at women's hockey worlds",
-    "url": "https://www.cbc.ca/sports/hockey/womens-hockey-world-championship-roundup-april11-czech-republic-1.7509602?cmp=rss",
+    "headline": "Dallas Wings choose UConn star Paige Bueckers with 1st pick of 2025 WNBA draft",
+    "url": "https://www.cbc.ca/sports/basketball/wnba-draft-2025-recap-1.7510156?cmp=rss",
     "category": "Sports"
   },
   {
@@ -298,6 +298,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Weekend recap: Rory wins the Masters (in very Rory fashion)",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-recap-mcilroy-masters-1.7510046?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Victorious Canada rides 3rd-period outburst against host Czechs at women's hockey worlds",
+    "url": "https://www.cbc.ca/sports/hockey/womens-hockey-world-championship-roundup-april11-czech-republic-1.7509602?cmp=rss",
     "category": "Sports"
   },
   {
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Alcaraz beats injured Musetti to win in Monte Carlo for his 6th Masters 1000 title",
-    "url": "https://www.cbc.ca/sports/tennis/carlos-alcaraz-monte-carlo-masters-title-musetti-monaco-1.7509196?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Rainshower, 13.8°C",
+    "headline": "Current Conditions: Mostly Cloudy, 10.2°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
