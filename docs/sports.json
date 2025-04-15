@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "The PWHL effect: Players expand their individual arsenals for international stage",
+    "url": "https://www.cbc.ca/sports/hockey/womens-hockey-world-championship-roundup-april11-czech-republic-1.7510580?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Playing 1st-ever Northern Super League game 'a privilege' for Vancouver Rise, Calgary Wild",
     "url": "https://www.cbc.ca/sports/soccer/northern-super-league-opening-games-vancouver-rise-calgary-wild-1.7510527?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Organizers unveil sleek metallic torches for Milan-Cortina Olympics and Paralympics",
     "url": "https://www.cbc.ca/sports/olympics/summer/soccer/2026-olympic-torch-milan-cortina-1.7509473?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada fails to qualify for Billie Jean King Cup Finals with loss to Japan, ending 4-year streak",
-    "url": "https://www.cbc.ca/sports/tennis/canada-billie-jean-king-cup-japan-april-13-1.7509185?cmp=rss",
     "category": "Sports"
   }
 ]

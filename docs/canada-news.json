@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poilievre pledges to protect seniors by forcing banks, telcos to crack down on scammers",
+    "url": "https://www.cbc.ca/news/politics/poilievre-pledges-protect-seniors-from-scammers-1.7510548?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney and Poilievre are fighting an election that's about both change and stability",
     "url": "https://www.cbc.ca/news/politics/carney-poilievre-change-stability-1.7509966?cmp=rss",
     "category": "Politics"
@@ -135,14 +142,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre attacks Carney again over ethics, Singh promises help for northern Ontarians",
-    "url": "https://www.cbc.ca/news/politics/federal-election-campaign-week-4-1.7509242?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Honda considering moving some auto production out of Canada: Japanese report",
+    "headline": "Honda not considering moving auto production out of Canada: Ford, feds",
     "url": "https://www.cbc.ca/news/canada/toronto/honda-considering-moving-auto-production-canada-1.7510455?cmp=rss",
     "category": "Business"
   },
@@ -289,6 +289,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "The PWHL effect: Players expand their individual arsenals for international stage",
+    "url": "https://www.cbc.ca/sports/hockey/womens-hockey-world-championship-roundup-april11-czech-republic-1.7510580?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Playing 1st-ever Northern Super League game 'a privilege' for Vancouver Rise, Calgary Wild",
     "url": "https://www.cbc.ca/sports/soccer/northern-super-league-opening-games-vancouver-rise-calgary-wild-1.7510527?cmp=rss",
     "category": "Sports"
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada fails to qualify for Billie Jean King Cup Finals with loss to Japan, ending 4-year streak",
-    "url": "https://www.cbc.ca/sports/tennis/canada-billie-jean-king-cup-japan-april-13-1.7509185?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 8.1°C",
+    "headline": "Current Conditions: Mostly Cloudy, 8.9°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
