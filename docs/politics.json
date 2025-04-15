@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada election: Leaders campaign in Quebec before hunkering down to prepare for debates",
+    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-leaders-campaign-in-quebec-before-hunkering-down-to-prepare-for-debates-9.6724078?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney and Poilievre are fighting an election that's about both change and stability",
     "url": "https://www.cbc.ca/news/politics/carney-poilievre-change-stability-1.7509966?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre attacks Carney again over ethics, Singh promises help for northern Ontarians",
     "url": "https://www.cbc.ca/news/politics/federal-election-campaign-week-4-1.7509242?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "This Bloc challenger lost by 12 votes last time. He's back to take on a Liberal star candidate",
-    "url": "https://www.cbc.ca/news/politics/this-bloc-challenger-lost-by-12-votes-last-time-he-s-back-to-take-on-a-liberal-star-candidate-1.7508436?cmp=rss",
     "category": "Politics"
   }
 ]
