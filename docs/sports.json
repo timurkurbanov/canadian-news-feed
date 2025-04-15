@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Playing 1st-ever Northern Super League game 'a privilege' for Vancouver Rise, Calgary Wild",
+    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-opening-games-vancouver-rise-calgary-wild-1.7510527?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Guerrero Jr. celebrates becoming 'a Blue Jay forever' after inking historic extension",
     "url": "https://www.cbc.ca/sports/baseball/mlb/vladimir-guerrero-jr-contract-conference-1.7509881?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Former LSU receiver Kyren Lacy dies in apparent suicide during police chase, authorities say",
     "url": "https://www.cbc.ca/sports/football/nfl/former-lsu-receiver-kyren-lacy-dead-1.7509231?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Former Toronto Maple Leafs GM, scout, goalie Gerry McNamara dead at 90",
-    "url": "https://www.cbc.ca/news/canada/toronto/gerry-mcnamara-leafs-gm-scout-goalie-dead-at-90-1.7509114?cmp=rss",
     "category": "Sports"
   }
 ]
