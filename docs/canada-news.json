@@ -2,6 +2,34 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney and Poilievre are fighting an election that's about both change and stability",
+    "url": "https://www.cbc.ca/news/politics/carney-poilievre-change-stability-1.7509966?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poilievre says he'd pass a law that overrides a Charter right. That would be a first for a PM",
+    "url": "https://www.cbc.ca/news/politics/pierre-poilievre-notwithstanding-clause-1.7509802?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Calls to reform the RCMP have been mounting for years. What are the parties proposing?",
+    "url": "https://www.cbc.ca/news/politics/rcmp-reform-federal-election-carney-poilievre-1.7509840?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "South Korea, with its 'cheaper' version of the F-35, watches as Canada reviews U.S. fighter deal",
+    "url": "https://www.cbc.ca/news/politics/south-korea-fighter-jet-f-35-contract-1.7510220?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ford says 'truth hurts' when asked about criticism of federal Conservative campaign",
     "url": "https://www.cbc.ca/news/canada/toronto/ford-responds-teneycke-criticism-poilievre-campaign-1.7510103?cmp=rss",
     "category": "Politics"
@@ -109,34 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "This Bloc challenger lost by 12 votes last time. He's back to take on a Liberal star candidate",
     "url": "https://www.cbc.ca/news/politics/this-bloc-challenger-lost-by-12-votes-last-time-he-s-back-to-take-on-a-liberal-star-candidate-1.7508436?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "ChatGPT now lets users create fake images of politicians. We stress-tested it",
-    "url": "https://www.cbc.ca/news/canada/chatgpt-fake-politicians-1.7507039?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poll of Sask. voters has Conservatives maintaining strong support, but Liberals gaining ground",
-    "url": "https://www.cbc.ca/news/canada/saskatchewan/federal-election-saskatchewan-poll-results-1.7508391?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre accuses Liberals of mixed messaging as candidate calls Gaza war 'genocide'",
-    "url": "https://www.cbc.ca/news/politics/poilievre-accuses-liberals-of-mixed-messaging-as-candidate-calls-gaza-war-genocide-1.7508990?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney attacked for wanting 'free ride,' 'hiding' from public amid latest campaign break",
-    "url": "https://www.cbc.ca/news/politics/mark-carney-free-ride-hiding-campaign-pauses-1.7508937?cmp=rss",
     "category": "Politics"
   },
   {
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 5.9°C",
+    "headline": "Current Conditions: Mainly Clear, 4.4°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
