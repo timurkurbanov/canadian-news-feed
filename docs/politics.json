@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Greens held back some candidates despite giving full slate to debates commission",
+    "url": "https://www.cbc.ca/news/politics/green-party-list-of-candidates-debates-1.7510915?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Bloc, NDP ask for French-language debate to be postponed due to Montreal Canadiens game",
     "url": "https://www.cbc.ca/news/canada/montreal/french-language-debate-quebec-1.7510909?cmp=rss",
     "category": "Politics"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney defends knowledge of Quebec culture, Poilievre insists he's no 'mini-Trump' on Tout le monde en parle",
     "url": "https://www.cbc.ca/news/politics/canada-election-2025-pierre-poilievre-mark-carney-quebec-tout-le-monde-en-parle-1.7509366?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "As Poilievre targets tax havens, Conservatives rack up big business endorsements",
-    "url": "https://www.cbc.ca/news/politics/pierre-poilievre-criticism-tax-havens-loopholes-1.7509260?cmp=rss",
     "category": "Politics"
   }
 ]
