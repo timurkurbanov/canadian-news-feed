@@ -2,8 +2,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada election: Party leaders weigh in on report Honda could shift some production to U.S. amid trade war",
-    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-party-leaders-weigh-in-on-report-honda-could-shift-some-production-to-u-s-amid-trade-war-9.6724078?cmp=rss",
+    "headline": "Canada election: Ottawa slams brakes on report Honda could shift production to U.S. in response to tariffs",
+    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-ottawa-slams-brakes-on-report-honda-could-shift-production-to-u-s-in-response-to-tariffs-9.6724078?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ottawa announces help for businesses hurt by U.S. tariffs",
+    "url": "https://www.cbc.ca/news/politics/tariff-help-canada-1.7510658?cmp=rss",
     "category": "Politics"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Amid trade turmoil, Ontario government mulls sweeping overhaul of permits",
     "url": "https://www.cbc.ca/news/canada/toronto/ontario-government-permits-red-tape-1.7507444?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Liberal operatives planted 'stop the steal' buttons at conservative conference",
-    "url": "https://www.cbc.ca/news/politics/liberal-oppo-csfn-1.7509217?cmp=rss",
     "category": "Politics"
   }
 ]

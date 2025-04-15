@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ottawa announces help for businesses hurt by U.S. tariffs",
+    "url": "https://www.cbc.ca/news/politics/tariff-help-canada-1.7510658?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Inflation in Canada cooled slightly to 2.3% in March as gas prices fell",
     "url": "https://www.cbc.ca/news/business/cpi-march-2025-1.7510351?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "European Union hits pause on planned retaliatory tariffs for U.S.",
     "url": "https://www.cbc.ca/news/world/eu-tariff-response-1.7506560?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Stock markets skyrocket after Trump announces 90-day pause on some tariffs, 125% rate for China",
-    "url": "https://www.cbc.ca/news/world/china-trade-war-u-s-1.7505559?cmp=rss",
     "category": "Business"
   }
 ]
