@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Time changed for French-language debate due to Montreal Canadiens game",
+    "url": "https://www.cbc.ca/news/canada/montreal/french-language-debate-quebec-1.7510909?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada election: Tariff-stricken auto industry dominates campaign as Honda disputes relocation rumour",
     "url": "https://www.cbc.ca/news/politics/livestory/canada-election-tariff-stricken-auto-industry-dominates-campaign-as-honda-disputes-relocation-rumour-9.6724078?cmp=rss",
     "category": "Politics"
@@ -11,13 +18,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Greens held back some candidates despite giving full slate to debates commission",
     "url": "https://www.cbc.ca/news/politics/green-party-list-of-candidates-debates-1.7510915?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Bloc, NDP ask for French-language debate to be postponed due to Montreal Canadiens game",
-    "url": "https://www.cbc.ca/news/canada/montreal/french-language-debate-quebec-1.7510909?cmp=rss",
     "category": "Politics"
   },
   {
