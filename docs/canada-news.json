@@ -9,7 +9,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Bank of Canada holds rates at 2.75%, says trade war could cause a recession",
+    "headline": "Bank of Canada holds key interest rate at 2.75%, says trade war could cause a recession",
     "url": "https://www.cbc.ca/news/business/boc-interest-rate-april-1.7511457?cmp=rss",
     "category": "Politics"
   },
@@ -135,7 +135,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Bank of Canada holds rates at 2.75%, says trade war could cause a recession",
+    "headline": "Bank of Canada holds key interest rate at 2.75%, says trade war could cause a recession",
     "url": "https://www.cbc.ca/news/business/boc-interest-rate-april-1.7511457?cmp=rss",
     "category": "Business"
   },
@@ -282,6 +282,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Andreescu returns to WTA Tour from long absence, loses in 3rd-set tiebreaker",
+    "url": "https://www.cbc.ca/sports/tennis/bianca-andreescu-tennis-return-wta-tour-open-de-rouen-1.7511680?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "It's playoff time in the NBA — here are some Canadians to watch",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-nba-playoffs-canadians-to-watch-1.7511066?cmp=rss",
     "category": "Sports"
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Suns fire head coach Mike Budenholzer after missing NBA playoffs in his 1st season",
-    "url": "https://www.cbc.ca/sports/basketball/nba/mike-budenholzer-fired-head-coach-phoenix-suns-nba-1.7509912?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 1.1°C",
+    "headline": "Current Conditions: Mostly Cloudy, 2.1°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

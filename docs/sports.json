@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Andreescu returns to WTA Tour from long absence, loses in 3rd-set tiebreaker",
+    "url": "https://www.cbc.ca/sports/tennis/bianca-andreescu-tennis-return-wta-tour-open-de-rouen-1.7511680?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "It's playoff time in the NBA — here are some Canadians to watch",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-nba-playoffs-canadians-to-watch-1.7511066?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What's the hype about Ivan Demidov, the Canadiens recruit making his NHL debut?",
     "url": "https://www.cbc.ca/news/canada/montreal/ivan-demidov-montreal-canadiens-playoff-blackhawks-debut-1.7509663?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Suns fire head coach Mike Budenholzer after missing NBA playoffs in his 1st season",
-    "url": "https://www.cbc.ca/sports/basketball/nba/mike-budenholzer-fired-head-coach-phoenix-suns-nba-1.7509912?cmp=rss",
     "category": "Sports"
   }
 ]
