@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Green Party dropped from leaders' debates for not running enough candidates",
+    "url": "https://www.cbc.ca/news/politics/leaders-debate-commission-green-party-removed-1.7511447?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Nearly 900,000 fewer people went to the U.S. in March as cross-border travel plummets",
     "url": "https://www.cbc.ca/news/politics/cross-border-trips-us-900-thousand-1.7511090?cmp=rss",
     "category": "Politics"
@@ -58,13 +65,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Greens held back some candidates despite giving full slate to debates commission",
-    "url": "https://www.cbc.ca/news/politics/green-party-list-of-candidates-debates-1.7510915?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ottawa announces help for businesses hurt by U.S. tariffs",
     "url": "https://www.cbc.ca/news/politics/tariff-help-canada-1.7510658?cmp=rss",
     "category": "Politics"
@@ -74,6 +74,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Retiring Conservative MP Ed Fast endorses Independent Abbotsford-South Langley candidate",
     "url": "https://www.cbc.ca/news/canada/british-columbia/ed-fast-mike-de-jong-endorsement-1.7510817?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Greens held back some candidates despite giving full slate to debates commission",
+    "url": "https://www.cbc.ca/news/politics/green-party-list-of-candidates-debates-1.7510915?cmp=rss",
     "category": "Politics"
   },
   {
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Debates commission defends inviting Greens despite party's candidate shortage",
     "url": "https://www.cbc.ca/news/politics/green-party-debate-commission-rules-candidate-numbers-1.7509867?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "RECAP | Canada election: Poilievre's vow to override Charter in crime crackdown draws fire from rivals",
-    "url": "https://www.cbc.ca/news/politics/livestory/recap-canada-election-poilievres-vow-to-override-charter-in-crime-crackdown-draws-fire-from-rivals-9.6722644?cmp=rss",
     "category": "Politics"
   },
   {
@@ -275,8 +275,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Inaugural Northern Super League game is something to be savoured",
-    "url": "https://www.cbc.ca/sports/soccer/opinion-nsl-first-game-vancouver-shireen-ahmed-april15-1.7510506?cmp=rss",
+    "headline": "Living the Dream: How NSL founder Diana Matheson is determined it remain a reality",
+    "url": "https://www.cbc.ca/sports/longform/features/northern-super-league-living-the-dream?cmp=rss",
     "category": "Sports"
   },
   {
@@ -284,13 +284,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "It's playoff time in the NBA — here are some Canadians to watch",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-nba-playoffs-canadians-to-watch-1.7511066?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Christine Sinclair says 'exciting times for women's soccer' in Canada as Northern Super League kicks off",
-    "url": "https://www.cbc.ca/player/play/9.6725225?cmp=rss",
     "category": "Sports"
   },
   {
@@ -312,13 +305,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "The PWHL effect: Players expand their individual arsenals for international stage",
     "url": "https://www.cbc.ca/sports/hockey/womens-hockey-world-championship-roundup-april11-czech-republic-1.7510580?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian-American entrepreneur new majority owner of Toronto's Northern Super League club",
-    "url": "https://www.cbc.ca/sports/soccer/mark-mitchell-majority-owner-nsl-afc-toronto-1.7510965?cmp=rss",
     "category": "Sports"
   },
   {
@@ -413,6 +399,20 @@
     "category": "Sports"
   },
   {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "What's the hype about Ivan Demidov, the Canadiens recruit making his NHL debut?",
+    "url": "https://www.cbc.ca/news/canada/montreal/ivan-demidov-montreal-canadiens-playoff-blackhawks-debut-1.7509663?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Suns fire head coach Mike Budenholzer after missing NBA playoffs in his 1st season",
+    "url": "https://www.cbc.ca/sports/basketball/nba/mike-budenholzer-fired-head-coach-phoenix-suns-nba-1.7509912?cmp=rss",
+    "category": "Sports"
+  },
+  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Cloudy, -0.7°C",
+    "headline": "Current Conditions: Cloudy, -0.4°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
