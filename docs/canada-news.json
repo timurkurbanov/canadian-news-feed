@@ -2,8 +2,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada election: Leaders to face off in first debate of campaign",
-    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-leaders-to-face-off-in-first-debate-of-campaign-9.6726360?cmp=rss",
+    "headline": "Canada election: Major party leaders arrive for French-language debate",
+    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-major-party-leaders-arrive-for-french-language-debate-9.6726360?cmp=rss",
     "category": "Politics"
   },
   {
@@ -268,7 +268,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Living the Dream: How NSL founder Diana Matheson is determined it remain a reality",
+    "headline": "Living the Dream: How Northern Super League founder Diana Matheson is determined it remain a reality",
     "url": "https://www.cbc.ca/sports/longform/features/northern-super-league-living-the-dream?cmp=rss",
     "category": "Sports"
   },
@@ -415,7 +415,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 4.1°C",
+    "headline": "Current Conditions: Mostly Cloudy, 5.0°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
