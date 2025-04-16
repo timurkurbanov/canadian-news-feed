@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "What people with disabilities want to hear from party leaders in this election",
+    "url": "https://www.cbc.ca/news/politics/elections-disabilities-vote-1.7511654?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Bank of Canada holds key interest rate at 2.75%, says trade war could cause a recession",
     "url": "https://www.cbc.ca/news/business/boc-interest-rate-april-1.7511457?cmp=rss",
     "category": "Politics"
@@ -116,13 +123,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre says he'd pass a law that overrides a Charter right. That would be a first for a PM",
     "url": "https://www.cbc.ca/news/politics/pierre-poilievre-notwithstanding-clause-1.7509802?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Calls to reform the RCMP have been mounting for years. What are the parties proposing?",
-    "url": "https://www.cbc.ca/news/politics/rcmp-reform-federal-election-carney-poilievre-1.7509840?cmp=rss",
     "category": "Politics"
   }
 ]

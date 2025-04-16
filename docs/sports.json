@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Raptors president Masai Ujiri says club still working to get better after missing playoffs",
+    "url": "https://www.cbc.ca/sports/basketball/nba/masai-ujiri-raptors-president-season-wrap-1.7511970?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Maple Leafs clinch division to set up Battle of Ontario playoff series vs. Senators",
     "url": "https://www.cbc.ca/sports/hockey/nhl/nhl-playoffs-canada-rdp-1.7511443?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "The making of the 2026 Milano-Cortina Olympic torch",
     "url": "https://www.cbc.ca/player/play/9.6723053?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Glory for Rory: McIlroy beats Rose in playoff to win the Masters, completing career Grand Slam",
-    "url": "https://www.cbc.ca/sports/golf/masters-tournament-round-4-april-13-1.7509362?cmp=rss",
     "category": "Sports"
   }
 ]

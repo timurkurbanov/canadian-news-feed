@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "What people with disabilities want to hear from party leaders in this election",
+    "url": "https://www.cbc.ca/news/politics/elections-disabilities-vote-1.7511654?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Bank of Canada holds key interest rate at 2.75%, says trade war could cause a recession",
     "url": "https://www.cbc.ca/news/business/boc-interest-rate-april-1.7511457?cmp=rss",
     "category": "Politics"
@@ -116,13 +123,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre says he'd pass a law that overrides a Charter right. That would be a first for a PM",
     "url": "https://www.cbc.ca/news/politics/pierre-poilievre-notwithstanding-clause-1.7509802?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Calls to reform the RCMP have been mounting for years. What are the parties proposing?",
-    "url": "https://www.cbc.ca/news/politics/rcmp-reform-federal-election-carney-poilievre-1.7509840?cmp=rss",
     "category": "Politics"
   },
   {
@@ -289,6 +289,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Raptors president Masai Ujiri says club still working to get better after missing playoffs",
+    "url": "https://www.cbc.ca/sports/basketball/nba/masai-ujiri-raptors-president-season-wrap-1.7511970?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Maple Leafs clinch division to set up Battle of Ontario playoff series vs. Senators",
     "url": "https://www.cbc.ca/sports/hockey/nhl/nhl-playoffs-canada-rdp-1.7511443?cmp=rss",
     "category": "Sports"
@@ -396,13 +403,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "The making of the 2026 Milano-Cortina Olympic torch",
     "url": "https://www.cbc.ca/player/play/9.6723053?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Glory for Rory: McIlroy beats Rose in playoff to win the Masters, completing career Grand Slam",
-    "url": "https://www.cbc.ca/sports/golf/masters-tournament-round-4-april-13-1.7509362?cmp=rss",
     "category": "Sports"
   },
   {
