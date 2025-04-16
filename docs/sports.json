@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Maple Leafs clinch division to set up Battle of Ontario playoff series vs. Senators",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/nhl-playoffs-canada-rdp-1.7511443?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PWHL draft set for June in Ottawa, featuring surplus of talent with national team experience",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-draft-2025-ottawa-1.7509900?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Manitoba among 4 provinces interested in jointly hosting 2030 Commonwealth Games",
     "url": "https://www.cbc.ca/news/canada/manitoba/2030-commonwealth-games-1.7509820?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "What's the hype about Ivan Demidov, the Canadiens recruit making his NHL debut?",
-    "url": "https://www.cbc.ca/news/canada/montreal/ivan-demidov-montreal-canadiens-playoff-blackhawks-debut-1.7509663?cmp=rss",
     "category": "Sports"
   }
 ]
