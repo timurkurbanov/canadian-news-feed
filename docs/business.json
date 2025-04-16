@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Tariff turmoil might force this retiree back to work",
+    "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-trump-retirees-1.7510697?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Honda denies reports that it intends to move auto production out of Canada",
     "url": "https://www.cbc.ca/news/canada/toronto/honda-plant-alliston-canada-1.7510455?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "After massive surge on Wednesday, stock markets fall as trade war continues",
     "url": "https://www.cbc.ca/news/business/stock-markets-thursday-1.7506773?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Frank And Oak to close 9 stores across Ontario, Quebec and B.C.",
-    "url": "https://www.cbc.ca/news/business/frank-oak-close-stores-1.7506907?cmp=rss",
     "category": "Business"
   }
 ]
