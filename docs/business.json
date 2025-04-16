@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Bank of Canada holds rates at 2.75%",
+    "url": "https://www.cbc.ca/news/business/boc-interest-rate-april-1.7511457?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Trade war starting to show up in higher prices on some grocery items",
     "url": "https://www.cbc.ca/news/business/tariffs-impacting-food-1.7510987?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "China hits back at Trump's tariff hike with 125% duties on U.S. goods",
     "url": "https://www.cbc.ca/news/world/china-tariffs-us-trump-1.7507719?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "After massive surge on Wednesday, stock markets fall as trade war continues",
-    "url": "https://www.cbc.ca/news/business/stock-markets-thursday-1.7506773?cmp=rss",
     "category": "Business"
   }
 ]
