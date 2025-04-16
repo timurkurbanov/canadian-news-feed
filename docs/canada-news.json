@@ -135,7 +135,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Bank of Canada holds rates at 2.75%",
+    "headline": "Bank of Canada holds rates at 2.75%, says trade war could cause a recession",
     "url": "https://www.cbc.ca/news/business/boc-interest-rate-april-1.7511457?cmp=rss",
     "category": "Business"
   },
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 0.1°C",
+    "headline": "Current Conditions: Cloudy, 0.6°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
