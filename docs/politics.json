@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Front-runner Carney faces jabs from all sides at French-language debate",
+    "url": "https://www.cbc.ca/news/politics/french-language-debate-main-file-1.7512429?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Green Party dropped from leaders' debates for not running enough candidates",
     "url": "https://www.cbc.ca/news/politics/leaders-debate-commission-green-party-removed-1.7511447?cmp=rss",
     "category": "Politics"
@@ -116,13 +123,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre pledges to protect seniors by forcing banks, telcos to crack down on scammers",
     "url": "https://www.cbc.ca/news/politics/poilievre-pledges-protect-seniors-from-scammers-1.7510548?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney and Poilievre are fighting an election that's about both change and stability",
-    "url": "https://www.cbc.ca/news/politics/carney-poilievre-change-stability-1.7509966?cmp=rss",
     "category": "Politics"
   }
 ]
