@@ -2,8 +2,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada election: French-language leaders’ debate nearly underway",
-    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-french-language-leaders-debate-nearly-underway-9.6726360?cmp=rss",
+    "headline": "Canada election: French-language leaders’ debate gets underway",
+    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-french-language-leaders-debate-gets-underway-9.6726360?cmp=rss",
     "category": "Politics"
   },
   {
@@ -415,7 +415,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 5.0°C",
+    "headline": "Current Conditions: Mostly Cloudy, 5.1°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
