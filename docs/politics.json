@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Bank of Canada holds rates at 2.75%, says trade war could cause a recession",
+    "url": "https://www.cbc.ca/news/business/boc-interest-rate-april-1.7511457?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Nearly 900,000 fewer people went to the U.S. in March as cross-border travel plummets",
     "url": "https://www.cbc.ca/news/politics/cross-border-trips-us-900-thousand-1.7511090?cmp=rss",
     "category": "Politics"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ford says 'truth hurts' when asked about criticism of federal Conservative campaign",
     "url": "https://www.cbc.ca/news/canada/toronto/ford-responds-teneycke-criticism-poilievre-campaign-1.7510103?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Debates commission defends inviting Greens despite party's candidate shortage",
-    "url": "https://www.cbc.ca/news/politics/green-party-debate-commission-rules-candidate-numbers-1.7509867?cmp=rss",
     "category": "Politics"
   }
 ]
