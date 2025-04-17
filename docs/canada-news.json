@@ -30,6 +30,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "I didn't vote for 21 years. Trump's attacks on my homeland and Canada changed everything",
+    "url": "https://www.cbc.ca/news/canada/montreal/first-person-voting-first-time-1.7511826?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Green Party dropped from leaders' debates for not running enough candidates",
     "url": "https://www.cbc.ca/news/politics/leaders-debate-commission-green-party-removed-1.7511447?cmp=rss",
     "category": "Politics"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Retiring Conservative MP Ed Fast endorses Independent Abbotsford-South Langley candidate",
     "url": "https://www.cbc.ca/news/canada/british-columbia/ed-fast-mike-de-jong-endorsement-1.7510817?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Greens held back some candidates despite giving full slate to debates commission",
-    "url": "https://www.cbc.ca/news/politics/green-party-list-of-candidates-debates-1.7510915?cmp=rss",
     "category": "Politics"
   },
   {
@@ -289,6 +289,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "New PWHL Players Association director aims to keep raising bar for players",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhlpa-new-executive-director-malaika-underwood-1.7511121?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "All-Montreal Victoire line in the spotlight for Canada at women's hockey worlds",
     "url": "https://www.cbc.ca/sports/hockey/canada-victoire-top-line-quarterfinals-worlds-2025-1.7511891?cmp=rss",
     "category": "Sports"
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Judge rejects defence Gaudreaus contributed to their deaths by cycling while impaired",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/johnny-gaudreau-matthew-gaudreau-impaired-driving-trial-1.7510461?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Clear, -0.1°C",
+    "headline": "Current Conditions: Mainly Clear, 0.0°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
