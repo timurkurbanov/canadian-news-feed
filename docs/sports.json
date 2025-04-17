@@ -2,8 +2,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Quinn's landmark goal helps Vancouver Rise top Calgary Wild in Northern Super League's inaugural match",
-    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-calgary-vancouver-april-16-1.7511740?cmp=rss",
+    "headline": "New PWHL Players Association director aims to keep raising bar for players",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhlpa-new-executive-director-malaika-underwood-1.7511121?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "De Grasse's Grand Slam Track participation a signal that it's worth answering the series' call",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/morgan-campbell-grand-slam-track-miami-andre-degrasse-1.7512427?cmp=rss",
     "category": "Sports"
   },
   {
@@ -16,8 +23,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "New PWHL Players Association director aims to keep raising bar for players",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhlpa-new-executive-director-malaika-underwood-1.7511121?cmp=rss",
+    "headline": "Quinn's landmark goal helps Vancouver Rise top Calgary Wild in Northern Super League's inaugural match",
+    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-calgary-vancouver-april-16-1.7511740?cmp=rss",
     "category": "Sports"
   },
   {
@@ -25,6 +32,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Finland, United States reach women's world hockey championship semifinals",
     "url": "https://www.cbc.ca/sports/hockey/womens-hockey-world-championship-roundup-april-17-czech-republic-1.7512700?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Emotional Christine Sinclair says inaugural NSL season 'beginning of bigger and brighter things'",
+    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-inaugural-season-christine-sinclair-1.7511575?cmp=rss",
     "category": "Sports"
   },
   {
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Playing 1st-ever Northern Super League game 'a privilege' for Vancouver Rise, Calgary Wild",
     "url": "https://www.cbc.ca/sports/soccer/northern-super-league-opening-games-vancouver-rise-calgary-wild-1.7510527?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada Soccer names roster for inaugural CONCACAF W Futsal Championship in late April",
-    "url": "https://www.cbc.ca/sports/soccer/canada-womens-roster-concacaf-futsal-championship-soccer-1.7510641?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Guerrero Jr. celebrates becoming 'a Blue Jay forever' after inking historic extension",
-    "url": "https://www.cbc.ca/sports/baseball/mlb/vladimir-guerrero-jr-contract-conference-1.7509881?cmp=rss",
     "category": "Sports"
   }
 ]
