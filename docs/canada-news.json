@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Right-wing media including Rebel News dominate post-debate news conferences",
+    "url": "https://www.cbc.ca/news/politics/rebel-news-rightwing-media-press-conferences-debates-1.7512714?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Front-runner Carney faces jabs from all sides at French-language debate",
     "url": "https://www.cbc.ca/news/politics/french-language-debate-main-file-1.7512429?cmp=rss",
     "category": "Politics"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ottawa announces help for businesses hurt by U.S. tariffs",
     "url": "https://www.cbc.ca/news/politics/tariff-help-canada-1.7510658?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Retiring Conservative MP Ed Fast endorses Independent Abbotsford-South Langley candidate",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/ed-fast-mike-de-jong-endorsement-1.7510817?cmp=rss",
     "category": "Politics"
   },
   {
