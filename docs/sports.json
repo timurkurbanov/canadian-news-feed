@@ -37,6 +37,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada coach Jesse Marsch handed 2-game ban by CONCACAF Disciplinary Committee",
+    "url": "https://www.cbc.ca/sports/soccer/jesse-marsch-2-game-suspension-1.7513725?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Soccer legend Marinette Pichon ready for next challenge with NSL's Montreal Roses",
     "url": "https://www.cbc.ca/sports/soccer/marinette-pichon-sporting-director-montreal-roses-fc-nsl-1.7513020?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Road through Western Conference to Stanley Cup final is 'war of attrition'",
     "url": "https://www.cbc.ca/sports/hockey/nhl/stanley-cup-playoff-preview-western-conference-2025-1.7511897?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "PWHL draft set for June in Ottawa, featuring surplus of talent with national team experience",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-draft-2025-ottawa-1.7509900?cmp=rss",
     "category": "Sports"
   }
 ]
