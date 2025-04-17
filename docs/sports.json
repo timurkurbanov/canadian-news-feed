@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Finland beats Sweden to reach semifinals at women's hockey worlds",
+    "url": "https://www.cbc.ca/sports/hockey/womens-hockey-world-championship-roundup-april-17-czech-republic-1.7512700?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "All-Montreal Victoire line in the spotlight for Canada at women's hockey worlds",
     "url": "https://www.cbc.ca/sports/hockey/canada-victoire-top-line-quarterfinals-worlds-2025-1.7511891?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Weekend recap: Rory wins the Masters (in very Rory fashion)",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-recap-mcilroy-masters-1.7510046?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Victorious Canada rides 3rd-period outburst against host Czechs at women's hockey worlds",
-    "url": "https://www.cbc.ca/sports/hockey/womens-hockey-world-championship-roundup-april11-czech-republic-1.7509602?cmp=rss",
     "category": "Sports"
   }
 ]
