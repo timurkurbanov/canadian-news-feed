@@ -37,6 +37,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "SailGP announces high-speed race will return to Halifax in 2026",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/sailgp-halifax-2026-1.7511603?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'Seriously broken' — Paige Bueckers's new salary a reminder how little WNBA players earn",
+    "url": "https://www.cbc.ca/news/world/wnba-draft-salary-paige-bueckers-1.7511522?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Andreescu returns to WTA Tour from long absence, loses in 3rd-set tiebreaker",
     "url": "https://www.cbc.ca/sports/tennis/bianca-andreescu-tennis-return-wta-tour-open-de-rouen-1.7511680?cmp=rss",
     "category": "Sports"
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Guerrero Jr. celebrates becoming 'a Blue Jay forever' after inking historic extension",
     "url": "https://www.cbc.ca/sports/baseball/mlb/vladimir-guerrero-jr-contract-conference-1.7509881?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Dallas Wings choose UConn star Paige Bueckers with 1st pick of 2025 WNBA draft",
-    "url": "https://www.cbc.ca/sports/basketball/wnba-draft-2025-recap-1.7510156?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Weekend recap: Rory wins the Masters (in very Rory fashion)",
-    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-recap-mcilroy-masters-1.7510046?cmp=rss",
     "category": "Sports"
   }
 ]

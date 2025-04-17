@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Fast fashion e-commerce sites Temu and Shein say they're raising prices because of tariffs",
+    "url": "https://www.cbc.ca/news/business/temu-shein-raising-prices-1.7512710?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "The U.S.-China trade war is escalating. But China may have more leverage than the U.S. thought",
     "url": "https://www.cbc.ca/news/world/us-china-trade-war-1.7512114?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Will the U.S.-China tariff war drive up online shopping prices for Canadians?",
     "url": "https://www.cbc.ca/news/canada/tariffs-online-shopping-canadians-1.7507786?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Duty-free shops struggle to make ends meet as Canadians steer clear of U.S.",
-    "url": "https://www.cbc.ca/radio/asithappens/duty-free-struggles-us-travel-1.7508516?cmp=rss",
     "category": "Business"
   }
 ]
