@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "At Issue | Who came off best in the French debate?",
+    "url": "https://www.cbc.ca/player/play/9.6727149?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Green Party dropped from leaders' debates for not running enough candidates",
     "url": "https://www.cbc.ca/news/politics/leaders-debate-commission-green-party-removed-1.7511447?cmp=rss",
     "category": "Politics"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Greens held back some candidates despite giving full slate to debates commission",
     "url": "https://www.cbc.ca/news/politics/green-party-list-of-candidates-debates-1.7510915?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre pledges to protect seniors by forcing banks, telcos to crack down on scammers",
-    "url": "https://www.cbc.ca/news/politics/poilievre-pledges-protect-seniors-from-scammers-1.7510548?cmp=rss",
     "category": "Politics"
   }
 ]
