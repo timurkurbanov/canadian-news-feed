@@ -303,8 +303,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Soccer legend Marinette Pichon ready for next challenge with NSL's Montreal Roses",
+    "url": "https://www.cbc.ca/sports/soccer/marinette-pichon-sporting-director-montreal-roses-fc-nsl-1.7513020?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Finland, United States reach women's world hockey championship semifinals",
     "url": "https://www.cbc.ca/sports/hockey/womens-hockey-world-championship-roundup-april-17-czech-republic-1.7512700?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Oilers captain McDavid reaches 100-point milestone for 8th time, 5th straight season",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/connor-mcdavid-100-point-milestone-nhl-oilers-1.7512956?cmp=rss",
     "category": "Sports"
   },
   {
@@ -396,20 +410,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Japanese women top Germany at hockey worlds, will meet Canadians in quarterfinals",
     "url": "https://www.cbc.ca/sports/hockey/womens-hockey-world-championship-roundup-april15-czech-republic-1.7510758?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Norwegian snowboarder goes orbital to land historic quad flip in Swiss Alps stunner",
-    "url": "https://www.cbc.ca/sports/olympics/winter/snowboard/norwegian-snowboarder-goes-orbital-to-land-historic-quad-flip-in-swiss-alps-stunner-1.7510568?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Playing 1st-ever Northern Super League game 'a privilege' for Vancouver Rise, Calgary Wild",
-    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-opening-games-vancouver-rise-calgary-wild-1.7510527?cmp=rss",
     "category": "Sports"
   },
   {
