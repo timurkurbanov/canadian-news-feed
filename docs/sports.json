@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "What to watch this long weekend in sports",
+    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-long-weekend-sports-preview-april17-1.7513549?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Quinn's landmark goal helps Vancouver Rise top Calgary Wild in Northern Super League's inaugural match",
     "url": "https://www.cbc.ca/sports/soccer/northern-super-league-calgary-vancouver-april-16-1.7511740?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PWHL draft set for June in Ottawa, featuring surplus of talent with national team experience",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-draft-2025-ottawa-1.7509900?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Disappointed Flames come up short in bid for playoffs",
-    "url": "https://www.cbc.ca/news/canada/calgary/disappointed-flames-come-up-short-in-bid-for-playoffs-1.7511667?cmp=rss",
     "category": "Sports"
   }
 ]
