@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "During leaders' debate, Carney praised a nuclear firm he bought while at Brookfield",
+    "url": "https://www.cbc.ca/news/politics/during-leaders-debate-carney-praised-a-nuclear-firm-he-bought-while-at-brookfield-1.7513169?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Right-wing media including Rebel News dominate post-debate news conferences",
     "url": "https://www.cbc.ca/news/politics/rebel-news-rightwing-media-press-conferences-debates-1.7512714?cmp=rss",
     "category": "Politics"
@@ -9,8 +16,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada Votes 2025: How to follow the federal leaders' debates",
+    "url": "https://www.cbc.ca/news/politics/watch-leaders-debate-2025-1.7506796?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Front-runner Carney faces jabs from all sides at French-language debate",
     "url": "https://www.cbc.ca/news/politics/french-language-debate-main-file-1.7512429?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "For Conservatives to take the election, these GTA ridings are must-wins",
+    "url": "https://www.cbc.ca/news/canada/toronto/canada-election-gta-905-greater-toronto-area-target-ridings-1.7512080?cmp=rss",
     "category": "Politics"
   },
   {
@@ -109,27 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Conservative MPs attack Carney for his work at Brookfield. They also invested in its companies",
     "url": "https://www.cbc.ca/news/politics/canada-election-brookfield-corp-conservative-party-mp-investments-mark-carney-1.7511153?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada election: Tariff-stricken auto industry dominates campaign as Honda disputes relocation rumour",
-    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-tariff-stricken-auto-industry-dominates-campaign-as-honda-disputes-relocation-rumour-9.6724078?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Time changed for French-language leaders' debate due to Montreal Canadiens game",
-    "url": "https://www.cbc.ca/news/canada/montreal/french-language-debate-quebec-1.7510909?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Ottawa announces help for businesses hurt by U.S. tariffs",
-    "url": "https://www.cbc.ca/news/politics/tariff-help-canada-1.7510658?cmp=rss",
     "category": "Politics"
   },
   {
@@ -296,13 +296,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadiens finally clinch for playoffs after anxious week: 'Makes it feel better'",
-    "url": "https://www.cbc.ca/news/canada/montreal/canadiens-playoffs-1.7512583?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Soccer legend Marinette Pichon ready for next challenge with NSL's Montreal Roses",
     "url": "https://www.cbc.ca/sports/soccer/marinette-pichon-sporting-director-montreal-roses-fc-nsl-1.7513020?cmp=rss",
     "category": "Sports"
@@ -312,6 +305,20 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Finland, United States reach women's world hockey championship semifinals",
     "url": "https://www.cbc.ca/sports/hockey/womens-hockey-world-championship-roundup-april-17-czech-republic-1.7512700?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "One sad graphic that shows every Canadian team's Stanley Cup playoff run since 1994",
+    "url": "https://www.cbc.ca/news/canada/stanley-cup-canada-attempts-1.7225330?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadiens finally clinch for playoffs after anxious week: 'Makes it feel better'",
+    "url": "https://www.cbc.ca/news/canada/montreal/canadiens-playoffs-1.7512583?cmp=rss",
     "category": "Sports"
   },
   {
@@ -396,13 +403,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Disappointed Flames come up short in bid for playoffs",
     "url": "https://www.cbc.ca/news/canada/calgary/disappointed-flames-come-up-short-in-bid-for-playoffs-1.7511667?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "The PWHL effect: Players expand their individual arsenals for international stage",
-    "url": "https://www.cbc.ca/sports/hockey/womens-hockey-world-championship-roundup-april11-czech-republic-1.7510580?cmp=rss",
     "category": "Sports"
   },
   {

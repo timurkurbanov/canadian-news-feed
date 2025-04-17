@@ -23,13 +23,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadiens finally clinch for playoffs after anxious week: 'Makes it feel better'",
-    "url": "https://www.cbc.ca/news/canada/montreal/canadiens-playoffs-1.7512583?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Soccer legend Marinette Pichon ready for next challenge with NSL's Montreal Roses",
     "url": "https://www.cbc.ca/sports/soccer/marinette-pichon-sporting-director-montreal-roses-fc-nsl-1.7513020?cmp=rss",
     "category": "Sports"
@@ -39,6 +32,20 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Finland, United States reach women's world hockey championship semifinals",
     "url": "https://www.cbc.ca/sports/hockey/womens-hockey-world-championship-roundup-april-17-czech-republic-1.7512700?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "One sad graphic that shows every Canadian team's Stanley Cup playoff run since 1994",
+    "url": "https://www.cbc.ca/news/canada/stanley-cup-canada-attempts-1.7225330?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadiens finally clinch for playoffs after anxious week: 'Makes it feel better'",
+    "url": "https://www.cbc.ca/news/canada/montreal/canadiens-playoffs-1.7512583?cmp=rss",
     "category": "Sports"
   },
   {
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Disappointed Flames come up short in bid for playoffs",
     "url": "https://www.cbc.ca/news/canada/calgary/disappointed-flames-come-up-short-in-bid-for-playoffs-1.7511667?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "The PWHL effect: Players expand their individual arsenals for international stage",
-    "url": "https://www.cbc.ca/sports/hockey/womens-hockey-world-championship-roundup-april11-czech-republic-1.7510580?cmp=rss",
     "category": "Sports"
   }
 ]
