@@ -2,15 +2,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Leaders debate: French event draws out spirited exchanges on pipelines, immigration — and Trump",
-    "url": "https://www.cbc.ca/news/politics/livestory/leaders-debate-french-event-draws-out-spirited-exchanges-on-pipelines-immigration-and-trump-9.6726360?cmp=rss",
+    "headline": "Front-runner Carney faces jabs from all sides at French-language debate",
+    "url": "https://www.cbc.ca/news/politics/french-language-debate-main-file-1.7512429?cmp=rss",
     "category": "Politics"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Front-runner Carney faces jabs from all sides at French-language debate",
-    "url": "https://www.cbc.ca/news/politics/french-language-debate-main-file-1.7512429?cmp=rss",
+    "headline": "7 notable moments from the French leaders' debate",
+    "url": "https://www.cbc.ca/news/politics/key-moments-french-debate-1.7512577?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "RECAP | French leaders’ debate draws out spirited exchanges on pipelines, immigration — and Trump",
+    "url": "https://www.cbc.ca/news/politics/livestory/recap-french-leaders-debate-draws-out-spirited-exchanges-on-pipelines-immigration-and-trump-9.6726360?cmp=rss",
     "category": "Politics"
   },
   {
@@ -415,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Partly Cloudy, 1.8°C",
+    "headline": "Current Conditions: Mostly Cloudy, 1.5°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
