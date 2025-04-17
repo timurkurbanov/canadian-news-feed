@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Candidates arrive for English debate with less than 2 weeks left in campaign",
+    "url": "https://www.cbc.ca/9.6728142?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "During leaders' debate, Carney praised a nuclear firm he bought while at Brookfield",
     "url": "https://www.cbc.ca/news/politics/during-leaders-debate-carney-praised-a-nuclear-firm-he-bought-while-at-brookfield-1.7513169?cmp=rss",
     "category": "Politics"
@@ -9,8 +16,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Right-wing media including Rebel News dominate post-debate news conferences",
+    "headline": "Debates commission unaware Rebel News registered as advocacy group, official says",
     "url": "https://www.cbc.ca/news/politics/rebel-news-rightwing-media-press-conferences-debates-1.7512714?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Former cabinet minister Ed Lumely dies",
+    "url": "https://www.cbc.ca/news/canada/ottawa/cornwall-ed-lumley-dies-1.7513400?cmp=rss",
     "category": "Politics"
   },
   {
@@ -116,20 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "First Nations leaders, candidates reach out to mobilize Indigenous voters",
     "url": "https://www.cbc.ca/news/canada/manitoba/indigenous-voters-candidates-1.7510069?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Quebec wants the next federal government to cut immigration. Businesses say not so fast",
-    "url": "https://www.cbc.ca/news/canada/montreal/quebec-federal-election-immigration-1.7510998?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Conservative MPs attack Carney for his work at Brookfield. They also invested in its companies",
-    "url": "https://www.cbc.ca/news/politics/canada-election-brookfield-corp-conservative-party-mp-investments-mark-carney-1.7511153?cmp=rss",
     "category": "Politics"
   }
 ]
