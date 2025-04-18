@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "5 things federal party leaders keep getting wrong",
+    "url": "https://www.cbc.ca/news/politics/election-2025-fact-checking-1.7513874?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Election campaign, debates will give voters something to chew on this long weekend",
     "url": "https://www.cbc.ca/news/politics/election-long-weekend-1.7512092?cmp=rss",
     "category": "Politics"
@@ -32,6 +39,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Affordability and Canadian security top of mind during English leaders' debate",
     "url": "https://www.cbc.ca/9.6728142?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "At Issue | Did the federal leaders’ debate change anything?",
+    "url": "https://www.cbc.ca/player/play/9.6728920?cmp=rss",
     "category": "Politics"
   },
   {
@@ -95,13 +109,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "RECAP | French leaders’ debate draws out spirited exchanges on pipelines, immigration — and Trump",
     "url": "https://www.cbc.ca/news/politics/livestory/recap-french-leaders-debate-draws-out-spirited-exchanges-on-pipelines-immigration-and-trump-9.6726360?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "At Issue | Who came off best in the French debate?",
-    "url": "https://www.cbc.ca/player/play/9.6727149?cmp=rss",
     "category": "Politics"
   },
   {
@@ -275,6 +282,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Malone, Mahlalela and other candidates for Canada Basketball's open coaching positions",
+    "url": "https://www.cbc.ca/sports/basketball/canada-basketball-coaching-candidates-1.7513981?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada scores 9 goals in rout over Japan in quarterfinal of women's world hockey championship",
     "url": "https://www.cbc.ca/sports/hockey/womens-hockey-world-championship-roundup-april-17-czech-republic-1.7512700?cmp=rss",
     "category": "Sports"
@@ -399,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Maple Leafs clinch division to set up Battle of Ontario playoff series vs. Senators",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/nhl-playoffs-canada-rdp-1.7511443?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -415,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, -0.1°C",
+    "headline": "Current Conditions: Mostly Cloudy, 2.4°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
