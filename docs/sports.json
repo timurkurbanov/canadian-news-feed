@@ -58,15 +58,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Wanderers fans give blood in exchange for ticket voucher to season opener",
+    "headline": "One sad graphic that shows every Canadian team's Stanley Cup playoff run since 1994",
+    "url": "https://www.cbc.ca/news/canada/stanley-cup-canada-attempts-1.7225330?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Halifax Wanderers fans give blood in exchange for ticket voucher to season opener",
     "url": "https://www.cbc.ca/news/canada/nova-scotia/wanderers-fans-blood-donations-ticket-voucher-season-opener-1.7512142?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "One sad graphic that shows every Canadian team's Stanley Cup playoff run since 1994",
-    "url": "https://www.cbc.ca/news/canada/stanley-cup-canada-attempts-1.7225330?cmp=rss",
+    "headline": "Carleton Place, Ont., bat maker takes a swing at torpedo trend",
+    "url": "https://www.cbc.ca/news/canada/ottawa/torpedo-bat-carleton-place-1.7511591?cmp=rss",
     "category": "Sports"
   },
   {
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "It's playoff time in the NBA — here are some Canadians to watch",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-nba-playoffs-canadians-to-watch-1.7511066?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Raptors president Masai Ujiri says club still working to get better after missing playoffs",
-    "url": "https://www.cbc.ca/sports/basketball/nba/masai-ujiri-raptors-president-season-wrap-1.7511970?cmp=rss",
     "category": "Sports"
   }
 ]
