@@ -9,15 +9,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Fractious debate sees federal leaders trade blows over Trump, Trudeau and the cost of living",
+    "headline": "Fractious debate sees leaders trade blows over Trump, Trudeau and the cost of living",
     "url": "https://www.cbc.ca/news/politics/english-leaders-debate-election-2025-1.7513834?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "During leaders' debate, Carney praised a nuclear firm he bought while at Brookfield",
-    "url": "https://www.cbc.ca/news/politics/during-leaders-debate-carney-praised-a-nuclear-firm-he-bought-while-at-brookfield-1.7513169?cmp=rss",
     "category": "Politics"
   },
   {
@@ -25,6 +18,20 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Debates commission unaware Rebel News registered as advocacy group, official says",
     "url": "https://www.cbc.ca/news/politics/rebel-news-rightwing-media-press-conferences-debates-1.7512714?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Impose a pipeline on Indigenous nations? Not so fast, say Indigenous rights lawyers",
+    "url": "https://www.cbc.ca/news/indigenous/leaders-french-debate-indigenous-pipelines-1.7513421?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "During leaders' debate, Carney praised a nuclear firm he bought while at Brookfield",
+    "url": "https://www.cbc.ca/news/politics/during-leaders-debate-carney-praised-a-nuclear-firm-he-bought-while-at-brookfield-1.7513169?cmp=rss",
     "category": "Politics"
   },
   {
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "I lean centre-left. But as a gun owner, I feel my only choice is the Conservatives",
     "url": "https://www.cbc.ca/news/canada/first-person-gun-owner-1.7504886?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Alberta separatists getting organized — a unity challenge for Canada and Danielle Smith's party",
-    "url": "https://www.cbc.ca/news/canada/calgary/alberta-separatism-danielle-smith-david-parker-analysis-1.7511192?cmp=rss",
     "category": "Politics"
   }
 ]
