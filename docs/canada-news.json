@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poilievre promises to scrap single-use plastics ban and bring back the plastic straw",
+    "url": "https://www.cbc.ca/news/politics/poilievre-scrap-plastics-ban-1.7514037?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "6 big moments and takeaways from the final leaders' debate",
     "url": "https://www.cbc.ca/news/politics/key-moments-english-leadership-debate-1.7513787?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Green Party dropped from leaders' debates for not running enough candidates",
     "url": "https://www.cbc.ca/news/politics/leaders-debate-commission-green-party-removed-1.7511447?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney expected to be top target in French-language leaders' debate",
-    "url": "https://www.cbc.ca/news/politics/french-debate-challenges-1.7511273?cmp=rss",
     "category": "Politics"
   },
   {
