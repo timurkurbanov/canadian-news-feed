@@ -30,6 +30,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "I want to buy Canadian, but can't always afford to. Cost of living is my election priority",
+    "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-first-person-crystal-maccormac-1.7510022?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Fractious debate sees leaders trade blows over Trump, Trudeau and the cost of living",
     "url": "https://www.cbc.ca/news/politics/english-leaders-debate-election-2025-1.7513834?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney expected to be top target in French-language leaders' debate",
     "url": "https://www.cbc.ca/news/politics/french-debate-challenges-1.7511273?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "What people with disabilities want to hear from party leaders in this election",
-    "url": "https://www.cbc.ca/news/politics/elections-disabilities-vote-1.7511654?cmp=rss",
     "category": "Politics"
   },
   {
