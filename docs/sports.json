@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Damian Warner turns the page on Paris and gets ready to chase an 'elusive' world title",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/athletics-decathlon-damian-warner-turning-the-page-world-championships-1.7511854?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Malone, Mahlalela and other candidates for Canada Basketball's open coaching positions",
     "url": "https://www.cbc.ca/sports/basketball/canada-basketball-coaching-candidates-1.7513981?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "'Seriously broken' — Paige Bueckers's new salary a reminder how little WNBA players earn",
     "url": "https://www.cbc.ca/news/world/wnba-draft-salary-paige-bueckers-1.7511522?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Andreescu returns to WTA Tour from long absence, loses in 3rd-set tiebreaker",
-    "url": "https://www.cbc.ca/sports/tennis/bianca-andreescu-tennis-return-wta-tour-open-de-rouen-1.7511680?cmp=rss",
     "category": "Sports"
   }
 ]
