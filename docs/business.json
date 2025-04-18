@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Hudson's Bay looks to auction off royal charter that launched company 355 years ago",
+    "url": "https://www.cbc.ca/news/canada/manitoba/hudsons-bay-royal-charter-auction-1.7514048?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian airlines revamp offerings as travellers ditch U.S. vacations",
     "url": "https://www.cbc.ca/news/canada/calgary/canadian-airlines-revamp-offerings-as-travellers-ditch-u-s-vacations-1.7512343?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Rising Canada recession risk to trigger at least 2 more rate cuts this year, economists predict",
     "url": "https://www.cbc.ca/news/business/canada-recession-risk-1.7509434?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'Asleep at the wheel': Michigan city braces for impact of Trump's tariffs",
-    "url": "https://www.cbc.ca/news/canada/windsor/michigan-city-braces-for-trump-tariff-1.7509450?cmp=rss",
     "category": "Business"
   }
 ]
