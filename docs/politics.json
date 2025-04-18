@@ -2,6 +2,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Election campaign, debates will give voters something to chew on this long weekend",
+    "url": "https://www.cbc.ca/news/politics/election-long-weekend-1.7512092?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Advance polls open across the country Friday morning",
+    "url": "https://www.cbc.ca/news/politics/advance-polling-begins-1.7513017?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Fractious debate sees leaders trade blows over Trump, Trudeau and the cost of living",
     "url": "https://www.cbc.ca/news/politics/english-leaders-debate-election-2025-1.7513834?cmp=rss",
     "category": "Politics"
@@ -116,20 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What people with disabilities want to hear from party leaders in this election",
     "url": "https://www.cbc.ca/news/politics/elections-disabilities-vote-1.7511654?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Bank of Canada holds interest rate at 2.75%, says trade war could cause a recession",
-    "url": "https://www.cbc.ca/news/business/boc-interest-rate-april-1.7511457?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Nearly 900,000 fewer people went to the U.S. in March as cross-border travel plummets",
-    "url": "https://www.cbc.ca/news/politics/cross-border-trips-us-900-thousand-1.7511090?cmp=rss",
     "category": "Politics"
   }
 ]

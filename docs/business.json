@@ -2,6 +2,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadian airlines revamp offerings as travellers ditch U.S. vacations",
+    "url": "https://www.cbc.ca/news/canada/calgary/canadian-airlines-revamp-offerings-as-travellers-ditch-u-s-vacations-1.7512343?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'No options' on tariffs without more time, says company importing from U.S.",
+    "url": "https://www.cbc.ca/news/business/canada-tariffs-hurt-manufacturer-1.7513049?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Tax documents missing? A new CRA process is still posing issues as filing deadline approaches",
     "url": "https://www.cbc.ca/news/business/missing-tax-documents-1.7512795?cmp=rss",
     "category": "Business"
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "'Asleep at the wheel': Michigan city braces for impact of Trump's tariffs",
     "url": "https://www.cbc.ca/news/canada/windsor/michigan-city-braces-for-trump-tariff-1.7509450?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Are you paying more than before to buy Canadian? Experts say it's complicated",
-    "url": "https://www.cbc.ca/news/marketplace/are-you-paying-more-than-before-to-buy-canadian-experts-say-it-s-complicated-1.7508107?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump administration to exclude smartphones and computers from latest tariffs",
-    "url": "https://www.cbc.ca/news/world/trump-electronics-retaliatory-tariffs-exemption-1.7508923?cmp=rss",
     "category": "Business"
   }
 ]
