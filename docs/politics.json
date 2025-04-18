@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "6 big moments and takeaways from the final leaders' debate",
+    "url": "https://www.cbc.ca/news/politics/key-moments-english-leadership-debate-1.7513787?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Fractious debate sees leaders trade blows over Trump, Trudeau and the cost of living",
     "url": "https://www.cbc.ca/news/politics/english-leaders-debate-election-2025-1.7513834?cmp=rss",
     "category": "Politics"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Nearly 900,000 fewer people went to the U.S. in March as cross-border travel plummets",
     "url": "https://www.cbc.ca/news/politics/cross-border-trips-us-900-thousand-1.7511090?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "I lean centre-left. But as a gun owner, I feel my only choice is the Conservatives",
-    "url": "https://www.cbc.ca/news/canada/first-person-gun-owner-1.7504886?cmp=rss",
     "category": "Politics"
   }
 ]
