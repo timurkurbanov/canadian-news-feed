@@ -37,6 +37,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'Fun stuff starts now': Maple Leafs turn attention to Senators in Battle of Ontario playoff series",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/maple-leafs-senators-battle-of-ontario-lookahead-1.7513992?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Quinn's landmark goal helps Vancouver Rise top Calgary Wild in Northern Super League's inaugural match",
     "url": "https://www.cbc.ca/sports/soccer/northern-super-league-calgary-vancouver-april-16-1.7511740?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Andreescu returns to WTA Tour from long absence, loses in 3rd-set tiebreaker",
     "url": "https://www.cbc.ca/sports/tennis/bianca-andreescu-tennis-return-wta-tour-open-de-rouen-1.7511680?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "It's playoff time in the NBA — here are some Canadians to watch",
-    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-nba-playoffs-canadians-to-watch-1.7511066?cmp=rss",
     "category": "Sports"
   }
 ]
