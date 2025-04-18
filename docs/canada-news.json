@@ -324,6 +324,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Wanderers fans give blood in exchange for ticket voucher to season opener",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/wanderers-fans-blood-donations-ticket-voucher-season-opener-1.7512142?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "One sad graphic that shows every Canadian team's Stanley Cup playoff run since 1994",
     "url": "https://www.cbc.ca/news/canada/stanley-cup-canada-attempts-1.7225330?cmp=rss",
     "category": "Sports"
@@ -399,13 +406,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Road through Western Conference to Stanley Cup final is 'war of attrition'",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/stanley-cup-playoff-preview-western-conference-2025-1.7511897?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -415,7 +415,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Partly Cloudy, -0.5°C",
+    "headline": "Current Conditions: Mostly Cloudy, -0.1°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
