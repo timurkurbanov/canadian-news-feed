@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "PWHL chooses Vancouver as 1st expansion city with 2nd market to be determined: reports",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-vancouver-1st-expansion-1.7514088?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Damian Warner turns the page on Paris and gets ready to chase an 'elusive' world title",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/athletics-decathlon-damian-warner-turning-the-page-world-championships-1.7511854?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "All-Montreal Victoire line in the spotlight for Canada at women's hockey worlds",
     "url": "https://www.cbc.ca/sports/hockey/canada-victoire-top-line-quarterfinals-worlds-2025-1.7511891?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "SailGP announces high-speed race will return to Halifax in 2026",
-    "url": "https://www.cbc.ca/news/canada/nova-scotia/sailgp-halifax-2026-1.7511603?cmp=rss",
     "category": "Sports"
   }
 ]
