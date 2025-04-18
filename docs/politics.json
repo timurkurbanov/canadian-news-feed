@@ -9,15 +9,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "6 big moments and takeaways from the final leaders' debate",
-    "url": "https://www.cbc.ca/news/politics/key-moments-english-leadership-debate-1.7513787?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Election campaign, debates will give voters something to chew on this long weekend",
-    "url": "https://www.cbc.ca/news/politics/election-long-weekend-1.7512092?cmp=rss",
+    "headline": "Leaders' debate likely won't influence most people's votes, Vote Compass data suggests",
+    "url": "https://www.cbc.ca/news/politics/english-debate-vote-compass-1.7514070?cmp=rss",
     "category": "Politics"
   },
   {
@@ -32,6 +25,20 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "5 things federal party leaders keep getting wrong",
     "url": "https://www.cbc.ca/news/politics/election-2025-fact-checking-1.7513874?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "6 big moments and takeaways from the final leaders' debate",
+    "url": "https://www.cbc.ca/news/politics/key-moments-english-leadership-debate-1.7513787?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Election campaign, debates will give voters something to chew on this long weekend",
+    "url": "https://www.cbc.ca/news/politics/election-long-weekend-1.7512092?cmp=rss",
     "category": "Politics"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "I didn't vote for 21 years. Trump's attacks on my homeland and Canada changed everything",
     "url": "https://www.cbc.ca/news/canada/montreal/first-person-voting-first-time-1.7511826?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Green Party dropped from leaders' debates for not running enough candidates",
-    "url": "https://www.cbc.ca/news/politics/leaders-debate-commission-green-party-removed-1.7511447?cmp=rss",
     "category": "Politics"
   }
 ]
