@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Expectations soar for Jets as playoffs set to start versus Blues",
+    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-st-louis-blues-nhl-playoffs-1.7514133?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Malone, Mahlalela and other candidates for Canada Basketball's open coaching positions",
     "url": "https://www.cbc.ca/sports/basketball/canada-basketball-coaching-candidates-1.7513981?cmp=rss",
     "category": "Sports"
@@ -51,6 +58,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'Proud cities, proud franchises': Leafs, Sens ready to reignite Battle of Ontario",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/maple-leafs-senators-battle-of-ontario-lookahead-1.7513992?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What to watch this long weekend in sports",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-long-weekend-sports-preview-april17-1.7513549?cmp=rss",
     "category": "Sports"
@@ -60,13 +74,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "De Grasse's Grand Slam Track participation a signal that it's worth answering the series' call",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/morgan-campbell-grand-slam-track-miami-andre-degrasse-1.7512427?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'Proud cities, proud franchises': Leafs, Sens ready to reignite Battle of Ontario",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/maple-leafs-senators-battle-of-ontario-lookahead-1.7513992?cmp=rss",
     "category": "Sports"
   },
   {
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Oilers captain McDavid reaches 100-point milestone for 8th time, 5th straight season",
     "url": "https://www.cbc.ca/sports/hockey/nhl/connor-mcdavid-100-point-milestone-nhl-oilers-1.7512956?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Emotional Christine Sinclair says inaugural NSL season 'beginning of bigger and brighter things'",
-    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-inaugural-season-christine-sinclair-1.7511575?cmp=rss",
     "category": "Sports"
   }
 ]
