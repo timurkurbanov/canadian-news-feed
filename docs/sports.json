@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "AFC Toronto looks to turns nerves into excitement for opening NSL game at BMO Field",
+    "url": "https://www.cbc.ca/sports/soccer/afc-toronto-nsl-opening-game-1.7514114?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Damian Warner turns the page on Paris and gets ready to chase an 'elusive' world title",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/athletics-decathlon-damian-warner-turning-the-page-world-championships-1.7511854?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Emotional Christine Sinclair says inaugural NSL season 'beginning of bigger and brighter things'",
     "url": "https://www.cbc.ca/sports/soccer/northern-super-league-inaugural-season-christine-sinclair-1.7511575?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "All-Montreal Victoire line in the spotlight for Canada at women's hockey worlds",
-    "url": "https://www.cbc.ca/sports/hockey/canada-victoire-top-line-quarterfinals-worlds-2025-1.7511891?cmp=rss",
     "category": "Sports"
   }
 ]

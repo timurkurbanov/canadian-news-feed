@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Mark Carney and Pierre Poilievre see very different threats to Canada",
+    "url": "https://www.cbc.ca/news/politics/carney-poilievre-debate-trump-analysis-1.7514109?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre promises to scrap single-use plastics ban and bring back the plastic straw",
     "url": "https://www.cbc.ca/news/politics/poilievre-scrap-plastics-ban-1.7514037?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "RECAP | French leaders’ debate draws out spirited exchanges on pipelines, immigration — and Trump",
     "url": "https://www.cbc.ca/news/politics/livestory/recap-french-leaders-debate-draws-out-spirited-exchanges-on-pipelines-immigration-and-trump-9.6726360?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "I didn't vote for 21 years. Trump's attacks on my homeland and Canada changed everything",
-    "url": "https://www.cbc.ca/news/canada/montreal/first-person-voting-first-time-1.7511826?cmp=rss",
     "category": "Politics"
   }
 ]
