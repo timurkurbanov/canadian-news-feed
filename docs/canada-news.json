@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Long lines at polling stations as Canadians turn up for advance voting",
+    "url": "https://www.cbc.ca/news/canada/long-lines-advance-voting-1.7514157?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre promises to scrap single-use plastics ban and bring back the plastic straw",
     "url": "https://www.cbc.ca/news/politics/poilievre-scrap-plastics-ban-1.7514037?cmp=rss",
     "category": "Politics"
@@ -18,13 +25,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Leaders' debate likely won't influence most people's votes, Vote Compass data suggests",
     "url": "https://www.cbc.ca/news/politics/english-debate-vote-compass-1.7514070?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Advance polls open across the country Friday morning",
-    "url": "https://www.cbc.ca/news/politics/advance-polling-begins-1.7513017?cmp=rss",
     "category": "Politics"
   },
   {
@@ -60,6 +60,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Fractious debate sees leaders trade blows over Trump, Trudeau and the cost of living",
     "url": "https://www.cbc.ca/news/politics/english-leaders-debate-election-2025-1.7513834?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Advance polls open across the country Friday morning",
+    "url": "https://www.cbc.ca/news/politics/advance-polling-begins-1.7513017?cmp=rss",
     "category": "Politics"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "7 notable moments from the French leaders' debate",
     "url": "https://www.cbc.ca/news/politics/key-moments-french-debate-1.7512577?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "RECAP | French leaders’ debate draws out spirited exchanges on pipelines, immigration — and Trump",
-    "url": "https://www.cbc.ca/news/politics/livestory/recap-french-leaders-debate-draws-out-spirited-exchanges-on-pipelines-immigration-and-trump-9.6726360?cmp=rss",
     "category": "Politics"
   },
   {
