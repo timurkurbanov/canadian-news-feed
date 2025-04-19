@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "NDP wealth tax would raise $94.5B, pay for worker tax cut and health-care improvements",
+    "url": "https://www.cbc.ca/news/politics/ndp-wealth-tax-would-raise-94-5b-pay-for-worker-tax-cut-and-health-care-improvements-1.7514340?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Liberal platform promises $130B in new measures over 4 years, adding $225B to federal debt",
     "url": "https://www.cbc.ca/news/politics/liberal-platform-promises-130b-in-new-measures-over-4-years-adding-225b-to-federal-debt-1.7514272?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Debates commission unaware Rebel News registered as advocacy group, official says",
     "url": "https://www.cbc.ca/news/politics/rebel-news-rightwing-media-press-conferences-debates-1.7512714?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Impose a pipeline on Indigenous nations? Not so fast, say Indigenous rights lawyers",
-    "url": "https://www.cbc.ca/news/indigenous/leaders-french-debate-indigenous-pipelines-1.7513421?cmp=rss",
     "category": "Politics"
   },
   {
@@ -282,15 +282,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Racing at 'new level,' Canada's Rory Linkletter aims for career-best marathon in Boston",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/rory-linkletter-2025-boston-marathon-preview-1.7514033?cmp=rss",
+    "headline": "Poulin breaks Wickenheiser's Canadian record for career points in women's world championships",
+    "url": "https://www.cbc.ca/sports/olympics/winter/hockey/womens-world-championships-semifinals-apirl-19-1.7514327?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "U.S. edges Czechs to reach final at women's hockey worlds",
-    "url": "https://www.cbc.ca/sports/olympics/winter/hockey/womens-world-championships-semifinals-apirl-19-1.7514327?cmp=rss",
+    "headline": "Racing at 'new level,' Canada's Rory Linkletter aims for career-best marathon in Boston",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/rory-linkletter-2025-boston-marathon-preview-1.7514033?cmp=rss",
     "category": "Sports"
   },
   {
@@ -340,6 +340,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Malone, Mahlalela and other candidates for Canada Basketball's open coaching positions",
     "url": "https://www.cbc.ca/sports/basketball/canada-basketball-coaching-candidates-1.7513981?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Rangers fire coach Peter Laviolette after missing playoffs, underachieving season",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/ducks-fire-coach-greg-cronin-1.7514318?cmp=rss",
     "category": "Sports"
   },
   {
@@ -401,13 +408,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Rangers fire coach Peter Laviolette after missing playoffs, underachieving season",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/ducks-fire-coach-greg-cronin-1.7514318?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Get to know each of the Northern Super League clubs",
     "url": "https://www.cbc.ca/sports/soccer/northern-super-league-team-capsules-1.7510594?cmp=rss",
     "category": "Sports"
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 18.7°C",
+    "headline": "Current Conditions: Cloudy, 19.9°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

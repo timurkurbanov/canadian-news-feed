@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "NDP wealth tax would raise $94.5B, pay for worker tax cut and health-care improvements",
+    "url": "https://www.cbc.ca/news/politics/ndp-wealth-tax-would-raise-94-5b-pay-for-worker-tax-cut-and-health-care-improvements-1.7514340?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Liberal platform promises $130B in new measures over 4 years, adding $225B to federal debt",
     "url": "https://www.cbc.ca/news/politics/liberal-platform-promises-130b-in-new-measures-over-4-years-adding-225b-to-federal-debt-1.7514272?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Debates commission unaware Rebel News registered as advocacy group, official says",
     "url": "https://www.cbc.ca/news/politics/rebel-news-rightwing-media-press-conferences-debates-1.7512714?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Impose a pipeline on Indigenous nations? Not so fast, say Indigenous rights lawyers",
-    "url": "https://www.cbc.ca/news/indigenous/leaders-french-debate-indigenous-pipelines-1.7513421?cmp=rss",
     "category": "Politics"
   }
 ]
