@@ -2,6 +2,41 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Trump is demanding universities change policies or face defunding. Would Poilievre do the same?",
+    "url": "https://www.cbc.ca/news/politics/poilievre-trump-univrersities-defund-1.7512547?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Rebel News owner Ezra Levant was 'mentor' to Poilievre, says author",
+    "url": "https://www.cbc.ca/news/politics/levant-rebel-poilievre-1.7514216?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "As foreign actors work to influence Canada's election, how safe is your vote?",
+    "url": "https://www.cbc.ca/news/politics/how-safe-is-your-vote-podcast-1.7513127?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "How will the parties pay for their promises? Why costed platforms are important",
+    "url": "https://www.cbc.ca/news/politics/costed-platforms-1.7514108?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "From salt in food to transfer payments: Here's what Ottawa has power over when it comes to your health",
+    "url": "https://www.cbc.ca/radio/the-dose/federal-government-health-care-1.7513495?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Mark Carney and Pierre Poilievre see very different threats to Canada",
     "url": "https://www.cbc.ca/news/politics/carney-poilievre-debate-trump-analysis-1.7514109?cmp=rss",
     "category": "Politics"
@@ -102,41 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "During leaders' debate, Carney praised a nuclear firm he bought while at Brookfield",
     "url": "https://www.cbc.ca/news/politics/during-leaders-debate-carney-praised-a-nuclear-firm-he-bought-while-at-brookfield-1.7513169?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Former cabinet minister Ed Lumely dies",
-    "url": "https://www.cbc.ca/news/canada/ottawa/cornwall-ed-lumley-dies-1.7513400?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada Votes 2025: How to follow the federal leaders' debates",
-    "url": "https://www.cbc.ca/news/politics/watch-leaders-debate-2025-1.7506796?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Front-runner Carney faces jabs from all sides at French-language debate",
-    "url": "https://www.cbc.ca/news/politics/french-language-debate-main-file-1.7512429?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "For Conservatives to take the election, these GTA ridings are must-wins",
-    "url": "https://www.cbc.ca/news/canada/toronto/canada-election-gta-905-greater-toronto-area-target-ridings-1.7512080?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "7 notable moments from the French leaders' debate",
-    "url": "https://www.cbc.ca/news/politics/key-moments-french-debate-1.7512577?cmp=rss",
     "category": "Politics"
   }
 ]
