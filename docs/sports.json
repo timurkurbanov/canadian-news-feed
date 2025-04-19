@@ -58,6 +58,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "2026 women's hockey worlds to be held 2 months after Milan-Cortina Olympics",
+    "url": "https://www.cbc.ca/sports/olympics/winter/hockey/womens-world-championships-returns-to-april-in-olympic-year-1.7514040?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "'Proud cities, proud franchises': Leafs, Sens ready to reignite Battle of Ontario",
     "url": "https://www.cbc.ca/sports/hockey/nhl/maple-leafs-senators-battle-of-ontario-lookahead-1.7513992?cmp=rss",
     "category": "Sports"
@@ -72,13 +79,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "2026 women's hockey worlds to be held 2 months after Milan-Cortina Olympics",
-    "url": "https://www.cbc.ca/sports/olympics/winter/hockey/womens-world-championships-returns-to-april-in-olympic-year-1.7514040?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Quinn's landmark goal helps Vancouver Rise top Calgary Wild in Northern Super League's inaugural match",
     "url": "https://www.cbc.ca/sports/soccer/northern-super-league-calgary-vancouver-april-16-1.7511740?cmp=rss",
     "category": "Sports"
@@ -86,15 +86,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada coach Jesse Marsch handed 2-game ban by CONCACAF Disciplinary Committee",
-    "url": "https://www.cbc.ca/sports/soccer/jesse-marsch-2-game-suspension-1.7513725?cmp=rss",
+    "headline": "Soccer legend Marinette Pichon ready for next challenge with NSL's Montreal Roses",
+    "url": "https://www.cbc.ca/sports/soccer/marinette-pichon-sporting-director-montreal-roses-fc-nsl-1.7513020?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Soccer legend Marinette Pichon ready for next challenge with NSL's Montreal Roses",
-    "url": "https://www.cbc.ca/sports/soccer/marinette-pichon-sporting-director-montreal-roses-fc-nsl-1.7513020?cmp=rss",
+    "headline": "Canada coach Jesse Marsch handed 2-game ban by CONCACAF Disciplinary Committee",
+    "url": "https://www.cbc.ca/sports/soccer/jesse-marsch-2-game-suspension-1.7513725?cmp=rss",
     "category": "Sports"
   },
   {
