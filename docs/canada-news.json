@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Liberal platform promises $130B in new spending over 4 years, adding $225B to federal debt",
+    "url": "https://www.cbc.ca/news/politics/liberal-platform-promises-130b-in-new-spending-over-4-years-adding-225b-to-federal-debt-1.7514272?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Trump is demanding universities change policies or face defunding. Would Poilievre do the same?",
     "url": "https://www.cbc.ca/news/politics/poilievre-trump-univrersities-defund-1.7512547?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Impose a pipeline on Indigenous nations? Not so fast, say Indigenous rights lawyers",
     "url": "https://www.cbc.ca/news/indigenous/leaders-french-debate-indigenous-pipelines-1.7513421?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "During leaders' debate, Carney praised a nuclear firm he bought while at Brookfield",
-    "url": "https://www.cbc.ca/news/politics/during-leaders-debate-carney-praised-a-nuclear-firm-he-bought-while-at-brookfield-1.7513169?cmp=rss",
     "category": "Politics"
   },
   {
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 12.5°C",
+    "headline": "Current Conditions: Mostly Cloudy, 13.2°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
