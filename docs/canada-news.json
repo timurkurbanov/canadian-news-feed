@@ -303,15 +303,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Damian Warner turns the page on Paris and gets ready to chase an 'elusive' world title",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/athletics-decathlon-damian-warner-turning-the-page-world-championships-1.7511854?cmp=rss",
+    "headline": "De Grasse's Grand Slam Track participation a signal that it's worth answering the series' call",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/morgan-campbell-grand-slam-track-miami-andre-degrasse-1.7512427?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Malone, Mahlalela and other candidates for Canada Basketball's open coaching positions",
-    "url": "https://www.cbc.ca/sports/basketball/canada-basketball-coaching-candidates-1.7513981?cmp=rss",
+    "headline": "Damian Warner turns the page on Paris and gets ready to chase an 'elusive' world title",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/athletics-decathlon-damian-warner-turning-the-page-world-championships-1.7511854?cmp=rss",
     "category": "Sports"
   },
   {
@@ -324,8 +324,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Emotional Christine Sinclair says inaugural NSL season 'beginning of bigger and brighter things'",
-    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-inaugural-season-christine-sinclair-1.7511575?cmp=rss",
+    "headline": "Malone, Mahlalela and other candidates for Canada Basketball's open coaching positions",
+    "url": "https://www.cbc.ca/sports/basketball/canada-basketball-coaching-candidates-1.7513981?cmp=rss",
     "category": "Sports"
   },
   {
@@ -338,8 +338,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "De Grasse's Grand Slam Track participation a signal that it's worth answering the series' call",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/morgan-campbell-grand-slam-track-miami-andre-degrasse-1.7512427?cmp=rss",
+    "headline": "Emotional Christine Sinclair says inaugural NSL season 'beginning of bigger and brighter things'",
+    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-inaugural-season-christine-sinclair-1.7511575?cmp=rss",
     "category": "Sports"
   },
   {
@@ -387,6 +387,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ducks fire head coach Greg Cronin after 2 seasons",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/ducks-fire-coach-greg-cronin-1.7514318?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Get to know each of the Northern Super League clubs",
     "url": "https://www.cbc.ca/sports/soccer/northern-super-league-team-capsules-1.7510594?cmp=rss",
     "category": "Sports"
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "One sad graphic that shows every Canadian team's Stanley Cup playoff run since 1994",
-    "url": "https://www.cbc.ca/news/canada/stanley-cup-canada-attempts-1.7225330?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 15.4°C",
+    "headline": "Current Conditions: Mostly Cloudy, 17.2°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
