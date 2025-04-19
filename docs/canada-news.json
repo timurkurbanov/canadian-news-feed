@@ -282,6 +282,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Racing at 'new level,' Canada's Rory Linkletter aims for career-best marathon in Boston",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/rory-linkletter-2025-boston-marathon-preview-1.7514033?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What to watch this long weekend in sports",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-long-weekend-sports-preview-april17-1.7513549?cmp=rss",
     "category": "Sports"
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Halifax Wanderers fans give blood in exchange for ticket voucher to season opener",
-    "url": "https://www.cbc.ca/news/canada/nova-scotia/wanderers-fans-blood-donations-ticket-voucher-season-opener-1.7512142?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 11.9°C",
+    "headline": "Current Conditions: Mostly Cloudy, 12.5°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
