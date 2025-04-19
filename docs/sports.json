@@ -37,8 +37,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "New PWHL Players Association director aims to keep raising bar for players",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhlpa-new-executive-director-malaika-underwood-1.7511121?cmp=rss",
+    "headline": "Emotional Christine Sinclair says inaugural NSL season 'beginning of bigger and brighter things'",
+    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-inaugural-season-christine-sinclair-1.7511575?cmp=rss",
     "category": "Sports"
   },
   {
@@ -46,6 +46,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "De Grasse's Grand Slam Track participation a signal that it's worth answering the series' call",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/morgan-campbell-grand-slam-track-miami-andre-degrasse-1.7512427?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "New PWHL Players Association director aims to keep raising bar for players",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhlpa-new-executive-director-malaika-underwood-1.7511121?cmp=rss",
     "category": "Sports"
   },
   {
@@ -86,6 +93,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Get to know each of the Northern Super League clubs",
+    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-team-capsules-1.7510594?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Soccer legend Marinette Pichon ready for next challenge with NSL's Montreal Roses",
     "url": "https://www.cbc.ca/sports/soccer/marinette-pichon-sporting-director-montreal-roses-fc-nsl-1.7513020?cmp=rss",
     "category": "Sports"
@@ -107,29 +121,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "All-Montreal Victoire line in the spotlight for Canada at women's hockey worlds",
+    "url": "https://www.cbc.ca/sports/hockey/canada-victoire-top-line-quarterfinals-worlds-2025-1.7511891?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Halifax Wanderers fans give blood in exchange for ticket voucher to season opener",
     "url": "https://www.cbc.ca/news/canada/nova-scotia/wanderers-fans-blood-donations-ticket-voucher-season-opener-1.7512142?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carleton Place, Ont., bat maker takes a swing at torpedo trend",
-    "url": "https://www.cbc.ca/news/canada/ottawa/torpedo-bat-carleton-place-1.7511591?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadiens finally clinch for playoffs after anxious week: 'Makes it feel better'",
-    "url": "https://www.cbc.ca/news/canada/montreal/canadiens-playoffs-1.7512583?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Oilers captain McDavid reaches 100-point milestone for 8th time, 5th straight season",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/connor-mcdavid-100-point-milestone-nhl-oilers-1.7512956?cmp=rss",
     "category": "Sports"
   }
 ]
