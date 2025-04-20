@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Tariffs threaten cross-border family business where Canadians collect their U.S. packages",
+    "url": "https://www.cbc.ca/news/canada/montreal/tariffs-halfway-house-freight-forwarding-1.7513601?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Hudson's Bay looks to auction off royal charter that launched company 355 years ago",
     "url": "https://www.cbc.ca/news/canada/manitoba/hudsons-bay-royal-charter-auction-1.7514048?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Mark Zuckerberg takes stand at antitrust trial into Meta's purchase of Instagram, WhatsApp",
     "url": "https://www.cbc.ca/news/business/meta-court-monopoly-1.7509525?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Rising Canada recession risk to trigger at least 2 more rate cuts this year, economists predict",
-    "url": "https://www.cbc.ca/news/business/canada-recession-risk-1.7509434?cmp=rss",
     "category": "Business"
   }
 ]
