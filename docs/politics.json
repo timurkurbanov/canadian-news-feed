@@ -2,6 +2,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Conservatives say a suspicious document was made to sway prisoners against them. We looked into it",
+    "url": "https://www.cbc.ca/news/canada/alleged-prison-document-faked-1.7513211?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poilievre says costed platform is coming 'soon,' becoming last leader to release a plan",
+    "url": "https://www.cbc.ca/news/politics/poilievre-no-platform-yet-1.7514480?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Elections Canada announces record turnout on 1st day of advance voting",
     "url": "https://www.cbc.ca/news/politics/elections-canada-record-turnout-first-day-advance-voting-1.7514390?cmp=rss",
     "category": "Politics"
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Advance polls open across the country Friday morning",
     "url": "https://www.cbc.ca/news/politics/advance-polling-begins-1.7513017?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Affordability and Canadian security top of mind during English leaders' debate",
-    "url": "https://www.cbc.ca/9.6728142?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "At Issue | Did the federal leaders’ debate change anything?",
-    "url": "https://www.cbc.ca/player/play/9.6728920?cmp=rss",
     "category": "Politics"
   }
 ]
