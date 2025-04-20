@@ -289,6 +289,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Connor's late goal fuels Jets to 5-3 win over Blues in playoff opener",
+    "url": "https://www.cbc.ca/news/canada/manitoba/nhl-playoffs-winnipeg-jets-win-st-louis-blues-1.7514464?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "A Maple Leafs fan's (cautiously) optimistic guide to the playoffs",
     "url": "https://www.cbc.ca/news/canada/toronto/toronto-maple-leafs-ottawa-senators-playoffs-nhl-1.7513229?cmp=rss",
     "category": "Sports"
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Quinn's landmark goal helps Vancouver Rise top Calgary Wild in Northern Super League's inaugural match",
-    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-calgary-vancouver-april-16-1.7511740?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Partly Cloudy, 3.1°C",
+    "headline": "Current Conditions: Mainly Sunny, 4.1°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
