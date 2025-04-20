@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "A Maple Leafs fan's (cautiously) optimistic guide to the playoffs",
+    "url": "https://www.cbc.ca/news/canada/toronto/toronto-maple-leafs-ottawa-senators-playoffs-nhl-1.7513229?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Montreal Roses hold on to edge AFC Toronto in second outing for Northern Super League",
     "url": "https://www.cbc.ca/sports/soccer/northern-super-league-montreal-toronto-april-19-1.7514281?cmp=rss",
     "category": "Sports"
@@ -18,13 +25,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Connor's late goal fuels Jets to 5-3 win over Blues in playoff opener",
     "url": "https://www.cbc.ca/news/canada/manitoba/nhl-playoffs-winnipeg-jets-win-st-louis-blues-1.7514464?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "A Maple Leafs fan's (cautiously) optimistic guide to the playoffs",
-    "url": "https://www.cbc.ca/news/canada/toronto/toronto-maple-leafs-ottawa-senators-playoffs-nhl-1.7513229?cmp=rss",
     "category": "Sports"
   },
   {
@@ -44,15 +44,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Damian Warner turns the page on Paris and gets ready to chase an 'elusive' world title",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/athletics-decathlon-damian-warner-turning-the-page-world-championships-1.7511854?cmp=rss",
+    "headline": "New PWHL Players Association director aims to keep raising bar for players",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhlpa-new-executive-director-malaika-underwood-1.7511121?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "New PWHL Players Association director aims to keep raising bar for players",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhlpa-new-executive-director-malaika-underwood-1.7511121?cmp=rss",
+    "headline": "Damian Warner turns the page on Paris and gets ready to chase an 'elusive' world title",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/athletics-decathlon-damian-warner-turning-the-page-world-championships-1.7511854?cmp=rss",
     "category": "Sports"
   },
   {
