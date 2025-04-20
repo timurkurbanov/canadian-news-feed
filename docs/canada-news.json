@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poilievre dodges questions about repealing national handgun ban",
+    "url": "https://www.cbc.ca/news/politics/poilievre-handgun-ban-1.7514585?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Mark Carney lays out his plan for 'the biggest crisis of our lifetimes'",
     "url": "https://www.cbc.ca/news/politics/mark-carney-lays-out-his-plan-for-the-biggest-crisis-of-our-lifetimes-1.7514504?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Leaders' debate likely won't influence most people's votes, Vote Compass data suggests",
     "url": "https://www.cbc.ca/news/politics/english-debate-vote-compass-1.7514070?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "5 things federal party leaders keep getting wrong",
-    "url": "https://www.cbc.ca/news/politics/election-2025-fact-checking-1.7513874?cmp=rss",
     "category": "Politics"
   },
   {
@@ -282,6 +282,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Janecke scores in overtime as U.S. beats Canada to win gold at women's hockey worlds",
+    "url": "https://www.cbc.ca/sports/olympics/winter/hockey/canada-united-states-women-hockey-worlds-final-2025-1.7514528?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Racing at 'new level,' Canada's Rory Linkletter aims for career-best marathon in Boston",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/rory-linkletter-2025-boston-marathon-preview-1.7514033?cmp=rss",
     "category": "Sports"
@@ -403,13 +410,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada scores 9 goals in rout over Japan in quarterfinal of women's world hockey championship",
     "url": "https://www.cbc.ca/sports/hockey/womens-hockey-world-championship-roundup-april-17-czech-republic-1.7512700?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Quinn's landmark goal helps Vancouver Rise top Calgary Wild in Northern Super League's inaugural match",
-    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-calgary-vancouver-april-16-1.7511740?cmp=rss",
     "category": "Sports"
   },
   {
