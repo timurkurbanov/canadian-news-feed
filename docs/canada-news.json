@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Advance voting continues as Poilievre accuses Carney of 'printing money'",
+    "url": "https://www.cbc.ca/news/politics/day-3-advance-voting-federal-election-1.7514561?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Mark Carney lays out his plan for 'the biggest crisis of our lifetimes'",
     "url": "https://www.cbc.ca/news/politics/mark-carney-lays-out-his-plan-for-the-biggest-crisis-of-our-lifetimes-1.7514504?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "5 things federal party leaders keep getting wrong",
     "url": "https://www.cbc.ca/news/politics/election-2025-fact-checking-1.7513874?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "6 big moments and takeaways from the final leaders' debate",
-    "url": "https://www.cbc.ca/news/politics/key-moments-english-leadership-debate-1.7513787?cmp=rss",
     "category": "Politics"
   },
   {
@@ -282,6 +282,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Racing at 'new level,' Canada's Rory Linkletter aims for career-best marathon in Boston",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/rory-linkletter-2025-boston-marathon-preview-1.7514033?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Northern Super League's opening week gets positive reviews but more hard work awaits",
     "url": "https://www.cbc.ca/sports/soccer/northern-super-league-opening-week-1.7514563?cmp=rss",
     "category": "Sports"
@@ -312,13 +319,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Records for Poulin, Desbiens as Canada downs Finland 8-1 in world hockey semifinal",
     "url": "https://www.cbc.ca/sports/olympics/winter/hockey/womens-world-championships-semifinals-april-19-1.7514327?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Racing at 'new level,' Canada's Rory Linkletter aims for career-best marathon in Boston",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/rory-linkletter-2025-boston-marathon-preview-1.7514033?cmp=rss",
     "category": "Sports"
   },
   {
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Sunny, 8.9°C",
+    "headline": "Current Conditions: Mainly Sunny, 9.7°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

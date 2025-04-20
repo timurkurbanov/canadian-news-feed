@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Advance voting continues as Poilievre accuses Carney of 'printing money'",
+    "url": "https://www.cbc.ca/news/politics/day-3-advance-voting-federal-election-1.7514561?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Mark Carney lays out his plan for 'the biggest crisis of our lifetimes'",
     "url": "https://www.cbc.ca/news/politics/mark-carney-lays-out-his-plan-for-the-biggest-crisis-of-our-lifetimes-1.7514504?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "5 things federal party leaders keep getting wrong",
     "url": "https://www.cbc.ca/news/politics/election-2025-fact-checking-1.7513874?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "6 big moments and takeaways from the final leaders' debate",
-    "url": "https://www.cbc.ca/news/politics/key-moments-english-leadership-debate-1.7513787?cmp=rss",
     "category": "Politics"
   }
 ]
