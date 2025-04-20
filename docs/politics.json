@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Mark Carney lays out his plan for 'the biggest crisis of our lifetimes'",
+    "url": "https://www.cbc.ca/news/politics/mark-carney-lays-out-his-plan-for-the-biggest-crisis-of-our-lifetimes-1.7514504?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre says costed platform is coming 'soon,' becoming last leader to release a plan",
     "url": "https://www.cbc.ca/news/politics/poilievre-no-platform-yet-1.7514480?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "6 big moments and takeaways from the final leaders' debate",
     "url": "https://www.cbc.ca/news/politics/key-moments-english-leadership-debate-1.7513787?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Election campaign, debates will give voters something to chew on this long weekend",
-    "url": "https://www.cbc.ca/news/politics/election-long-weekend-1.7512092?cmp=rss",
     "category": "Politics"
   }
 ]
