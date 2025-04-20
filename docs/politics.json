@@ -2,6 +2,27 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poilievre says costed platform is coming 'soon,' becoming last leader to release a plan",
+    "url": "https://www.cbc.ca/news/politics/poilievre-no-platform-yet-1.7514480?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "I messed up — can I get a revote? Your voting questions answered",
+    "url": "https://www.cbc.ca/news/politics/election-voting-questions-answered-1.7513536?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "I've seen Ukraine's scars. As a Canadian veteran, military spending will decide my vote",
+    "url": "https://www.cbc.ca/news/canada/first-person-election-andriy-tovstiuk-1.7506313?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Conservatives say a suspicious document was made to sway prisoners against them. We looked into it",
     "url": "https://www.cbc.ca/news/canada/alleged-prison-document-faked-1.7513211?cmp=rss",
     "category": "Politics"
@@ -9,8 +30,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre says costed platform is coming 'soon,' becoming last leader to release a plan",
-    "url": "https://www.cbc.ca/news/politics/poilievre-no-platform-yet-1.7514480?cmp=rss",
+    "headline": "These immigrants say Canada failed to plan for a population explosion. Now it's their top election issue",
+    "url": "https://www.cbc.ca/news/canada/saskatchewan/immigration-plan-federal-election-1.7512275?cmp=rss",
     "category": "Politics"
   },
   {
@@ -116,27 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Election campaign, debates will give voters something to chew on this long weekend",
     "url": "https://www.cbc.ca/news/politics/election-long-weekend-1.7512092?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "I want to buy Canadian, but can't always afford to. Cost of living is my election priority",
-    "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-first-person-crystal-maccormac-1.7510022?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Fractious debate sees leaders trade blows over Trump, Trudeau and the cost of living",
-    "url": "https://www.cbc.ca/news/politics/english-leaders-debate-election-2025-1.7513834?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Advance polls open across the country Friday morning",
-    "url": "https://www.cbc.ca/news/politics/advance-polling-begins-1.7513017?cmp=rss",
     "category": "Politics"
   }
 ]
