@@ -317,6 +317,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Regina Pat Canadians headed to Telus Cup for 1st time since 2017",
+    "url": "https://www.cbc.ca/news/canada/saskatchewan/regina-pat-canadians-telus-cup-1.7513766?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Montreal Roses hold on to edge AFC Toronto in second outing for Northern Super League",
     "url": "https://www.cbc.ca/sports/soccer/northern-super-league-montreal-toronto-april-19-1.7514281?cmp=rss",
     "category": "Sports"
@@ -396,13 +403,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Rangers fire coach Peter Laviolette after missing playoffs, underachieving season",
     "url": "https://www.cbc.ca/sports/hockey/nhl/ducks-fire-coach-greg-cronin-1.7514318?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'Proud cities, proud franchises': Leafs, Sens ready to reignite Battle of Ontario",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/maple-leafs-senators-battle-of-ontario-lookahead-1.7513992?cmp=rss",
     "category": "Sports"
   },
   {
