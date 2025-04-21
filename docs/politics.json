@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada election: Leaders fan out across country as last day of advance voting underway",
+    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-leaders-fan-out-across-country-as-last-day-of-advance-voting-underway-9.6730380?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Last carbon tax rebate arrives Tuesday, but Finance Canada won't say how much it costs",
     "url": "https://www.cbc.ca/news/politics/carbon-tax-rebate-cost-1.7510013?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Mark Carney and Pierre Poilievre see very different threats to Canada",
     "url": "https://www.cbc.ca/news/politics/carney-poilievre-debate-trump-analysis-1.7514109?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Long lines at polling stations as Canadians turn up for advance voting",
-    "url": "https://www.cbc.ca/news/canada/long-lines-advance-voting-1.7514157?cmp=rss",
     "category": "Politics"
   }
 ]
