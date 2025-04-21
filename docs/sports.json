@@ -44,8 +44,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Racing at 'new level,' Canada's Rory Linkletter aims for career-best marathon in Boston",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/rory-linkletter-2025-boston-marathon-preview-1.7514033?cmp=rss",
+    "headline": "Janecke scores in overtime as U.S. beats Canada to win gold at women's hockey worlds",
+    "url": "https://www.cbc.ca/sports/olympics/winter/hockey/canada-united-states-women-hockey-worlds-final-2025-1.7514528?cmp=rss",
     "category": "Sports"
   },
   {
@@ -53,13 +53,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "In Délı̨nę, N.W.T., Boxing is helping youth stay active and mentally healthy",
     "url": "https://www.cbc.ca/news/canada/north/deline-boxing-program-helping-with-mental-health-1.7514538?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Janecke scores in overtime as U.S. beats Canada to win gold at women's hockey worlds",
-    "url": "https://www.cbc.ca/sports/olympics/winter/hockey/canada-united-states-women-hockey-worlds-final-2025-1.7514528?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,6 +123,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Damian Warner turns the page on Paris and gets ready to chase an 'elusive' world title",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/athletics-decathlon-damian-warner-turning-the-page-world-championships-1.7511854?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Regina Pat Canadians headed to Telus Cup for 1st time since 2017",
+    "url": "https://www.cbc.ca/news/canada/saskatchewan/regina-pat-canadians-telus-cup-1.7513766?cmp=rss",
     "category": "Sports"
   }
 ]
