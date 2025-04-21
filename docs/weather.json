@@ -16,13 +16,6 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Sunday night: Clear. Low minus 1.",
-    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
-    "category": "Weather"
-  },
-  {
-    "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "Monday: Periods of rain. High 9.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
@@ -37,7 +30,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Tuesday: Chance of showers. High 11. POP 30%",
+    "headline": "Tuesday: Chance of showers or drizzle. High 11. POP 40%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
@@ -94,6 +87,20 @@
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "Saturday: Chance of showers. High 13. POP 40%",
+    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
+    "category": "Weather"
+  },
+  {
+    "source": "weather.gc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
+    "headline": "Saturday night: Clear. Low plus 1.",
+    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
+    "category": "Weather"
+  },
+  {
+    "source": "weather.gc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
+    "headline": "Sunday: Sunny. High 15.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
