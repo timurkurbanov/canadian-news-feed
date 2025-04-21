@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Sports world mourns soccer-loving Pope Francis with games in Italy, Argentina postponed",
+    "url": "https://www.cbc.ca/sports/soccer/sports-world-morns-soccer-loving-pope-francis-1.7514829?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Sharon Lokedi breaks Boston Marathon course record; John Korir joins brother as men's champion",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/boston-marathon-champions-2025-1.7514842?cmp=rss",
     "category": "Sports"
@@ -39,6 +46,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Janecke scores in overtime as U.S. beats Canada to win gold at women's hockey worlds",
     "url": "https://www.cbc.ca/sports/olympics/winter/hockey/canada-united-states-women-hockey-worlds-final-2025-1.7514528?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada's Gabriel Diallo advances to 2nd round of Madrid Open qualifying",
+    "url": "https://www.cbc.ca/sports/tennis/gabriel-diallo-madrid-open-qualifying-april-21-1.7514910?cmp=rss",
     "category": "Sports"
   },
   {
@@ -116,20 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PWHL chooses Vancouver as 1st expansion city with 2nd market to be determined: reports",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-vancouver-1st-expansion-1.7514088?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "De Grasse's Grand Slam Track participation a signal that it's worth answering the series' call",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/morgan-campbell-grand-slam-track-miami-andre-degrasse-1.7512427?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "World champion Alysa Liu takes free skate as U.S. wins World Team Trophy",
-    "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/alysa-lui-wins-free-skate-us-wins-world-team-1.7514379?cmp=rss",
     "category": "Sports"
   }
 ]
