@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poilievre to release platform Tuesday with details on new spending and cuts",
+    "url": "https://www.cbc.ca/news/politics/poilievre-platform-tuesday-1.7514840?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "RECAP | Canada election: Health care, home building on the agenda as campaign enters home stretch",
     "url": "https://www.cbc.ca/news/politics/livestory/recap-canada-election-health-care-home-building-on-the-agenda-as-campaign-enters-home-stretch-9.6730380?cmp=rss",
     "category": "Politics"
@@ -9,15 +16,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Security officials report 'repression' operation targeting Conservative candidate Joe Tay",
-    "url": "https://www.cbc.ca/news/politics/joe-tay-china-campaign-1.7514934?cmp=rss",
+    "headline": "Pen or pencil? Elections Canada says it doesn't matter when casting a ballot",
+    "url": "https://www.cbc.ca/news/politics/elections-canada-pen-or-pencil-1.7515032?cmp=rss",
     "category": "Politics"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre to release platform Tuesday with details on new spending and cuts",
-    "url": "https://www.cbc.ca/news/politics/poilievre-platform-tuesday-1.7514840?cmp=rss",
+    "headline": "Security officials report 'repression' operation targeting Conservative candidate Joe Tay",
+    "url": "https://www.cbc.ca/news/politics/joe-tay-china-campaign-1.7514934?cmp=rss",
     "category": "Politics"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Trump is demanding universities change policies or face defunding. Would Poilievre do the same?",
     "url": "https://www.cbc.ca/news/politics/poilievre-trump-universities-defund-1.7512547?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Rebel News owner Ezra Levant was 'mentor' to Poilievre, says author",
-    "url": "https://www.cbc.ca/news/politics/levant-rebel-poilievre-1.7514216?cmp=rss",
     "category": "Politics"
   },
   {
@@ -310,7 +310,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Kraken fire head coach Dan Bylsma after 1 season",
+    "headline": "Kraken fire coach Dan Bylsma after 1 season; Jason Botterill reportedly to replace Ron Francis as GM",
     "url": "https://www.cbc.ca/sports/hockey/nhl/seattle-kraken-fire-dan-bylsma-1.7515014?cmp=rss",
     "category": "Sports"
   },
