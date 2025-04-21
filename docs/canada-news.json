@@ -2,8 +2,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada election: Health care, home building on the agenda as campaign enters home stretch",
-    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-health-care-home-building-on-the-agenda-as-campaign-enters-home-stretch-9.6730380?cmp=rss",
+    "headline": "RECAP | Canada election: Health care, home building on the agenda as campaign enters home stretch",
+    "url": "https://www.cbc.ca/news/politics/livestory/recap-canada-election-health-care-home-building-on-the-agenda-as-campaign-enters-home-stretch-9.6730380?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Security officials report 'repression' operation targeting Conservative candidate Joe Tay",
+    "url": "https://www.cbc.ca/news/politics/joe-tay-china-campaign-1.7514934?cmp=rss",
     "category": "Politics"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Rebel News owner Ezra Levant was 'mentor' to Poilievre, says author",
     "url": "https://www.cbc.ca/news/politics/levant-rebel-poilievre-1.7514216?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "As foreign actors work to influence Canada's election, how safe is your vote?",
-    "url": "https://www.cbc.ca/news/politics/how-safe-is-your-vote-podcast-1.7513127?cmp=rss",
     "category": "Politics"
   },
   {
@@ -289,6 +289,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada's prep for 2026 Olympic women's hockey tournament radically revised",
+    "url": "https://www.cbc.ca/sports/olympics/winter/hockey/canada-prep-for-2026-olympics-womens-hockey-1.7514750?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Atlanta Hawks promote Edmonton's Onsi Saleh to general manager",
     "url": "https://www.cbc.ca/sports/basketball/hawks-promote-canadas-onsi-saleh-1.7514925?cmp=rss",
     "category": "Sports"
@@ -298,13 +305,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Veteran Edmonton Oilers forward Jeff Skinner happy to snap 15-season playoff drought",
     "url": "https://www.cbc.ca/news/canada/edmonton/veteran-edmonton-oilers-forward-jeff-skinner-happy-to-snap-15-season-playoff-drought-1.7514907?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's prep for 2026 Olympic women's hockey tournament radically revised",
-    "url": "https://www.cbc.ca/sports/olympics/winter/hockey/canada-prep-for-2026-olympics-womens-hockey-1.7514750?cmp=rss",
     "category": "Sports"
   },
   {
@@ -422,28 +422,21 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Monday: Periods of rain. High 12.",
+    "headline": "Monday night: Periods of rain. Low 8.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Monday night: Showers. Temperature rising to 13 by morning.",
+    "headline": "Tuesday: Chance of showers or drizzle. High 10. POP 40%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Tuesday: Chance of showers or drizzle. High 11. POP 40%",
-    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
-    "category": "Weather"
-  },
-  {
-    "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Tuesday night: Chance of showers. Low plus 3. POP 30%",
+    "headline": "Tuesday night: Overcast. Low plus 1.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

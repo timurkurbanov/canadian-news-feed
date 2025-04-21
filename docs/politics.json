@@ -2,8 +2,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada election: Health care, home building on the agenda as campaign enters home stretch",
-    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-health-care-home-building-on-the-agenda-as-campaign-enters-home-stretch-9.6730380?cmp=rss",
+    "headline": "RECAP | Canada election: Health care, home building on the agenda as campaign enters home stretch",
+    "url": "https://www.cbc.ca/news/politics/livestory/recap-canada-election-health-care-home-building-on-the-agenda-as-campaign-enters-home-stretch-9.6730380?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Security officials report 'repression' operation targeting Conservative candidate Joe Tay",
+    "url": "https://www.cbc.ca/news/politics/joe-tay-china-campaign-1.7514934?cmp=rss",
     "category": "Politics"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Rebel News owner Ezra Levant was 'mentor' to Poilievre, says author",
     "url": "https://www.cbc.ca/news/politics/levant-rebel-poilievre-1.7514216?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "As foreign actors work to influence Canada's election, how safe is your vote?",
-    "url": "https://www.cbc.ca/news/politics/how-safe-is-your-vote-podcast-1.7513127?cmp=rss",
     "category": "Politics"
   }
 ]
