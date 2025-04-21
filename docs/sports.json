@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Sharon Lokedi breaks Boston Marathon course record; John Korir joins brother as Boston winner",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/boston-marathon-champions-2025-1.7514842?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's prep for 2026 Olympic women's hockey tournament radically revised",
     "url": "https://www.cbc.ca/sports/olympics/winter/hockey/canada-prep-for-2026-olympics-womens-hockey-1.7514750?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "World champion Alysa Liu takes free skate as U.S. wins World Team Trophy",
     "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/alysa-lui-wins-free-skate-us-wins-world-team-1.7514379?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Rangers fire coach Peter Laviolette after missing playoffs, underachieving season",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/ducks-fire-coach-greg-cronin-1.7514318?cmp=rss",
     "category": "Sports"
   }
 ]
