@@ -296,13 +296,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Atlanta Hawks promote Edmonton's Onsi Saleh to general manager",
-    "url": "https://www.cbc.ca/sports/basketball/hawks-promote-canadas-onsi-saleh-1.7514925?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Veteran Edmonton Oilers forward Jeff Skinner happy to snap 15-season playoff drought",
     "url": "https://www.cbc.ca/news/canada/edmonton/veteran-edmonton-oilers-forward-jeff-skinner-happy-to-snap-15-season-playoff-drought-1.7514907?cmp=rss",
     "category": "Sports"
@@ -312,6 +305,20 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Battle of Ontario: Stars shine for Leafs in convincing Game 1 victory over Senators",
     "url": "https://www.cbc.ca/sports/hockey/nhl/maple-leafs-senators-battle-of-ontario-game-1-1.7514738?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Kraken fire head coach Dan Bylsma after 1 season",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/seattle-kraken-fire-dan-bylsma-1.7515014?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Atlanta Hawks promote Edmonton's Onsi Saleh to general manager",
+    "url": "https://www.cbc.ca/sports/basketball/hawks-promote-canadas-onsi-saleh-1.7514925?cmp=rss",
     "category": "Sports"
   },
   {
@@ -399,13 +406,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Regina Pat Canadians headed to Telus Cup for 1st time since 2017",
-    "url": "https://www.cbc.ca/news/canada/saskatchewan/regina-pat-canadians-telus-cup-1.7513766?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -415,7 +415,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Rain, 7.9°C",
+    "headline": "Current Conditions: Mostly Cloudy, 6.8°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
