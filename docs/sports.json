@@ -9,7 +9,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Sharon Lokedi breaks Boston Marathon course record; John Korir joins brother as men's champion",
+    "headline": "Sharon Lokedi breaks Boston Marathon course record; Canada's Rory Linkletter 6th in men's race",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/boston-marathon-champions-2025-1.7514842?cmp=rss",
     "category": "Sports"
   },
@@ -44,6 +44,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Atlanta Hawks promote Edmonton's Onsi Saleh to general manager",
+    "url": "https://www.cbc.ca/sports/basketball/hawks-promote-canadas-onsi-saleh-1.7514925?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Winnipeg Jets looking to erase last two playoff disappointments in Game 2",
     "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-playoffs-past-season-1.7514678?cmp=rss",
     "category": "Sports"
@@ -53,13 +60,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Battle of Ontario: Stars shine for Leafs in convincing Game 1 victory over Senators",
     "url": "https://www.cbc.ca/sports/hockey/nhl/maple-leafs-senators-battle-of-ontario-game-1-1.7514738?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Atlanta Hawks promote Edmonton's Onsi Saleh to general manager",
-    "url": "https://www.cbc.ca/sports/basketball/hawks-promote-canadas-onsi-saleh-1.7514925?cmp=rss",
     "category": "Sports"
   },
   {
@@ -121,15 +121,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'A huge opportunity:' Winnipeg businesses hope this Jets playoff run will be a lengthy one",
-    "url": "https://www.cbc.ca/news/canada/manitoba/a-huge-opportunity-winnipeg-businesses-hope-this-jets-playoff-run-will-be-a-lengthy-one-1.7514601?cmp=rss",
+    "headline": "Damian Warner turns the page on Paris and gets ready to chase an 'elusive' world title",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/athletics-decathlon-damian-warner-turning-the-page-world-championships-1.7511854?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "New PWHL Players Association director aims to keep raising bar for players",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhlpa-new-executive-director-malaika-underwood-1.7511121?cmp=rss",
+    "headline": "'A huge opportunity:' Winnipeg businesses hope this Jets playoff run will be a lengthy one",
+    "url": "https://www.cbc.ca/news/canada/manitoba/a-huge-opportunity-winnipeg-businesses-hope-this-jets-playoff-run-will-be-a-lengthy-one-1.7514601?cmp=rss",
     "category": "Sports"
   }
 ]
