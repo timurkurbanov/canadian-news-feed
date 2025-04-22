@@ -289,6 +289,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Connor's game-winner helps Jets soar to 2-0 series lead over Blues",
+    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-st-louis-blues-game-2-1.7515116?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Sports world mourns soccer-loving Pope Francis with games in Italy, Argentina postponed",
     "url": "https://www.cbc.ca/sports/soccer/sports-world-morns-soccer-loving-pope-francis-1.7514829?cmp=rss",
     "category": "Sports"
@@ -338,13 +345,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Winnipeg Jets looking to erase last two playoff disappointments in Game 2",
-    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-playoffs-past-season-1.7514678?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Battle of Ontario: Stars shine for Leafs in convincing Game 1 victory over Senators",
     "url": "https://www.cbc.ca/sports/hockey/nhl/maple-leafs-senators-battle-of-ontario-game-1-1.7514738?cmp=rss",
     "category": "Sports"
@@ -380,13 +380,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'Best team in the league': Canadiens' St. Louis throws pressure on favoured Capitals",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/underdog-canadiens-capitals-playoffs-1.7514656?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "A Maple Leafs fan's (cautiously) optimistic guide to the playoffs",
     "url": "https://www.cbc.ca/news/canada/toronto/toronto-maple-leafs-ottawa-senators-playoffs-nhl-1.7513229?cmp=rss",
     "category": "Sports"
@@ -396,6 +389,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Montreal Roses hold on to edge AFC Toronto in second outing for Northern Super League",
     "url": "https://www.cbc.ca/sports/soccer/northern-super-league-montreal-toronto-april-19-1.7514281?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Malone, Mahlalela and other candidates for Canada Basketball's open coaching positions",
+    "url": "https://www.cbc.ca/sports/basketball/canada-basketball-coaching-candidates-1.7513981?cmp=rss",
     "category": "Sports"
   },
   {
