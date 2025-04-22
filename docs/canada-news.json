@@ -9,6 +9,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Conservative platform says projected revenues from policies will offset $90B in new measures",
+    "url": "https://www.cbc.ca/news/politics/conservative-platform-measures-revenues-cuts-1.7515440?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Record 7.3 million Canadians voted during advance polls: Elections Canada",
+    "url": "https://www.cbc.ca/news/politics/elections-canada-record-advanced-polls-1.7515477?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "New Conservative ads aimed at older men show golfers, Harper but no Poilievre",
     "url": "https://www.cbc.ca/news/politics/last-week-ad-campaigns-conservative-ads-no-pierre-poilievre-1.7514897?cmp=rss",
     "category": "Politics"
@@ -116,20 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Advance voting continues as Poilievre accuses Carney of 'printing money'",
     "url": "https://www.cbc.ca/news/politics/day-3-advance-voting-federal-election-1.7514561?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre says costed platform is coming 'soon,' becoming last leader to release a plan",
-    "url": "https://www.cbc.ca/news/politics/poilievre-no-platform-yet-1.7514480?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "I messed up — can I get a revote? Your voting questions answered",
-    "url": "https://www.cbc.ca/news/politics/election-voting-questions-answered-1.7513536?cmp=rss",
     "category": "Politics"
   },
   {
@@ -408,7 +408,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 9.4°C",
+    "headline": "Current Conditions: Mostly Cloudy, 10.4°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
