@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poilievre says a government report predicts a 'terrifying' 2040. Here's what it actually says",
+    "url": "https://www.cbc.ca/news/politics/policy-horizons-report-2040-poilievre-1.7515683?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Conservative platform banks on projected revenues to offset $90B in new measures",
     "url": "https://www.cbc.ca/news/politics/conservative-platform-measures-revenues-cuts-1.7515440?cmp=rss",
     "category": "Politics"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Reproductive health advocates praise Liberal pledges but caution more details needed",
     "url": "https://www.cbc.ca/news/politics/womens-reproductive-health-liberal-platform-1.7514586?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre dodges questions about repealing national handgun ban",
-    "url": "https://www.cbc.ca/news/politics/poilievre-handgun-ban-1.7514585?cmp=rss",
     "category": "Politics"
   },
   {
@@ -415,7 +415,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 9.9°C",
+    "headline": "Current Conditions: Mostly Cloudy, 9.2°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
