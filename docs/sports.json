@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Sexual assault trial of 5 ex-world junior hockey players begins in London, Ont., with jury selection",
+    "url": "https://www.cbc.ca/news/canada/london/world-junior-hockey-sexual-assault-trial-london-1.7511439?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Sports world mourns soccer-loving Pope Francis with games in Italy, Argentina postponed",
     "url": "https://www.cbc.ca/sports/soccer/sports-world-morns-soccer-loving-pope-francis-1.7514829?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Damian Warner turns the page on Paris and gets ready to chase an 'elusive' world title",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/athletics-decathlon-damian-warner-turning-the-page-world-championships-1.7511854?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'A huge opportunity:' Winnipeg businesses hope this Jets playoff run will be a lengthy one",
-    "url": "https://www.cbc.ca/news/canada/manitoba/a-huge-opportunity-winnipeg-businesses-hope-this-jets-playoff-run-will-be-a-lengthy-one-1.7514601?cmp=rss",
     "category": "Sports"
   }
 ]

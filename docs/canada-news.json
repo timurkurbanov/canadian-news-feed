@@ -2,8 +2,29 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "New Conservative ads aimed at older men show golfers, Harper but no Poilievre",
+    "url": "https://www.cbc.ca/news/politics/last-week-ad-campaigns-conservative-ads-no-pierre-poilievre-1.7514897?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre to release platform Tuesday with details on new spending and cuts",
     "url": "https://www.cbc.ca/news/politics/poilievre-platform-tuesday-1.7514840?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Why Canadian voters living in the Big Apple have a growing interest in the federal election",
+    "url": "https://www.cbc.ca/news/world/canadian-expats-new-york-election-voting-1.7514074?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Season of the stick: How politics are overlapping with the NHL playoffs",
+    "url": "https://www.cbc.ca/news/canada/ottawa/season-of-the-stick-how-politics-are-overlapping-with-the-nhl-playoffs-1.7512910?cmp=rss",
     "category": "Politics"
   },
   {
@@ -121,23 +142,9 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "NDP wealth tax would raise $94.5B, pay for worker tax cut and health-care improvements",
-    "url": "https://www.cbc.ca/news/politics/ndp-wealth-tax-would-raise-94-5b-pay-for-worker-tax-cut-and-health-care-improvements-1.7514340?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Liberal platform promises $130B in new measures over 4 years, adding $225B to federal debt",
-    "url": "https://www.cbc.ca/news/politics/liberal-costed-platform-1.7514272?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump is demanding universities change policies or face defunding. Would Poilievre do the same?",
-    "url": "https://www.cbc.ca/news/politics/poilievre-trump-universities-defund-1.7512547?cmp=rss",
-    "category": "Politics"
+    "headline": "Did TikTok tell you to buy luxury goods straight from China? Experts say proceed with caution",
+    "url": "https://www.cbc.ca/news/business/tiktok-chinese-manufacturers-1.7514980?cmp=rss",
+    "category": "Business"
   },
   {
     "source": "cbc",
@@ -268,9 +275,9 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canola farmers feel forgotten amid trade war, ongoing Chinese tariffs",
-    "url": "https://www.cbc.ca/news/canada/saskatchewan/canola-farmers-feel-forgotten-tariffs-trade-war-1.7510283?cmp=rss",
-    "category": "Business"
+    "headline": "Sexual assault trial of 5 ex-world junior hockey players begins in London, Ont., with jury selection",
+    "url": "https://www.cbc.ca/news/canada/london/world-junior-hockey-sexual-assault-trial-london-1.7511439?cmp=rss",
+    "category": "Sports"
   },
   {
     "source": "cbc",
@@ -399,13 +406,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'A huge opportunity:' Winnipeg businesses hope this Jets playoff run will be a lengthy one",
-    "url": "https://www.cbc.ca/news/canada/manitoba/a-huge-opportunity-winnipeg-businesses-hope-this-jets-playoff-run-will-be-a-lengthy-one-1.7514601?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -415,7 +415,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mist, 8.1°C",
+    "headline": "Current Conditions: Mist, 7.8°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
