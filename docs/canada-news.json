@@ -135,13 +135,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "These immigrants say Canada failed to plan for a population explosion. Now it's their top election issue",
-    "url": "https://www.cbc.ca/news/canada/saskatchewan/immigration-plan-federal-election-1.7512275?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Did TikTok tell you to buy luxury goods straight from China? Experts say proceed with caution",
     "url": "https://www.cbc.ca/news/business/tiktok-chinese-manufacturers-1.7514980?cmp=rss",
     "category": "Business"
@@ -282,6 +275,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Kings hold off Oilers to earn 6-5 win in Game 1",
+    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-kings-game-1-1.7515144?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Sports world mourns soccer-loving Pope Francis with games in Italy, Argentina postponed",
     "url": "https://www.cbc.ca/sports/soccer/sports-world-morns-soccer-loving-pope-francis-1.7514829?cmp=rss",
     "category": "Sports"
@@ -399,13 +399,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Damian Warner turns the page on Paris and gets ready to chase an 'elusive' world title",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/athletics-decathlon-damian-warner-turning-the-page-world-championships-1.7511854?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -415,7 +408,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 8.0°C",
+    "headline": "Current Conditions: Mostly Cloudy, 8.2°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Kings hold off Oilers to earn 6-5 win in Game 1",
+    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-kings-game-1-1.7515144?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Sports world mourns soccer-loving Pope Francis with games in Italy, Argentina postponed",
     "url": "https://www.cbc.ca/sports/soccer/sports-world-morns-soccer-loving-pope-francis-1.7514829?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Malone, Mahlalela and other candidates for Canada Basketball's open coaching positions",
     "url": "https://www.cbc.ca/sports/basketball/canada-basketball-coaching-candidates-1.7513981?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Damian Warner turns the page on Paris and gets ready to chase an 'elusive' world title",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/athletics-decathlon-damian-warner-turning-the-page-world-championships-1.7511854?cmp=rss",
     "category": "Sports"
   }
 ]
