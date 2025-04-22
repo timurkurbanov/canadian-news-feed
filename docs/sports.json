@@ -44,6 +44,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Vancouver Canucks president floats Hughes brothers unification idea",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-canucks-hughes-reunification-1.7514971?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Former NFL player Shannon Sharpe accused of rape in $50M US civil lawsuit",
     "url": "https://www.cbc.ca/sports/football/nfl/shannon-sharpe-accused-of-rape-1.7515080?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Montreal Roses hold on to edge AFC Toronto in second outing for Northern Super League",
     "url": "https://www.cbc.ca/sports/soccer/northern-super-league-montreal-toronto-april-19-1.7514281?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Malone, Mahlalela and other candidates for Canada Basketball's open coaching positions",
-    "url": "https://www.cbc.ca/sports/basketball/canada-basketball-coaching-candidates-1.7513981?cmp=rss",
     "category": "Sports"
   }
 ]
