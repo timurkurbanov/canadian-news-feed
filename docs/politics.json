@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Victoria among the NDP strongholds on Vancouver Island that are now battleground ridings",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/victoria-battleground-riding-1.7513450?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Why Canadian voters living in the Big Apple have a growing interest in the federal election",
     "url": "https://www.cbc.ca/news/world/canadian-expats-new-york-election-voting-1.7514074?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "These immigrants say Canada failed to plan for a population explosion. Now it's their top election issue",
     "url": "https://www.cbc.ca/news/canada/saskatchewan/immigration-plan-federal-election-1.7512275?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Elections Canada announces record turnout on 1st day of advance voting",
-    "url": "https://www.cbc.ca/news/politics/elections-canada-record-turnout-first-day-advance-voting-1.7514390?cmp=rss",
     "category": "Politics"
   }
 ]
