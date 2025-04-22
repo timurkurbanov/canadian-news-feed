@@ -289,8 +289,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Former NFL player Shannon Sharpe accused of rape in $50M US civil lawsuit",
+    "url": "https://www.cbc.ca/sports/football/nfl/shannon-sharpe-accused-of-rape-1.7515080?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's prep for 2026 Olympic women's hockey tournament radically revised",
     "url": "https://www.cbc.ca/sports/olympics/winter/hockey/canada-prep-for-2026-olympics-womens-hockey-1.7514750?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Kraken fire head coach Dan Bylsma after 1 season, reportedly promote Jason Botterill to GM",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/seattle-kraken-fire-dan-bylsma-1.7515014?cmp=rss",
     "category": "Sports"
   },
   {
@@ -303,15 +317,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Battle of Ontario: Stars shine for Leafs in convincing Game 1 victory over Senators",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/maple-leafs-senators-battle-of-ontario-game-1-1.7514738?cmp=rss",
+    "headline": "Winnipeg Jets looking to erase last two playoff disappointments in Game 2",
+    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-playoffs-past-season-1.7514678?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Kraken fire head coach Dan Bylsma after 1 season, reportedly promote Jason Botterill to GM",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/seattle-kraken-fire-dan-bylsma-1.7515014?cmp=rss",
+    "headline": "Battle of Ontario: Stars shine for Leafs in convincing Game 1 victory over Senators",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/maple-leafs-senators-battle-of-ontario-game-1-1.7514738?cmp=rss",
     "category": "Sports"
   },
   {
@@ -392,20 +406,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Connor's late goal fuels Jets to 5-3 win over Blues in playoff opener",
-    "url": "https://www.cbc.ca/news/canada/manitoba/nhl-playoffs-winnipeg-jets-win-st-louis-blues-1.7514464?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Damian Warner turns the page on Paris and gets ready to chase an 'elusive' world title",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/athletics-decathlon-damian-warner-turning-the-page-world-championships-1.7511854?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -415,7 +415,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Rain, 5.6°C",
+    "headline": "Current Conditions: Light Rain, 5.7°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
