@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Do the Liberals have a hope of reclaiming Regina-Wascana this election?",
+    "url": "https://www.cbc.ca/news/canada/saskatchewan/regina-wascana-election-profile-1.7503744?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Victoria among the NDP strongholds on Vancouver Island that are now battleground ridings",
     "url": "https://www.cbc.ca/news/canada/british-columbia/victoria-battleground-riding-1.7513450?cmp=rss",
     "category": "Politics"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "I've seen Ukraine's scars. As a Canadian veteran, military spending will decide my vote",
     "url": "https://www.cbc.ca/news/canada/first-person-election-andriy-tovstiuk-1.7506313?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Conservatives say a suspicious document was made to sway prisoners against them. We looked into it",
-    "url": "https://www.cbc.ca/news/canada/alleged-prison-document-faked-1.7513211?cmp=rss",
     "category": "Politics"
   },
   {
@@ -275,6 +275,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Habs comeback bid falls just short in Game 1 overtime loss to Capitals",
+    "url": "https://www.cbc.ca/news/canada/montreal/canadiens-capitals-overtime-playoffs-1.7515147?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Kings hold off Oilers to earn 6-5 win in Game 1",
     "url": "https://www.cbc.ca/news/canada/edmonton/oilers-kings-game-1-1.7515144?cmp=rss",
     "category": "Sports"
@@ -389,13 +396,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Montreal Roses hold on to edge AFC Toronto in second outing for Northern Super League",
     "url": "https://www.cbc.ca/sports/soccer/northern-super-league-montreal-toronto-april-19-1.7514281?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Malone, Mahlalela and other candidates for Canada Basketball's open coaching positions",
-    "url": "https://www.cbc.ca/sports/basketball/canada-basketball-coaching-candidates-1.7513981?cmp=rss",
     "category": "Sports"
   },
   {

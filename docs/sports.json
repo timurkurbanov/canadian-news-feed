@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Habs comeback bid falls just short in Game 1 overtime loss to Capitals",
+    "url": "https://www.cbc.ca/news/canada/montreal/canadiens-capitals-overtime-playoffs-1.7515147?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Kings hold off Oilers to earn 6-5 win in Game 1",
     "url": "https://www.cbc.ca/news/canada/edmonton/oilers-kings-game-1-1.7515144?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Montreal Roses hold on to edge AFC Toronto in second outing for Northern Super League",
     "url": "https://www.cbc.ca/sports/soccer/northern-super-league-montreal-toronto-april-19-1.7514281?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Malone, Mahlalela and other candidates for Canada Basketball's open coaching positions",
-    "url": "https://www.cbc.ca/sports/basketball/canada-basketball-coaching-candidates-1.7513981?cmp=rss",
     "category": "Sports"
   }
 ]
