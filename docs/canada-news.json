@@ -2,8 +2,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada election: Poilievre releases platform with promise of referendums on new federal taxes",
-    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-poilievre-releases-platform-with-promise-of-referendums-on-new-federal-taxes-9.6731129?cmp=rss",
+    "headline": "Canada election: Former budget watchdog weighs in on Conservative and Liberal platforms",
+    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-former-budget-watchdog-weighs-in-on-conservative-and-liberal-platforms-9.6731129?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poilievre isn't pivoting, but he's stepping lightly around a few things",
+    "url": "https://www.cbc.ca/news/politics/poilievre-conservative-platform-analysis-1.7515816?cmp=rss",
     "category": "Politics"
   },
   {
@@ -11,6 +18,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Conservative platform banks on projected revenues to offset $90B in new measures",
     "url": "https://www.cbc.ca/news/politics/conservative-platform-measures-revenues-cuts-1.7515440?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poilievre reiterates concerns with Liberals' UNDRIP law in Assembly of First Nations forum",
+    "url": "https://www.cbc.ca/news/indigenous/poilievre-afn-election-forum-1.7515508?cmp=rss",
     "category": "Politics"
   },
   {
@@ -116,20 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre dodges questions about repealing national handgun ban",
     "url": "https://www.cbc.ca/news/politics/poilievre-handgun-ban-1.7514585?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Mark Carney lays out his plan for 'the biggest crisis of our lifetimes'",
-    "url": "https://www.cbc.ca/news/politics/mark-carney-lays-out-his-plan-for-the-biggest-crisis-of-our-lifetimes-1.7514504?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Advance voting continues as Poilievre accuses Carney of 'printing money'",
-    "url": "https://www.cbc.ca/news/politics/day-3-advance-voting-federal-election-1.7514561?cmp=rss",
     "category": "Politics"
   },
   {
