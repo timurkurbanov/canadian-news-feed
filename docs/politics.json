@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poilievre promises to let police dismantle encampments, arrest occupants",
+    "url": "https://www.cbc.ca/news/politics/poilievre-public-order-dismantle-encampments-1.7516297?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Singh urges New Democrats to 'hold the line' in key battleground ridings",
     "url": "https://www.cbc.ca/news/politics/singh-urges-new-democrats-to-hold-the-line-in-key-battleground-ridings-1.7516160?cmp=rss",
     "category": "Politics"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Pen or pencil? Elections Canada says it doesn't matter when casting a ballot",
     "url": "https://www.cbc.ca/news/politics/elections-canada-pen-or-pencil-1.7515032?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Security officials report 'repression' operation targeting Conservative candidate Joe Tay",
-    "url": "https://www.cbc.ca/news/politics/joe-tay-china-campaign-1.7514934?cmp=rss",
     "category": "Politics"
   }
 ]
