@@ -2,6 +2,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada election: Poilievre makes campaign stop in Hamilton a day after releasing platform",
+    "url": "https://www.cbc.ca/9.6732535?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Singh urges New Democrats to 'hold the line' in key battleground ridings",
+    "url": "https://www.cbc.ca/news/politics/singh-urges-new-democrats-to-hold-the-line-in-key-battleground-ridings-1.7516160?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What will it take to defend Canada? Experts say party platforms miss the target",
     "url": "https://www.cbc.ca/news/politics/conservative-liberal-defence-platforms-analysis-1.7516003?cmp=rss",
     "category": "Politics"
@@ -18,13 +32,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Pierre Poilievre isn't pivoting, but he's stepping lightly around a few things",
     "url": "https://www.cbc.ca/news/politics/poilievre-conservative-platform-analysis-1.7515816?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Jagmeet Singh says the only way to stop a Liberal 'super majority' is to vote NDP",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/jagmeet-singh-liberal-super-majority-1.7515860?cmp=rss",
     "category": "Politics"
   },
   {
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Security officials report 'repression' operation targeting Conservative candidate Joe Tay",
     "url": "https://www.cbc.ca/news/politics/joe-tay-china-campaign-1.7514934?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Elections Canada worker in GTA removed following allegations of voter interference",
-    "url": "https://www.cbc.ca/news/canada/toronto/elections-canada-worker-removed-allegations-voter-interference-1.7514852?cmp=rss",
     "category": "Politics"
   },
   {
@@ -268,6 +268,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Opening statements set to begin in sexual assault trial of 5 former world junior hockey players",
+    "url": "https://www.cbc.ca/news/canada/london/livestory/opening-statements-set-to-begin-in-sexual-assault-trial-of-5-former-world-junior-hockey-players-9.6732547?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Max Domi scores in OT, Maple Leafs take 2-0 series lead in Battle of Ontario",
     "url": "https://www.cbc.ca/news/canada/toronto/nhl-playoffs-toronto-maple-leafs-ottawa-senators-1.7515959?cmp=rss",
     "category": "Sports"
@@ -389,13 +396,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Montreal Roses hold on to edge AFC Toronto in second outing for Northern Super League",
     "url": "https://www.cbc.ca/sports/soccer/northern-super-league-montreal-toronto-april-19-1.7514281?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Malone, Mahlalela and other candidates for Canada Basketball's open coaching positions",
-    "url": "https://www.cbc.ca/sports/basketball/canada-basketball-coaching-candidates-1.7513981?cmp=rss",
     "category": "Sports"
   },
   {

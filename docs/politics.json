@@ -2,6 +2,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada election: Poilievre makes campaign stop in Hamilton a day after releasing platform",
+    "url": "https://www.cbc.ca/9.6732535?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Singh urges New Democrats to 'hold the line' in key battleground ridings",
+    "url": "https://www.cbc.ca/news/politics/singh-urges-new-democrats-to-hold-the-line-in-key-battleground-ridings-1.7516160?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What will it take to defend Canada? Experts say party platforms miss the target",
     "url": "https://www.cbc.ca/news/politics/conservative-liberal-defence-platforms-analysis-1.7516003?cmp=rss",
     "category": "Politics"
@@ -18,13 +32,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Pierre Poilievre isn't pivoting, but he's stepping lightly around a few things",
     "url": "https://www.cbc.ca/news/politics/poilievre-conservative-platform-analysis-1.7515816?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Jagmeet Singh says the only way to stop a Liberal 'super majority' is to vote NDP",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/jagmeet-singh-liberal-super-majority-1.7515860?cmp=rss",
     "category": "Politics"
   },
   {
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Security officials report 'repression' operation targeting Conservative candidate Joe Tay",
     "url": "https://www.cbc.ca/news/politics/joe-tay-china-campaign-1.7514934?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Elections Canada worker in GTA removed following allegations of voter interference",
-    "url": "https://www.cbc.ca/news/canada/toronto/elections-canada-worker-removed-allegations-voter-interference-1.7514852?cmp=rss",
     "category": "Politics"
   }
 ]
