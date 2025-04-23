@@ -2,6 +2,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "What will it take to defend Canada? Experts say party platforms miss the target",
+    "url": "https://www.cbc.ca/news/politics/conservative-liberal-defence-platforms-analysis-1.7516003?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Conservatives say Carney is 'just like Justin.' Do they have a case?",
+    "url": "https://www.cbc.ca/news/politics/mark-carney-justin-trudeau-conservatives-1.7515244?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Pierre Poilievre isn't pivoting, but he's stepping lightly around a few things",
     "url": "https://www.cbc.ca/news/politics/poilievre-conservative-platform-analysis-1.7515816?cmp=rss",
     "category": "Politics"
@@ -116,20 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Elections Canada worker in GTA removed following allegations of voter interference",
     "url": "https://www.cbc.ca/news/canada/toronto/elections-canada-worker-removed-allegations-voter-interference-1.7514852?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Federal leaders remember Pope Francis as humble pontiff who moved reconciliation forward",
-    "url": "https://www.cbc.ca/news/politics/carney-pope-francis-poilievre-1.7514766?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Last carbon tax rebate arrives Tuesday, but Finance Canada won't say how much it costs",
-    "url": "https://www.cbc.ca/news/politics/carbon-tax-rebate-cost-1.7510013?cmp=rss",
     "category": "Politics"
   },
   {
@@ -415,7 +415,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Clear, 2.4°C",
+    "headline": "Current Conditions: Clear, 2.1°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
