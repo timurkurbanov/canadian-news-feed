@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "EU fines Apple 500M euros, Meta 200M euros for breaking competition rules",
+    "url": "https://www.cbc.ca/news/business/eu-fines-apple-meta-1.7516164?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Tesla investors react positively to Musk pledge to step back from U.S. government role",
     "url": "https://www.cbc.ca/news/business/tesla-musk-doge-1.7516138?cmp=rss",
     "category": "Business"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "California the 1st state to sue Trump administration over tariffs",
     "url": "https://www.cbc.ca/news/world/california-newsom-trump-tariffs-1.7511493?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trade war starting to show up in higher prices on some grocery items",
-    "url": "https://www.cbc.ca/news/business/tariffs-impacting-food-1.7510987?cmp=rss",
     "category": "Business"
   }
 ]
