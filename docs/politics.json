@@ -2,7 +2,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada election: Singh says he'll fight for national rent control as campaign enters home stretch",
+    "headline": "Canada election: Carney holds event in Victoria as campaign enters home stretch",
     "url": "https://www.cbc.ca/9.6732535?cmp=rss",
     "category": "Politics"
   },
@@ -18,6 +18,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre promises to let police dismantle encampments, arrest occupants",
     "url": "https://www.cbc.ca/news/politics/poilievre-public-order-dismantle-encampments-1.7516297?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "I promised my American wife Canada was safe for queer couples. I'll vote to keep it that way",
+    "url": "https://www.cbc.ca/news/canada/canada-rising-anti-trans-rhetoric-first-person-1.7503747?cmp=rss",
     "category": "Politics"
   },
   {
@@ -116,13 +123,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Why Canadian voters living in the Big Apple have a growing interest in the federal election",
     "url": "https://www.cbc.ca/news/world/canadian-expats-new-york-election-voting-1.7514074?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Season of the stick: How politics are overlapping with the NHL playoffs",
-    "url": "https://www.cbc.ca/news/canada/ottawa/season-of-the-stick-how-politics-are-overlapping-with-the-nhl-playoffs-1.7512910?cmp=rss",
     "category": "Politics"
   }
 ]
