@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Watch the PWHL expansion announcement",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-expansion-1.7516319?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Max Domi scores in OT, Maple Leafs take 2-0 series lead in Battle of Ontario",
     "url": "https://www.cbc.ca/news/canada/toronto/nhl-playoffs-toronto-maple-leafs-ottawa-senators-1.7515959?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "In Délı̨nę, N.W.T., Boxing is helping youth stay active and mentally healthy",
     "url": "https://www.cbc.ca/news/canada/north/deline-boxing-program-helping-with-mental-health-1.7514538?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Northern Super League's opening week gets positive reviews but more hard work awaits",
-    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-opening-week-1.7514563?cmp=rss",
     "category": "Sports"
   }
 ]

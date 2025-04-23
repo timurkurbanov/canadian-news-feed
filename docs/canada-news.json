@@ -275,6 +275,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Watch the PWHL expansion announcement",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-expansion-1.7516319?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Max Domi scores in OT, Maple Leafs take 2-0 series lead in Battle of Ontario",
     "url": "https://www.cbc.ca/news/canada/toronto/nhl-playoffs-toronto-maple-leafs-ottawa-senators-1.7515959?cmp=rss",
     "category": "Sports"
@@ -392,13 +399,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Northern Super League's opening week gets positive reviews but more hard work awaits",
-    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-opening-week-1.7514563?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -408,7 +408,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Sunny, 7.4°C",
+    "headline": "Current Conditions: Mainly Sunny, 8.9°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
