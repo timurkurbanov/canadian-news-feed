@@ -9,20 +9,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Sex assault trial of ex-world junior hockey players in London, Ont., unexpectedly adjourned for the day",
-    "url": "https://www.cbc.ca/news/canada/london/livestory/sex-assault-trial-of-ex-world-junior-hockey-players-in-london-ont-unexpectedly-adjourned-for-the-day-9.6732547?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Max Domi scores in OT, Maple Leafs take 2-0 series lead in Battle of Ontario",
-    "url": "https://www.cbc.ca/news/canada/toronto/nhl-playoffs-toronto-maple-leafs-ottawa-senators-1.7515959?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Czech leaders condemn Russian threats against NHL great Dominik Hasek",
     "url": "https://www.cbc.ca/sports/hockey/nhl/dominik-hasek-russian-threats-war-ukraine-nhl-1.7516264?cmp=rss",
     "category": "Sports"
@@ -30,8 +16,29 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Sex assault trial of ex-world junior hockey players in London, Ont., unexpectedly adjourned for the day",
+    "url": "https://www.cbc.ca/news/canada/london/livestory/sex-assault-trial-of-ex-world-junior-hockey-players-in-london-ont-unexpectedly-adjourned-for-the-day-9.6732547?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Andreescu wins in straight sets, cruising into Madrid Open 2nd round",
+    "url": "https://www.cbc.ca/sports/tennis/bianca-andreescu-madrid-open-first-round-recap-1.7516686?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "U.S. Center for SafeSport fires CEO in latest sign of crisis for Olympic watchdog",
     "url": "https://www.cbc.ca/sports/us-center-safesport-ceo-fired-juriese-colon-1.7516502?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Max Domi scores in OT, Maple Leafs take 2-0 series lead in Battle of Ontario",
+    "url": "https://www.cbc.ca/news/canada/toronto/nhl-playoffs-toronto-maple-leafs-ottawa-senators-1.7515959?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Janecke scores in overtime as U.S. beats Canada to win gold at women's hockey worlds",
     "url": "https://www.cbc.ca/sports/olympics/winter/hockey/canada-united-states-women-hockey-worlds-final-2025-1.7514528?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "In Délı̨nę, N.W.T., Boxing is helping youth stay active and mentally healthy",
-    "url": "https://www.cbc.ca/news/canada/north/deline-boxing-program-helping-with-mental-health-1.7514538?cmp=rss",
     "category": "Sports"
   }
 ]
