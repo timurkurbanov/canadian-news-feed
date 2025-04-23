@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Domi scores in OT, Maple Leafs top Senators 3-2 to grab lead in Battle of Ontario",
+    "url": "https://www.cbc.ca/news/canada/toronto/nhl-playoffs-toronto-maple-leafs-ottawa-senators-1.7515959?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Jury chosen for London, Ont., sexual assault trial of 5 ex-world junior hockey players",
     "url": "https://www.cbc.ca/news/canada/london/world-junior-hockey-sexual-assault-trial-london-1.7511439?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "In Délı̨nę, N.W.T., Boxing is helping youth stay active and mentally healthy",
     "url": "https://www.cbc.ca/news/canada/north/deline-boxing-program-helping-with-mental-health-1.7514538?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's Gabriel Diallo advances to 2nd round of Madrid Open qualifying",
-    "url": "https://www.cbc.ca/sports/tennis/gabriel-diallo-madrid-open-qualifying-april-21-1.7514910?cmp=rss",
     "category": "Sports"
   }
 ]
