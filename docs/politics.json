@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney, touring B.C. battlegrounds, says trade talks with Trump should happen face-to-face",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/carney-trade-talks-1.7516919?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada election: Carney holds event in Victoria as campaign enters home stretch",
     "url": "https://www.cbc.ca/9.6732535?cmp=rss",
     "category": "Politics"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "New Conservative ads aimed at older men show golfers, Harper but no Poilievre",
     "url": "https://www.cbc.ca/news/politics/last-week-ad-campaigns-conservative-ads-no-pierre-poilievre-1.7514897?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre to release platform Tuesday with details on new spending and cuts",
-    "url": "https://www.cbc.ca/news/politics/poilievre-platform-tuesday-1.7514840?cmp=rss",
     "category": "Politics"
   }
 ]
