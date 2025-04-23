@@ -266,6 +266,146 @@
     "category": "Business"
   },
   {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Domi scores in OT, Maple Leafs top Senators 3-2 to grab lead in Battle of Ontario",
+    "url": "https://www.cbc.ca/news/canada/toronto/nhl-playoffs-toronto-maple-leafs-ottawa-senators-1.7515959?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Jury chosen for London, Ont., sexual assault trial of 5 ex-world junior hockey players",
+    "url": "https://www.cbc.ca/news/canada/london/world-junior-hockey-sexual-assault-trial-london-1.7511439?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada's Linkletter eyes 1st marathon win next month in Ottawa after 'surreal' Boston performance",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/rory-linkletter-ottawa-marathon-outlook-boston-marathon-recap-1.7515752?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Importance of NSL comes into focus during its historic opening week",
+    "url": "https://www.cbc.ca/sports/soccer/opinion-shireen-ahmed-nsl-first-week-april22-1.7513852?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada Soccer to honour veteran midfielder Desiree Scott at May friendly in Winnipeg",
+    "url": "https://www.cbc.ca/sports/soccer/desiree-scott-recognition-canada-soccer-may-friendly-winnipeg-1.7515359?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "World Athletics sets 40 per cent rule for women on national boards by 2029",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/world-athletics-female-representation-federation-executive-boards-1.7515588?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Habs comeback bid falls just short in Game 1 overtime loss to Capitals",
+    "url": "https://www.cbc.ca/news/canada/montreal/canadiens-capitals-overtime-playoffs-1.7515147?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Kings hold off Oilers to earn 6-5 win in Game 1",
+    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-kings-game-1-1.7515144?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Connor's game-winner helps Jets soar to 2-0 series lead over Blues",
+    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-st-louis-blues-game-2-1.7515116?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Sports world mourns soccer-loving Pope Francis with games in Italy, Argentina postponed",
+    "url": "https://www.cbc.ca/sports/soccer/sports-world-morns-soccer-loving-pope-francis-1.7514829?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Sharon Lokedi breaks Boston Marathon course record; Canada's Rory Linkletter 6th in men's race",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/boston-marathon-champions-2025-1.7514842?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Vancouver Canucks president floats Hughes brothers unification idea",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-canucks-hughes-reunification-1.7514971?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Former NFL player Shannon Sharpe accused of rape in $50M US civil lawsuit",
+    "url": "https://www.cbc.ca/sports/football/nfl/shannon-sharpe-accused-of-rape-1.7515080?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada's prep for 2026 Olympic women's hockey tournament radically revised",
+    "url": "https://www.cbc.ca/sports/olympics/winter/hockey/canada-prep-for-2026-olympics-womens-hockey-1.7514750?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "After firing head coach Bylsma, Kraken names Francis president of hockey ops, Botterill GM",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/seattle-kraken-fire-dan-bylsma-1.7515014?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Veteran Edmonton Oilers forward Jeff Skinner happy to snap 15-season playoff drought",
+    "url": "https://www.cbc.ca/news/canada/edmonton/veteran-edmonton-oilers-forward-jeff-skinner-happy-to-snap-15-season-playoff-drought-1.7514907?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Atlanta Hawks promote Edmonton's Onsi Saleh to general manager",
+    "url": "https://www.cbc.ca/sports/basketball/hawks-promote-canadas-onsi-saleh-1.7514925?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Battle of Ontario: Stars shine for Leafs in convincing Game 1 victory over Senators",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/maple-leafs-senators-battle-of-ontario-game-1-1.7514738?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Janecke scores in overtime as U.S. beats Canada to win gold at women's hockey worlds",
+    "url": "https://www.cbc.ca/sports/olympics/winter/hockey/canada-united-states-women-hockey-worlds-final-2025-1.7514528?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "In Délı̨nę, N.W.T., Boxing is helping youth stay active and mentally healthy",
+    "url": "https://www.cbc.ca/news/canada/north/deline-boxing-program-helping-with-mental-health-1.7514538?cmp=rss",
+    "category": "Sports"
+  },
+  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
