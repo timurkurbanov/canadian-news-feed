@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Pierre Poilievre isn't pivoting, but he's stepping lightly around a few things",
+    "url": "https://www.cbc.ca/news/politics/poilievre-conservative-platform-analysis-1.7515816?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada election: Former budget watchdog weighs in on Conservative and Liberal platforms",
     "url": "https://www.cbc.ca/news/politics/livestory/canada-election-former-budget-watchdog-weighs-in-on-conservative-and-liberal-platforms-9.6731129?cmp=rss",
     "category": "Politics"
@@ -9,8 +16,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Pierre Poilievre isn't pivoting, but he's stepping lightly around a few things",
-    "url": "https://www.cbc.ca/news/politics/poilievre-conservative-platform-analysis-1.7515816?cmp=rss",
+    "headline": "Record 7.3 million Canadians voted during advance polls: Elections Canada",
+    "url": "https://www.cbc.ca/news/politics/elections-canada-record-advanced-polls-1.7515477?cmp=rss",
     "category": "Politics"
   },
   {
@@ -23,13 +30,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Conservative platform banks on projected revenues to offset $90B in new measures",
-    "url": "https://www.cbc.ca/news/politics/conservative-platform-measures-revenues-cuts-1.7515440?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre reiterates concerns with Liberals' UNDRIP law in Assembly of First Nations forum",
     "url": "https://www.cbc.ca/news/indigenous/poilievre-afn-election-forum-1.7515508?cmp=rss",
     "category": "Politics"
@@ -37,8 +37,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Record 7.3 million Canadians voted during advance polls: Elections Canada",
-    "url": "https://www.cbc.ca/news/politics/elections-canada-record-advanced-polls-1.7515477?cmp=rss",
+    "headline": "Conservative platform banks on projected revenues to offset $90B in new measures",
+    "url": "https://www.cbc.ca/news/politics/conservative-platform-measures-revenues-cuts-1.7515440?cmp=rss",
     "category": "Politics"
   },
   {
@@ -410,6 +410,13 @@
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
     "url": "https://weather.gc.ca/index_e.html",
+    "category": "Weather"
+  },
+  {
+    "source": "weather.gc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
+    "headline": "Current Conditions: Mostly Cloudy, 7.6°C",
+    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
