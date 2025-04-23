@@ -128,13 +128,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "RECAP | Canada election: Health care, home building on the agenda as campaign enters home stretch",
-    "url": "https://www.cbc.ca/news/politics/livestory/recap-canada-election-health-care-home-building-on-the-agenda-as-campaign-enters-home-stretch-9.6730380?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "EU fines Apple 500M euros, Meta 200M euros for breaking competition rules",
     "url": "https://www.cbc.ca/news/business/eu-fines-apple-meta-1.7516164?cmp=rss",
     "category": "Business"
@@ -268,7 +261,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Watch the PWHL expansion announcement",
+    "headline": "Vancouver announced as newest PWHL franchise for 2025-26 season",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-expansion-1.7516319?cmp=rss",
     "category": "Sports"
   },
@@ -291,6 +284,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Czech leaders condemn Russian threats against NHL great Dominik Hasek",
     "url": "https://www.cbc.ca/sports/hockey/nhl/dominik-hasek-russian-threats-war-ukraine-nhl-1.7516264?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "U.S. Center for SafeSport fires CEO in latest sign of crisis for Olympic watchdog",
+    "url": "https://www.cbc.ca/sports/us-center-safesport-ceo-fired-juriese-colon-1.7516502?cmp=rss",
     "category": "Sports"
   },
   {
@@ -408,7 +408,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Sunny, 11.2°C",
+    "headline": "Current Conditions: Mainly Sunny, 12.2°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
