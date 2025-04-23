@@ -2,8 +2,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada election: Poilievre makes campaign stop in Hamilton a day after releasing platform",
+    "headline": "Canada election: Singh set to speak in Edmonton as campaign enters home stretch",
     "url": "https://www.cbc.ca/9.6732535?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Conservatives update platform to include omitted 'anti-woke' promise",
+    "url": "https://www.cbc.ca/news/politics/conservative-woke-platform-oversight-1.7516315?cmp=rss",
     "category": "Politics"
   },
   {
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "RECAP | Canada election: Health care, home building on the agenda as campaign enters home stretch",
     "url": "https://www.cbc.ca/news/politics/livestory/recap-canada-election-health-care-home-building-on-the-agenda-as-campaign-enters-home-stretch-9.6730380?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Pen or pencil? Elections Canada says it doesn't matter when casting a ballot",
-    "url": "https://www.cbc.ca/news/politics/elections-canada-pen-or-pencil-1.7515032?cmp=rss",
     "category": "Politics"
   },
   {
@@ -268,8 +268,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Opening statements set to begin in sexual assault trial of 5 former world junior hockey players",
-    "url": "https://www.cbc.ca/news/canada/london/livestory/opening-statements-set-to-begin-in-sexual-assault-trial-of-5-former-world-junior-hockey-players-9.6732547?cmp=rss",
+    "headline": "Opening statements underway in sexual assault trial of 5 ex-world junior hockey players",
+    "url": "https://www.cbc.ca/news/canada/london/livestory/opening-statements-underway-in-sexual-assault-trial-of-5-ex-world-junior-hockey-players-9.6732547?cmp=rss",
     "category": "Sports"
   },
   {
@@ -408,7 +408,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Sunny, 8.9°C",
+    "headline": "Current Conditions: Mainly Sunny, 10.2°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
