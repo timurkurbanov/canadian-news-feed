@@ -30,6 +30,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'Go Habs! Go!' has got to go: STM to support sports teams en français only",
+    "url": "https://www.cbc.ca/news/canada/montreal/go-habs-go-stm-oqlf-1.7517247?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Kings hammer Oilers to take 2-0 series lead",
     "url": "https://www.cbc.ca/news/canada/edmonton/la-kings-oilers-series-1.7517179?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "World Athletics sets 40 per cent rule for women on national boards by 2029",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/world-athletics-female-representation-federation-executive-boards-1.7515588?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Sports world mourns soccer-loving Pope Francis with games in Italy, Argentina postponed",
-    "url": "https://www.cbc.ca/sports/soccer/sports-world-morns-soccer-loving-pope-francis-1.7514829?cmp=rss",
     "category": "Sports"
   }
 ]
