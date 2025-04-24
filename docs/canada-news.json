@@ -289,8 +289,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Vancouver announced as newest PWHL franchise for 2025-26 season",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-expansion-vancouver-1.7516319?cmp=rss",
+    "headline": "Edmonton Oilers look to regroup after Game 2 loss to L.A. Kings",
+    "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-look-to-regroup-after-game-2-loss-to-l-a-kings-1.7518003?cmp=rss",
     "category": "Sports"
   },
   {
@@ -303,8 +303,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Kempe, Kopitar lead Kings over Oilers for 2-0 advantage in 1st-round series",
-    "url": "https://www.cbc.ca/news/canada/edmonton/la-kings-oilers-series-1.7517179?cmp=rss",
+    "headline": "Vancouver announced as newest PWHL franchise for 2025-26 season",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-expansion-vancouver-1.7516319?cmp=rss",
     "category": "Sports"
   },
   {
@@ -312,6 +312,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "The Curling Group plans to launch professional curling league in 2026",
     "url": "https://www.cbc.ca/sports/olympics/winter/curling/the-curling-group-pro-league-2026-1.7517212?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Kempe, Kopitar lead Kings over Oilers for 2-0 advantage in 1st-round series",
+    "url": "https://www.cbc.ca/news/canada/edmonton/la-kings-oilers-series-1.7517179?cmp=rss",
     "category": "Sports"
   },
   {
@@ -396,13 +403,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Jury chosen for London, Ont., sexual assault trial of 5 ex-world junior hockey players",
     "url": "https://www.cbc.ca/news/canada/london/world-junior-hockey-sexual-assault-trial-london-1.7511439?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian hockey fans travel to U.S. with mixed feelings to support NHL teams",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/canadian-hockey-fans-travel-to-u-s-with-mixed-feelings-to-support-nhl-teams-1.7516155?cmp=rss",
     "category": "Sports"
   },
   {
