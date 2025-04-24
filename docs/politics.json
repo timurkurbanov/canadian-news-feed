@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada election: Leaders on campaign trail respond after Trump revives ‘51st state’ rhetoric",
+    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-leaders-on-campaign-trail-respond-after-trump-revives-51st-state-rhetoric-9.6734073?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Trump reinserts himself into Canadian politics, saying 'as a state, it works great'",
     "url": "https://www.cbc.ca/news/politics/trump-canada-politics-1.7516951?cmp=rss",
     "category": "Politics"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Conservative platform banks on projected revenues to offset $106B in new measures",
     "url": "https://www.cbc.ca/news/politics/conservative-platform-measures-revenues-cuts-1.7515440?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "New Conservative ads aimed at older men show golfers, Harper but no Poilievre",
-    "url": "https://www.cbc.ca/news/politics/last-week-ad-campaigns-conservative-ads-no-pierre-poilievre-1.7514897?cmp=rss",
     "category": "Politics"
   }
 ]
