@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Trump says he might lower tariffs on China. Unless the number comes way down, experts say it won't matter",
+    "url": "https://www.cbc.ca/news/business/trump-tariffs-china-lowered-1.7517966?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "How can we rebuild the Canadian economy? Business leaders say there are 4 priorities",
     "url": "https://www.cbc.ca/news/business/armstrong-economy-election-four-things-1.7516454?cmp=rss",
     "category": "Business"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "'No options' on tariffs without more time, says company importing from U.S.",
     "url": "https://www.cbc.ca/news/business/canada-tariffs-hurt-manufacturer-1.7513049?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Tax documents missing? A new CRA process is still posing issues as filing deadline approaches",
-    "url": "https://www.cbc.ca/news/business/missing-tax-documents-1.7512795?cmp=rss",
     "category": "Business"
   }
 ]
