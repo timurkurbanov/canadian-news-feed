@@ -275,8 +275,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Sex assault trial for ex-world junior hockey players to resume after unexpected turn on opening day",
+    "url": "https://www.cbc.ca/news/canada/london/livestory/sex-assault-trial-for-ex-world-junior-hockey-players-to-resume-after-unexpected-turn-on-opening-day-9.6734199?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Vancouver announced as newest PWHL franchise for 2025-26 season",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-expansion-vancouver-1.7516319?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Long before PWHL expansion, the Vancouver Griffins were the city's 1st women's pro hockey team",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-griffins-womens-hockey-1.7517137?cmp=rss",
     "category": "Sports"
   },
   {
@@ -289,8 +303,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "RECAP | Sexual assault trial of ex-world junior hockey players unexpectedly adjourned for the day",
-    "url": "https://www.cbc.ca/news/canada/london/livestory/recap-sexual-assault-trial-of-ex-world-junior-hockey-players-unexpectedly-adjourned-for-the-day-9.6732547?cmp=rss",
+    "headline": "Diallo delivers strong start, win for Canada after late entry into Madrid Open main draw",
+    "url": "https://www.cbc.ca/sports/tennis/diallo-fernandez-alcaraz-madrid-open-roundup-april24-1.7517360?cmp=rss",
     "category": "Sports"
   },
   {
@@ -392,20 +406,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Sharon Lokedi breaks Boston Marathon course record; Canada's Rory Linkletter 6th in men's race",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/boston-marathon-champions-2025-1.7514842?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Vancouver Canucks president floats Hughes brothers unification idea",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-canucks-hughes-reunification-1.7514971?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -415,7 +415,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Partly Cloudy, 6.9°C",
+    "headline": "Current Conditions: Partly Cloudy, 8.0°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
