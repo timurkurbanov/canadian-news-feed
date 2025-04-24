@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Tensions with N.S. premier simmered as Poilievre made his sole stop in the province",
+    "url": "https://www.cbc.ca/news/politics/houston-poilievre-election-1.7518196?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "RECAP | Canada election: Carney confirms Trump made ‘51st state’ comment during 1st call",
     "url": "https://www.cbc.ca/news/politics/livestory/recap-canada-election-carney-confirms-trump-made-51st-state-comment-during-1st-call-9.6734073?cmp=rss",
     "category": "Politics"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "I promised my American wife Canada was safe for queer couples. I'll vote to keep it that way",
     "url": "https://www.cbc.ca/news/canada/canada-rising-anti-trans-rhetoric-first-person-1.7503747?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Singh urges New Democrats to 'hold the line' in key battleground ridings",
-    "url": "https://www.cbc.ca/news/politics/singh-urges-new-democrats-to-hold-the-line-in-key-battleground-ridings-1.7516160?cmp=rss",
     "category": "Politics"
   }
 ]
