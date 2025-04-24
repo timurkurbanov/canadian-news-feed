@@ -275,6 +275,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Los Angeles Kings hammer Oilers 6-2 to take a 2-0 series lead",
+    "url": "https://www.cbc.ca/news/canada/edmonton/la-kings-oilers-series-1.7517179?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "RECAP | Sexual assault trial of ex-world junior hockey players unexpectedly adjourned for the day",
     "url": "https://www.cbc.ca/news/canada/london/livestory/recap-sexual-assault-trial-of-ex-world-junior-hockey-players-unexpectedly-adjourned-for-the-day-9.6732547?cmp=rss",
     "category": "Sports"
@@ -396,13 +403,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "After firing head coach Bylsma, Kraken names Francis president of hockey ops, Botterill GM",
     "url": "https://www.cbc.ca/sports/hockey/nhl/seattle-kraken-fire-dan-bylsma-1.7515014?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Atlanta Hawks promote Edmonton's Onsi Saleh to general manager",
-    "url": "https://www.cbc.ca/sports/basketball/hawks-promote-canadas-onsi-saleh-1.7514925?cmp=rss",
     "category": "Sports"
   },
   {
