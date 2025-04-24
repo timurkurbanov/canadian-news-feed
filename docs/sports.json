@@ -16,6 +16,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadiens in 2-0 hole after hard-fought losses: 'Margin of error is so slim'",
+    "url": "https://www.cbc.ca/news/canada/montreal/canadiens-game-2-loss-capitals-1.7517115?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Kings hammer Oilers to take 2-0 series lead",
+    "url": "https://www.cbc.ca/news/canada/edmonton/la-kings-oilers-series-1.7517179?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Vancouver announced as newest PWHL franchise for 2025-26 season",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-expansion-vancouver-1.7516319?cmp=rss",
     "category": "Sports"
@@ -30,22 +44,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'Go Habs! Go!' has got to go: STM to support sports teams en français only",
+    "headline": "'Go Habs Go' has got to go: STM to support sports teams en français only",
     "url": "https://www.cbc.ca/news/canada/montreal/go-habs-go-stm-oqlf-1.7517247?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Kings hammer Oilers to take 2-0 series lead",
-    "url": "https://www.cbc.ca/news/canada/edmonton/la-kings-oilers-series-1.7517179?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Diallo delivers strong start, win for Canada after late entry into Madrid Open main draw",
-    "url": "https://www.cbc.ca/sports/tennis/diallo-fernandez-alcaraz-madrid-open-roundup-april24-1.7517360?cmp=rss",
     "category": "Sports"
   },
   {
@@ -58,8 +58,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadiens in 2-0 hole after hard-fought losses: 'Margin of error is so slim'",
-    "url": "https://www.cbc.ca/news/canada/montreal/canadiens-game-2-loss-capitals-1.7517115?cmp=rss",
+    "headline": "Diallo delivers strong start, win for Canada after late entry into Madrid Open main draw",
+    "url": "https://www.cbc.ca/sports/tennis/diallo-fernandez-alcaraz-madrid-open-roundup-april24-1.7517360?cmp=rss",
     "category": "Sports"
   },
   {
