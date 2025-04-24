@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Trump talked about the '51st state' during call with Carney: Radio-Canada sources",
+    "url": "https://www.cbc.ca/news/politics/carney-trump-51st-state-1.7517252?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "How can we rebuild the Canadian economy? Business leaders say there are 4 priorities",
     "url": "https://www.cbc.ca/news/business/armstrong-economy-election-four-things-1.7516454?cmp=rss",
     "category": "Politics"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Record 7.3 million Canadians voted during advance polls: Elections Canada",
     "url": "https://www.cbc.ca/news/politics/elections-canada-record-advanced-polls-1.7515477?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre reiterates concerns with Liberals' UNDRIP law in Assembly of First Nations forum",
-    "url": "https://www.cbc.ca/news/indigenous/poilievre-afn-election-forum-1.7515508?cmp=rss",
     "category": "Politics"
   }
 ]
