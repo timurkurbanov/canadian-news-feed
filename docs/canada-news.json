@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "How can we rebuild the Canadian economy? Business leaders say there are 4 priorities",
+    "url": "https://www.cbc.ca/news/business/armstrong-economy-election-four-things-1.7516454?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Trump reinserts himself into Canadian politics, saying 'as a state, it works great'",
     "url": "https://www.cbc.ca/news/politics/trump-canada-politics-1.7516951?cmp=rss",
     "category": "Politics"
@@ -128,9 +135,9 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Conservative platform banks on projected revenues to offset $106B in new measures",
-    "url": "https://www.cbc.ca/news/politics/conservative-platform-measures-revenues-cuts-1.7515440?cmp=rss",
-    "category": "Politics"
+    "headline": "How can we rebuild the Canadian economy? Business leaders say there are 4 priorities",
+    "url": "https://www.cbc.ca/news/business/armstrong-economy-election-four-things-1.7516454?cmp=rss",
+    "category": "Business"
   },
   {
     "source": "cbc",
@@ -256,13 +263,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "The U.S.-China trade war is escalating. But China may have more leverage than the U.S. thought",
     "url": "https://www.cbc.ca/news/world/us-china-trade-war-1.7512114?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Google has illegal monopoly in online ad tech, U.S. judge rules",
-    "url": "https://www.cbc.ca/news/business/google-adtech-ruling-1.7512889?cmp=rss",
     "category": "Business"
   },
   {
