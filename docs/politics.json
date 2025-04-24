@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "1 in 4 Quebec NDP candidates have little presence just days before election",
+    "url": "https://www.cbc.ca/news/canada/montreal/ndp-quebec-paper-candidates-1.7518001?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "How can we rebuild the Canadian economy? Business leaders say there are 4 priorities",
     "url": "https://www.cbc.ca/news/business/armstrong-economy-election-four-things-1.7516454?cmp=rss",
     "category": "Politics"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Conservatives say Carney is 'just like Justin.' Do they have a case?",
     "url": "https://www.cbc.ca/news/politics/mark-carney-justin-trudeau-conservatives-1.7515244?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Pierre Poilievre isn't pivoting, but he's stepping lightly around a few things",
-    "url": "https://www.cbc.ca/news/politics/poilievre-conservative-platform-analysis-1.7515816?cmp=rss",
     "category": "Politics"
   }
 ]
