@@ -289,6 +289,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "New CFL commissioner Stewart Johnston says league in 'strong place'",
+    "url": "https://www.cbc.ca/sports/football/cfl/stewart-johnston-cfl-commissioner-tenure-begins-1.7518130?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Edmonton Oilers look to regroup after Game 2 loss to L.A. Kings",
     "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-look-to-regroup-after-game-2-loss-to-l-a-kings-1.7518003?cmp=rss",
     "category": "Sports"
@@ -296,15 +303,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Goalkeeper Erin McLeod, 42, embracing challenge and enjoying life in Northern Super League",
-    "url": "https://www.cbc.ca/sports/soccer/erin-mcleod-halifax-tides-northern-super-league-1.7517556?cmp=rss",
+    "headline": "Vancouver announced as newest PWHL franchise for 2025-26 season",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-expansion-vancouver-1.7516319?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Vancouver announced as newest PWHL franchise for 2025-26 season",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-expansion-vancouver-1.7516319?cmp=rss",
+    "headline": "Goalkeeper Erin McLeod, 42, embracing challenge and enjoying life in Northern Super League",
+    "url": "https://www.cbc.ca/sports/soccer/erin-mcleod-halifax-tides-northern-super-league-1.7517556?cmp=rss",
     "category": "Sports"
   },
   {
@@ -399,13 +406,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Jury chosen for London, Ont., sexual assault trial of 5 ex-world junior hockey players",
-    "url": "https://www.cbc.ca/news/canada/london/world-junior-hockey-sexual-assault-trial-london-1.7511439?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -415,7 +415,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 16.9°C",
+    "headline": "Current Conditions: Partly Cloudy, 17.5°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
