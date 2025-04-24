@@ -30,6 +30,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "How does Elections Canada keep your votes secure?",
+    "url": "https://www.cbc.ca/news/politics/elections-canada-votes-security-1.7516798?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney, touring B.C. battlegrounds, says trade talks with Trump should happen face-to-face",
     "url": "https://www.cbc.ca/news/canada/british-columbia/carney-trade-talks-1.7516919?cmp=rss",
     "category": "Politics"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada election: Former budget watchdog weighs in on Conservative and Liberal platforms",
     "url": "https://www.cbc.ca/news/politics/livestory/canada-election-former-budget-watchdog-weighs-in-on-conservative-and-liberal-platforms-9.6731129?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Record 7.3 million Canadians voted during advance polls: Elections Canada",
-    "url": "https://www.cbc.ca/news/politics/elections-canada-record-advanced-polls-1.7515477?cmp=rss",
     "category": "Politics"
   }
 ]
