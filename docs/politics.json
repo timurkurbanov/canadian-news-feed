@@ -9,8 +9,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney says Trump raised '51st state' during their call but 'the president says a lot of things'",
-    "url": "https://www.cbc.ca/news/politics/carney-trump-51st-state-1.7517252?cmp=rss",
+    "headline": "Red ripple in blue Calgary? Liberals eye record gains in Conservative stronghold",
+    "url": "https://www.cbc.ca/news/canada/calgary/liberals-calgary-hoping-four-seats-analysis-1.7517076?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Catherine McKenna defends Mark Carney after details emerge about his Trump call",
+    "url": "https://www.cbc.ca/radio/asithappens/catherine-mckenna-mark-carney-1.7518016?cmp=rss",
     "category": "Politics"
   },
   {
@@ -18,6 +25,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "In his closing pitch, Poilievre paints a dark picture of Canada if Liberals are re-elected",
     "url": "https://www.cbc.ca/news/politics/poilievre-dark-picture-closing-pitch-1.7517815?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney says Trump raised '51st state' during their call but 'the president says a lot of things'",
+    "url": "https://www.cbc.ca/news/politics/carney-trump-51st-state-1.7517252?cmp=rss",
     "category": "Politics"
   },
   {
@@ -116,20 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Singh urges New Democrats to 'hold the line' in key battleground ridings",
     "url": "https://www.cbc.ca/news/politics/singh-urges-new-democrats-to-hold-the-line-in-key-battleground-ridings-1.7516160?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "What will it take to defend Canada? Experts say party platforms miss the target",
-    "url": "https://www.cbc.ca/news/politics/conservative-liberal-defence-platforms-analysis-1.7516003?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Conservatives say Carney is 'just like Justin.' Do they have a case?",
-    "url": "https://www.cbc.ca/news/politics/mark-carney-justin-trudeau-conservatives-1.7515244?cmp=rss",
     "category": "Politics"
   }
 ]
