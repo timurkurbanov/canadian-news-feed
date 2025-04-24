@@ -2,15 +2,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada election: Carney confirms Trump made ‘51st state’ comment during 1st call",
-    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-carney-confirms-trump-made-51st-state-comment-during-1st-call-9.6734073?cmp=rss",
+    "headline": "RECAP | Canada election: Carney confirms Trump made ‘51st state’ comment during 1st call",
+    "url": "https://www.cbc.ca/news/politics/livestory/recap-canada-election-carney-confirms-trump-made-51st-state-comment-during-1st-call-9.6734073?cmp=rss",
     "category": "Politics"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump talked about the '51st state' during call with Carney: Radio-Canada sources",
+    "headline": "Carney says Trump raised '51st state' during their call but 'the president says a lot of things'",
     "url": "https://www.cbc.ca/news/politics/carney-trump-51st-state-1.7517252?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "In his closing pitch, Poilievre paints a dark picture of Canada if Liberals are re-elected",
+    "url": "https://www.cbc.ca/news/politics/poilievre-dark-picture-closing-pitch-1.7517815?cmp=rss",
     "category": "Politics"
   },
   {
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Pierre Poilievre isn't pivoting, but he's stepping lightly around a few things",
     "url": "https://www.cbc.ca/news/politics/poilievre-conservative-platform-analysis-1.7515816?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre says a government report predicts a 'terrifying' 2040. Here's what it actually says",
-    "url": "https://www.cbc.ca/news/politics/policy-horizons-report-2040-poilievre-1.7515683?cmp=rss",
     "category": "Politics"
   },
   {
@@ -282,8 +282,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Sexual assault trial for ex-world junior hockey players held up as judge, lawyers discuss procedure",
-    "url": "https://www.cbc.ca/news/canada/london/livestory/sexual-assault-trial-for-ex-world-junior-hockey-players-held-up-as-judge-lawyers-discuss-procedure-9.6734199?cmp=rss",
+    "headline": "RECAP | Sexual assault trial for ex-world junior hockey players paused as judge mulls way forward",
+    "url": "https://www.cbc.ca/news/canada/london/livestory/recap-sexual-assault-trial-for-ex-world-junior-hockey-players-paused-as-judge-mulls-way-forward-9.6734199?cmp=rss",
     "category": "Sports"
   },
   {
@@ -415,7 +415,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Partly Cloudy, 17.1°C",
+    "headline": "Current Conditions: Mostly Cloudy, 18.2°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
