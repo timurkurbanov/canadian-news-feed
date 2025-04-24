@@ -142,6 +142,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Dow delays plans for $8.9B net-zero project in Alberta's Industrial Heartland",
+    "url": "https://www.cbc.ca/news/canada/edmonton/dow-petrochemical-plant-alberta-1.7517545?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "A 'madman' penalty: Are Trump's actions eroding U.S. economic power?",
     "url": "https://www.cbc.ca/news/world/us-economic-woes-1.7516842?cmp=rss",
     "category": "Business"
@@ -256,13 +263,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Tax documents missing? A new CRA process is still posing issues as filing deadline approaches",
     "url": "https://www.cbc.ca/news/business/missing-tax-documents-1.7512795?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "The U.S.-China trade war is escalating. But China may have more leverage than the U.S. thought",
-    "url": "https://www.cbc.ca/news/world/us-china-trade-war-1.7512114?cmp=rss",
     "category": "Business"
   },
   {
