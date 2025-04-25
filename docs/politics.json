@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada election: Leaders make their pitches in ridings across the country as campaign enters final days",
+    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-leaders-make-their-pitches-in-ridings-across-the-country-as-campaign-enters-final-days-9.6735575?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Tensions with N.S. premier simmered as Poilievre made his sole stop in the province",
     "url": "https://www.cbc.ca/news/politics/houston-poilievre-election-1.7518196?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Conservatives update platform to include omitted 'anti-woke' promise",
     "url": "https://www.cbc.ca/news/politics/conservative-woke-platform-oversight-1.7516315?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre promises to let police dismantle encampments, arrest occupants",
-    "url": "https://www.cbc.ca/news/politics/poilievre-public-order-dismantle-encampments-1.7516297?cmp=rss",
     "category": "Politics"
   }
 ]
