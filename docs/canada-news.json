@@ -142,6 +142,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "China exempts some U.S. imports from 125% tariff rate",
+    "url": "https://www.cbc.ca/news/business/china-tariff-exemptions-1.7518434?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "U.S. booze boycott becomes a much-needed boon for B.C. wineries",
     "url": "https://www.cbc.ca/news/business/bakx-bc-wine-us-tariffs-booze-boycott-1.7517793?cmp=rss",
     "category": "Business"
@@ -263,13 +270,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Stock markets tumble as investors pull back from American assets",
     "url": "https://www.cbc.ca/news/business/stock-market-1.7514966?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Tariffs threaten cross-border family business where Canadians collect their U.S. packages",
-    "url": "https://www.cbc.ca/news/canada/montreal/tariffs-halfway-house-freight-forwarding-1.7513601?cmp=rss",
     "category": "Business"
   },
   {
