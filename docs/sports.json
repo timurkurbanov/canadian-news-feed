@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Edmonton Oilers tap Calvin Pickard for Game 3 start against L.A. Kings",
+    "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-tap-calvin-pickard-for-game-3-start-against-l-a-kings-1.7518924?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's Auger-Aliassime ousted in straight sets at Madrid Open",
     "url": "https://www.cbc.ca/sports/tennis/madrid-open-roundup-april25-1.7518532?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Importance of NSL comes into focus during its historic opening week",
     "url": "https://www.cbc.ca/sports/soccer/opinion-shireen-ahmed-nsl-first-week-april22-1.7513852?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian hockey fans travel to U.S. with mixed feelings to support NHL teams",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/canadian-hockey-fans-travel-to-u-s-with-mixed-feelings-to-support-nhl-teams-1.7516155?cmp=rss",
     "category": "Sports"
   }
 ]
