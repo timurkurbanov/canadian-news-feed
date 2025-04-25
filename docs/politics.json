@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney says he's open to a review of Canada's broken access to information system",
+    "url": "https://www.cbc.ca/news/politics/carney-access-to-information-1.7518620?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Tensions with N.S. premier simmered as Poilievre made his sole stop in the province",
     "url": "https://www.cbc.ca/news/politics/houston-poilievre-election-1.7518196?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Top election issues shifting from U.S. threats to affordability, health care, Vote Compass data suggests",
     "url": "https://www.cbc.ca/news/politics/vote-compass-election-issues-1.7516039?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'DOGE' and 'DOGE-lite': Public service unions react to costed federal party platforms",
-    "url": "https://www.cbc.ca/news/canada/ottawa/federal-public-service-unions-costed-platforms-1.7516396?cmp=rss",
     "category": "Politics"
   }
 ]
