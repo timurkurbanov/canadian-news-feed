@@ -30,6 +30,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poilievre's Carleton riding had the most advanced votes in Canada",
+    "url": "https://www.cbc.ca/news/canada/ottawa/advance-vote-federal-ottawa-carleton-nepean-2025-1.7518504?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Why have federal party leaders spent little time in Alberta this election?",
     "url": "https://www.cbc.ca/news/canada/edmonton/why-have-federal-party-leaders-spent-little-time-in-alberta-this-election-1.7518117?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "'DOGE' and 'DOGE-lite': Public service unions react to costed federal party platforms",
     "url": "https://www.cbc.ca/news/canada/ottawa/federal-public-service-unions-costed-platforms-1.7516396?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Conservatives update platform to include omitted 'anti-woke' promise",
-    "url": "https://www.cbc.ca/news/politics/conservative-woke-platform-oversight-1.7516315?cmp=rss",
     "category": "Politics"
   }
 ]
