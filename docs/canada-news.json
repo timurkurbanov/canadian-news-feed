@@ -2,8 +2,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada election: Leaders make their pitches in ridings across the country as campaign enters final days",
-    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-leaders-make-their-pitches-in-ridings-across-the-country-as-campaign-enters-final-days-9.6735575?cmp=rss",
+    "headline": "Canada election: Voters will be choosing ‘who stands up for them,’ Carney says at Ontario campaign stop",
+    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-voters-will-be-choosing-who-stands-up-for-them-carney-says-at-ontario-campaign-stop-9.6735575?cmp=rss",
     "category": "Politics"
   },
   {
@@ -282,6 +282,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada's Auger-Aliassime ousted in straight sets at Madrid Open",
+    "url": "https://www.cbc.ca/sports/tennis/madrid-open-roundup-april25-1.7518532?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Maple Leafs take 3-0 lead over Senators in Battle of Ontario",
     "url": "https://www.cbc.ca/news/canada/ottawa/maple-leafs-take-3-0-lead-over-senators-in-battle-of-ontario-1.7517956?cmp=rss",
     "category": "Sports"
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Senators back on home ice for playoffs after 8-year drought",
-    "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-sens-playoff-game-1.7516639?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 9.6°C",
+    "headline": "Current Conditions: Mostly Cloudy, 10.5°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
