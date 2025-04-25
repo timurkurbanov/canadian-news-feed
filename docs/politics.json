@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Green Party applies for judicial review after being kicked out of leaders' debates",
+    "url": "https://www.cbc.ca/news/politics/green-party-legal-application-debates-1.7518215?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Red ripple in blue Calgary? Liberals eye record gains in Conservative stronghold",
     "url": "https://www.cbc.ca/news/canada/calgary/liberals-calgary-hoping-four-seats-analysis-1.7517076?cmp=rss",
     "category": "Politics"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre promises to let police dismantle encampments, arrest occupants",
     "url": "https://www.cbc.ca/news/politics/poilievre-public-order-dismantle-encampments-1.7516297?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "I promised my American wife Canada was safe for queer couples. I'll vote to keep it that way",
-    "url": "https://www.cbc.ca/news/canada/canada-rising-anti-trans-rhetoric-first-person-1.7503747?cmp=rss",
     "category": "Politics"
   }
 ]

@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Green Party applies for judicial review after being kicked out of leaders' debates",
+    "url": "https://www.cbc.ca/news/politics/green-party-legal-application-debates-1.7518215?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Red ripple in blue Calgary? Liberals eye record gains in Conservative stronghold",
     "url": "https://www.cbc.ca/news/canada/calgary/liberals-calgary-hoping-four-seats-analysis-1.7517076?cmp=rss",
     "category": "Politics"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre promises to let police dismantle encampments, arrest occupants",
     "url": "https://www.cbc.ca/news/politics/poilievre-public-order-dismantle-encampments-1.7516297?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "I promised my American wife Canada was safe for queer couples. I'll vote to keep it that way",
-    "url": "https://www.cbc.ca/news/canada/canada-rising-anti-trans-rhetoric-first-person-1.7503747?cmp=rss",
     "category": "Politics"
   },
   {
@@ -268,6 +268,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Maple Leafs take 3-0 lead over Senators in Battle of Ontario",
+    "url": "https://www.cbc.ca/news/canada/ottawa/maple-leafs-take-3-0-lead-over-senators-in-battle-of-ontario-1.7517956?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Will a Canadian university QB get picked in the NFL draft?",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-nfl-draft-canadians-1.7518048?cmp=rss",
     "category": "Sports"
@@ -399,13 +406,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Importance of NSL comes into focus during its historic opening week",
-    "url": "https://www.cbc.ca/sports/soccer/opinion-shireen-ahmed-nsl-first-week-april22-1.7513852?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -415,7 +415,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 13.4°C",
+    "headline": "Current Conditions: Mostly Cloudy, 12.5°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
