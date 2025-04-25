@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Why have federal party leaders spent little time in Alberta this election?",
+    "url": "https://www.cbc.ca/news/canada/edmonton/why-have-federal-party-leaders-spent-little-time-in-alberta-this-election-1.7518117?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Red ripple in blue Calgary? Liberals eye record gains in Conservative stronghold",
     "url": "https://www.cbc.ca/news/canada/calgary/liberals-calgary-hoping-four-seats-analysis-1.7517076?cmp=rss",
     "category": "Politics"
@@ -289,13 +296,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Will a Canadian university QB get picked in the NFL draft?",
-    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-nfl-draft-canadians-1.7518048?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "French skier, 18, dies after crash in training at Val d'Isere",
     "url": "https://www.cbc.ca/sports/olympics/winter/alpine-skiing/french-skier-dies-training-crash-val-disere-1.7518433?cmp=rss",
     "category": "Sports"
@@ -305,6 +305,20 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada looking for 1st mixed doubles curling world championship",
     "url": "https://www.cbc.ca/sports/olympics/winter/curling/world-mixed-doubles-curling-canada-2025-preview-1.7513393?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Titans take QB Cam Ward No. 1 in NFL draft",
+    "url": "https://www.cbc.ca/sports/football/nfl/nfl-draft-recap-april25-1.7518441?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Will a Canadian university QB get picked in the NFL draft?",
+    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-nfl-draft-canadians-1.7518048?cmp=rss",
     "category": "Sports"
   },
   {
@@ -399,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Czech leaders condemn Russian threats against NHL great Dominik Hasek",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/dominik-hasek-russian-threats-war-ukraine-nhl-1.7516264?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -415,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 9.2°C",
+    "headline": "Current Conditions: Mostly Cloudy, 9.6°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

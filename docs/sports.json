@@ -23,13 +23,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Will a Canadian university QB get picked in the NFL draft?",
-    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-nfl-draft-canadians-1.7518048?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "French skier, 18, dies after crash in training at Val d'Isere",
     "url": "https://www.cbc.ca/sports/olympics/winter/alpine-skiing/french-skier-dies-training-crash-val-disere-1.7518433?cmp=rss",
     "category": "Sports"
@@ -39,6 +32,20 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada looking for 1st mixed doubles curling world championship",
     "url": "https://www.cbc.ca/sports/olympics/winter/curling/world-mixed-doubles-curling-canada-2025-preview-1.7513393?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Titans take QB Cam Ward No. 1 in NFL draft",
+    "url": "https://www.cbc.ca/sports/football/nfl/nfl-draft-recap-april25-1.7518441?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Will a Canadian university QB get picked in the NFL draft?",
+    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-nfl-draft-canadians-1.7518048?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Senators back on home ice for playoffs after 8-year drought",
     "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-sens-playoff-game-1.7516639?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Czech leaders condemn Russian threats against NHL great Dominik Hasek",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/dominik-hasek-russian-threats-war-ukraine-nhl-1.7516264?cmp=rss",
     "category": "Sports"
   }
 ]
