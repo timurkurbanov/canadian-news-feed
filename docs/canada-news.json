@@ -275,6 +275,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Mistrial declared in sex assault case against 5 ex-world junior hockey players in London, Ont.",
+    "url": "https://www.cbc.ca/news/canada/london/mistrial-declared-in-sex-assault-case-against-5-ex-world-junior-hockey-players-in-london-ont-1.7518317?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What you need to know about (and how to watch) Diamond League track & field",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/athletics-diamond-league-2025-faq-explainer-1.7511471?cmp=rss",
     "category": "Sports"
@@ -331,13 +338,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "No evidence heard at sexual assault trial for ex-world junior hockey players in London, Ont.",
-    "url": "https://www.cbc.ca/news/canada/london/london-hockey-canada-trial-april24-1.7518027?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "New CFL commissioner Stewart Johnston says league in 'strong place'",
     "url": "https://www.cbc.ca/sports/football/cfl/stewart-johnston-cfl-commissioner-tenure-begins-1.7518130?cmp=rss",
     "category": "Sports"
@@ -373,20 +373,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Kempe, Kopitar lead Kings over Oilers for 2-0 advantage in 1st-round series",
-    "url": "https://www.cbc.ca/news/canada/edmonton/la-kings-oilers-series-1.7517179?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadiens in 2-0 hole after hard-fought losses: 'Margin of error is so slim'",
-    "url": "https://www.cbc.ca/news/canada/montreal/canadiens-game-2-loss-capitals-1.7517115?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Long before PWHL expansion, the Vancouver Griffins were the city's 1st women's pro hockey team",
     "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-griffins-womens-hockey-1.7517137?cmp=rss",
     "category": "Sports"
@@ -394,22 +380,36 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Go! Habs Go! has got to go: STM to support sports teams en français only",
-    "url": "https://www.cbc.ca/news/canada/montreal/go-habs-go-stm-oqlf-1.7517247?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Diallo delivers strong start, win for Canada after late entry into Madrid Open main draw",
-    "url": "https://www.cbc.ca/sports/tennis/diallo-fernandez-alcaraz-madrid-open-roundup-april24-1.7517360?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "U.S. Center for SafeSport fires CEO in latest sign of crisis for Olympic watchdog",
     "url": "https://www.cbc.ca/sports/us-center-safesport-ceo-fired-juriese-colon-1.7516502?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Czech leaders condemn Russian threats against NHL great Dominik Hasek",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/dominik-hasek-russian-threats-war-ukraine-nhl-1.7516264?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada's Linkletter eyes 1st marathon win next month in Ottawa after 'surreal' Boston performance",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/rory-linkletter-ottawa-marathon-outlook-boston-marathon-recap-1.7515752?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Importance of NSL comes into focus during its historic opening week",
+    "url": "https://www.cbc.ca/sports/soccer/opinion-shireen-ahmed-nsl-first-week-april22-1.7513852?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadian hockey fans travel to U.S. with mixed feelings to support NHL teams",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/canadian-hockey-fans-travel-to-u-s-with-mixed-feelings-to-support-nhl-teams-1.7516155?cmp=rss",
     "category": "Sports"
   },
   {
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 10.5°C",
+    "headline": "Current Conditions: Mostly Cloudy, 11.6°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
