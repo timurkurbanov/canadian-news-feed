@@ -296,6 +296,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Chebet, Duplantis, Jackson shine in Diamond League opener in China",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/athletics-diamond-league-xiamen-2025-sarah-mitton-1.7519439?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Oilers score 4 goals in 3rd period to take down Kings in Game 3",
     "url": "https://www.cbc.ca/news/canada/edmonton/oilers-kings-game-3-recap-1.7519478?cmp=rss",
     "category": "Sports"
@@ -305,13 +312,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What to watch this weekend in sports",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-lookahead-april-25-1.7519076?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Chebet, Duplantis, Jackson shine in Diamond League opener in China",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/athletics-diamond-league-xiamen-2025-sarah-mitton-1.7519439?cmp=rss",
     "category": "Sports"
   },
   {
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Drizzle, 8.1°C",
+    "headline": "Current Conditions: Cloudy, 8.1°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
