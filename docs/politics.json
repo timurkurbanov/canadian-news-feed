@@ -30,6 +30,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Got accessibility issues with voting? Here's what you might need to know",
+    "url": "https://www.cbc.ca/news/canada/saskatchewan/accessible-voting-canada-federal-election-1.7518090?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney condemns Israeli blockade on food to Gaza",
     "url": "https://www.cbc.ca/news/politics/mark-carney-gaza-blockade-1.7519408?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "In his closing pitch, Poilievre paints a dark picture of Canada if Liberals are re-elected",
     "url": "https://www.cbc.ca/news/politics/poilievre-dark-picture-closing-pitch-1.7517815?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney says Trump raised '51st state' during their call but 'the president says a lot of things'",
-    "url": "https://www.cbc.ca/news/politics/carney-trump-51st-state-1.7517252?cmp=rss",
     "category": "Politics"
   }
 ]
