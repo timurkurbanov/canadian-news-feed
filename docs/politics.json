@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Party leaders campaign in Ontario, B.C. battlegrounds as election day nears",
+    "url": "https://www.cbc.ca/news/politics/party-leaders-battlegrounds-election-1.7519605?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "A consequential election ends with a stark choice and an uncertain future",
     "url": "https://www.cbc.ca/news/politics/election-carney-poilievre-trump-analysis-1.7519010?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Why have federal party leaders spent little time in Alberta this election?",
     "url": "https://www.cbc.ca/news/canada/edmonton/why-have-federal-party-leaders-spent-little-time-in-alberta-this-election-1.7518117?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Red ripple in blue Calgary? Liberals eye record gains in Conservative stronghold",
-    "url": "https://www.cbc.ca/news/canada/calgary/liberals-calgary-hoping-four-seats-analysis-1.7517076?cmp=rss",
     "category": "Politics"
   }
 ]
