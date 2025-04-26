@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ashton Bell helps Charge ring up Victoire 3-1; Ottawa closes in on PWHL playoff spot",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-montreal-victoire-ottawa-charge-april-26-1.7519611?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada looking for 1st mixed doubles curling world championship",
     "url": "https://www.cbc.ca/sports/olympics/winter/curling/world-mixed-doubles-curling-canada-2025-preview-1.7513393?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Will a Canadian university QB get picked in the NFL draft?",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-nfl-draft-canadians-1.7518048?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Edmonton Oilers tap Calvin Pickard for Game 3 start against L.A. Kings",
-    "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-tap-calvin-pickard-for-game-3-start-against-l-a-kings-1.7518924?cmp=rss",
     "category": "Sports"
   }
 ]
