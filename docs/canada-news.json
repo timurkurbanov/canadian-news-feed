@@ -324,6 +324,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Watch the PWHL: Toronto Sceptres vs. Boston Fleet",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-toronto-sceptres-boston-fleet-april-26-1.7519433?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada looking for 1st mixed doubles curling world championship",
     "url": "https://www.cbc.ca/sports/olympics/winter/curling/world-mixed-doubles-curling-canada-2025-preview-1.7513393?cmp=rss",
     "category": "Sports"
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Goalkeeper Erin McLeod, 42, embracing challenge and enjoying life in Northern Super League",
-    "url": "https://www.cbc.ca/sports/soccer/erin-mcleod-halifax-tides-northern-super-league-1.7517556?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Drizzle, 7.8°C",
+    "headline": "Current Conditions: Light Drizzle, 7.3°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
