@@ -310,6 +310,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Shapovalov, Diallo advance at Madrid Open; Dabrowski and Routliffe upset at doubles",
+    "url": "https://www.cbc.ca/sports/tennis/madrid-open-roundup-april25-1.7519708?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ottawa Rapid FC players look to make community impact",
     "url": "https://www.cbc.ca/sports/soccer/northern-super-league-ottawa-rapid-community-impact-april-26-1.7519689?cmp=rss",
     "category": "Sports"
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Titans take QB Cam Ward No. 1 in NFL draft",
-    "url": "https://www.cbc.ca/sports/football/nfl/nfl-draft-recap-april25-1.7518441?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Drizzle, 7.7°C",
+    "headline": "Current Conditions: Light Drizzle, 7.4°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

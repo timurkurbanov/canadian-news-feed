@@ -30,6 +30,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Shapovalov, Diallo advance at Madrid Open; Dabrowski and Routliffe upset at doubles",
+    "url": "https://www.cbc.ca/sports/tennis/madrid-open-roundup-april25-1.7519708?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ottawa Rapid FC players look to make community impact",
     "url": "https://www.cbc.ca/sports/soccer/northern-super-league-ottawa-rapid-community-impact-april-26-1.7519689?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Hats fly, Hellebuyck yanked, as Blues pound Jets 7-2 to win Game 3 in St. Louis",
     "url": "https://www.cbc.ca/news/canada/manitoba/jets-blues-game-4-1.7518334?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Titans take QB Cam Ward No. 1 in NFL draft",
-    "url": "https://www.cbc.ca/sports/football/nfl/nfl-draft-recap-april25-1.7518441?cmp=rss",
     "category": "Sports"
   }
 ]
