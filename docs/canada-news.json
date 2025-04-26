@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "From Okotoks to Vaudreuil to Corner Brook, here's Canada through the eye of voters",
+    "url": "https://www.cbc.ca/news/canada/calgary/what-matters-tour-of-canada-1.7516553?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney condemns Israeli blockade on food to Gaza",
     "url": "https://www.cbc.ca/news/politics/mark-carney-gaza-blockade-1.7519408?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "1 in 4 Quebec NDP candidates have little presence just days before election",
     "url": "https://www.cbc.ca/news/canada/montreal/ndp-quebec-paper-candidates-1.7518001?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "How can we rebuild the Canadian economy? Business leaders say there are 4 priorities",
-    "url": "https://www.cbc.ca/news/business/armstrong-economy-election-four-things-1.7516454?cmp=rss",
     "category": "Politics"
   },
   {
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 9.2°C",
+    "headline": "Current Conditions: Light Drizzle, 8.7°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
