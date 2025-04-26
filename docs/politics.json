@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Singh reveals RCMP warned him about death threat in late 2023",
+    "url": "https://www.cbc.ca/news/politics/singh-reveals-rcmp-warned-him-about-death-threat-in-late-2023-1.7519602?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "A consequential election ends with a stark choice and an uncertain future",
     "url": "https://www.cbc.ca/news/politics/election-carney-poilievre-trump-analysis-1.7519010?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Red ripple in blue Calgary? Liberals eye record gains in Conservative stronghold",
     "url": "https://www.cbc.ca/news/canada/calgary/liberals-calgary-hoping-four-seats-analysis-1.7517076?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Catherine McKenna defends Mark Carney after details emerge about his Trump call",
-    "url": "https://www.cbc.ca/radio/asithappens/catherine-mckenna-mark-carney-1.7518016?cmp=rss",
     "category": "Politics"
   }
 ]
