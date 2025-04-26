@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Oilers score 4 goals in 3rd period to take down Kings in Game 3",
+    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-kings-game-3-recap-1.7519478?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What you need to know about (and how to watch) Diamond League track & field",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/athletics-diamond-league-2025-faq-explainer-1.7511471?cmp=rss",
     "category": "Sports"
@@ -25,13 +32,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "After mistrial, jury set in new sexual assault trial for 5 ex-major junior hockey players in London, Ont.",
     "url": "https://www.cbc.ca/news/canada/london/after-mistrial-jury-set-in-new-sexual-assault-trial-for-5-ex-major-junior-hockey-players-in-london-ont-1.7518650?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Edmonton Oilers tap Calvin Pickard for Game 3 start against L.A. Kings",
-    "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-tap-calvin-pickard-for-game-3-start-against-l-a-kings-1.7518924?cmp=rss",
     "category": "Sports"
   },
   {
@@ -93,6 +93,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Edmonton Oilers tap Calvin Pickard for Game 3 start against L.A. Kings",
+    "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-tap-calvin-pickard-for-game-3-start-against-l-a-kings-1.7518924?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "New CFL commissioner Stewart Johnston says league in 'strong place'",
     "url": "https://www.cbc.ca/sports/football/cfl/stewart-johnston-cfl-commissioner-tenure-begins-1.7518130?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "The Curling Group plans to launch professional curling league in 2026",
     "url": "https://www.cbc.ca/sports/olympics/winter/curling/the-curling-group-pro-league-2026-1.7517212?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Long before PWHL expansion, the Vancouver Griffins were the city's 1st women's pro hockey team",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-griffins-womens-hockey-1.7517137?cmp=rss",
     "category": "Sports"
   }
 ]
