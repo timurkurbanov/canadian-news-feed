@@ -282,13 +282,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Watch the PWHL: Toronto Sceptres vs. Boston Fleet",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-toronto-sceptres-boston-fleet-april-26-1.7519433?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ashton Bell helps Charge ring up Victoire 3-1; Ottawa closes in on PWHL playoff spot",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-montreal-victoire-ottawa-charge-april-26-1.7519611?cmp=rss",
     "category": "Sports"
@@ -305,6 +298,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Tennessee Titans draft Canadian receiver Elic Ayomanor 136th overall",
     "url": "https://www.cbc.ca/sports/football/nfl-draft-canadians-elic-ayomanor-1.7519635?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ottawa Rapid FC players look to make community impact",
+    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-ottawa-rapid-community-impact-april-26-1.7519689?cmp=rss",
     "category": "Sports"
   },
   {
