@@ -44,7 +44,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "From Okotoks to Vaudreuil to Corner Brook, here's Canada through the eye of voters",
+    "headline": "From Okotoks to Vaudreuil to Corner Brook, here's Canada through the eyes of voters",
     "url": "https://www.cbc.ca/news/canada/calgary/what-matters-tour-of-canada-1.7516553?cmp=rss",
     "category": "Politics"
   },
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Rain, 8.1°C",
+    "headline": "Current Conditions: Light Rain, 8.3°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
