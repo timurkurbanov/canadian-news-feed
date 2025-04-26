@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Mark Carney condemns Israeli blockade on food to Gaza",
+    "url": "https://www.cbc.ca/news/politics/mark-carney-gaza-blockade-1.7519408?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada election: Poilievre pitches '100 days of change' while Singh defends propping up previous government",
     "url": "https://www.cbc.ca/news/politics/livestory/canada-election-poilievre-pitches-100-days-of-change-while-singh-defends-propping-up-previous-government-9.6735575?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Fentanyl is the poison that killed my brother and many others. I want my vote to save lives",
     "url": "https://www.cbc.ca/news/canada/first-person-election-richard-anderson-drug-crime-addictions-1.7514278?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "How does Elections Canada keep your votes secure?",
-    "url": "https://www.cbc.ca/news/politics/elections-canada-votes-security-1.7516798?cmp=rss",
     "category": "Politics"
   },
   {
@@ -282,13 +282,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "After mistrial, jury set in new sexual assault trial for 5 ex-major junior hockey players in London, Ont.",
-    "url": "https://www.cbc.ca/news/canada/london/after-mistrial-jury-set-in-new-sexual-assault-trial-for-5-ex-major-junior-hockey-players-in-london-ont-1.7518650?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What to watch this weekend in sports",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-lookahead-april-25-1.7519076?cmp=rss",
     "category": "Sports"
@@ -303,6 +296,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadiens beat Capitals 6-3 in electric Game 3 featuring bench brawl, goalie injuries",
+    "url": "https://www.cbc.ca/news/canada/montreal/canadiens-habs-capitals-1.7519444?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "After mistrial, jury set in new sexual assault trial for 5 ex-major junior hockey players in London, Ont.",
+    "url": "https://www.cbc.ca/news/canada/london/after-mistrial-jury-set-in-new-sexual-assault-trial-for-5-ex-major-junior-hockey-players-in-london-ont-1.7518650?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Edmonton Oilers tap Calvin Pickard for Game 3 start against L.A. Kings",
     "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-tap-calvin-pickard-for-game-3-start-against-l-a-kings-1.7518924?cmp=rss",
     "category": "Sports"
@@ -310,8 +317,29 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada looking for 1st mixed doubles curling world championship",
+    "url": "https://www.cbc.ca/sports/olympics/winter/curling/world-mixed-doubles-curling-canada-2025-preview-1.7513393?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Importance of NSL comes into focus during its historic opening week",
+    "url": "https://www.cbc.ca/sports/soccer/opinion-shireen-ahmed-nsl-first-week-april22-1.7513852?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's Auger-Aliassime ousted in straight sets at Madrid Open",
     "url": "https://www.cbc.ca/sports/tennis/madrid-open-roundup-april25-1.7518532?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "French skier, 18, dies after crash in training at Val d'Isere",
+    "url": "https://www.cbc.ca/sports/olympics/winter/alpine-skiing/french-skier-dies-training-crash-val-disere-1.7518433?cmp=rss",
     "category": "Sports"
   },
   {
@@ -326,20 +354,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Hats fly, Hellebuyck yanked, as Blues pound Jets 7-2 to win Game 3 in St. Louis",
     "url": "https://www.cbc.ca/news/canada/manitoba/jets-blues-game-4-1.7518334?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "French skier, 18, dies after crash in training at Val d'Isere",
-    "url": "https://www.cbc.ca/sports/olympics/winter/alpine-skiing/french-skier-dies-training-crash-val-disere-1.7518433?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada looking for 1st mixed doubles curling world championship",
-    "url": "https://www.cbc.ca/sports/olympics/winter/curling/world-mixed-doubles-curling-canada-2025-preview-1.7513393?cmp=rss",
     "category": "Sports"
   },
   {
@@ -399,27 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "U.S. Center for SafeSport fires CEO in latest sign of crisis for Olympic watchdog",
-    "url": "https://www.cbc.ca/sports/us-center-safesport-ceo-fired-juriese-colon-1.7516502?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Czech leaders condemn Russian threats against NHL great Dominik Hasek",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/dominik-hasek-russian-threats-war-ukraine-nhl-1.7516264?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's Linkletter eyes 1st marathon win next month in Ottawa after 'surreal' Boston performance",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/rory-linkletter-ottawa-marathon-outlook-boston-marathon-recap-1.7515752?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 13.1°C",
+    "headline": "Current Conditions: Mostly Cloudy, 12.5°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

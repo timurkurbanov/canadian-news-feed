@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Mark Carney condemns Israeli blockade on food to Gaza",
+    "url": "https://www.cbc.ca/news/politics/mark-carney-gaza-blockade-1.7519408?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada election: Poilievre pitches '100 days of change' while Singh defends propping up previous government",
     "url": "https://www.cbc.ca/news/politics/livestory/canada-election-poilievre-pitches-100-days-of-change-while-singh-defends-propping-up-previous-government-9.6735575?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Fentanyl is the poison that killed my brother and many others. I want my vote to save lives",
     "url": "https://www.cbc.ca/news/canada/first-person-election-richard-anderson-drug-crime-addictions-1.7514278?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "How does Elections Canada keep your votes secure?",
-    "url": "https://www.cbc.ca/news/politics/elections-canada-votes-security-1.7516798?cmp=rss",
     "category": "Politics"
   }
 ]
