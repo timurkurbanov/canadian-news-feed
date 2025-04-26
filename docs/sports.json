@@ -2,15 +2,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "2025 World Athletics Wanda Diamond League: Xiamen",
-    "url": "https://www.cbc.ca/player/play/9.6722505?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "What to watch this weekend in sports",
-    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-lookahead-april-25-1.7519076?cmp=rss",
+    "headline": "Canada looking for 1st mixed doubles curling world championship",
+    "url": "https://www.cbc.ca/sports/olympics/winter/curling/world-mixed-doubles-curling-canada-2025-preview-1.7513393?cmp=rss",
     "category": "Sports"
   },
   {
@@ -18,6 +11,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Oilers score 4 goals in 3rd period to take down Kings in Game 3",
     "url": "https://www.cbc.ca/news/canada/edmonton/oilers-kings-game-3-recap-1.7519478?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "What to watch this weekend in sports",
+    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-lookahead-april-25-1.7519076?cmp=rss",
     "category": "Sports"
   },
   {
@@ -46,13 +46,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Watch the PWHL: Toronto Sceptres vs. Boston Fleet",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-toronto-sceptres-boston-fleet-april-26-1.7519433?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada looking for 1st mixed doubles curling world championship",
-    "url": "https://www.cbc.ca/sports/olympics/winter/curling/world-mixed-doubles-curling-canada-2025-preview-1.7513393?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,6 +123,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Vancouver announced as newest PWHL franchise for 2025-26 season",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-expansion-vancouver-1.7516319?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Goalkeeper Erin McLeod, 42, embracing challenge and enjoying life in Northern Super League",
+    "url": "https://www.cbc.ca/sports/soccer/erin-mcleod-halifax-tides-northern-super-league-1.7517556?cmp=rss",
     "category": "Sports"
   }
 ]
