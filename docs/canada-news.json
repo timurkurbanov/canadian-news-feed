@@ -142,8 +142,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "U.S. booze boycott becomes a much-needed boon for B.C. wineries",
-    "url": "https://www.cbc.ca/news/business/bakx-bc-wine-us-tariffs-booze-boycott-1.7517793?cmp=rss",
+    "headline": "Tariff fears are driving a boost in auto sales in Detroit",
+    "url": "https://www.cbc.ca/news/world/auto-sales-in-us-amid-tariffs-1.7513918?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Flaunting fur might be back, thanks in part to vintage buyers and sustainable shoppers",
+    "url": "https://www.cbc.ca/radio/costofliving/fur-resurgence-1.7519080?cmp=rss",
     "category": "Business"
   },
   {
@@ -156,15 +163,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "China exempts some U.S. imports from 125% tariff rate",
-    "url": "https://www.cbc.ca/news/business/china-tariff-exemptions-1.7518434?cmp=rss",
+    "headline": "U.S. booze boycott becomes a much-needed boon for B.C. wineries",
+    "url": "https://www.cbc.ca/news/business/bakx-bc-wine-us-tariffs-booze-boycott-1.7517793?cmp=rss",
     "category": "Business"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Tariff fears are driving a boost in auto sales in Detroit",
-    "url": "https://www.cbc.ca/news/world/auto-sales-in-us-amid-tariffs-1.7513918?cmp=rss",
+    "headline": "China exempts some U.S. imports from 125% tariff rate",
+    "url": "https://www.cbc.ca/news/business/china-tariff-exemptions-1.7518434?cmp=rss",
     "category": "Business"
   },
   {
@@ -270,13 +277,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Could Trump actually fire head of the U.S. central bank, Jerome Powell?",
     "url": "https://www.cbc.ca/news/business/could-trump-fire-powell-1.7515197?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Stock markets tumble as investors pull back from American assets",
-    "url": "https://www.cbc.ca/news/business/stock-market-1.7514966?cmp=rss",
     "category": "Business"
   },
   {
