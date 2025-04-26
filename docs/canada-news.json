@@ -324,6 +324,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Whitecaps defeat Messi and Inter Miami 2-0 in 1st leg of CONCACAF Champions Cup semifinal",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-whitecaps-miami-game-review-1.7518174?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "After mistrial, jury set in new sexual assault trial for 5 ex-major junior hockey players in London, Ont.",
     "url": "https://www.cbc.ca/news/canada/london/after-mistrial-jury-set-in-new-sexual-assault-trial-for-5-ex-major-junior-hockey-players-in-london-ont-1.7518650?cmp=rss",
     "category": "Sports"
@@ -403,13 +410,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Edmonton Oilers look to regroup after Game 2 loss to L.A. Kings",
     "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-look-to-regroup-after-game-2-loss-to-l-a-kings-1.7518003?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Vancouver announced as newest PWHL franchise for 2025-26 season",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-expansion-vancouver-1.7516319?cmp=rss",
     "category": "Sports"
   },
   {
