@@ -2,6 +2,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "A consequential election ends with a stark choice and an uncertain future",
+    "url": "https://www.cbc.ca/news/politics/election-carney-poilievre-trump-analysis-1.7519010?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Greens fight for survival as federal polls predict worst results in recent history",
+    "url": "https://www.cbc.ca/news/politics/green-party-2025-federal-election-electoral-fortunes-1.7518337?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney condemns Israeli blockade on food to Gaza",
     "url": "https://www.cbc.ca/news/politics/mark-carney-gaza-blockade-1.7519408?cmp=rss",
     "category": "Politics"
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "How can we rebuild the Canadian economy? Business leaders say there are 4 priorities",
     "url": "https://www.cbc.ca/news/business/armstrong-economy-election-four-things-1.7516454?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump reinserts himself into Canadian politics, saying 'as a state, it works great'",
-    "url": "https://www.cbc.ca/news/politics/trump-canada-politics-1.7516951?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Fentanyl is the poison that killed my brother and many others. I want my vote to save lives",
-    "url": "https://www.cbc.ca/news/canada/first-person-election-richard-anderson-drug-crime-addictions-1.7514278?cmp=rss",
     "category": "Politics"
   }
 ]
