@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Manitoba Progressive Conservatives choose Obby Khan as new party leader",
+    "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-pcs-new-leader-1.7519643?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Nova Scotia premier blasts Bloc leader for calling Canada 'artificial country'",
     "url": "https://www.cbc.ca/news/politics/nova-scotia-premier-bloc-leader-comments-artificial-country-1.7519562?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre's Carleton riding had the most advance voting in Canada",
     "url": "https://www.cbc.ca/news/canada/ottawa/advance-vote-federal-ottawa-carleton-nepean-2025-1.7518504?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Why have federal party leaders spent little time in Alberta this election?",
-    "url": "https://www.cbc.ca/news/canada/edmonton/why-have-federal-party-leaders-spent-little-time-in-alberta-this-election-1.7518117?cmp=rss",
     "category": "Politics"
   }
 ]
