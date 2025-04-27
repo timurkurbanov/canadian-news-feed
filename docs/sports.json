@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada men and women to share rugby 7s stage in California with plenty at stake",
+    "url": "https://www.cbc.ca/sports/rugby/canada-rugby-sevens-share-stage-california-1.7519814?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Tigst Assefa posts women's-only world mark in London Marathon, Sebastian Sawe wins men's race",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/sawe-assefa-london-marathon-2025-recap-1.7519841?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "After mistrial, jury set in new sexual assault trial for 5 ex-major junior hockey players in London, Ont.",
     "url": "https://www.cbc.ca/news/canada/london/after-mistrial-jury-set-in-new-sexual-assault-trial-for-5-ex-major-junior-hockey-players-in-london-ont-1.7518650?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Importance of NSL comes into focus during its historic opening week",
-    "url": "https://www.cbc.ca/sports/soccer/opinion-shireen-ahmed-nsl-first-week-april22-1.7513852?cmp=rss",
     "category": "Sports"
   }
 ]
