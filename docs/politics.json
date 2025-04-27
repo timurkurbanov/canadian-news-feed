@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poilievre hopes young people are listening as he appeals for record turnout",
+    "url": "https://www.cbc.ca/news/politics/pierre-poilievre-record-turnout-play-young-voters-1.7519610?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Singh reveals RCMP warned him about death threat in late 2023",
     "url": "https://www.cbc.ca/news/politics/singh-reveals-rcmp-warned-him-about-death-threat-in-late-2023-1.7519602?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Green Party applies for judicial review after being kicked out of leaders' debates",
     "url": "https://www.cbc.ca/news/politics/green-party-legal-application-debates-1.7518215?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre's Carleton riding had the most advance voting in Canada",
-    "url": "https://www.cbc.ca/news/canada/ottawa/advance-vote-federal-ottawa-carleton-nepean-2025-1.7518504?cmp=rss",
     "category": "Politics"
   }
 ]

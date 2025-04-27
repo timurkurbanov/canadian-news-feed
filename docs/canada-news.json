@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poilievre hopes young people are listening as he appeals for record turnout",
+    "url": "https://www.cbc.ca/news/politics/pierre-poilievre-record-turnout-play-young-voters-1.7519610?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Singh reveals RCMP warned him about death threat in late 2023",
     "url": "https://www.cbc.ca/news/politics/singh-reveals-rcmp-warned-him-about-death-threat-in-late-2023-1.7519602?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Green Party applies for judicial review after being kicked out of leaders' debates",
     "url": "https://www.cbc.ca/news/politics/green-party-legal-application-debates-1.7518215?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre's Carleton riding had the most advance voting in Canada",
-    "url": "https://www.cbc.ca/news/canada/ottawa/advance-vote-federal-ottawa-carleton-nepean-2025-1.7518504?cmp=rss",
     "category": "Politics"
   },
   {
@@ -282,6 +282,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada wins twice on opening day at world mixed doubles curling championship",
+    "url": "https://www.cbc.ca/sports/olympics/winter/curling/world-mixed-doubles-curling-canada-april-26-1.7519748?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Johnson leads Calgary Wild past Tides",
+    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-montreal-toronto-april-26-1.7519728?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Adzija, Brandt score early to back Peslarova in first career start as Fleet blank Sceptres 3-0",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-toronto-sceptres-boston-fleet-april-26-1.7519433?cmp=rss",
     "category": "Sports"
@@ -399,20 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Maple Leafs take 3-0 lead over Senators in Battle of Ontario",
-    "url": "https://www.cbc.ca/news/canada/ottawa/maple-leafs-take-3-0-lead-over-senators-in-battle-of-ontario-1.7517956?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Hats fly, Hellebuyck yanked, as Blues pound Jets 7-2 to win Game 3 in St. Louis",
-    "url": "https://www.cbc.ca/news/canada/manitoba/jets-blues-game-4-1.7518334?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Rain and Drizzle, 6.2°C",
+    "headline": "Current Conditions: Light Rain and Drizzle, 6.1°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

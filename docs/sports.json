@@ -2,6 +2,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada wins twice on opening day at world mixed doubles curling championship",
+    "url": "https://www.cbc.ca/sports/olympics/winter/curling/world-mixed-doubles-curling-canada-april-26-1.7519748?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Johnson leads Calgary Wild past Tides",
+    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-montreal-toronto-april-26-1.7519728?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Adzija, Brandt score early to back Peslarova in first career start as Fleet blank Sceptres 3-0",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-toronto-sceptres-boston-fleet-april-26-1.7519433?cmp=rss",
     "category": "Sports"
@@ -116,20 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "French skier, 18, dies after crash in training at Val d'Isere",
     "url": "https://www.cbc.ca/sports/olympics/winter/alpine-skiing/french-skier-dies-training-crash-val-disere-1.7518433?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Maple Leafs take 3-0 lead over Senators in Battle of Ontario",
-    "url": "https://www.cbc.ca/news/canada/ottawa/maple-leafs-take-3-0-lead-over-senators-in-battle-of-ontario-1.7517956?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Hats fly, Hellebuyck yanked, as Blues pound Jets 7-2 to win Game 3 in St. Louis",
-    "url": "https://www.cbc.ca/news/canada/manitoba/jets-blues-game-4-1.7518334?cmp=rss",
     "category": "Sports"
   }
 ]
