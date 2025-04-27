@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Vancouver tragedy casts a pall on final day of election campaign",
+    "url": "https://www.cbc.ca/news/politics/federal-election-vancouver-lapu-lapu-tragedy-1.7519847?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "The economy, housing, pipelines: Not all claims in the federal election campaign were true",
     "url": "https://www.cbc.ca/news/politics/election-2025-fact-check-wrap-up-1.7519218?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney tells Assembly of First Nations Liberals are committed to implementing UNDRIP",
     "url": "https://www.cbc.ca/news/indigenous/mark-carney-afn-forum-1.7519288?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney says he's open to a review of Canada's broken access to information system",
-    "url": "https://www.cbc.ca/news/politics/carney-access-to-information-1.7518620?cmp=rss",
     "category": "Politics"
   },
   {
