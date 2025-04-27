@@ -2,6 +2,34 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "The economy, housing, pipelines: Not all claims in the federal election campaign were true",
+    "url": "https://www.cbc.ca/news/politics/election-2025-fact-check-wrap-up-1.7519218?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Didn't register to vote? You can still do so on election day",
+    "url": "https://www.cbc.ca/news/politics/register-to-vote-polling-station-1.7515636?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Why Quebec could once again tip the balance in this federal election",
+    "url": "https://www.cbc.ca/news/canada/montreal/quebec-federal-election-campaign-final-weekend-1.7518829?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "How strategic voting may play a role in this election",
+    "url": "https://www.cbc.ca/news/strategic-voting-federal-election-1.7518557?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre hopes young people are listening as he appeals for record turnout",
     "url": "https://www.cbc.ca/news/politics/pierre-poilievre-record-turnout-play-young-voters-1.7519610?cmp=rss",
     "category": "Politics"
@@ -109,34 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney says he's open to a review of Canada's broken access to information system",
     "url": "https://www.cbc.ca/news/politics/carney-access-to-information-1.7518620?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Tensions with N.S. premier simmered as Poilievre made his sole stop in the province",
-    "url": "https://www.cbc.ca/news/politics/houston-poilievre-election-1.7518196?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "RECAP | Canada election: Carney confirms Trump made ‘51st state’ comment during 1st call",
-    "url": "https://www.cbc.ca/news/politics/livestory/recap-canada-election-carney-confirms-trump-made-51st-state-comment-during-1st-call-9.6734073?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "I mourn the decline of Atlantic salmon. I need politicians who get what's at stake",
-    "url": "https://www.cbc.ca/news/canada/first-person-election-roger-jenkins-fishing-1.7514380?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Green Party applies for judicial review after being kicked out of leaders' debates",
-    "url": "https://www.cbc.ca/news/politics/green-party-legal-application-debates-1.7518215?cmp=rss",
     "category": "Politics"
   },
   {
@@ -280,139 +280,6 @@
     "category": "Business"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Senators top Leafs in OT to stay alive in Battle of Ontario",
-    "url": "https://www.cbc.ca/news/canada/ottawa/sens-leaf-game-4-1.7519619?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada wins twice on opening day at world mixed doubles curling championship",
-    "url": "https://www.cbc.ca/sports/olympics/winter/curling/world-mixed-doubles-curling-canada-april-26-1.7519748?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Johnson leads Calgary Wild past Tides",
-    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-montreal-toronto-april-26-1.7519728?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Adzija, Brandt score early to back Peslarova in first career start as Fleet blank Sceptres 3-0",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-toronto-sceptres-boston-fleet-april-26-1.7519433?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Ashton Bell helps Charge ring up Victoire 3-2; Ottawa closes in on PWHL playoff spot",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-montreal-victoire-ottawa-charge-april-26-1.7519611?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada looking for 1st mixed doubles curling world championship",
-    "url": "https://www.cbc.ca/sports/olympics/winter/curling/world-mixed-doubles-curling-canada-2025-preview-1.7513393?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Tennessee Titans draft Canadian receiver Elic Ayomanor 136th overall",
-    "url": "https://www.cbc.ca/sports/football/nfl-draft-canadians-elic-ayomanor-1.7519635?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Shapovalov, Diallo advance at Madrid Open; Dabrowski and Routliffe upset at doubles",
-    "url": "https://www.cbc.ca/sports/tennis/madrid-open-roundup-april25-1.7519708?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Ottawa Rapid FC players look to make community impact",
-    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-ottawa-rapid-community-impact-april-26-1.7519689?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Wrexham seals 3rd straight promotion, will play in English soccer's 2nd tier",
-    "url": "https://www.cbc.ca/sports/soccer/wrexham-seals-third-straight-promotion-1.7519646?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Chebet, Duplantis, Jackson shine in Diamond League opener in China",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/athletics-diamond-league-xiamen-2025-sarah-mitton-1.7519439?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Oilers score 4 goals in 3rd period to take down Kings in Game 3",
-    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-kings-game-3-recap-1.7519478?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "What to watch this weekend in sports",
-    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-lookahead-april-25-1.7519076?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "What you need to know about (and how to watch) Diamond League track & field",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/athletics-diamond-league-2025-faq-explainer-1.7511471?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadiens beat Capitals 6-3 in electric Game 3 featuring bench brawl, goalie injuries",
-    "url": "https://www.cbc.ca/news/canada/montreal/canadiens-habs-capitals-1.7519444?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Whitecaps defeat Messi and Inter Miami 2-0 in 1st leg of CONCACAF Champions Cup semifinal",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-whitecaps-miami-game-review-1.7518174?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "After mistrial, jury set in new sexual assault trial for 5 ex-major junior hockey players in London, Ont.",
-    "url": "https://www.cbc.ca/news/canada/london/after-mistrial-jury-set-in-new-sexual-assault-trial-for-5-ex-major-junior-hockey-players-in-london-ont-1.7518650?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Importance of NSL comes into focus during its historic opening week",
-    "url": "https://www.cbc.ca/sports/soccer/opinion-shireen-ahmed-nsl-first-week-april22-1.7513852?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's Auger-Aliassime ousted in straight sets at Madrid Open",
-    "url": "https://www.cbc.ca/sports/tennis/madrid-open-roundup-april25-1.7518532?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +289,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Rain, 2.7°C",
+    "headline": "Current Conditions: Light Rain, 2.9°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
