@@ -282,13 +282,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Senators top Leafs in OT to stay alive in Battle of Ontario",
-    "url": "https://www.cbc.ca/news/canada/ottawa/sens-leaf-game-4-1.7519619?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada improves to 3-0 at mixed doubles curling worlds, outlasts Sweden after slow start",
     "url": "https://www.cbc.ca/sports/olympics/winter/curling/gallant-peterman-sweden-recap-mixed-doubles-curling-worlds-april27-1.7519993?cmp=rss",
     "category": "Sports"
@@ -296,8 +289,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Hellebuyck yanked again as Jets drop Game 4, evening up series against Blues",
+    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-loss-stlouis-blues-game-4-1.7520012?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "For many Sask. families, there's a high cost to chasing sports dreams",
     "url": "https://www.cbc.ca/news/canada/saskatchewan/cost-pressure-elite-sports-camps-prgrams-1.7519591?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Senators top Leafs in OT to stay alive in Battle of Ontario",
+    "url": "https://www.cbc.ca/news/canada/ottawa/sens-leaf-game-4-1.7519619?cmp=rss",
     "category": "Sports"
   },
   {
@@ -403,13 +410,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What to watch this weekend in sports",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-lookahead-april-25-1.7519076?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "What you need to know about (and how to watch) Diamond League track & field",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/athletics-diamond-league-2025-faq-explainer-1.7511471?cmp=rss",
     "category": "Sports"
   },
   {
