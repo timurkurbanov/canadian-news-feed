@@ -58,6 +58,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'Magical night': D-backs' Suarez 19th player in MLB history to hit 4 home runs in game",
+    "url": "https://www.cbc.ca/sports/baseball/mlb/eugenio-suarez-four-home-runs-diamondbacks-mlb-1.7519890?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada looking for 1st mixed doubles curling world championship",
     "url": "https://www.cbc.ca/sports/olympics/winter/curling/world-mixed-doubles-curling-canada-2025-preview-1.7513393?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Whitecaps defeat Messi and Inter Miami 2-0 in 1st leg of CONCACAF Champions Cup semifinal",
     "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-whitecaps-miami-game-review-1.7518174?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "After mistrial, jury set in new sexual assault trial for 5 ex-major junior hockey players in London, Ont.",
-    "url": "https://www.cbc.ca/news/canada/london/after-mistrial-jury-set-in-new-sexual-assault-trial-for-5-ex-major-junior-hockey-players-in-london-ont-1.7518650?cmp=rss",
     "category": "Sports"
   }
 ]
