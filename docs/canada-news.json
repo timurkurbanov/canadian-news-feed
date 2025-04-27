@@ -282,6 +282,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Senators top Leafs in OT to stay alive in Battle of Ontario",
+    "url": "https://www.cbc.ca/news/canada/ottawa/sens-leaf-game-4-1.7519619?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada wins twice on opening day at world mixed doubles curling championship",
     "url": "https://www.cbc.ca/sports/olympics/winter/curling/world-mixed-doubles-curling-canada-april-26-1.7519748?cmp=rss",
     "category": "Sports"
@@ -303,7 +310,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Ashton Bell helps Charge ring up Victoire 3-1; Ottawa closes in on PWHL playoff spot",
+    "headline": "Ashton Bell helps Charge ring up Victoire 3-2; Ottawa closes in on PWHL playoff spot",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-montreal-victoire-ottawa-charge-april-26-1.7519611?cmp=rss",
     "category": "Sports"
   },
@@ -403,13 +410,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's Auger-Aliassime ousted in straight sets at Madrid Open",
     "url": "https://www.cbc.ca/sports/tennis/madrid-open-roundup-april25-1.7518532?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "French skier, 18, dies after crash in training at Val d'Isere",
-    "url": "https://www.cbc.ca/sports/olympics/winter/alpine-skiing/french-skier-dies-training-crash-val-disere-1.7518433?cmp=rss",
     "category": "Sports"
   },
   {
