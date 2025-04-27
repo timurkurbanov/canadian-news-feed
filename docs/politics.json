@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Is the race narrowing in Poilievre's own riding? Here's what residents think",
+    "url": "https://www.cbc.ca/news/canada/ottawa/is-the-race-narrowing-in-poilievre-s-own-riding-here-s-what-residents-think-1.7519864?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Didn't register to vote? You can still do so on election day",
     "url": "https://www.cbc.ca/news/politics/register-to-vote-polling-station-1.7515636?cmp=rss",
     "category": "Politics"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Big voter turnout needed for Conservative victory, Poilievre tells hometown Calgary crowd",
     "url": "https://www.cbc.ca/news/canada/calgary/pierre-poilievre-rally-calgary-1.7519311?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Liberals, Conservatives and Bloc running fewer women than last election",
-    "url": "https://www.cbc.ca/news/politics/women-gender-diverse-candidates-federal-election-1.7519175?cmp=rss",
     "category": "Politics"
   }
 ]
