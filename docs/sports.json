@@ -30,6 +30,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Penguins split with 2-time Stanley Cup champion head coach Mike Sullivan",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/mike-sullivan-head-coach-penguins-parting-ways-nhl-1.7520313?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada improves to 3-0 at mixed doubles curling worlds, outlasts Sweden after slow start",
     "url": "https://www.cbc.ca/sports/olympics/winter/curling/gallant-peterman-sweden-recap-mixed-doubles-curling-worlds-april27-1.7519993?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Shapovalov, Diallo advance at Madrid Open; Dabrowski and Routliffe upset at doubles",
     "url": "https://www.cbc.ca/sports/tennis/madrid-open-roundup-april25-1.7519708?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Ottawa Rapid FC players look to make community impact",
-    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-ottawa-rapid-community-impact-april-26-1.7519689?cmp=rss",
     "category": "Sports"
   }
 ]
