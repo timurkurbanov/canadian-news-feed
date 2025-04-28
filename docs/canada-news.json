@@ -2,14 +2,14 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada election: Less than half an hour until 1st polls close",
-    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-less-than-half-an-hour-until-1st-polls-close-9.6738893?cmp=rss",
+    "headline": "Canada election: 1st polls closed in Newfoundland and Labrador in nation’s 45th federal election",
+    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-1st-polls-closed-in-newfoundland-and-labrador-in-nations-45th-federal-election-9.6738893?cmp=rss",
     "category": "Politics"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadians vote today after fierce campaign shaped by Trump",
+    "headline": "Polls close in Newfoundland and Labrador, first election results expected soon",
     "url": "https://www.cbc.ca/news/politics/carney-poilievre-federal-election-vote-1.7518649?cmp=rss",
     "category": "Politics"
   },
@@ -415,7 +415,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Partly Cloudy, 20.5°C",
+    "headline": "Current Conditions: Partly Cloudy, 19.0°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
