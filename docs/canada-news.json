@@ -135,8 +135,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Tariff fears are driving a boost in auto sales in Detroit",
-    "url": "https://www.cbc.ca/news/world/auto-sales-in-us-amid-tariffs-1.7513918?cmp=rss",
+    "headline": "How can we rebuild the Canadian economy? Business leaders say there are 4 priorities",
+    "url": "https://www.cbc.ca/news/business/armstrong-economy-election-four-things-1.7516454?cmp=rss",
     "category": "Business"
   },
   {
@@ -144,6 +144,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Flaunting fur might be back, thanks in part to vintage buyers and sustainable shoppers",
     "url": "https://www.cbc.ca/radio/costofliving/fur-resurgence-1.7519080?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Tariff fears are driving a boost in auto sales in Detroit",
+    "url": "https://www.cbc.ca/news/world/auto-sales-in-us-amid-tariffs-1.7513918?cmp=rss",
     "category": "Business"
   },
   {
@@ -179,13 +186,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Trump says he might lower tariffs on China. Unless the number comes way down, experts say it won't matter",
     "url": "https://www.cbc.ca/news/business/trump-tariffs-china-lowered-1.7517966?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "How can we rebuild the Canadian economy? Business leaders say there are 4 priorities",
-    "url": "https://www.cbc.ca/news/business/armstrong-economy-election-four-things-1.7516454?cmp=rss",
     "category": "Business"
   },
   {
@@ -271,6 +271,13 @@
     "headline": "Could Trump actually fire head of the U.S. central bank, Jerome Powell?",
     "url": "https://www.cbc.ca/news/business/could-trump-fire-powell-1.7515197?cmp=rss",
     "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Oilers rally late to beat Kings 4-3 in OT",
+    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-kings-game-4-1.7520137?cmp=rss",
+    "category": "Sports"
   },
   {
     "source": "cbc",
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Oilers score 4 goals in 3rd period to take down Kings in Game 3",
-    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-kings-game-3-recap-1.7519478?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Sunny, 6.7°C",
+    "headline": "Current Conditions: Mainly Sunny, 9.6°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

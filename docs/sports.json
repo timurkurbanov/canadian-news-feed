@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Oilers rally late to beat Kings 4-3 in OT",
+    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-kings-game-4-1.7520137?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Habs pushed to brink of elimination after 5-2 loss to Capitals",
     "url": "https://www.cbc.ca/news/canada/montreal/canadiens-capitals-game-4-playoffs-1.7520107?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Chebet, Duplantis, Jackson shine in Diamond League opener in China",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/athletics-diamond-league-xiamen-2025-sarah-mitton-1.7519439?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Oilers score 4 goals in 3rd period to take down Kings in Game 3",
-    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-kings-game-3-recap-1.7519478?cmp=rss",
     "category": "Sports"
   }
 ]
