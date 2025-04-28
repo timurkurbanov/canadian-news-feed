@@ -275,8 +275,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Montreal Roses FC swarms Vancouver Rise FC early, earning 2nd NSL victory",
-    "url": "https://www.cbc.ca/sports/soccer/nsl-vancouver-rise-montreal-roses-april-27-1.7519800?cmp=rss",
+    "headline": "Habs pushed to brink of elimination after 5-2 loss to Capitals",
+    "url": "https://www.cbc.ca/news/canada/montreal/canadiens-capitals-game-4-playoffs-1.7520107?cmp=rss",
     "category": "Sports"
   },
   {
@@ -284,6 +284,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada improves to 3-0 at mixed doubles curling worlds, outlasts Sweden after slow start",
     "url": "https://www.cbc.ca/sports/olympics/winter/curling/gallant-peterman-sweden-recap-mixed-doubles-curling-worlds-april27-1.7519993?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Montreal Roses FC swarms Vancouver Rise FC early, earning 2nd NSL victory",
+    "url": "https://www.cbc.ca/sports/soccer/nsl-vancouver-rise-montreal-roses-april-27-1.7519800?cmp=rss",
     "category": "Sports"
   },
   {
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "What to watch this weekend in sports",
-    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-lookahead-april-25-1.7519076?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Clear, 12.5°C",
+    "headline": "Current Conditions: Clear, 8.9°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
