@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada election: Voters across the country casting ballots to elect 45th Parliament",
+    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-voters-across-the-country-casting-ballots-to-elect-45th-parliament-9.6738893?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadians vote today after fierce campaign shaped by Trump",
     "url": "https://www.cbc.ca/news/politics/carney-poilievre-federal-election-vote-1.7518649?cmp=rss",
     "category": "Politics"
@@ -116,13 +123,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "With 2 days left to go, Blanchet has spent most of his campaign in Bloc-blue ridings",
     "url": "https://www.cbc.ca/news/politics/blanchet-bloc-ridings-1.7519409?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "From Okotoks to Vaudreuil to Corner Brook, here's Canada through the eyes of voters",
-    "url": "https://www.cbc.ca/news/canada/calgary/what-matters-tour-of-canada-1.7516553?cmp=rss",
     "category": "Politics"
   }
 ]

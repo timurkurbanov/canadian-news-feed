@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada election: Voters across the country casting ballots to elect 45th Parliament",
+    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-voters-across-the-country-casting-ballots-to-elect-45th-parliament-9.6738893?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadians vote today after fierce campaign shaped by Trump",
     "url": "https://www.cbc.ca/news/politics/carney-poilievre-federal-election-vote-1.7518649?cmp=rss",
     "category": "Politics"
@@ -116,13 +123,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "With 2 days left to go, Blanchet has spent most of his campaign in Bloc-blue ridings",
     "url": "https://www.cbc.ca/news/politics/blanchet-bloc-ridings-1.7519409?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "From Okotoks to Vaudreuil to Corner Brook, here's Canada through the eyes of voters",
-    "url": "https://www.cbc.ca/news/canada/calgary/what-matters-tour-of-canada-1.7516553?cmp=rss",
     "category": "Politics"
   },
   {
@@ -310,15 +310,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada improves to 3-0 at mixed doubles curling worlds, outlasts Sweden after slow start",
-    "url": "https://www.cbc.ca/sports/olympics/winter/curling/gallant-peterman-sweden-recap-mixed-doubles-curling-worlds-april27-1.7519993?cmp=rss",
+    "headline": "Montreal Roses FC swarms Vancouver Rise FC early, earning 2nd NSL victory",
+    "url": "https://www.cbc.ca/sports/soccer/nsl-vancouver-rise-montreal-roses-april-27-1.7519800?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Montreal Roses FC swarms Vancouver Rise FC early, earning 2nd NSL victory",
-    "url": "https://www.cbc.ca/sports/soccer/nsl-vancouver-rise-montreal-roses-april-27-1.7519800?cmp=rss",
+    "headline": "Canada improves to 3-0 at mixed doubles curling worlds, outlasts Sweden after slow start",
+    "url": "https://www.cbc.ca/sports/olympics/winter/curling/gallant-peterman-sweden-recap-mixed-doubles-curling-worlds-april27-1.7519993?cmp=rss",
     "category": "Sports"
   },
   {
@@ -415,7 +415,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 21.6°C",
+    "headline": "Current Conditions: Partly Cloudy, 21.4°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
