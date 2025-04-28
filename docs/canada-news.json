@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Trump implies Canadians should vote for him on election day",
+    "url": "https://www.cbc.ca/news/politics/donald-trump-election-canada-truth-social-1.7520212?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "5 takeaways from where party leaders travelled on the campaign trail",
     "url": "https://www.cbc.ca/news/politics/2025-election-leader-visiting-ridings-1.7519932?cmp=rss",
     "category": "Politics"
@@ -116,13 +123,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "From Okotoks to Vaudreuil to Corner Brook, here's Canada through the eyes of voters",
     "url": "https://www.cbc.ca/news/canada/calgary/what-matters-tour-of-canada-1.7516553?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Got accessibility issues with voting? Here's what you might need to know",
-    "url": "https://www.cbc.ca/news/canada/saskatchewan/accessible-voting-canada-federal-election-1.7518090?cmp=rss",
     "category": "Politics"
   },
   {
