@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadians vote today after fierce campaign shaped by Trump",
+    "url": "https://www.cbc.ca/news/politics/carney-poilievre-federal-election-vote-1.7518649?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "5 takeaways from where party leaders travelled on the campaign trail",
     "url": "https://www.cbc.ca/news/politics/2025-election-leader-visiting-ridings-1.7519932?cmp=rss",
     "category": "Politics"
@@ -23,15 +30,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Is the race narrowing in Poilievre's own riding? Here's what residents think",
-    "url": "https://www.cbc.ca/news/canada/ottawa/is-the-race-narrowing-in-poilievre-s-own-riding-here-s-what-residents-think-1.7519864?cmp=rss",
+    "headline": "Didn't register to vote? You can still do so on election day",
+    "url": "https://www.cbc.ca/news/politics/register-to-vote-polling-station-1.7515636?cmp=rss",
     "category": "Politics"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Didn't register to vote? You can still do so on election day",
-    "url": "https://www.cbc.ca/news/politics/register-to-vote-polling-station-1.7515636?cmp=rss",
+    "headline": "Is the race narrowing in Poilievre's own riding? Here's what residents think",
+    "url": "https://www.cbc.ca/news/canada/ottawa/is-the-race-narrowing-in-poilievre-s-own-riding-here-s-what-residents-think-1.7519864?cmp=rss",
     "category": "Politics"
   },
   {
@@ -116,20 +123,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Got accessibility issues with voting? Here's what you might need to know",
     "url": "https://www.cbc.ca/news/canada/saskatchewan/accessible-voting-canada-federal-election-1.7518090?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney condemns Israeli blockade on food to Gaza",
-    "url": "https://www.cbc.ca/news/politics/mark-carney-gaza-blockade-1.7519408?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada election: Poilievre pitches '100 days of change' while Singh defends propping up previous government",
-    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-poilievre-pitches-100-days-of-change-while-singh-defends-propping-up-previous-government-9.6735575?cmp=rss",
     "category": "Politics"
   },
   {
