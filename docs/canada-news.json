@@ -2,8 +2,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada election: Voters across the country casting ballots to elect 45th Parliament",
-    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-voters-across-the-country-casting-ballots-to-elect-45th-parliament-9.6738893?cmp=rss",
+    "headline": "Canada election: Less than an hour until 1st polls close",
+    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-less-than-an-hour-until-1st-polls-close-9.6738893?cmp=rss",
     "category": "Politics"
   },
   {
@@ -415,7 +415,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Partly Cloudy, 21.4°C",
+    "headline": "Current Conditions: Partly Cloudy, 20.5°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
