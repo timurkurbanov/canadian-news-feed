@@ -2,6 +2,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "New sexual assault trial for 5 former world junior hockey players begins in London, Ont.",
+    "url": "https://www.cbc.ca/9.6738345?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Tricia Smith unanimously re-elected as president of Canadian Olympic Committee",
+    "url": "https://www.cbc.ca/sports/olympics/tricia-smith-re-elected-president-canadian-olympic-committee-1.7520276?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Oilers rally late to beat Kings 4-3 in OT",
     "url": "https://www.cbc.ca/news/canada/edmonton/oilers-kings-game-4-1.7520137?cmp=rss",
     "category": "Sports"
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ottawa Rapid FC players look to make community impact",
     "url": "https://www.cbc.ca/sports/soccer/northern-super-league-ottawa-rapid-community-impact-april-26-1.7519689?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Wrexham seals 3rd straight promotion, will play in English soccer's 2nd tier",
-    "url": "https://www.cbc.ca/sports/soccer/wrexham-seals-third-straight-promotion-1.7519646?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Chebet, Duplantis, Jackson shine in Diamond League opener in China",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/athletics-diamond-league-xiamen-2025-sarah-mitton-1.7519439?cmp=rss",
     "category": "Sports"
   }
 ]
