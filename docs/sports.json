@@ -2,8 +2,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "The evidence so far and what's next at sex assault trial of 5 ex-world junior hockey players in London, Ont.",
-    "url": "https://www.cbc.ca/news/canada/london/hockey-canada-junior-sex-assault-trial-london-ontario-1.7520593?cmp=rss",
+    "headline": "Stampeders select wide receiver Damien Alford with top pick of CFL draft",
+    "url": "https://www.cbc.ca/sports/football/cfl/cfl-draft-2025-1.7522223?cmp=rss",
     "category": "Sports"
   },
   {
@@ -16,15 +16,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "How long will it take Wrexham A.F.C to get up to the Premier League?",
-    "url": "https://www.cbc.ca/player/play/9.6740852?cmp=rss",
+    "headline": "The evidence so far and what's next at sex assault trial of 5 ex-world junior hockey players in London, Ont.",
+    "url": "https://www.cbc.ca/news/canada/london/hockey-canada-junior-sex-assault-trial-london-ontario-1.7520593?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Rick Tocchet steps away as Vancouver Canucks head coach after turbulent season",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/rick-tocchet-turbulent-season-1.7522118?cmp=rss",
+    "headline": "How long will it take Wrexham A.F.C to get up to the Premier League?",
+    "url": "https://www.cbc.ca/player/play/9.6740852?cmp=rss",
     "category": "Sports"
   },
   {
@@ -46,6 +46,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Fournier Beaudry maintains 'spark' and 'passion' ahead of new challenge with Olympic champion Cizeron",
     "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/laurence-fournier-beaudry-guillaume-cizeron-ice-dance-new-partnership-1.7520398?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Rick Tocchet steps away as Vancouver Canucks head coach after turbulent season",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/rick-tocchet-turbulent-season-1.7522118?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada improves to 3-0 at mixed doubles curling worlds, outlasts Sweden after slow start",
     "url": "https://www.cbc.ca/sports/olympics/winter/curling/gallant-peterman-sweden-recap-mixed-doubles-curling-worlds-april27-1.7519993?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Hellebuyck yanked again as Jets drop Game 4, evening up series against Blues",
-    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-loss-stlouis-blues-game-4-1.7520012?cmp=rss",
     "category": "Sports"
   }
 ]
