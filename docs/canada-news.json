@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Liberals fall just short of forming majority government, CBC News projects",
+    "url": "https://www.cbc.ca/news/politics/carney-liberal-election-call-1.7521812?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Why a majority or minority Liberal government is still too close to call",
     "url": "https://www.cbc.ca/news/politics/liberal-minority-vs-minority-count-1.7521714?cmp=rss",
     "category": "Politics"
@@ -116,13 +123,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Vancouver tragedy casts a pall on final day of election campaign",
     "url": "https://www.cbc.ca/news/politics/federal-election-vancouver-lapu-lapu-tragedy-1.7519847?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "The economy, housing, pipelines: Not all claims in the federal election campaign were true",
-    "url": "https://www.cbc.ca/news/politics/election-2025-fact-check-wrap-up-1.7519218?cmp=rss",
     "category": "Politics"
   },
   {
