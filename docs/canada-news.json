@@ -2,15 +2,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada election: Polls now closed across most of the country",
-    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-polls-now-closed-across-most-of-the-country-9.6738893?cmp=rss",
+    "headline": "Canada election: Liberals will form next government, CBC News projects",
+    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-liberals-will-form-next-government-cbc-news-projects-9.6738893?cmp=rss",
     "category": "Politics"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Polls are closed across most of Canada as country waits to see who will be next prime minister",
+    "headline": "Liberals projected to form government but unclear if a minority or majority",
     "url": "https://www.cbc.ca/news/politics/carney-poilievre-federal-election-vote-1.7518649?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'I lost my legal right to vote': Booths closed early — or didn't open at all — in some Nunavik villages",
+    "url": "https://www.cbc.ca/news/canada/north/planes-leave-nunavik-no-vote-1.7521042?cmp=rss",
     "category": "Politics"
   },
   {
@@ -109,13 +116,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Manitoba Progressive Conservatives choose Obby Khan as new party leader",
     "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-pcs-new-leader-1.7519643?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Nova Scotia premier blasts Bloc leader for calling Canada 'artificial country'",
-    "url": "https://www.cbc.ca/news/politics/nova-scotia-premier-bloc-leader-comments-artificial-country-1.7519562?cmp=rss",
     "category": "Politics"
   },
   {
@@ -408,7 +408,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Partly Cloudy, 13.9°C",
+    "headline": "Current Conditions: Partly Cloudy, 12.7°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
