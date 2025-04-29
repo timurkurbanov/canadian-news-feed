@@ -121,6 +121,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Trump will reduce some tariffs on the auto industry, according to White House officials",
+    "url": "https://www.cbc.ca/news/business/trump-reduce-auto-tariffs-1.7521474?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Peace Bridge duty-free shop goes into receivership as cross-border travel plummets",
     "url": "https://www.cbc.ca/news/canada/hamilton/duty-free-shops-1.7520595?cmp=rss",
     "category": "Business"
@@ -249,13 +256,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Did TikTok tell you to buy luxury goods straight from China? Experts say proceed with caution",
     "url": "https://www.cbc.ca/news/business/tiktok-chinese-manufacturers-1.7514980?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "IMF warns Trump's tariffs will slow U.S., global economies as we enter 'a new era'",
-    "url": "https://www.cbc.ca/news/world/tariffs-global-economy-1.7515591?cmp=rss",
     "category": "Business"
   },
   {
@@ -408,7 +408,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Partly Cloudy, 17.2°C",
+    "headline": "Current Conditions: Partly Cloudy, 18.8°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
