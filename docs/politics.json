@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Liberal gains in Quebec help clinch federal election victory",
+    "url": "https://www.cbc.ca/news/canada/montreal/quebec-montreal-election-results-1.7520846?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "'I lost my legal right to vote': Booths closed early — or didn't open at all — in some Nunavik villages",
     "url": "https://www.cbc.ca/news/canada/north/planes-leave-nunavik-no-vote-1.7521042?cmp=rss",
     "category": "Politics"
@@ -109,13 +116,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "A consequential election ends with a stark choice and an uncertain future",
     "url": "https://www.cbc.ca/news/politics/election-carney-poilievre-trump-analysis-1.7519010?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Manitoba Progressive Conservatives choose Obby Khan as new party leader",
-    "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-pcs-new-leader-1.7519643?cmp=rss",
     "category": "Politics"
   }
 ]
