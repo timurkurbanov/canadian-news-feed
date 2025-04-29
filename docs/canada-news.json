@@ -37,7 +37,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "5 key takeaways from Monday's historic vote",
+    "headline": "6 key takeaways from Monday's historic vote",
     "url": "https://www.cbc.ca/news/politics/takeaways-election-results-1.7521355?cmp=rss",
     "category": "Politics"
   },
@@ -86,7 +86,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Liberal gains in Quebec help clinch federal election victory",
+    "headline": "Wins, losses and a recount: What happened in Quebec in the federal election",
     "url": "https://www.cbc.ca/news/canada/montreal/quebec-montreal-election-results-1.7520846?cmp=rss",
     "category": "Politics"
   },
@@ -415,7 +415,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 19.6°C",
+    "headline": "Current Conditions: Mostly Cloudy, 23.3°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
