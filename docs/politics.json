@@ -2,13 +2,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney's win caps a remarkable turn of events — and sets up the immense challenges ahead",
-    "url": "https://www.cbc.ca/news/politics/carney-poilievre-election-result-analysis-1.7521385?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada election: Vote counting resumes with some key races still too close to call",
     "url": "https://www.cbc.ca/news/politics/livestory/canada-election-vote-counting-resumes-with-some-key-races-still-too-close-to-call-9.6738893?cmp=rss",
     "category": "Politics"
@@ -16,8 +9,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney's win caps a remarkable turn of events — and sets up the immense challenges ahead",
+    "url": "https://www.cbc.ca/news/politics/carney-poilievre-election-result-analysis-1.7521385?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "5 key takeaways from Monday's historic vote",
     "url": "https://www.cbc.ca/news/politics/takeaways-election-results-1.7521355?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Premier vows to protect Alberta against 'future hostile acts' from Ottawa after Liberal victory",
+    "url": "https://www.cbc.ca/news/canada/edmonton/danielle-smith-election-mark-carney-canada-election-2025-1.7521640?cmp=rss",
     "category": "Politics"
   },
   {
@@ -109,13 +116,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Didn't register to vote? You can still do so on election day",
     "url": "https://www.cbc.ca/news/politics/register-to-vote-polling-station-1.7515636?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Why Quebec could once again tip the balance in this federal election",
-    "url": "https://www.cbc.ca/news/canada/montreal/quebec-federal-election-campaign-final-weekend-1.7518829?cmp=rss",
     "category": "Politics"
   }
 ]
