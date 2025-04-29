@@ -275,6 +275,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Man arrested after death of former NHLer won't face charges",
+    "url": "https://www.cbc.ca/sports/hockey/hockey-adam-johnson-matt-petgrave-charges-1.7521462?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Fournier Beaudry maintains 'spark' and 'passion' ahead of new challenge with Olympic champion Cizeron",
     "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/laurence-fournier-beaudry-guillaume-cizeron-ice-dance-new-partnership-1.7520398?cmp=rss",
     "category": "Sports"
@@ -392,13 +399,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Tigst Assefa posts women's-only world mark in London Marathon, Sebastian Sawe wins men's race",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/sawe-assefa-london-marathon-2025-recap-1.7519841?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -408,7 +408,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 14.7°C",
+    "headline": "Current Conditions: Partly Cloudy, 17.2°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
