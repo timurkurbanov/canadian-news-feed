@@ -2,6 +2,13 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
+    "headline": "SEVERE THUNDERSTORM WARNING, Ottawa",
+    "url": "https://weather.gc.ca/warnings/report_e.html?onrm104",
+    "category": "Weather"
+  },
+  {
+    "source": "weather.gc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "SEVERE THUNDERSTORM WATCH, Ottawa",
     "url": "https://weather.gc.ca/warnings/report_e.html?onrm104",
     "category": "Weather"
@@ -9,7 +16,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 24.0°C",
+    "headline": "Current Conditions: Thunderstorm, 24.2°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Rick Tocchet steps away as Vancouver Canucks head coach after turbulent season",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/rick-tocchet-turbulent-season-1.7522118?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Man arrested after death of former NHLer won't face charges",
     "url": "https://www.cbc.ca/sports/hockey/hockey-adam-johnson-matt-petgrave-charges-1.7521462?cmp=rss",
     "category": "Sports"
@@ -30,15 +37,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Fournier Beaudry maintains 'spark' and 'passion' ahead of new challenge with Olympic champion Cizeron",
-    "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/laurence-fournier-beaudry-guillaume-cizeron-ice-dance-new-partnership-1.7520398?cmp=rss",
+    "headline": "Calvin Pickard will be Oilers starting goalie in Game 5 against the L.A. Kings",
+    "url": "https://www.cbc.ca/news/canada/edmonton/calvin-pickard-will-be-oilers-starting-goalie-in-game-5-against-the-l-a-kings-1.7521805?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Calvin Pickard will be Oilers starting goalie in Game 5 against the L.A. Kings",
-    "url": "https://www.cbc.ca/news/canada/edmonton/calvin-pickard-will-be-oilers-starting-goalie-in-game-5-against-the-l-a-kings-1.7521805?cmp=rss",
+    "headline": "Fournier Beaudry maintains 'spark' and 'passion' ahead of new challenge with Olympic champion Cizeron",
+    "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/laurence-fournier-beaudry-guillaume-cizeron-ice-dance-new-partnership-1.7520398?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Hellebuyck yanked again as Jets drop Game 4, evening up series against Blues",
     "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-loss-stlouis-blues-game-4-1.7520012?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "For many Sask. families, there's a high cost to chasing sports dreams",
-    "url": "https://www.cbc.ca/news/canada/saskatchewan/cost-pressure-elite-sports-camps-prgrams-1.7519591?cmp=rss",
     "category": "Sports"
   }
 ]

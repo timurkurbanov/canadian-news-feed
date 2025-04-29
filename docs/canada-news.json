@@ -128,7 +128,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump set to give auto sector some relief from tariffs following pushback from the industry",
+    "headline": "Trump says order to soften auto tariffs' impact will give a 'little relief' to industry",
     "url": "https://www.cbc.ca/news/business/trump-reduce-auto-tariffs-1.7521474?cmp=rss",
     "category": "Business"
   },
@@ -289,6 +289,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Rick Tocchet steps away as Vancouver Canucks head coach after turbulent season",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/rick-tocchet-turbulent-season-1.7522118?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Man arrested after death of former NHLer won't face charges",
     "url": "https://www.cbc.ca/sports/hockey/hockey-adam-johnson-matt-petgrave-charges-1.7521462?cmp=rss",
     "category": "Sports"
@@ -296,15 +303,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Fournier Beaudry maintains 'spark' and 'passion' ahead of new challenge with Olympic champion Cizeron",
-    "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/laurence-fournier-beaudry-guillaume-cizeron-ice-dance-new-partnership-1.7520398?cmp=rss",
+    "headline": "Calvin Pickard will be Oilers starting goalie in Game 5 against the L.A. Kings",
+    "url": "https://www.cbc.ca/news/canada/edmonton/calvin-pickard-will-be-oilers-starting-goalie-in-game-5-against-the-l-a-kings-1.7521805?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Calvin Pickard will be Oilers starting goalie in Game 5 against the L.A. Kings",
-    "url": "https://www.cbc.ca/news/canada/edmonton/calvin-pickard-will-be-oilers-starting-goalie-in-game-5-against-the-l-a-kings-1.7521805?cmp=rss",
+    "headline": "Fournier Beaudry maintains 'spark' and 'passion' ahead of new challenge with Olympic champion Cizeron",
+    "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/laurence-fournier-beaudry-guillaume-cizeron-ice-dance-new-partnership-1.7520398?cmp=rss",
     "category": "Sports"
   },
   {
@@ -399,11 +406,11 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "For many Sask. families, there's a high cost to chasing sports dreams",
-    "url": "https://www.cbc.ca/news/canada/saskatchewan/cost-pressure-elite-sports-camps-prgrams-1.7519591?cmp=rss",
-    "category": "Sports"
+    "source": "weather.gc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
+    "headline": "SEVERE THUNDERSTORM WARNING, Ottawa",
+    "url": "https://weather.gc.ca/warnings/report_e.html?onrm104",
+    "category": "Weather"
   },
   {
     "source": "weather.gc",
@@ -415,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 24.0°C",
+    "headline": "Current Conditions: Thunderstorm, 24.2°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
