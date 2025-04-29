@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney's win caps a remarkable turn of events — and sets up the immense challenges ahead",
+    "url": "https://www.cbc.ca/news/politics/carney-poilievre-election-result-analysis-1.7521385?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada election: Carney says he’ll ‘deliver for Canadians’ with Liberals projected to win another term",
     "url": "https://www.cbc.ca/news/politics/livestory/canada-election-carney-says-hell-deliver-for-canadians-with-liberals-projected-to-win-another-term-9.6738893?cmp=rss",
     "category": "Politics"
@@ -25,6 +32,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney vows to govern for all Canadians after winning election upended by Trump",
     "url": "https://www.cbc.ca/news/politics/carney-poilievre-federal-election-vote-1.7518649?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ford calls on Carney to fast-track Ontario resource projects after Liberal election win",
+    "url": "https://www.cbc.ca/news/canada/toronto/ford-carney-liberal-federal-election-win-1.7521457?cmp=rss",
     "category": "Politics"
   },
   {
@@ -107,21 +121,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "How strategic voting may play a role in this election",
-    "url": "https://www.cbc.ca/news/strategic-voting-federal-election-1.7518557?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre hopes young people are listening as he appeals for record turnout",
-    "url": "https://www.cbc.ca/news/politics/pierre-poilievre-record-turnout-play-young-voters-1.7519610?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump will reduce some tariffs on the auto industry, according to White House officials",
+    "headline": "Trump will sign an executive order on auto industry tariffs today, White House says",
     "url": "https://www.cbc.ca/news/business/trump-reduce-auto-tariffs-1.7521474?cmp=rss",
     "category": "Business"
   },
@@ -296,13 +296,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's Peterman and Gallant suffer first loss at curling mixed doubles worlds",
-    "url": "https://www.cbc.ca/sports/olympics/winter/curling/gallant-peterman-canada-recap-mixed-doubles-curling-april28-1.7520667?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Photos of ex-world junior hockey players flashing championship rings shown at sex assault trial",
     "url": "https://www.cbc.ca/9.6738345?cmp=rss",
     "category": "Sports"
@@ -396,6 +389,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada men and women to share rugby 7s stage in California with plenty at stake",
     "url": "https://www.cbc.ca/sports/rugby/canada-rugby-sevens-share-stage-california-1.7519814?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Tigst Assefa posts women's-only world mark in London Marathon, Sebastian Sawe wins men's race",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/sawe-assefa-london-marathon-2025-recap-1.7519841?cmp=rss",
     "category": "Sports"
   },
   {

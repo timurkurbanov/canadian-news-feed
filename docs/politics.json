@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney's win caps a remarkable turn of events — and sets up the immense challenges ahead",
+    "url": "https://www.cbc.ca/news/politics/carney-poilievre-election-result-analysis-1.7521385?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada election: Carney says he’ll ‘deliver for Canadians’ with Liberals projected to win another term",
     "url": "https://www.cbc.ca/news/politics/livestory/canada-election-carney-says-hell-deliver-for-canadians-with-liberals-projected-to-win-another-term-9.6738893?cmp=rss",
     "category": "Politics"
@@ -25,6 +32,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney vows to govern for all Canadians after winning election upended by Trump",
     "url": "https://www.cbc.ca/news/politics/carney-poilievre-federal-election-vote-1.7518649?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ford calls on Carney to fast-track Ontario resource projects after Liberal election win",
+    "url": "https://www.cbc.ca/news/canada/toronto/ford-carney-liberal-federal-election-win-1.7521457?cmp=rss",
     "category": "Politics"
   },
   {
@@ -102,20 +116,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Why Quebec could once again tip the balance in this federal election",
     "url": "https://www.cbc.ca/news/canada/montreal/quebec-federal-election-campaign-final-weekend-1.7518829?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "How strategic voting may play a role in this election",
-    "url": "https://www.cbc.ca/news/strategic-voting-federal-election-1.7518557?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre hopes young people are listening as he appeals for record turnout",
-    "url": "https://www.cbc.ca/news/politics/pierre-poilievre-record-turnout-play-young-voters-1.7519610?cmp=rss",
     "category": "Politics"
   }
 ]
