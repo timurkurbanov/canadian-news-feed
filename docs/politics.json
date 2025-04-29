@@ -16,13 +16,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "An emotional Singh steps down with NDP set to lose party status",
-    "url": "https://www.cbc.ca/news/politics/jagmeet-singh-ndp-election-results-1.7520955?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Bloc's fortunes slip as Liberals make gains in Quebec",
     "url": "https://www.cbc.ca/news/politics/bloc-s-fortunes-slip-as-liberals-make-gains-in-quebec-1.7521338?cmp=rss",
     "category": "Politics"
@@ -116,6 +109,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Singh reveals RCMP warned him about death threat in late 2023",
     "url": "https://www.cbc.ca/news/politics/singh-reveals-rcmp-warned-him-about-death-threat-in-late-2023-1.7519602?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Party leaders campaign in Ontario, B.C. battlegrounds as election day nears",
+    "url": "https://www.cbc.ca/news/politics/party-leaders-battlegrounds-election-1.7519605?cmp=rss",
     "category": "Politics"
   }
 ]
