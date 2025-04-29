@@ -9,15 +9,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "An emotional Singh steps down with NDP set to lose party status",
-    "url": "https://www.cbc.ca/news/politics/jagmeet-singh-ndp-election-results-1.7520955?cmp=rss",
+    "headline": "Carney vows to govern for all Canadians after winning election upended by Trump",
+    "url": "https://www.cbc.ca/news/politics/carney-poilievre-federal-election-vote-1.7518649?cmp=rss",
     "category": "Politics"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney vows to govern for all Canadians after winning election upended by Trump",
-    "url": "https://www.cbc.ca/news/politics/carney-poilievre-federal-election-vote-1.7518649?cmp=rss",
+    "headline": "An emotional Singh steps down with NDP set to lose party status",
+    "url": "https://www.cbc.ca/news/politics/jagmeet-singh-ndp-election-results-1.7520955?cmp=rss",
     "category": "Politics"
   },
   {
@@ -408,7 +408,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Partly Cloudy, 9.6°C",
+    "headline": "Current Conditions: Mainly Clear, 10.7°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
