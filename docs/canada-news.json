@@ -2,8 +2,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada election: Carney and Trump speak by phone after Liberals hold onto power",
-    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-carney-and-trump-speak-by-phone-after-liberals-hold-onto-power-9.6738893?cmp=rss",
+    "headline": "RECAP | Everything that unfolded on Canada’s election night (and the day after)",
+    "url": "https://www.cbc.ca/news/politics/livestory/recap-everything-that-unfolded-on-canadas-election-night-and-the-day-after-9.6738893?cmp=rss",
     "category": "Politics"
   },
   {
@@ -415,13 +415,6 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "SEVERE THUNDERSTORM WARNING, Ottawa",
-    "url": "https://weather.gc.ca/warnings/report_e.html?onrm104",
-    "category": "Weather"
-  },
-  {
-    "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "SEVERE THUNDERSTORM WATCH, Ottawa",
     "url": "https://weather.gc.ca/warnings/report_e.html?onrm104",
     "category": "Weather"
@@ -429,7 +422,14 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Thunderstorm, 16.2°C",
+    "headline": "SEVERE THUNDERSTORM WARNING ENDED, Ottawa",
+    "url": "https://weather.gc.ca/warnings/report_e.html?onrm104",
+    "category": "Weather"
+  },
+  {
+    "source": "weather.gc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
+    "headline": "Current Conditions: Mostly Cloudy, 17.1°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
