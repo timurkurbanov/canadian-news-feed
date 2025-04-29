@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "The evidence so far and what's next at sex assault trial of 5 ex-world junior hockey players in London, Ont.",
+    "url": "https://www.cbc.ca/news/canada/london/hockey-canada-junior-sex-assault-trial-london-ontario-1.7520593?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Fournier Beaudry maintains 'spark' and 'passion' ahead of new challenge with Olympic champion Cizeron",
     "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/laurence-fournier-beaudry-guillaume-cizeron-ice-dance-new-partnership-1.7520398?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Sceptres clinch 2nd straight PWHL playoff spot after Sirens defeat Frost",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-toronto-sceptres-boston-fleet-april-26-1.7519433?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Ashton Bell helps Charge ring up Victoire 3-2; Ottawa closes in on PWHL playoff spot",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-montreal-victoire-ottawa-charge-april-26-1.7519611?cmp=rss",
     "category": "Sports"
   }
 ]

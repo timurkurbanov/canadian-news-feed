@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "5 key takeaways from Monday's historic vote",
+    "url": "https://www.cbc.ca/news/politics/takeaways-election-results-1.7521355?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney vows to govern for all Canadians after winning election upended by Trump",
     "url": "https://www.cbc.ca/news/politics/carney-poilievre-federal-election-vote-1.7518649?cmp=rss",
     "category": "Politics"
@@ -109,13 +116,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre hopes young people are listening as he appeals for record turnout",
     "url": "https://www.cbc.ca/news/politics/pierre-poilievre-record-turnout-play-young-voters-1.7519610?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Singh reveals RCMP warned him about death threat in late 2023",
-    "url": "https://www.cbc.ca/news/politics/singh-reveals-rcmp-warned-him-about-death-threat-in-late-2023-1.7519602?cmp=rss",
     "category": "Politics"
   },
   {
@@ -261,6 +261,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "The evidence so far and what's next at sex assault trial of 5 ex-world junior hockey players in London, Ont.",
+    "url": "https://www.cbc.ca/news/canada/london/hockey-canada-junior-sex-assault-trial-london-ontario-1.7520593?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Fournier Beaudry maintains 'spark' and 'passion' ahead of new challenge with Olympic champion Cizeron",
     "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/laurence-fournier-beaudry-guillaume-cizeron-ice-dance-new-partnership-1.7520398?cmp=rss",
     "category": "Sports"
@@ -392,13 +399,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Ashton Bell helps Charge ring up Victoire 3-2; Ottawa closes in on PWHL playoff spot",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-montreal-victoire-ottawa-charge-april-26-1.7519611?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -408,7 +408,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Clear, 10.7°C",
+    "headline": "Current Conditions: Mostly Cloudy, 11.6°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
