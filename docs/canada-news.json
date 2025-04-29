@@ -100,13 +100,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Is the race narrowing in Poilievre's own riding? Here's what residents think",
-    "url": "https://www.cbc.ca/news/canada/ottawa/is-the-race-narrowing-in-poilievre-s-own-riding-here-s-what-residents-think-1.7519864?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Why Quebec could once again tip the balance in this federal election",
     "url": "https://www.cbc.ca/news/canada/montreal/quebec-federal-election-campaign-final-weekend-1.7518829?cmp=rss",
     "category": "Politics"
@@ -116,6 +109,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "How strategic voting may play a role in this election",
     "url": "https://www.cbc.ca/news/strategic-voting-federal-election-1.7518557?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poilievre hopes young people are listening as he appeals for record turnout",
+    "url": "https://www.cbc.ca/news/politics/pierre-poilievre-record-turnout-play-young-voters-1.7519610?cmp=rss",
     "category": "Politics"
   },
   {
