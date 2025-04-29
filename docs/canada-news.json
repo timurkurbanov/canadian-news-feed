@@ -2,8 +2,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada election: Carney and Trump speak by phone as Liberals hold onto power",
-    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-carney-and-trump-speak-by-phone-as-liberals-hold-onto-power-9.6738893?cmp=rss",
+    "headline": "Canada election: Carney and Trump speak by phone after Liberals hold onto power",
+    "url": "https://www.cbc.ca/news/politics/livestory/canada-election-carney-and-trump-speak-by-phone-after-liberals-hold-onto-power-9.6738893?cmp=rss",
     "category": "Politics"
   },
   {
@@ -303,6 +303,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Calvin Pickard will be Oilers starting goalie in Game 5 against the L.A. Kings",
+    "url": "https://www.cbc.ca/news/canada/edmonton/calvin-pickard-will-be-oilers-starting-goalie-in-game-5-against-the-l-a-kings-1.7521805?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Sharks have best odds to receive No. 1 pick in NHL draft lottery",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/san-jose-sharks-best-odds-top-pick-nhl-draft-lottery-1.7522117?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada up against 'stacked field' in quest for playoffs at mixed doubles curling worlds",
     "url": "https://www.cbc.ca/sports/olympics/winter/curling/world-mixed-doubles-curling-rock-league-april-2025-1.7521081?cmp=rss",
     "category": "Sports"
@@ -389,20 +403,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "For many Sask. families, there's a high cost to chasing sports dreams",
     "url": "https://www.cbc.ca/news/canada/saskatchewan/cost-pressure-elite-sports-camps-prgrams-1.7519591?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Senators top Leafs in OT to stay alive in Battle of Ontario",
-    "url": "https://www.cbc.ca/news/canada/ottawa/sens-leaf-game-4-1.7519619?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada wins twice on opening day at world mixed doubles curling championship",
-    "url": "https://www.cbc.ca/sports/olympics/winter/curling/world-mixed-doubles-curling-canada-april-26-1.7519748?cmp=rss",
     "category": "Sports"
   },
   {
