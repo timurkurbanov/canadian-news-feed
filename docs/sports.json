@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Laura Stacey scores in OT as Victoire hang on to beat Fleet",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-montreal-victoire-boston-fleet-april-28-1.7521453?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's Peterman and Gallant suffer first loss at curling mixed doubles worlds",
     "url": "https://www.cbc.ca/sports/olympics/winter/curling/gallant-peterman-canada-recap-mixed-doubles-curling-april28-1.7520667?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Tigst Assefa posts women's-only world mark in London Marathon, Sebastian Sawe wins men's race",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/sawe-assefa-london-marathon-2025-recap-1.7519841?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Johnson scores twice to lead Calgary Wild past Halifax Tides",
-    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-montreal-toronto-april-26-1.7519728?cmp=rss",
     "category": "Sports"
   }
 ]
