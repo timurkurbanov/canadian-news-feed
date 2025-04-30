@@ -275,6 +275,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Senators beat Leafs to stave off elimination again, cut Battle of Ontario deficit to 3-2",
+    "url": "https://www.cbc.ca/news/canada/toronto/game-5-senators-maple-leafs-1.7522111?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Stampeders select receiver Damien Alford with top pick of CFL draft",
     "url": "https://www.cbc.ca/sports/football/cfl/cfl-draft-2025-1.7522223?cmp=rss",
     "category": "Sports"
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada improves to 3-0 at mixed doubles curling worlds, outlasts Sweden after slow start",
-    "url": "https://www.cbc.ca/sports/olympics/winter/curling/gallant-peterman-sweden-recap-mixed-doubles-curling-worlds-april27-1.7519993?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 18.9°C",
+    "headline": "Current Conditions: Mainly Clear, 17.8°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
