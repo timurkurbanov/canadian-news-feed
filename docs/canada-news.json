@@ -282,15 +282,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Video at ex-world junior hockey players' sex assault trial shows an accused, woman entering hotel",
+    "headline": "'Unbelievable play': Blue Jays' Varsho makes stunning, backhanded catch in season debut",
+    "url": "https://www.cbc.ca/sports/baseball/mlb/daulton-varsho-stunning-backhanded-catch-blue-jays-mlb-1.7522609?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Detective being cross-examined at sexual assault trial for 5 ex-world junior hockey players",
     "url": "https://www.cbc.ca/9.6742726?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'Unbelievable play': Blue Jays' Varsho makes stunning, backhanded catch in season debut",
-    "url": "https://www.cbc.ca/sports/baseball/mlb/daulton-varsho-stunning-backhanded-catch-blue-jays-mlb-1.7522609?cmp=rss",
+    "headline": "Carly Jackson earns victory in 1st PWHL start, helping Sceptres pad 2nd-place lead",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/carly-jackson-win-first-pwhl-start-sceptres-sirens-1.7522742?cmp=rss",
     "category": "Sports"
   },
   {
@@ -305,6 +312,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Stampeders select receiver Damien Alford with top pick of CFL draft",
     "url": "https://www.cbc.ca/sports/football/cfl/cfl-draft-2025-1.7522223?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Edmonton Oilers push L.A. Kings to brink of elimination with Game 5 win",
+    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-push-kings-brink-elimination-game-5-1.7522666?cmp=rss",
     "category": "Sports"
   },
   {
@@ -396,20 +410,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Tricia Smith unanimously re-elected as president of Canadian Olympic Committee",
     "url": "https://www.cbc.ca/sports/olympics/tricia-smith-re-elected-president-canadian-olympic-committee-1.7520276?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "NHL fines Canadiens, Capitals $25,000 US apiece for scuffle during Game 4 warmup",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/canadiens-capitals-fined-nhl-warmup-brawl-game4-1.7520551?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Habs pushed to brink of elimination after 5-2 loss to Capitals",
-    "url": "https://www.cbc.ca/news/canada/montreal/canadiens-capitals-game-4-playoffs-1.7520107?cmp=rss",
     "category": "Sports"
   },
   {
