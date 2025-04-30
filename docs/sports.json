@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "PWHL continues West Coast expansion, adding franchise in Seattle",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-seattle-announcement-2025-1.7522028?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Senators beat Leafs to stave off elimination again, cut Battle of Ontario deficit to 3-2",
     "url": "https://www.cbc.ca/news/canada/toronto/game-5-senators-maple-leafs-1.7522111?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Penguins split with 2-time Stanley Cup champion head coach Mike Sullivan",
     "url": "https://www.cbc.ca/sports/hockey/nhl/mike-sullivan-head-coach-penguins-parting-ways-nhl-1.7520313?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Montreal Roses FC swarms Vancouver Rise FC early, earning 2nd NSL victory",
-    "url": "https://www.cbc.ca/sports/soccer/nsl-vancouver-rise-montreal-roses-april-27-1.7519800?cmp=rss",
     "category": "Sports"
   }
 ]
