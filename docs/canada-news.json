@@ -149,6 +149,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "68,000 job losses possible in Ontario this year due to U.S. trade war: report",
+    "url": "https://www.cbc.ca/news/canada/toronto/fao-report-ontario-impact-us-trade-war-1.7522571?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Now comes the hard part for Mark Carney",
     "url": "https://www.cbc.ca/news/business/armstrong-election-economy-1.7521865?cmp=rss",
     "category": "Business"
@@ -268,13 +275,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Montreal-based retailer Frank and Oak to close all stores, sell intellectual property",
-    "url": "https://www.cbc.ca/news/canada/montreal/frank-and-oak-stores-closing-1.7516198?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PWHL continues West Coast expansion, adding franchise in Seattle",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-seattle-announcement-2025-1.7522028?cmp=rss",
     "category": "Sports"
@@ -282,7 +282,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Ex-world junior hockey players' sex assault trial resumes with more video evidence",
+    "headline": "Video at ex-world junior hockey players' sex assault trial shows an accused, woman entering hotel",
     "url": "https://www.cbc.ca/9.6742726?cmp=rss",
     "category": "Sports"
   },
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Sunny, 1.8°C",
+    "headline": "Current Conditions: Mainly Sunny, 2.9°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
