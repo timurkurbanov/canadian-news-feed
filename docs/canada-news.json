@@ -289,7 +289,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "NHL player testifying at sex assault trial of ex-world junior hockey player teammates",
+    "headline": "NHL player testifying at sex assault trial of former Canadian world junior teammates",
     "url": "https://www.cbc.ca/9.6742726?cmp=rss",
     "category": "Sports"
   },
@@ -326,6 +326,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Senators beat Leafs to stave off elimination again, cut Battle of Ontario deficit to 3-2",
     "url": "https://www.cbc.ca/news/canada/toronto/game-5-senators-maple-leafs-1.7522111?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Dean Evason named coach of Canada's team for world hockey championship",
+    "url": "https://www.cbc.ca/news/canada/calgary/dean-evason-canada-coach-world-hockey-championship-1.7522868?cmp=rss",
     "category": "Sports"
   },
   {
@@ -403,13 +410,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Laura Stacey scores in OT as Victoire hang on to beat Fleet",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-montreal-victoire-boston-fleet-april-28-1.7521453?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Bucks confirm Lillard out for rest playoffs, status for next season unclear",
-    "url": "https://www.cbc.ca/sports/basketball/nba/damian-lillard-injury-nba-1.7520768?cmp=rss",
     "category": "Sports"
   },
   {
