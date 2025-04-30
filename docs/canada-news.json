@@ -135,7 +135,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's GDP down 0.2% in February",
+    "headline": "Canada's economy shrunk 0.2% in February, but early signs point to growth in March: StatsCan",
     "url": "https://www.cbc.ca/news/business/canada-gdp-february-1.7522455?cmp=rss",
     "category": "Business"
   },
@@ -324,6 +324,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Panthers' Ekblad suspended 2 games for elbowing Lightning's Hagel in the head",
+    "url": "https://www.cbc.ca/news/canada/windsor/ekblad-suspended-panthers-lightning-playoffs-1.7522456?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Man arrested after death of former NHLer won't face charges",
     "url": "https://www.cbc.ca/sports/hockey/hockey-adam-johnson-matt-petgrave-charges-1.7521462?cmp=rss",
     "category": "Sports"
@@ -403,13 +410,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Penguins split with 2-time Stanley Cup champion head coach Mike Sullivan",
     "url": "https://www.cbc.ca/sports/hockey/nhl/mike-sullivan-head-coach-penguins-parting-ways-nhl-1.7520313?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Montreal Roses FC swarms Vancouver Rise FC early, earning 2nd NSL victory",
-    "url": "https://www.cbc.ca/sports/soccer/nsl-vancouver-rise-montreal-roses-april-27-1.7519800?cmp=rss",
     "category": "Sports"
   },
   {
