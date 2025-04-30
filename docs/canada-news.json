@@ -135,6 +135,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "China draws up list of U.S.-made goods exempt from 125% tariffs, sources say",
+    "url": "https://www.cbc.ca/news/business/china-tariff-whitelist-1.7522535?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's economy shrank 0.2% in February, but signs point to growth in March: StatsCan",
     "url": "https://www.cbc.ca/news/business/canada-gdp-february-1.7522455?cmp=rss",
     "category": "Business"
@@ -268,13 +275,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Tesla investors react positively to Musk pledge to step back from U.S. government role",
-    "url": "https://www.cbc.ca/news/business/tesla-musk-doge-1.7516138?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PWHL continues West Coast expansion, adding franchise in Seattle",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-seattle-announcement-2025-1.7522028?cmp=rss",
     "category": "Sports"
@@ -282,8 +282,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "More bar video evidence expected at ex-world junior hockey players' sex assault trial in London, Ont.",
-    "url": "https://www.cbc.ca/news/canada/london/hockey-canada-junior-sex-assault-trial-london-ontario-1.7521930?cmp=rss",
+    "headline": "Ex-world junior hockey players' sex assault trial resumes with more video evidence",
+    "url": "https://www.cbc.ca/9.6742726?cmp=rss",
     "category": "Sports"
   },
   {
