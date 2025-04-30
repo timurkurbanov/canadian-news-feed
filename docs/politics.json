@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Now comes the hard part for Mark Carney",
+    "url": "https://www.cbc.ca/news/business/armstrong-election-economy-1.7521865?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Calls for investigation after some in Nunavik left out of vote due to polling station issues",
     "url": "https://www.cbc.ca/news/canada/montreal/polling-station-mishaps-nunavik-quebec-elections-1.7522002?cmp=rss",
     "category": "Politics"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "'I lost my legal right to vote': Booths closed early — or didn't open at all — in some Nunavik villages",
     "url": "https://www.cbc.ca/news/canada/north/planes-leave-nunavik-no-vote-1.7521042?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's 45th federal election in pictures",
-    "url": "https://www.cbc.ca/news/canada/photos/canada-s-45th-federal-election-in-pictures-1.7520740?cmp=rss",
     "category": "Politics"
   }
 ]

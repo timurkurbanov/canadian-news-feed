@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "More bar video evidence expected at ex-world junior hockey players' sex assault trial in London, Ont.",
+    "url": "https://www.cbc.ca/news/canada/london/hockey-canada-junior-sex-assault-trial-london-ontario-1.7521930?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Senators beat Leafs to stave off elimination again, cut Battle of Ontario deficit to 3-2",
     "url": "https://www.cbc.ca/news/canada/toronto/game-5-senators-maple-leafs-1.7522111?cmp=rss",
     "category": "Sports"
@@ -25,13 +32,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Edmonton Oilers win 3-1 in Game 5 to take series lead against Los Angeles Kings",
     "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-win-3-1-in-game-5-to-take-series-lead-against-los-angeles-kings-1.7521805?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "The evidence so far and what's next at sex assault trial of 5 ex-world junior hockey players in London, Ont.",
-    "url": "https://www.cbc.ca/news/canada/london/hockey-canada-junior-sex-assault-trial-london-ontario-1.7520593?cmp=rss",
     "category": "Sports"
   },
   {
@@ -100,13 +100,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Photos of ex-world junior hockey players flashing championship rings shown at sex assault trial",
-    "url": "https://www.cbc.ca/9.6738345?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Oilers rally late to beat Kings 4-3 in OT",
     "url": "https://www.cbc.ca/news/canada/edmonton/oilers-kings-game-4-1.7520137?cmp=rss",
     "category": "Sports"
@@ -137,6 +130,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Penguins split with 2-time Stanley Cup champion head coach Mike Sullivan",
     "url": "https://www.cbc.ca/sports/hockey/nhl/mike-sullivan-head-coach-penguins-parting-ways-nhl-1.7520313?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Montreal Roses FC swarms Vancouver Rise FC early, earning 2nd NSL victory",
+    "url": "https://www.cbc.ca/sports/soccer/nsl-vancouver-rise-montreal-roses-april-27-1.7519800?cmp=rss",
     "category": "Sports"
   }
 ]
