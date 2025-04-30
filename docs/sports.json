@@ -9,8 +9,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'Unbelievable play': Blue Jays' Varsho makes stunning, backhanded catch in season debut",
-    "url": "https://www.cbc.ca/sports/baseball/mlb/daulton-varsho-stunning-backhanded-catch-blue-jays-mlb-1.7522609?cmp=rss",
+    "headline": "The mystery behind top prospect Shedeur Sanders's NFL draft free fall",
+    "url": "https://www.cbc.ca/sports/football/nfl/morgan-campbell-shedeur-sanders-nfl-draft-april30-1.7522438?cmp=rss",
     "category": "Sports"
   },
   {
@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'Unbelievable play': Blue Jays' Varsho makes stunning, backhanded catch in season debut",
+    "url": "https://www.cbc.ca/sports/baseball/mlb/daulton-varsho-stunning-backhanded-catch-blue-jays-mlb-1.7522609?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carly Jackson earns victory in 1st PWHL start, helping Sceptres pad 2nd-place lead",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/carly-jackson-win-first-pwhl-start-sceptres-sirens-1.7522742?cmp=rss",
     "category": "Sports"
@@ -30,15 +37,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Senators beat Leafs to stave off elimination again, cut Battle of Ontario deficit to 3-2",
-    "url": "https://www.cbc.ca/news/canada/toronto/game-5-senators-maple-leafs-1.7522111?cmp=rss",
+    "headline": "Stampeders select receiver Damien Alford with top pick of CFL draft",
+    "url": "https://www.cbc.ca/sports/football/cfl/cfl-draft-2025-1.7522223?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Stampeders select receiver Damien Alford with top pick of CFL draft",
-    "url": "https://www.cbc.ca/sports/football/cfl/cfl-draft-2025-1.7522223?cmp=rss",
+    "headline": "Senators beat Leafs to stave off elimination again, cut Battle of Ontario deficit to 3-2",
+    "url": "https://www.cbc.ca/news/canada/toronto/game-5-senators-maple-leafs-1.7522111?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Oilers rally late to beat Kings 4-3 in OT",
     "url": "https://www.cbc.ca/news/canada/edmonton/oilers-kings-game-4-1.7520137?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Tricia Smith unanimously re-elected as president of Canadian Olympic Committee",
-    "url": "https://www.cbc.ca/sports/olympics/tricia-smith-re-elected-president-canadian-olympic-committee-1.7520276?cmp=rss",
     "category": "Sports"
   }
 ]
