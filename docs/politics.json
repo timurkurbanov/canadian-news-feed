@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Jonathan Pedneault resigns as Greens co-leader after failing to secure seat for 2nd time",
+    "url": "https://www.cbc.ca/news/politics/jonathan-pedneault-resigns-again-1.7522519?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Now comes the hard part for Mark Carney",
     "url": "https://www.cbc.ca/news/business/armstrong-election-economy-1.7521865?cmp=rss",
     "category": "Politics"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Bloc's fortunes slip as Liberals make gains in Quebec",
     "url": "https://www.cbc.ca/news/politics/bloc-s-fortunes-slip-as-liberals-make-gains-in-quebec-1.7521338?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Wins, losses and a recount: What happened in Quebec in the federal election",
-    "url": "https://www.cbc.ca/news/canada/montreal/quebec-montreal-election-results-1.7520846?cmp=rss",
     "category": "Politics"
   }
 ]

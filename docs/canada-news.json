@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Jonathan Pedneault resigns as Greens co-leader after failing to secure seat for 2nd time",
+    "url": "https://www.cbc.ca/news/politics/jonathan-pedneault-resigns-again-1.7522519?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Now comes the hard part for Mark Carney",
     "url": "https://www.cbc.ca/news/business/armstrong-election-economy-1.7521865?cmp=rss",
     "category": "Politics"
@@ -128,14 +135,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Wins, losses and a recount: What happened in Quebec in the federal election",
-    "url": "https://www.cbc.ca/news/canada/montreal/quebec-montreal-election-results-1.7520846?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's economy shrunk 0.2% in February, but early signs point to growth in March: StatsCan",
+    "headline": "Canada's economy shrank 0.2% in February, but signs point to growth in March: StatsCan",
     "url": "https://www.cbc.ca/news/business/canada-gdp-february-1.7522455?cmp=rss",
     "category": "Business"
   },
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Sunny, 0.9°C",
+    "headline": "Current Conditions: Mainly Sunny, 1.8°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
