@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Calls for investigation after some in Nunavik left out of vote due to polling station issues",
+    "url": "https://www.cbc.ca/news/canada/montreal/polling-station-mishaps-nunavik-quebec-elections-1.7522002?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "RECAP | Everything that unfolded on Canada’s election night (and the day after)",
     "url": "https://www.cbc.ca/news/politics/livestory/recap-everything-that-unfolded-on-canadas-election-night-and-the-day-after-9.6738893?cmp=rss",
     "category": "Politics"
@@ -128,9 +135,9 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump implies Canadians vote for him on election day, Poilievre tells president to butt out",
-    "url": "https://www.cbc.ca/news/politics/donald-trump-election-canada-truth-social-1.7520212?cmp=rss",
-    "category": "Politics"
+    "headline": "Now comes the hard part for Mark Carney",
+    "url": "https://www.cbc.ca/news/business/armstrong-election-economy-1.7521865?cmp=rss",
+    "category": "Business"
   },
   {
     "source": "cbc",
@@ -263,13 +270,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Hudson's Bay workers denied commission pay during liquidation sales",
     "url": "https://www.cbc.ca/news/business/hudson-s-bay-workers-commission-1.7515327?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Did TikTok tell you to buy luxury goods straight from China? Experts say proceed with caution",
-    "url": "https://www.cbc.ca/news/business/tiktok-chinese-manufacturers-1.7514980?cmp=rss",
     "category": "Business"
   },
   {
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Clear, 1.2°C",
+    "headline": "Current Conditions: Mainly Clear, 0.2°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

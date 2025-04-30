@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Calls for investigation after some in Nunavik left out of vote due to polling station issues",
+    "url": "https://www.cbc.ca/news/canada/montreal/polling-station-mishaps-nunavik-quebec-elections-1.7522002?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "RECAP | Everything that unfolded on Canada’s election night (and the day after)",
     "url": "https://www.cbc.ca/news/politics/livestory/recap-everything-that-unfolded-on-canadas-election-night-and-the-day-after-9.6738893?cmp=rss",
     "category": "Politics"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's 45th federal election in pictures",
     "url": "https://www.cbc.ca/news/canada/photos/canada-s-45th-federal-election-in-pictures-1.7520740?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump implies Canadians vote for him on election day, Poilievre tells president to butt out",
-    "url": "https://www.cbc.ca/news/politics/donald-trump-election-canada-truth-social-1.7520212?cmp=rss",
     "category": "Politics"
   }
 ]
