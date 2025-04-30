@@ -23,6 +23,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Is it R.I.P. for the federal NDP? Not quite, experts say",
+    "url": "https://www.cbc.ca/news/politics/ndp-party-vote-1.7521531?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "These big-name MPs won't be returning to Parliament after Monday's vote",
+    "url": "https://www.cbc.ca/news/politics/incumbent-losses-election-2025-1.7522102?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "RECAP | Everything that unfolded on Canada’s election night (and the day after)",
     "url": "https://www.cbc.ca/news/politics/livestory/recap-everything-that-unfolded-on-canadas-election-night-and-the-day-after-9.6738893?cmp=rss",
     "category": "Politics"
@@ -116,20 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ford calls on Carney to fast-track Ontario resource projects after Liberal election win",
     "url": "https://www.cbc.ca/news/canada/toronto/ford-carney-liberal-federal-election-win-1.7521457?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "An emotional Singh steps down with NDP set to lose party status",
-    "url": "https://www.cbc.ca/news/politics/jagmeet-singh-ndp-election-results-1.7520955?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Bloc's fortunes slip as Liberals make gains in Quebec",
-    "url": "https://www.cbc.ca/news/politics/bloc-s-fortunes-slip-as-liberals-make-gains-in-quebec-1.7521338?cmp=rss",
     "category": "Politics"
   },
   {
@@ -289,6 +289,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'Unbelievable play': Blue Jays' Varsho makes stunning, backhanded catch in season debut",
+    "url": "https://www.cbc.ca/sports/baseball/mlb/daulton-varsho-stunning-backhanded-catch-blue-jays-mlb-1.7522609?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Senators beat Leafs to stave off elimination again, cut Battle of Ontario deficit to 3-2",
     "url": "https://www.cbc.ca/news/canada/toronto/game-5-senators-maple-leafs-1.7522111?cmp=rss",
     "category": "Sports"
@@ -403,13 +410,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Habs pushed to brink of elimination after 5-2 loss to Capitals",
     "url": "https://www.cbc.ca/news/canada/montreal/canadiens-capitals-game-4-playoffs-1.7520107?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Penguins split with 2-time Stanley Cup champion head coach Mike Sullivan",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/mike-sullivan-head-coach-penguins-parting-ways-nhl-1.7520313?cmp=rss",
     "category": "Sports"
   },
   {

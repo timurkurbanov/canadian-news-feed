@@ -23,6 +23,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Is it R.I.P. for the federal NDP? Not quite, experts say",
+    "url": "https://www.cbc.ca/news/politics/ndp-party-vote-1.7521531?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "These big-name MPs won't be returning to Parliament after Monday's vote",
+    "url": "https://www.cbc.ca/news/politics/incumbent-losses-election-2025-1.7522102?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "RECAP | Everything that unfolded on Canada’s election night (and the day after)",
     "url": "https://www.cbc.ca/news/politics/livestory/recap-everything-that-unfolded-on-canadas-election-night-and-the-day-after-9.6738893?cmp=rss",
     "category": "Politics"
@@ -116,20 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ford calls on Carney to fast-track Ontario resource projects after Liberal election win",
     "url": "https://www.cbc.ca/news/canada/toronto/ford-carney-liberal-federal-election-win-1.7521457?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "An emotional Singh steps down with NDP set to lose party status",
-    "url": "https://www.cbc.ca/news/politics/jagmeet-singh-ndp-election-results-1.7520955?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Bloc's fortunes slip as Liberals make gains in Quebec",
-    "url": "https://www.cbc.ca/news/politics/bloc-s-fortunes-slip-as-liberals-make-gains-in-quebec-1.7521338?cmp=rss",
     "category": "Politics"
   }
 ]

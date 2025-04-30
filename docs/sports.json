@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'Unbelievable play': Blue Jays' Varsho makes stunning, backhanded catch in season debut",
+    "url": "https://www.cbc.ca/sports/baseball/mlb/daulton-varsho-stunning-backhanded-catch-blue-jays-mlb-1.7522609?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Senators beat Leafs to stave off elimination again, cut Battle of Ontario deficit to 3-2",
     "url": "https://www.cbc.ca/news/canada/toronto/game-5-senators-maple-leafs-1.7522111?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Habs pushed to brink of elimination after 5-2 loss to Capitals",
     "url": "https://www.cbc.ca/news/canada/montreal/canadiens-capitals-game-4-playoffs-1.7520107?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Penguins split with 2-time Stanley Cup champion head coach Mike Sullivan",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/mike-sullivan-head-coach-penguins-parting-ways-nhl-1.7520313?cmp=rss",
     "category": "Sports"
   }
 ]
