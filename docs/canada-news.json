@@ -135,6 +135,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada's GDP down 0.2% in February",
+    "url": "https://www.cbc.ca/news/business/canada-gdp-february-1.7522455?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Now comes the hard part for Mark Carney",
     "url": "https://www.cbc.ca/news/business/armstrong-election-economy-1.7521865?cmp=rss",
     "category": "Business"
@@ -263,13 +270,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Tesla investors react positively to Musk pledge to step back from U.S. government role",
     "url": "https://www.cbc.ca/news/business/tesla-musk-doge-1.7516138?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "U.S. auto industry warns new auto parts tariffs will hike prices, cut sales",
-    "url": "https://www.cbc.ca/news/canada/windsor/us-auto-warn-auto-parts-tariffs-1.7516147?cmp=rss",
     "category": "Business"
   },
   {
