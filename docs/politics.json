@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "With 24 Sussex still sitting in a sorry state, Carney to move into Rideau Cottage",
+    "url": "https://www.cbc.ca/news/politics/carney-rideau-cottage-1.7523728?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "How the Liberals came up short in Ontario — and lost their majority bid",
     "url": "https://www.cbc.ca/news/politics/liberal-vote-ontario-majority-conservatives-1.7523038?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre faces uncertain future after losing his own seat and failing to depose the Liberals",
     "url": "https://www.cbc.ca/news/politics/poilievre-uncertain-future-1.7521681?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "MP-elect Corey Hogan hoped for more Liberals in Calgary",
-    "url": "https://www.cbc.ca/news/canada/calgary/corey-hogan-liberal-calgary-1.7522096?cmp=rss",
     "category": "Politics"
   }
 ]
