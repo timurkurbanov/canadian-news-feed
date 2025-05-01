@@ -289,6 +289,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Gordie Herbert to begin coaching Canada's senior men's basketball team in 2026",
+    "url": "https://www.cbc.ca/sports/basketball/gordie-herbert-head-coach-canada-s-senior-men-canada-basketball-1.7523679?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Sex assault trial for ex-world junior players won't sit today in London, Ont., due to sick juror",
+    "url": "https://www.cbc.ca/news/canada/london/hockey-canada-junior-sex-assault-trial-london-ontario-1.7523153?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadiens coach proud of his 'damn good group' after season ends in 5 against Capitals",
     "url": "https://www.cbc.ca/news/canada/montreal/canadiens-game-5-capitals-1.7522750?cmp=rss",
     "category": "Sports"
@@ -298,13 +312,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Winnipeg Jets regain control of 1st-round series with 5-3 win at home over St. Louis Blues",
     "url": "https://www.cbc.ca/news/canada/manitoba/jets-blues-april-30-1.7522924?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Sex assault trial for ex-world junior players won't sit today in London, Ont., due to sick juror",
-    "url": "https://www.cbc.ca/news/canada/london/hockey-canada-junior-sex-assault-trial-london-ontario-1.7523153?cmp=rss",
     "category": "Sports"
   },
   {
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Senators beat Leafs to stave off elimination again, cut Battle of Ontario deficit to 3-2",
-    "url": "https://www.cbc.ca/news/canada/toronto/game-5-senators-maple-leafs-1.7522111?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Sunny, 10.2°C",
+    "headline": "Current Conditions: Mainly Sunny, 12.3°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
