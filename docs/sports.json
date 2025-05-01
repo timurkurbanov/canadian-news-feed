@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadiens eliminated from NHL playoffs after 4-1 loss to Capitals in Game 5",
+    "url": "https://www.cbc.ca/news/canada/montreal/canadiens-game-5-capitals-1.7522750?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PWHL continues West Coast expansion, adding franchise in Seattle",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-seattle-announcement-2025-1.7522028?cmp=rss",
     "category": "Sports"
@@ -16,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Frost win to keep PWHL playoff hopes alive, put Charge's chances in jeopardy",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/ottawa-charge-minneosta-frost-pwhl-april-30-1.7523438?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "The mystery behind top prospect Shedeur Sanders's NFL draft free fall",
     "url": "https://www.cbc.ca/sports/football/nfl/morgan-campbell-shedeur-sanders-nfl-draft-april30-1.7522438?cmp=rss",
     "category": "Sports"
@@ -23,7 +37,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's Peterman, Gallant rout Finland at world mixed doubles curling championship",
+    "headline": "Canada's Peterman, Gallant qualify for playoffs at mixed doubles curling worlds",
     "url": "https://www.cbc.ca/sports/olympics/winter/curling/gallant-peterman-canada-recap-mixed-doubles-curling-april30-1.7522888?cmp=rss",
     "category": "Sports"
   },
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Fournier Beaudry maintains 'spark' and 'passion' ahead of new challenge with Olympic champion Cizeron",
     "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/laurence-fournier-beaudry-guillaume-cizeron-ice-dance-new-partnership-1.7520398?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Rick Tocchet steps away as Vancouver Canucks head coach after turbulent season",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/rick-tocchet-turbulent-season-1.7522118?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Sharks have best odds to receive No. 1 pick in NHL draft lottery",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/san-jose-sharks-best-odds-top-pick-nhl-draft-lottery-1.7522117?cmp=rss",
     "category": "Sports"
   }
 ]
