@@ -37,6 +37,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Transgender women soccer players to be banned from English women's teams",
+    "url": "https://www.cbc.ca/sports/soccer/women-soccer-uk-transgender-ban-1.7523621?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Man falls from 21-foot Clemente Wall at PNC Park during Pirates game",
     "url": "https://www.cbc.ca/sports/baseball/mlb/man-falls-pnc-park-pirates-cubs-game-1.7523521?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Senators beat Leafs to stave off elimination again, cut Battle of Ontario deficit to 3-2",
     "url": "https://www.cbc.ca/news/canada/toronto/game-5-senators-maple-leafs-1.7522111?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Dean Evason named coach of Canada's team for world hockey championship",
-    "url": "https://www.cbc.ca/news/canada/calgary/dean-evason-canada-coach-world-hockey-championship-1.7522868?cmp=rss",
     "category": "Sports"
   }
 ]
