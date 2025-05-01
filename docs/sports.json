@@ -51,6 +51,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada advances to men's U18 world hockey semifinals on Cole Reschny overtime goal",
+    "url": "https://www.cbc.ca/sports/hockey/reschny-canada-czech-republic-u18-hockey-worlds-quarterfinal-recap-1.7523646?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Man falls from 21-foot Clemente Wall at PNC Park during Pirates game",
     "url": "https://www.cbc.ca/sports/baseball/mlb/man-falls-pnc-park-pirates-cubs-game-1.7523521?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carly Jackson earns victory in 1st PWHL start, helping Sceptres pad 2nd-place lead",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/carly-jackson-win-first-pwhl-start-sceptres-sirens-1.7522742?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Stampeders select receiver Damien Alford with top pick of CFL draft",
-    "url": "https://www.cbc.ca/sports/football/cfl/cfl-draft-2025-1.7522223?cmp=rss",
     "category": "Sports"
   }
 ]

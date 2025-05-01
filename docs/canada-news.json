@@ -44,7 +44,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Your Canadian election questions answered, and what comes next",
+    "headline": "What happens to Poilievre? What happens to the NDP? Your election questions answered",
     "url": "https://www.cbc.ca/news/politics/federal-election-questions-1.7522926?cmp=rss",
     "category": "Politics"
   },
@@ -138,6 +138,13 @@
     "headline": "MP-elect Corey Hogan hoped for more Liberals in Calgary",
     "url": "https://www.cbc.ca/news/canada/calgary/corey-hogan-liberal-calgary-1.7522096?cmp=rss",
     "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadian Tire is bidding on Hudson's Bay assets, according to sources",
+    "url": "https://www.cbc.ca/news/business/canadian-tire-hbc-bid-1.7523683?cmp=rss",
+    "category": "Business"
   },
   {
     "source": "cbc",
@@ -275,13 +282,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Hudson's Bay to sell off all merchandise at 6 stores previously spared from liquidation",
-    "url": "https://www.cbc.ca/news/business/hudson-bay-merchandise-liquidation-six-stores-1.7516824?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Not slowing down: Andre De Grasse competing at Grand Slam Track in Miami, has eyes on L.A. 2028",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-andre-degrasse-preview-1.7521716?cmp=rss",
     "category": "Sports"
@@ -326,6 +326,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Transgender women soccer players to be banned from English women's teams",
     "url": "https://www.cbc.ca/sports/soccer/women-soccer-uk-transgender-ban-1.7523621?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada advances to men's U18 world hockey semifinals on Cole Reschny overtime goal",
+    "url": "https://www.cbc.ca/sports/hockey/reschny-canada-czech-republic-u18-hockey-worlds-quarterfinal-recap-1.7523646?cmp=rss",
     "category": "Sports"
   },
   {
@@ -410,13 +417,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carly Jackson earns victory in 1st PWHL start, helping Sceptres pad 2nd-place lead",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/carly-jackson-win-first-pwhl-start-sceptres-sirens-1.7522742?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Stampeders select receiver Damien Alford with top pick of CFL draft",
-    "url": "https://www.cbc.ca/sports/football/cfl/cfl-draft-2025-1.7522223?cmp=rss",
     "category": "Sports"
   },
   {
