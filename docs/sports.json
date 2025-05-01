@@ -37,13 +37,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Winnipeg Jets' Hellebuyck named finalist for Hart Trophy as NHL's most valuable player",
-    "url": "https://www.cbc.ca/news/canada/manitoba/hellebuyck-hart-trophy-finalist-nhl-most-valuable-player-1.7523776?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadiens coach proud of his 'damn good group' after season ends in 5 against Capitals",
     "url": "https://www.cbc.ca/news/canada/montreal/canadiens-game-5-capitals-1.7522750?cmp=rss",
     "category": "Sports"
@@ -137,6 +130,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "'Unbelievable play': Blue Jays' Varsho makes stunning, backhanded catch in season debut",
     "url": "https://www.cbc.ca/sports/baseball/mlb/daulton-varsho-stunning-backhanded-catch-blue-jays-mlb-1.7522609?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carly Jackson earns victory in 1st PWHL start, helping Sceptres pad 2nd-place lead",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/carly-jackson-win-first-pwhl-start-sceptres-sirens-1.7522742?cmp=rss",
     "category": "Sports"
   }
 ]
