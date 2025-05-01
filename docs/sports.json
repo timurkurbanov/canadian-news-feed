@@ -30,8 +30,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Oiler Draisaitl and Jets goalie Hellebuyck among finalists for NHL's Hart Trophy",
-    "url": "https://www.cbc.ca/news/canada/edmonton/draisaitl-hellebuyck-kucherov-hart-trophy-finalists-1.7523927?cmp=rss",
+    "headline": "Diallo eliminated in Madrid Open quarterfinals after being late addition to men's tourney",
+    "url": "https://www.cbc.ca/sports/tennis/gabriel-diallo-lorenzo-musetti-madrid-open-quarterfinal-recap-1.7524273?cmp=rss",
     "category": "Sports"
   },
   {
@@ -39,6 +39,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Sex assault trial for ex-world junior players won't sit today in London, Ont., due to sick juror",
     "url": "https://www.cbc.ca/news/canada/london/hockey-canada-junior-sex-assault-trial-london-ontario-1.7523153?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Oiler Draisaitl and Jets goalie Hellebuyck among finalists for NHL's Hart Trophy",
+    "url": "https://www.cbc.ca/news/canada/edmonton/draisaitl-hellebuyck-kucherov-hart-trophy-finalists-1.7523927?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's Peterman, Gallant qualify for playoffs at mixed doubles curling worlds",
     "url": "https://www.cbc.ca/sports/olympics/winter/curling/gallant-peterman-canada-recap-mixed-doubles-curling-april30-1.7522888?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's Diallo fights back for upset win over Dimitrov, advancing to Madrid Open quarters",
-    "url": "https://www.cbc.ca/sports/tennis/gabriel-diallo-madrid-open-roundup-april30-1.7523163?cmp=rss",
     "category": "Sports"
   }
 ]
