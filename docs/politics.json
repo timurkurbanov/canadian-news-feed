@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Monarchists hopeful King Charles will deliver Carney government's first throne speech",
+    "url": "https://www.cbc.ca/news/politics/king-charles-throne-speech-1.7524078?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Liberals lose closely contested seat to Bloc Québécois after vote validation",
     "url": "https://www.cbc.ca/news/politics/elections-canada-terrebonne-riding-flips-validation-liberals-bloc-1.7524107?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Why a minority Liberal government took so long to call",
     "url": "https://www.cbc.ca/news/politics/liberal-minority-vs-minority-count-1.7521714?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'The west really doesn't count': Election called just as B.C. polls closed — again",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/west-doesn-t-count-1.7522023?cmp=rss",
     "category": "Politics"
   }
 ]
