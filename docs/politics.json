@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "There are 3 steps Carney must take to get a truce from Trump",
+    "url": "https://www.cbc.ca/news/world/carney-trump-meeting-trade-war-lookahead-1.7523186?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Sole Green MP Elizabeth May looks to play pivotal role in minority Parliament",
     "url": "https://www.cbc.ca/news/politics/elizabeth-may-green-party-key-role-minority-2025-1.7522885?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "MP-elect Corey Hogan hoped for more Liberals in Calgary",
     "url": "https://www.cbc.ca/news/canada/calgary/corey-hogan-liberal-calgary-1.7522096?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "12 Indigenous candidates elected in 2025 federal election",
-    "url": "https://www.cbc.ca/news/indigenous/indigenous-candidates-federal-election-1.7521841?cmp=rss",
     "category": "Politics"
   }
 ]

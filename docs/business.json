@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Tesla board chair denies reports company was looking to replace Elon Musk",
+    "url": "https://www.cbc.ca/news/business/tesla-musk-replacement-response-1.7523534?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "'Don't shut up': Canadian auto sector's strategy to fight Trump tariffs",
     "url": "https://www.cbc.ca/news/canada/windsor/trump-tariffs-auto-canada-parts-media-strategy-us-change-1.7523389?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Hudson's Bay to sell off all merchandise at 6 stores previously spared from liquidation",
     "url": "https://www.cbc.ca/news/business/hudson-bay-merchandise-liquidation-six-stores-1.7516824?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Air Canada ordered to pay passengers $10M in damages after class action over ticket prices",
-    "url": "https://www.cbc.ca/news/canada/montreal/air-canada-class-action-ruling-1.7516556?cmp=rss",
     "category": "Business"
   }
 ]
