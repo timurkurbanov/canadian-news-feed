@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Liberals lose closely contested seat to Bloc Québécois after vote validation",
+    "url": "https://www.cbc.ca/news/politics/elections-canada-terrebonne-riding-flips-validation-liberals-bloc-1.7524107?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "With 24 Sussex still sitting in a sorry state, Carney to move into Rideau Cottage",
     "url": "https://www.cbc.ca/news/politics/carney-rideau-cottage-1.7523728?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "'The west really doesn't count': Election called just as B.C. polls closed — again",
     "url": "https://www.cbc.ca/news/canada/british-columbia/west-doesn-t-count-1.7522023?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre faces uncertain future after losing his own seat and failing to depose the Liberals",
-    "url": "https://www.cbc.ca/news/politics/poilievre-uncertain-future-1.7521681?cmp=rss",
     "category": "Politics"
   }
 ]
