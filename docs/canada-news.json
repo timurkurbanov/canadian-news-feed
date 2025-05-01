@@ -142,6 +142,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'Don't shut up': Canadian auto sector's strategy to fight Trump tariffs",
+    "url": "https://www.cbc.ca/news/canada/windsor/trump-tariffs-auto-canada-parts-media-strategy-us-change-1.7523389?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "China draws up list of U.S.-made goods exempt from 125% tariffs, sources say",
     "url": "https://www.cbc.ca/news/business/china-tariff-whitelist-1.7522535?cmp=rss",
     "category": "Business"
@@ -275,13 +282,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "EU fines Apple 500M euros, Meta 200M euros for breaking competition rules",
-    "url": "https://www.cbc.ca/news/business/eu-fines-apple-meta-1.7516164?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Not slowing down: Andre De Grasse competing at Grand Slam Track in Miami, has eyes on L.A. 2028",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-andre-degrasse-preview-1.7521716?cmp=rss",
     "category": "Sports"
@@ -310,6 +310,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Man falls from 21-foot Clemente Wall at PNC Park during Pirates game",
+    "url": "https://www.cbc.ca/sports/baseball/mlb/man-falls-pnc-park-pirates-cubs-game-1.7523521?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PWHL continues West Coast expansion, adding franchise in Seattle",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-seattle-announcement-2025-1.7522028?cmp=rss",
     "category": "Sports"
@@ -332,7 +339,7 @@
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Frost win to keep PWHL playoff hopes alive, put Charge's chances in jeopardy",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/ottawa-charge-minneosta-frost-pwhl-april-30-1.7523438?cmp=rss",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/ottawa-charge-minnesota-frost-pwhl-april-30-1.7523438?cmp=rss",
     "category": "Sports"
   },
   {
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Edmonton Oilers win 3-1 in Game 5 to take series lead against Los Angeles Kings",
-    "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-win-3-1-in-game-5-to-take-series-lead-against-los-angeles-kings-1.7521805?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Sunny, 1.6°C",
+    "headline": "Current Conditions: Mainly Sunny, 5.1°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

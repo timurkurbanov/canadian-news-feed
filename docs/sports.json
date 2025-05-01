@@ -30,6 +30,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Man falls from 21-foot Clemente Wall at PNC Park during Pirates game",
+    "url": "https://www.cbc.ca/sports/baseball/mlb/man-falls-pnc-park-pirates-cubs-game-1.7523521?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PWHL continues West Coast expansion, adding franchise in Seattle",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-seattle-announcement-2025-1.7522028?cmp=rss",
     "category": "Sports"
@@ -52,7 +59,7 @@
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Frost win to keep PWHL playoff hopes alive, put Charge's chances in jeopardy",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/ottawa-charge-minneosta-frost-pwhl-april-30-1.7523438?cmp=rss",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/ottawa-charge-minnesota-frost-pwhl-april-30-1.7523438?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Edmonton Oilers push L.A. Kings to brink of elimination with Game 5 win",
     "url": "https://www.cbc.ca/news/canada/edmonton/oilers-push-kings-brink-elimination-game-5-1.7522666?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Edmonton Oilers win 3-1 in Game 5 to take series lead against Los Angeles Kings",
-    "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-win-3-1-in-game-5-to-take-series-lead-against-los-angeles-kings-1.7521805?cmp=rss",
     "category": "Sports"
   }
 ]
