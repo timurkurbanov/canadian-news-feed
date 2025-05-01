@@ -16,28 +16,21 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Wednesday night: Partly cloudy. Low minus 2.",
+    "headline": "Thursday: Increasing cloudiness. High 16.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Thursday: A mix of sun and cloud. High 16.",
+    "headline": "Thursday night: Chance of showers. Low 10. POP 60%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Thursday night: Showers. Low 9.",
-    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
-    "category": "Weather"
-  },
-  {
-    "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Friday: Showers. High 21.",
+    "headline": "Friday: Chance of showers. High 22. POP 40%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
@@ -94,6 +87,20 @@
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "Tuesday: Cloudy. High 18.",
+    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
+    "category": "Weather"
+  },
+  {
+    "source": "weather.gc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
+    "headline": "Tuesday night: Chance of showers. Low 10. POP 60%",
+    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
+    "category": "Weather"
+  },
+  {
+    "source": "weather.gc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
+    "headline": "Wednesday: A mix of sun and cloud. High 20.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
