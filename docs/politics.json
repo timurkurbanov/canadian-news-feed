@@ -2,6 +2,27 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "How the Liberals came up short in Ontario — and lost their majority bid",
+    "url": "https://www.cbc.ca/news/politics/liberal-vote-ontario-majority-conservatives-1.7523038?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Liberals pushed Trump as key election issue, but lost seats on front lines of the trade war",
+    "url": "https://www.cbc.ca/news/politics/liberals-trump-election-conservatives-southern-ontario-1.7523333?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Sole Green MP Elizabeth May looks to play pivotal role in minority Parliament",
+    "url": "https://www.cbc.ca/news/politics/elizabeth-may-green-party-key-role-minority-2025-1.7522885?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre is making calls to shore up support as Conservatives take stock of election results",
     "url": "https://www.cbc.ca/news/politics/poilievre-future-conservatives-take-stock-1.7522939?cmp=rss",
     "category": "Politics"
@@ -116,27 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "12 Indigenous candidates elected in 2025 federal election",
     "url": "https://www.cbc.ca/news/indigenous/indigenous-candidates-federal-election-1.7521841?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney's win caps a remarkable turn of events — and sets up the immense challenges ahead",
-    "url": "https://www.cbc.ca/news/politics/carney-poilievre-election-result-analysis-1.7521385?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "6 key takeaways from Monday's historic vote",
-    "url": "https://www.cbc.ca/news/politics/takeaways-election-results-1.7521355?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Premier vows to protect Alberta against 'future hostile acts' from Ottawa after Liberal victory",
-    "url": "https://www.cbc.ca/news/canada/edmonton/danielle-smith-election-mark-carney-canada-election-2025-1.7521640?cmp=rss",
     "category": "Politics"
   }
 ]

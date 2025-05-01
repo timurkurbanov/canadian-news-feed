@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Not slowing down: Andre De Grasse competing at Grand Slam Track in Miami, has eyes on L.A. 2028",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-andre-degrasse-preview-1.7521716?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadiens eliminated from NHL playoffs after 4-1 loss to Capitals in Game 5",
     "url": "https://www.cbc.ca/news/canada/montreal/canadiens-game-5-capitals-1.7522750?cmp=rss",
     "category": "Sports"
@@ -25,6 +32,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada Soccer Hall of Fame welcomes Sinclair, Matheson in Class of 2025",
     "url": "https://www.cbc.ca/sports/soccer/christine-sinclair-diana-matheson-canada-soccer-hall-of-fame-1.7523168?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "NHL player continues testimony today at sex assault trial of ex-world junior teammates in London, Ont.",
+    "url": "https://www.cbc.ca/news/canada/london/hockey-canada-junior-sex-assault-trial-london-ontario-1.7523153?cmp=rss",
     "category": "Sports"
   },
   {
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian curlers tied for 2nd in Pool A at mixed doubles worlds: 'Where we want to be'",
     "url": "https://www.cbc.ca/sports/olympics/winter/curling/gallant-peterman-canada-recap-mixed-doubles-curling-april29-1.7522051?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "How long will it take Wrexham A.F.C to get up to the Premier League?",
-    "url": "https://www.cbc.ca/player/play/9.6740852?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Panthers' Ekblad suspended 2 games for elbowing Lightning's Hagel in the head",
-    "url": "https://www.cbc.ca/news/canada/windsor/ekblad-suspended-panthers-lightning-playoffs-1.7522456?cmp=rss",
     "category": "Sports"
   }
 ]
