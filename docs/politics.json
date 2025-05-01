@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Conservative MP open to speaking with friend JD Vance if Liberals ask for help",
+    "url": "https://www.cbc.ca/news/politics/jamil-jivani-j-d-vance-u-s-relations-1.7524407?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Conservative caucus to meet Tuesday as MPs press on after election loss",
     "url": "https://www.cbc.ca/news/politics/conservative-caucus-tuesday-1.7524246?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney and Trump speak, agree to meet in person following Liberal minority win",
     "url": "https://www.cbc.ca/news/politics/carney-liberal-election-call-1.7521812?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Here's what the federal election results mean for Doug Ford and Ontario",
-    "url": "https://www.cbc.ca/news/canada/toronto/canada-election-ontario-doug-ford-analysis-1.7522340?cmp=rss",
     "category": "Politics"
   }
 ]
