@@ -282,6 +282,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Maple Leafs beat Senators in Game 6 to take Battle of Ontario 4-2",
+    "url": "https://www.cbc.ca/news/canada/toronto/nhl-hockey-toronto-maple-leafs-ottawa-senators-round-one-game-six-1.7524401?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "How a Canadian cliff diver used empowering messages to help overcome mental health struggle",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/molly-carlson-high-diving-mental-health-social-media-brave-gang-1.7524029?cmp=rss",
     "category": "Sports"
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "The mystery behind top prospect Shedeur Sanders's NFL draft free fall",
-    "url": "https://www.cbc.ca/sports/football/nfl/morgan-campbell-shedeur-sanders-nfl-draft-april30-1.7522438?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Rain, 9.6°C",
+    "headline": "Current Conditions: Light Rain, 8.7°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
