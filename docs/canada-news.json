@@ -2,14 +2,14 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Prime Minister Mark Carney holding 1st news conference following election victory",
+    "headline": "Prime Minister Mark Carney to visit Trump at White House next week",
     "url": "https://www.cbc.ca/9.6745127?cmp=rss",
     "category": "Politics"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney to hold first news conference since election win",
+    "headline": "PM Carney to meet with President Trump in Washington on Tuesday: sources",
     "url": "https://www.cbc.ca/news/politics/carney-news-conference-ottawa-1.7524324?cmp=rss",
     "category": "Politics"
   },
@@ -310,7 +310,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "NHLer returns to witness box at London, Ont., sexual assault trial of ex-world junior teammates",
+    "headline": "Defence cross-examines NHLer at London, Ont., sexual assault trial of ex-world junior teammates",
     "url": "https://www.cbc.ca/9.6745871?cmp=rss",
     "category": "Sports"
   },
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 15.9°C",
+    "headline": "Current Conditions: Mostly Cloudy, 16.3°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
