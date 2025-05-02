@@ -2,7 +2,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Prime Minister Mark Carney to visit Trump at White House next week",
+    "headline": "Carney to visit Trump at White House next week",
     "url": "https://www.cbc.ca/9.6745127?cmp=rss",
     "category": "Politics"
   },
@@ -303,6 +303,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "American track star Kerley to miss Grand Slam Track meet after arrest",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/athletics-fred-kerley-arrested-grandslam-may2-1.7524980?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Not slowing down: Andre De Grasse competing at Grand Slam Track in Miami, has eyes on L.A. 2028",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-andre-degrasse-preview-1.7521716?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Newest Raptor A.J. Lawson aiming to represent Canada at 2028 Olympics",
     "url": "https://www.cbc.ca/sports/basketball/nba/raptors-aj-lawson-2028-olympics-la-1.7524512?cmp=rss",
     "category": "Sports"
@@ -312,13 +326,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "NHLer at sex assault trial of ex-world junior teammates describes anxiety after learning of investigation",
     "url": "https://www.cbc.ca/9.6745871?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Not slowing down: Andre De Grasse competing at Grand Slam Track in Miami, has eyes on L.A. 2028",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-andre-degrasse-preview-1.7521716?cmp=rss",
     "category": "Sports"
   },
   {
@@ -410,13 +417,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada Soccer Hall of Fame welcomes Sinclair, Matheson in Class of 2025",
     "url": "https://www.cbc.ca/sports/soccer/christine-sinclair-diana-matheson-canada-soccer-hall-of-fame-1.7523168?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Women's baseball debuts at the 2025 Canada Games. The N.L. trailblazer says it's a huge deal",
-    "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/lee-canada-games-womens-baseball-1.7522807?cmp=rss",
     "category": "Sports"
   },
   {
