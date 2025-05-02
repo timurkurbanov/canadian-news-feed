@@ -16,6 +16,34 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadian mixed doubles curlers Peterman, Gallant secure spot at Milano-Cortina Olympics",
+    "url": "https://www.cbc.ca/sports/olympics/winter/curling/canada-curling-mixed-doubles-olympic-qualification-1.7524686?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Newest Raptor A.J. Lawson aiming to represent Canada at 2028 Olympics",
+    "url": "https://www.cbc.ca/sports/basketball/nba/raptors-aj-lawson-2028-olympics-la-1.7524512?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "NHLer returns to witness box at London, Ont., sexual assault trial of ex-world junior teammates",
+    "url": "https://www.cbc.ca/9.6745871?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Not slowing down: Andre De Grasse competing at Grand Slam Track in Miami, has eyes on L.A. 2028",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-andre-degrasse-preview-1.7521716?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Maple Leafs eliminate Senators in Game 6, move on to face Panthers in 2nd round",
     "url": "https://www.cbc.ca/news/canada/toronto/nhl-hockey-toronto-maple-leafs-ottawa-senators-round-one-game-six-1.7524401?cmp=rss",
     "category": "Sports"
@@ -30,22 +58,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian mixed doubles curlers Peterman, Gallant secure spot at Milano-Cortina Olympics",
-    "url": "https://www.cbc.ca/sports/olympics/winter/curling/canada-curling-mixed-doubles-olympic-qualification-1.7524686?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "How a Canadian cliff diver used empowering messages to help overcome mental health struggle",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/molly-carlson-high-diving-mental-health-social-media-brave-gang-1.7524029?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Not slowing down: Andre De Grasse competing at Grand Slam Track in Miami, has eyes on L.A. 2028",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-andre-degrasse-preview-1.7521716?cmp=rss",
     "category": "Sports"
   },
   {
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Frost win to keep PWHL playoff hopes alive, put Charge's chances in jeopardy",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/ottawa-charge-minnesota-frost-pwhl-april-30-1.7523438?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Vancouver Whitecaps beat Lionel Messi's Inter Miami 3-1 to advance to Champions Cup final",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/whitecaps-inter-miami-concacaf-champions-cup-1.7523457?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'There's an investigation': NHL player's text shown at sex assault trial of ex-world junior teammates",
-    "url": "https://www.cbc.ca/9.6742726?cmp=rss",
     "category": "Sports"
   }
 ]

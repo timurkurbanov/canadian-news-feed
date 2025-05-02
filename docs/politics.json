@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Prime Minister Mark Carney holding 1st news conference following election victory",
+    "url": "https://www.cbc.ca/9.6745127?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney to hold first news conference since election win",
     "url": "https://www.cbc.ca/news/politics/carney-news-conference-ottawa-1.7524324?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Calls for investigation after some in Nunavik left out of vote due to polling station issues",
     "url": "https://www.cbc.ca/news/canada/montreal/polling-station-mishaps-nunavik-quebec-elections-1.7522002?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Is it R.I.P. for the federal NDP? Not quite, experts say",
-    "url": "https://www.cbc.ca/news/politics/ndp-party-vote-1.7521531?cmp=rss",
     "category": "Politics"
   }
 ]
