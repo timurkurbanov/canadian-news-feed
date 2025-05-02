@@ -30,6 +30,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Newest Raptor A.J. Lawson aiming to represent Canada at 2028 Olympics",
+    "url": "https://www.cbc.ca/sports/basketball/nba/raptors-aj-lawson-2028-olympics-la-1.7524512?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Katie Ledecky holds off Summer McIntosh in 400m freestyle at Tyr Pro Meet",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/summer-mcintosh-katie-ledecky-400-free-tyr-pro-1.7524624?cmp=rss",
     "category": "Sports"
@@ -44,8 +51,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Newest Raptor A.J. Lawson aiming to represent Canada at 2028 Olympics",
-    "url": "https://www.cbc.ca/sports/basketball/nba/raptors-aj-lawson-2028-olympics-la-1.7524512?cmp=rss",
+    "headline": "Gregg Popovich, the NBA's all-time wins leader, retires after 29 seasons as coach in San Antonio",
+    "url": "https://www.cbc.ca/sports/basketball/nba-gregg-popovich-retire-san-antonio-1.7525193?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PWHL continues West Coast expansion, adding franchise in Seattle",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-seattle-announcement-2025-1.7522028?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada Soccer Hall of Fame welcomes Sinclair, Matheson in Class of 2025",
-    "url": "https://www.cbc.ca/sports/soccer/christine-sinclair-diana-matheson-canada-soccer-hall-of-fame-1.7523168?cmp=rss",
     "category": "Sports"
   }
 ]

@@ -177,6 +177,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Are U.S. ports ‘ghost towns’ thanks to Trump’s tariffs?",
+    "url": "https://www.cbc.ca/player/play/9.6745337?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "CUSMA-compliant auto parts won't be hit with tariffs",
     "url": "https://www.cbc.ca/news/world/us-cbp-cusma-auto-parts-tariffs-1.7524359?cmp=rss",
     "category": "Business"
@@ -275,13 +282,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Liquidation begins at remaining Hudson's Bay stores, including Toronto flagship",
-    "url": "https://www.cbc.ca/news/canada/toronto/hudson-bay-liquidation-begins-toronto-flagship-1.7518676?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "3 teams, 2 playoff spots: Everything to play for on final day of PWHL regular season",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-regular-season-finale-2025-1.7524147?cmp=rss",
     "category": "Sports"
@@ -310,6 +310,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Newest Raptor A.J. Lawson aiming to represent Canada at 2028 Olympics",
+    "url": "https://www.cbc.ca/sports/basketball/nba/raptors-aj-lawson-2028-olympics-la-1.7524512?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Katie Ledecky holds off Summer McIntosh in 400m freestyle at Tyr Pro Meet",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/summer-mcintosh-katie-ledecky-400-free-tyr-pro-1.7524624?cmp=rss",
     "category": "Sports"
@@ -324,8 +331,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Newest Raptor A.J. Lawson aiming to represent Canada at 2028 Olympics",
-    "url": "https://www.cbc.ca/sports/basketball/nba/raptors-aj-lawson-2028-olympics-la-1.7524512?cmp=rss",
+    "headline": "Gregg Popovich, the NBA's all-time wins leader, retires after 29 seasons as coach in San Antonio",
+    "url": "https://www.cbc.ca/sports/basketball/nba-gregg-popovich-retire-san-antonio-1.7525193?cmp=rss",
     "category": "Sports"
   },
   {
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada Soccer Hall of Fame welcomes Sinclair, Matheson in Class of 2025",
-    "url": "https://www.cbc.ca/sports/soccer/christine-sinclair-diana-matheson-canada-soccer-hall-of-fame-1.7523168?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 18.2°C",
+    "headline": "Current Conditions: Mostly Cloudy, 19.4°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
