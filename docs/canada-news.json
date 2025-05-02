@@ -296,6 +296,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Edmonton Oilers advance to 2nd round with 6-4 win over Los Angeles Kings",
+    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-game-6-1.7524433?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Katie Ledecky holds off Summer McIntosh in 400m free at Tyr Pro Meet",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/summer-mcintosh-katie-ledecky-400-free-tyr-pro-1.7524624?cmp=rss",
     "category": "Sports"
@@ -410,13 +417,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada Soccer Hall of Fame welcomes Sinclair, Matheson in Class of 2025",
     "url": "https://www.cbc.ca/sports/soccer/christine-sinclair-diana-matheson-canada-soccer-hall-of-fame-1.7523168?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Women's baseball debuts at the 2025 Canada Games. The N.L. trailblazer says it's a huge deal",
-    "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/lee-canada-games-womens-baseball-1.7522807?cmp=rss",
     "category": "Sports"
   },
   {
