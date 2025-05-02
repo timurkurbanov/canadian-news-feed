@@ -2,8 +2,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "From Trump to Poilievre to the King, here's what came out of Carney's 1st post-election news conference",
+    "headline": "From Trump to Poilievre to the King, here's what came out of Carney's post-election news conference",
     "url": "https://www.cbc.ca/9.6745127?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "How will Carney contend with a minority — and what kind of Parliament do MPs want?",
+    "url": "https://www.cbc.ca/news/politics/carney-minority-parliament-poilievre-analysis-1.7525414?cmp=rss",
     "category": "Politics"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Charting the vote thieves: A visual breakdown of party gains and losses",
     "url": "https://www.cbc.ca/news/politics/charting-the-vote-thieves-a-visual-breakdown-of-party-gains-and-losses-1.7522558?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Jonathan Pedneault resigns as Green Party co-leader after failing to secure seat for 2nd time",
-    "url": "https://www.cbc.ca/news/politics/jonathan-pedneault-resigns-again-1.7522519?cmp=rss",
     "category": "Politics"
   }
 ]
