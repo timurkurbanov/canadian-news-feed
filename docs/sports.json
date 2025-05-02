@@ -65,6 +65,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Jets' Scott Arniel named finalist for Jack Adams Award as coach of the year",
+    "url": "https://www.cbc.ca/news/canada/manitoba/jack-adams-finalists-nhl-scott-arniel-winnipeg-1.7525255?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Rangers hire Mike Sullivan as coach days after he parted ways with Penguins",
     "url": "https://www.cbc.ca/sports/hockey/new-york-rangers-hire-mike-sullivan-as-coach-1.7524900?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Transgender women soccer players to be banned from English women's teams",
     "url": "https://www.cbc.ca/sports/soccer/women-soccer-uk-transgender-ban-1.7523621?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "PWHL continues West Coast expansion, adding franchise in Seattle",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-seattle-announcement-2025-1.7522028?cmp=rss",
     "category": "Sports"
   }
 ]
