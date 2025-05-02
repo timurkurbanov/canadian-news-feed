@@ -149,7 +149,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "GM to lay off 700 workers at Oshawa plant, citing U.S. tariffs: union president",
+    "headline": "GM to lay off 750 workers at Oshawa plant, citing U.S. tariffs: union president",
     "url": "https://www.cbc.ca/news/canada/toronto/oshawa-general-motors-plant-cutting-jobs-union-says-1.7524665?cmp=rss",
     "category": "Business"
   },
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 16.9°C",
+    "headline": "Current Conditions: Mostly Cloudy, 18.2°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
