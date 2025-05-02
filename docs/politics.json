@@ -2,6 +2,27 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney to hold first news conference since election win",
+    "url": "https://www.cbc.ca/news/politics/carney-news-conference-ottawa-1.7524324?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "The federal NDP had its worst election ever. Now what?",
+    "url": "https://www.cbc.ca/news/politics/ndp-future-new-leader-party-status-1.7523223?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "With less than 1% of the vote, does the People's Party of Canada have a future?",
+    "url": "https://www.cbc.ca/news/politics/peoples-party-of-canada-ppc-maxime-bernier-election-2025-1.7523653?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Conservative MP open to speaking with friend JD Vance if Liberals ask for help",
     "url": "https://www.cbc.ca/news/politics/jamil-jivani-j-d-vance-u-s-relations-1.7524407?cmp=rss",
     "category": "Politics"
@@ -116,27 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Is it R.I.P. for the federal NDP? Not quite, experts say",
     "url": "https://www.cbc.ca/news/politics/ndp-party-vote-1.7521531?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "These big-name MPs won't be returning to Parliament after Monday's vote",
-    "url": "https://www.cbc.ca/news/politics/incumbent-losses-election-2025-1.7522102?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "RECAP | Everything that unfolded on Canada’s election night (and the day after)",
-    "url": "https://www.cbc.ca/news/politics/livestory/recap-everything-that-unfolded-on-canadas-election-night-and-the-day-after-9.6738893?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney and Trump speak, agree to meet in person following Liberal minority win",
-    "url": "https://www.cbc.ca/news/politics/carney-liberal-election-call-1.7521812?cmp=rss",
     "category": "Politics"
   }
 ]
