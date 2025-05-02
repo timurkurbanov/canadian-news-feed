@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Oshawa GM plant to cut shifts in the fall, citing U.S. tariffs",
+    "url": "https://www.cbc.ca/news/canada/toronto/oshawa-general-motors-plant-cutting-jobs-union-says-1.7524665?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Air Canada took couple to court rather than pay $2K compensation. A year later, it gave in",
     "url": "https://www.cbc.ca/news/business/air-canada-court-compensation-1.7524311?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "China exempts some U.S. imports from 125% tariff rate",
     "url": "https://www.cbc.ca/news/business/china-tariff-exemptions-1.7518434?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Pipelines have become an election issue. What exactly is Ottawa's role to play?",
-    "url": "https://www.cbc.ca/news/canada/calgary/pipelines-election-1.7517840?cmp=rss",
     "category": "Business"
   }
 ]
