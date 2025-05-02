@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "King Charles to travel to Canada, deliver throne speech",
+    "url": "https://www.cbc.ca/news/politics/king-charles-canada-visit-1.7524946?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PM Carney to meet with President Trump in Washington on Tuesday",
     "url": "https://www.cbc.ca/news/politics/carney-news-conference-ottawa-1.7524324?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Now comes the hard part for Mark Carney",
     "url": "https://www.cbc.ca/news/business/armstrong-election-economy-1.7521865?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Calls for investigation after some in Nunavik left out of vote due to polling station issues",
-    "url": "https://www.cbc.ca/news/canada/montreal/polling-station-mishaps-nunavik-quebec-elections-1.7522002?cmp=rss",
     "category": "Politics"
   }
 ]
