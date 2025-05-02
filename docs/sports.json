@@ -2,20 +2,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "How a Canadian cliff diver used empowering messages to help overcome mental health struggle",
-    "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/molly-carlson-high-diving-mental-health-social-media-brave-gang-1.7524029?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Katie Ledecky holds off Summer McIntosh in 400m freestyle at Tyr Pro Meet",
-    "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/summer-mcintosh-katie-ledecky-400-free-tyr-pro-1.7524624?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Maple Leafs eliminate Senators in Game 6, move on to face Panthers in 2nd round",
     "url": "https://www.cbc.ca/news/canada/toronto/nhl-hockey-toronto-maple-leafs-ottawa-senators-round-one-game-six-1.7524401?cmp=rss",
     "category": "Sports"
@@ -25,6 +11,20 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Oilers beat Kings, advance to 2nd round matchup vs. Golden Knights",
     "url": "https://www.cbc.ca/news/canada/edmonton/oilers-game-6-1.7524433?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "How a Canadian cliff diver used empowering messages to help overcome mental health struggle",
+    "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/molly-carlson-high-diving-mental-health-social-media-brave-gang-1.7524029?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Katie Ledecky holds off Summer McIntosh in 400m freestyle at Tyr Pro Meet",
+    "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/summer-mcintosh-katie-ledecky-400-free-tyr-pro-1.7524624?cmp=rss",
     "category": "Sports"
   },
   {
