@@ -282,6 +282,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "3 teams, 2 playoff spots: Everything to play for on final day of PWHL regular season",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-regular-season-finale-2025-1.7524147?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadian mixed doubles curlers Peterman, Gallant secure spot at Milano-Cortina Olympics",
+    "url": "https://www.cbc.ca/sports/olympics/winter/curling/canada-curling-mixed-doubles-olympic-qualification-1.7524686?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Maple Leafs eliminate Senators in Game 6, move on to face Panthers in 2nd round",
     "url": "https://www.cbc.ca/news/canada/toronto/nhl-hockey-toronto-maple-leafs-ottawa-senators-round-one-game-six-1.7524401?cmp=rss",
     "category": "Sports"
@@ -406,20 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "PWHL continues West Coast expansion, adding franchise in Seattle",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-seattle-announcement-2025-1.7522028?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada Soccer Hall of Fame welcomes Sinclair, Matheson in Class of 2025",
-    "url": "https://www.cbc.ca/sports/soccer/christine-sinclair-diana-matheson-canada-soccer-hall-of-fame-1.7523168?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 12.6°C",
+    "headline": "Current Conditions: Mostly Cloudy, 14.0°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
