@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "2025 World Athletics Wanda Diamond League: Shanghai/Keqiao",
+    "url": "https://www.cbc.ca/player/play/9.6723882?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's Arop places 7th in 1,500m at Grand Slam Track meet",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/grandslam-may2-1.7524980?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Oilers' Draisaitl, Jets goalie Hellebuyck among finalists for Hart Trophy",
     "url": "https://www.cbc.ca/news/canada/edmonton/draisaitl-hellebuyck-kucherov-hart-trophy-finalists-1.7523927?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'I can trust myself': Olympic fencing medal brings confidence for Hamilton's Eleanor Harvey",
-    "url": "https://www.cbc.ca/news/canada/hamilton/eleanor-harvey-1.7523535?cmp=rss",
     "category": "Sports"
   }
 ]
