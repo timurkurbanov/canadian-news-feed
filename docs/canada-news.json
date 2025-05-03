@@ -303,6 +303,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Boychuk's second-half goal earns Montreal Roses FC 2-1 NSL win over Ottawa Rapid FC",
+    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-montreal-ottawa-may-3-1.7526008?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "3 teams, 2 playoff spots: Everything to play for on final day of PWHL regular season",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-regular-season-finale-2025-1.7524147?cmp=rss",
     "category": "Sports"
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Oilers beat Kings, advance to 2nd round matchup vs. Golden Knights",
-    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-game-6-1.7524433?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 14.7°C",
+    "headline": "Current Conditions: Mostly Cloudy, 14.9°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Boychuk's second-half goal earns Montreal Roses FC 2-1 NSL win over Ottawa Rapid FC",
+    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-montreal-ottawa-may-3-1.7526008?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "3 teams, 2 playoff spots: Everything to play for on final day of PWHL regular season",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-regular-season-finale-2025-1.7524147?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Maple Leafs eliminate Senators in Game 6, move on to face Panthers in 2nd round",
     "url": "https://www.cbc.ca/news/canada/toronto/nhl-hockey-toronto-maple-leafs-ottawa-senators-round-one-game-six-1.7524401?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Oilers beat Kings, advance to 2nd round matchup vs. Golden Knights",
-    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-game-6-1.7524433?cmp=rss",
     "category": "Sports"
   }
 ]
