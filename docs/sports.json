@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "3 teams, 2 playoff spots: Everything to play for on final day of PWHL regular season",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-regular-season-finale-2025-1.7524147?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ilya Kharun swims to new Canadian record in win at Tyr Pro Meet",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/ilya-kharun-summer-mcintosh-tyr-pro-series-may-3-1.7525824?cmp=rss",
     "category": "Sports"
@@ -16,13 +23,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's Arop places 7th in 1,500m at Grand Slam Track meet",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/grandslam-may2-1.7524980?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Brutal 2nd-period stretch dooms Winnipeg Jets in St. Louis, forcing Game 7 Sunday",
     "url": "https://www.cbc.ca/news/canada/manitoba/jets-blues-game-6-1.7525428?cmp=rss",
     "category": "Sports"
@@ -30,8 +30,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "3 teams, 2 playoff spots: Everything to play for on final day of PWHL regular season",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-regular-season-finale-2025-1.7524147?cmp=rss",
+    "headline": "Not slowing down: Andre De Grasse competing at Grand Slam Track in Miami, has eyes on L.A. 2028",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-andre-degrasse-preview-1.7521716?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada's Arop places 7th in 1,500m at Grand Slam Track meet",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/grandslam-may2-1.7524980?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Watch the PWHL: Montreal Victoire vs. New York Sirens",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-montreal-victoire-new-york-sirens-may-3-1.7523605?cmp=rss",
     "category": "Sports"
   },
   {
@@ -46,13 +60,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada ousted at mixed doubles curling worlds, but Olympic spot still secured",
     "url": "https://www.cbc.ca/sports/olympics/winter/curling/canada-curling-mixed-doubles-olympic-qualification-1.7524686?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Not slowing down: Andre De Grasse competing at Grand Slam Track in Miami, has eyes on L.A. 2028",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-andre-degrasse-preview-1.7521716?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Diallo eliminated in Madrid Open quarterfinals after being late addition to men's tourney",
     "url": "https://www.cbc.ca/sports/tennis/gabriel-diallo-lorenzo-musetti-madrid-open-quarterfinal-recap-1.7524273?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Sex assault trial for ex-world junior players won't sit today in London, Ont., due to sick juror",
-    "url": "https://www.cbc.ca/news/canada/london/hockey-canada-junior-sex-assault-trial-london-ontario-1.7523153?cmp=rss",
     "category": "Sports"
   }
 ]
