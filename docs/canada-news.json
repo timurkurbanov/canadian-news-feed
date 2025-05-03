@@ -296,13 +296,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "2025 World Athletics Wanda Diamond League: Shanghai/Keqiao",
-    "url": "https://www.cbc.ca/player/play/9.6723882?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Brutal 2nd-period stretch dooms Winnipeg Jets in St. Louis, forcing Game 7 Sunday",
     "url": "https://www.cbc.ca/news/canada/manitoba/jets-blues-game-6-1.7525428?cmp=rss",
     "category": "Sports"
@@ -417,6 +410,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Diallo eliminated in Madrid Open quarterfinals after being late addition to men's tourney",
     "url": "https://www.cbc.ca/sports/tennis/gabriel-diallo-lorenzo-musetti-madrid-open-quarterfinal-recap-1.7524273?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Sex assault trial for ex-world junior players won't sit today in London, Ont., due to sick juror",
+    "url": "https://www.cbc.ca/news/canada/london/hockey-canada-junior-sex-assault-trial-london-ontario-1.7523153?cmp=rss",
     "category": "Sports"
   },
   {
