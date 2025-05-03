@@ -100,6 +100,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "The Whitecaps are on fire — and giving Vancouver sports fans some cheer after Canucks 'season from hell'",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-whitecaps-fans-canucks-1.7523010?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Gregg Popovich, the NBA's all-time wins leader, retires after 29 seasons as coach in San Antonio",
     "url": "https://www.cbc.ca/sports/basketball/nba-gregg-popovich-retire-san-antonio-1.7525193?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Oilers beat Kings, advance to 2nd round matchup vs. Golden Knights",
     "url": "https://www.cbc.ca/news/canada/edmonton/oilers-game-6-1.7524433?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "The mystery behind top prospect Shedeur Sanders's NFL draft free fall",
-    "url": "https://www.cbc.ca/sports/football/nfl/morgan-campbell-shedeur-sanders-nfl-draft-april30-1.7522438?cmp=rss",
     "category": "Sports"
   }
 ]
