@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Watch the PWHL: Montreal Victoire vs. New York Sirens",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-montreal-victoire-new-york-sirens-may-3-1.7523605?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ilya Kharun swims to new Canadian record in win at Tyr Pro Meet",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/ilya-kharun-summer-mcintosh-tyr-pro-series-may-3-1.7525824?cmp=rss",
     "category": "Sports"
@@ -37,8 +44,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Watch the PWHL: Montreal Victoire vs. New York Sirens",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-montreal-victoire-new-york-sirens-may-3-1.7523605?cmp=rss",
+    "headline": "What you need to know about (and how to watch) Grand Slam Track",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/athletics-grand-slam-track-2025-faq-explainer-1.7493578?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Diallo eliminated in Madrid Open quarterfinals after being late addition to men's tourney",
     "url": "https://www.cbc.ca/sports/tennis/gabriel-diallo-lorenzo-musetti-madrid-open-quarterfinal-recap-1.7524273?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Sex assault trial for ex-world junior players won't sit today in London, Ont., due to sick juror",
-    "url": "https://www.cbc.ca/news/canada/london/hockey-canada-junior-sex-assault-trial-london-ontario-1.7523153?cmp=rss",
     "category": "Sports"
   }
 ]
