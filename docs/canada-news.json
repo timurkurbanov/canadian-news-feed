@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "For the first time, MPs born in the 21st century are headed to the Hill",
+    "url": "https://www.cbc.ca/news/politics/first-mps-born-21st-century-1.7525106?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Liberal minority back up to 169 after Elections Canada validates close Ontario race",
     "url": "https://www.cbc.ca/news/politics/election-validation-riding-flip-liberal-conservative-1.7525641?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Trump says 'nice gentleman' Carney will visit White House within the next week",
     "url": "https://www.cbc.ca/news/politics/carney-election-next-steps-1.7522507?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "What happens to Poilievre? What happens to the NDP? Your election questions answered",
-    "url": "https://www.cbc.ca/news/politics/federal-election-questions-1.7522926?cmp=rss",
     "category": "Politics"
   },
   {
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Partly Cloudy, 7.7°C",
+    "headline": "Current Conditions: Partly Cloudy, 6.7°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
