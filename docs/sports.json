@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ilya Kharun swims to new Canadian record in win at Tyr Pro Meet",
+    "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/ilya-kharun-summer-mcintosh-tyr-pro-series-may-3-1.7525824?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "2025 World Athletics Wanda Diamond League: Shanghai/Keqiao",
     "url": "https://www.cbc.ca/player/play/9.6723882?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Sex assault trial for ex-world junior players won't sit today in London, Ont., due to sick juror",
     "url": "https://www.cbc.ca/news/canada/london/hockey-canada-junior-sex-assault-trial-london-ontario-1.7523153?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Oilers' Draisaitl, Jets goalie Hellebuyck among finalists for Hart Trophy",
-    "url": "https://www.cbc.ca/news/canada/edmonton/draisaitl-hellebuyck-kucherov-hart-trophy-finalists-1.7523927?cmp=rss",
     "category": "Sports"
   }
 ]
