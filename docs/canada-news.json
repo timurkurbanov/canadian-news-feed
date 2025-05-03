@@ -296,6 +296,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poulin scores a pair, Montreal Victoire claim PWHL's top seed beating the New York Sirens",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-montreal-victoire-new-york-sirens-may-3-1.7523605?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Mrázová nets OT winner to lift Charge past Sceptres 2-1, clinch PWHL playoff berth",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-ottawa-charge-ot-winner-may-3-1.7525933?cmp=rss",
     "category": "Sports"
@@ -410,13 +417,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Rangers hire Mike Sullivan as coach days after he parted ways with Penguins",
     "url": "https://www.cbc.ca/sports/hockey/new-york-rangers-hire-mike-sullivan-as-coach-1.7524900?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Maple Leafs eliminate Senators in Game 6, move on to face Panthers in 2nd round",
-    "url": "https://www.cbc.ca/news/canada/toronto/nhl-hockey-toronto-maple-leafs-ottawa-senators-round-one-game-six-1.7524401?cmp=rss",
     "category": "Sports"
   },
   {
