@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ledecky breaks own world record in 800m free, Canada's Kharun wins 100m fly at Tyr Pro Meet",
+    "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/ilya-kharun-tyr-pro-series-record-may-3-1.7526096?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada cruises to 2nd straight U18 world men's hockey title for 1st time",
     "url": "https://www.cbc.ca/sports/hockey/canada-men-s-under18-hockey-title-recap-sweden-1.7526102?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "The Whitecaps are on fire — and giving Vancouver sports fans some cheer after Canucks 'season from hell'",
     "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-whitecaps-fans-canucks-1.7523010?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Gregg Popovich, the NBA's all-time wins leader, retires after 29 seasons as coach in San Antonio",
-    "url": "https://www.cbc.ca/sports/basketball/nba-gregg-popovich-retire-san-antonio-1.7525193?cmp=rss",
     "category": "Sports"
   }
 ]
