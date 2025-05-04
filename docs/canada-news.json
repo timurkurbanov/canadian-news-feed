@@ -289,6 +289,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Jets rule out star forward Mark Scheifele for Game 7 against Blues",
+    "url": "https://www.cbc.ca/news/canada/manitoba/jets-scheifele-out-game-7-vs-blues-1.7526198?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ledecky breaks own world record in 800m free, Canada's Kharun wins 100m fly at Tyr Pro Meet",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/ledecky-world-record-ilya-kharun-tyr-pro-series-may-3-1.7526096?cmp=rss",
     "category": "Sports"
@@ -303,15 +310,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian rugby 7s women advance to semifinals at HSBC SVNS World Championship",
-    "url": "https://www.cbc.ca/sports/rugby/canada-hsbc-svns-world-championship-may-3-1.7525880?cmp=rss",
+    "headline": "How a Canadian cliff diver used empowering messages to help overcome mental health struggle",
+    "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/molly-carlson-high-diving-mental-health-social-media-brave-gang-1.7524029?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Sovereignty reigns in 151st Kentucky Derby, outduelling favourite Journalism in the slop",
-    "url": "https://www.cbc.ca/sports/kentucky-derby-2025-1.7526034?cmp=rss",
+    "headline": "Canadian rugby 7s women advance to semifinals at HSBC SVNS World Championship",
+    "url": "https://www.cbc.ca/sports/rugby/canada-hsbc-svns-world-championship-may-3-1.7525880?cmp=rss",
     "category": "Sports"
   },
   {
@@ -324,15 +331,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada beats Mexico to qualify for 1st FIFA Futsal Women's World Cup",
-    "url": "https://www.cbc.ca/sports/soccer/canada-women-qualified-fifa-futsal-world-cup-1.7526116?cmp=rss",
+    "headline": "Watch Grand Slam Track from Miami",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-day-3-1.7526175?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Watch Grand Slam Track from Miami",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-day-3-1.7526175?cmp=rss",
+    "headline": "Sovereignty reigns in 151st Kentucky Derby, outduelling favourite Journalism in the slop",
+    "url": "https://www.cbc.ca/sports/kentucky-derby-2025-1.7526034?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada beats Mexico to qualify for 1st FIFA Futsal Women's World Cup",
+    "url": "https://www.cbc.ca/sports/soccer/canada-women-qualified-fifa-futsal-world-cup-1.7526116?cmp=rss",
     "category": "Sports"
   },
   {
@@ -406,20 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Brutal 2nd-period stretch dooms Winnipeg Jets in St. Louis, forcing Game 7 Sunday",
-    "url": "https://www.cbc.ca/news/canada/manitoba/jets-blues-game-6-1.7525428?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "E.M. was 'out of it' leaving bar with 1 of the ex-world junior players, she says at sex assault trial",
-    "url": "https://www.cbc.ca/9.6745871?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Partly Cloudy, 14.8°C",
+    "headline": "Current Conditions: Mostly Cloudy, 16.6°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
