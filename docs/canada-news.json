@@ -282,14 +282,14 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Not slowing down: Andre De Grasse competing at Grand Slam Track in Miami, has eyes on L.A. 2028",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-andre-degrasse-preview-1.7521716?cmp=rss",
+    "headline": "Canada's Marco Arop wins 800m at Grand Slam Track stop in Florida",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-canadians-day-2-1.7525878?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Sovereignty reigns in 151st Kentucky Derby, outdueling favourite Journalism in the slop",
+    "headline": "Sovereignty reigns in 151st Kentucky Derby, outduelling favourite Journalism in the slop",
     "url": "https://www.cbc.ca/sports/kentucky-derby-2025-1.7526034?cmp=rss",
     "category": "Sports"
   },
@@ -333,6 +333,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Armand Duplantis dominates pole vault at Diamond League in China",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/athletics-diamond-league-shanghai-2025-armand-duplantis-sarah-mitton-1.7525825?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Not slowing down: Andre De Grasse competing at Grand Slam Track in Miami, has eyes on L.A. 2028",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-andre-degrasse-preview-1.7521716?cmp=rss",
     "category": "Sports"
   },
   {
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Rangers hire Mike Sullivan as coach days after he parted ways with Penguins",
-    "url": "https://www.cbc.ca/sports/hockey/new-york-rangers-hire-mike-sullivan-as-coach-1.7524900?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 12.4°C",
+    "headline": "Current Conditions: Partly Cloudy, 10.5°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

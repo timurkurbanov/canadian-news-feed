@@ -2,14 +2,14 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Not slowing down: Andre De Grasse competing at Grand Slam Track in Miami, has eyes on L.A. 2028",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-andre-degrasse-preview-1.7521716?cmp=rss",
+    "headline": "Canada's Marco Arop wins 800m at Grand Slam Track stop in Florida",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-canadians-day-2-1.7525878?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Sovereignty reigns in 151st Kentucky Derby, outdueling favourite Journalism in the slop",
+    "headline": "Sovereignty reigns in 151st Kentucky Derby, outduelling favourite Journalism in the slop",
     "url": "https://www.cbc.ca/sports/kentucky-derby-2025-1.7526034?cmp=rss",
     "category": "Sports"
   },
@@ -53,6 +53,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Armand Duplantis dominates pole vault at Diamond League in China",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/athletics-diamond-league-shanghai-2025-armand-duplantis-sarah-mitton-1.7525825?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Not slowing down: Andre De Grasse competing at Grand Slam Track in Miami, has eyes on L.A. 2028",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-andre-degrasse-preview-1.7521716?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Jets' Scott Arniel named finalist for Jack Adams Award as coach of the year",
     "url": "https://www.cbc.ca/news/canada/manitoba/jack-adams-finalists-nhl-scott-arniel-winnipeg-1.7525255?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Rangers hire Mike Sullivan as coach days after he parted ways with Penguins",
-    "url": "https://www.cbc.ca/sports/hockey/new-york-rangers-hire-mike-sullivan-as-coach-1.7524900?cmp=rss",
     "category": "Sports"
   }
 ]
