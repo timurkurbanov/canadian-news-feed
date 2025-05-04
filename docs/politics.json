@@ -2,6 +2,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "The Liberals need a few floor-crossers to form a majority. That might not be so easy",
+    "url": "https://www.cbc.ca/news/liberal-government-floor-crossers-majority-1.7525008?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Remembering the Canadian soldiers who died on a mission of mercy at the close of the Second World War",
+    "url": "https://www.cbc.ca/news/politics/80th-anniversary-europe-liberation-canadian-soldiers-1.7525670?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "For the first time, MPs born in the 21st century are headed to the Hill",
     "url": "https://www.cbc.ca/news/politics/first-mps-born-21st-century-1.7525106?cmp=rss",
     "category": "Politics"
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Sole Green MP Elizabeth May looks to play pivotal role in minority Parliament",
     "url": "https://www.cbc.ca/news/politics/elizabeth-may-green-party-key-role-minority-2025-1.7522885?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre is making calls to shore up support as Conservatives take stock of election results",
-    "url": "https://www.cbc.ca/news/politics/poilievre-future-conservatives-take-stock-1.7522939?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump says 'nice gentleman' Carney will visit White House within the next week",
-    "url": "https://www.cbc.ca/news/politics/carney-election-next-steps-1.7522507?cmp=rss",
     "category": "Politics"
   }
 ]

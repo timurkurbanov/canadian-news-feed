@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Startups aim to bring EV charging to apartment and condo dwellers",
+    "url": "https://www.cbc.ca/news/science/ev-charging-multiresidential-1.7522564?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "One year after the Trans Mountain Pipeline expansion, why isn't it full?",
     "url": "https://www.cbc.ca/news/canada/calgary/one-year-after-the-trans-mountain-pipeline-expansion-why-isn-t-it-full-1.7525284?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Peace Bridge duty-free shop goes into receivership as cross-border travel plummets",
     "url": "https://www.cbc.ca/news/canada/hamilton/duty-free-shops-1.7520595?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "How can we rebuild the Canadian economy? Business leaders say there are 4 priorities",
-    "url": "https://www.cbc.ca/news/business/armstrong-economy-election-four-things-1.7516454?cmp=rss",
     "category": "Business"
   }
 ]
