@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Alberta NDP ending automatic membership in federal party",
+    "url": "https://www.cbc.ca/news/canada/edmonton/alberta-ndp-automatic-membership-convention-1.7526027?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "For the first time, MPs born in the 21st century are headed to the Hill",
     "url": "https://www.cbc.ca/news/politics/first-mps-born-21st-century-1.7525106?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "There are 3 steps Carney must take to get a truce from Trump",
     "url": "https://www.cbc.ca/news/world/carney-trump-meeting-trade-war-lookahead-1.7523186?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Sole Green MP Elizabeth May looks to play pivotal role in minority Parliament",
-    "url": "https://www.cbc.ca/news/politics/elizabeth-may-green-party-key-role-minority-2025-1.7522885?cmp=rss",
     "category": "Politics"
   },
   {
@@ -282,7 +282,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's Marco Arop wins 800m at Grand Slam Track stop in Florida",
+    "headline": "Marco Arop wins 800m at Grand Slam Track stop in Florida",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-canadians-day-2-1.7525878?cmp=rss",
     "category": "Sports"
   },
@@ -366,6 +366,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Newest Raptor A.J. Lawson aiming to represent Canada at 2028 Olympics",
+    "url": "https://www.cbc.ca/sports/basketball/nba/raptors-aj-lawson-2028-olympics-la-1.7524512?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Fournier Beaudry maintains 'spark' and 'passion' ahead of new challenge with Olympic champion Cizeron",
     "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/laurence-fournier-beaudry-guillaume-cizeron-ice-dance-new-partnership-1.7520398?cmp=rss",
     "category": "Sports"
@@ -408,13 +415,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Newest Raptor A.J. Lawson aiming to represent Canada at 2028 Olympics",
-    "url": "https://www.cbc.ca/sports/basketball/nba/raptors-aj-lawson-2028-olympics-la-1.7524512?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Katie Ledecky holds off Summer McIntosh in 400m freestyle at Tyr Pro Meet",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/summer-mcintosh-katie-ledecky-400-free-tyr-pro-1.7524624?cmp=rss",
     "category": "Sports"
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 11.9°C",
+    "headline": "Current Conditions: Mostly Cloudy, 13.5°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

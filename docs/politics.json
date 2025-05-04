@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Alberta NDP ending automatic membership in federal party",
+    "url": "https://www.cbc.ca/news/canada/edmonton/alberta-ndp-automatic-membership-convention-1.7526027?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "For the first time, MPs born in the 21st century are headed to the Hill",
     "url": "https://www.cbc.ca/news/politics/first-mps-born-21st-century-1.7525106?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "There are 3 steps Carney must take to get a truce from Trump",
     "url": "https://www.cbc.ca/news/world/carney-trump-meeting-trade-war-lookahead-1.7523186?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Sole Green MP Elizabeth May looks to play pivotal role in minority Parliament",
-    "url": "https://www.cbc.ca/news/politics/elizabeth-may-green-party-key-role-minority-2025-1.7522885?cmp=rss",
     "category": "Politics"
   }
 ]
