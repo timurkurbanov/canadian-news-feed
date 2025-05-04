@@ -51,15 +51,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Mrázová nets OT winner to lift Charge past Sceptres 2-1, clinch PWHL playoff berth",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-ottawa-charge-ot-winner-may-3-1.7525933?cmp=rss",
+    "headline": "Boychuk's second-half goal earns Montreal Roses FC 2-1 NSL win over Ottawa Rapid FC",
+    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-montreal-ottawa-may-3-1.7526008?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Boychuk's second-half goal earns Montreal Roses FC 2-1 NSL win over Ottawa Rapid FC",
-    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-montreal-ottawa-may-3-1.7526008?cmp=rss",
+    "headline": "Mrázová nets OT winner to lift Charge past Sceptres 2-1, clinch PWHL playoff berth",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-ottawa-charge-ot-winner-may-3-1.7525933?cmp=rss",
     "category": "Sports"
   },
   {
@@ -72,6 +72,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "What you need to know about (and how to watch) Grand Slam Track",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/athletics-grand-slam-track-2025-faq-explainer-1.7493578?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ilya Kharun swims to new Canadian record in win at Tyr Pro Meet",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/ilya-kharun-summer-mcintosh-tyr-pro-series-may-3-1.7525824?cmp=rss",
     "category": "Sports"
@@ -79,15 +86,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Armand Duplantis dominates pole vault at Diamond League in China",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/athletics-diamond-league-shanghai-2025-armand-duplantis-sarah-mitton-1.7525825?cmp=rss",
+    "headline": "Fournier Beaudry maintains 'spark' and 'passion' ahead of new challenge with Olympic champion Cizeron",
+    "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/laurence-fournier-beaudry-guillaume-cizeron-ice-dance-new-partnership-1.7520398?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "What you need to know about (and how to watch) Grand Slam Track",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/athletics-grand-slam-track-2025-faq-explainer-1.7493578?cmp=rss",
+    "headline": "Armand Duplantis dominates pole vault at Diamond League in China",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/athletics-diamond-league-shanghai-2025-armand-duplantis-sarah-mitton-1.7525825?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Katie Ledecky holds off Summer McIntosh in 400m freestyle at Tyr Pro Meet",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/summer-mcintosh-katie-ledecky-400-free-tyr-pro-1.7524624?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "How a Canadian cliff diver used empowering messages to help overcome mental health struggle",
-    "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/molly-carlson-high-diving-mental-health-social-media-brave-gang-1.7524029?cmp=rss",
     "category": "Sports"
   }
 ]
