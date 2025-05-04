@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Trump reiterates 51st state threat as Carney prepares for critical White House meeting",
+    "url": "https://www.cbc.ca/news/politics/trump-reiterates-51st-state-threat-as-carney-prepares-for-critical-white-house-meeting-1.7526196?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "The Liberals need a few floor-crossers to form a majority. That might not be so easy",
     "url": "https://www.cbc.ca/news/liberal-government-floor-crossers-majority-1.7525008?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Liberals pushed Trump as key election issue, but lost seats on front lines of the trade war",
     "url": "https://www.cbc.ca/news/politics/liberals-trump-election-conservatives-southern-ontario-1.7523333?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "There are 3 steps Carney must take to get a truce from Trump",
-    "url": "https://www.cbc.ca/news/world/carney-trump-meeting-trade-war-lookahead-1.7523186?cmp=rss",
     "category": "Politics"
   }
 ]
