@@ -282,6 +282,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'Consent videos' a focus of ex-world junior hockey players' trial — but does such evidence stand up in court?",
+    "url": "https://www.cbc.ca/news/canada/london/consent-videos-hockey-trial-1.7525019?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Marco Arop wins 800m at Grand Slam Track stop in Florida",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-canadians-day-2-1.7525878?cmp=rss",
     "category": "Sports"
@@ -310,8 +317,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "How a Canadian cliff diver used empowering messages to help overcome mental health struggle",
-    "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/molly-carlson-high-diving-mental-health-social-media-brave-gang-1.7524029?cmp=rss",
+    "headline": "Watch Grand Slam Track from Miami",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-day-3-1.7526175?cmp=rss",
     "category": "Sports"
   },
   {
@@ -324,15 +331,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poulin scores a pair, Victoire claim PWHL's top seed with 3-2 win over Sirens",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-montreal-victoire-new-york-sirens-may-3-1.7523605?cmp=rss",
+    "headline": "How a Canadian cliff diver used empowering messages to help overcome mental health struggle",
+    "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/molly-carlson-high-diving-mental-health-social-media-brave-gang-1.7524029?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Watch Grand Slam Track from Miami",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-day-3-1.7526175?cmp=rss",
+    "headline": "Poulin scores a pair, Victoire claim PWHL's top seed with 3-2 win over Sirens",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-montreal-victoire-new-york-sirens-may-3-1.7523605?cmp=rss",
     "category": "Sports"
   },
   {
@@ -361,6 +368,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Mrázová nets OT winner to lift Charge past Sceptres 2-1, clinch PWHL playoff berth",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-ottawa-charge-ot-winner-may-3-1.7525933?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Toronto's 1st major marathon of the year is underway",
+    "url": "https://www.cbc.ca/news/canada/toronto/toronto-marathon-1.7526081?cmp=rss",
     "category": "Sports"
   },
   {
@@ -406,20 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Armand Duplantis dominates pole vault at Diamond League in China",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/athletics-diamond-league-shanghai-2025-armand-duplantis-sarah-mitton-1.7525825?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's Arop places 7th in 1,500m at Grand Slam Track meet",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/grandslam-may2-1.7524980?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 16.6°C",
+    "headline": "Current Conditions: Mostly Cloudy, 17.6°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
