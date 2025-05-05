@@ -16,7 +16,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Defence begins cross-examination of E.M. at sex assault trial of ex-world junior hockey players",
+    "headline": "Defence presses E.M. about text from accused after alleged sex assault: 'You could have just ignored him'",
     "url": "https://www.cbc.ca/9.6748199?cmp=rss",
     "category": "Sports"
   },
@@ -32,6 +32,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "U.S. Olympic swim great Gary Hall Jr awarded 10 medals to replace those destroyed in L.A. fires",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/gary-hall-jr-olympic-medals-replacements-las-angeles-wildfires-1.7526649?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Battle-tested Jets excited to face Dallas, but need break after bruising series against Blues",
+    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-bruising-series-st-louis-blues-nhl-playoffs-1.7526808?cmp=rss",
     "category": "Sports"
   },
   {
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada beats Mexico to qualify for 1st FIFA Futsal Women's World Cup",
     "url": "https://www.cbc.ca/sports/soccer/canada-women-qualified-fifa-futsal-world-cup-1.7526116?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Boychuk's second-half goal earns Montreal Roses FC 2-1 NSL win over Ottawa Rapid FC",
-    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-montreal-ottawa-may-3-1.7526008?cmp=rss",
     "category": "Sports"
   }
 ]

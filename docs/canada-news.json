@@ -2,15 +2,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "NDP expected to choose interim leader Monday evening: sources",
-    "url": "https://www.cbc.ca/news/politics/ndp-new-leader-1.7526573?cmp=rss",
+    "headline": "Conservatives signal they are willing to back Carney's Liberals on some legislation",
+    "url": "https://www.cbc.ca/news/politics/conservative-support-some-liberal-legislation-1.7526468?cmp=rss",
     "category": "Politics"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Conservatives signal they are willing to back Carney's Liberals on some legislation",
-    "url": "https://www.cbc.ca/news/politics/conservative-support-some-liberal-legislation-1.7526468?cmp=rss",
+    "headline": "NDP expected to choose interim leader Monday evening: sources",
+    "url": "https://www.cbc.ca/news/politics/ndp-new-leader-1.7526573?cmp=rss",
     "category": "Politics"
   },
   {
@@ -296,7 +296,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Defence begins cross-examination of E.M. at sex assault trial of ex-world junior hockey players",
+    "headline": "Defence presses E.M. about text from accused after alleged sex assault: 'You could have just ignored him'",
     "url": "https://www.cbc.ca/9.6748199?cmp=rss",
     "category": "Sports"
   },
@@ -312,6 +312,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "U.S. Olympic swim great Gary Hall Jr awarded 10 medals to replace those destroyed in L.A. fires",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/gary-hall-jr-olympic-medals-replacements-las-angeles-wildfires-1.7526649?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Battle-tested Jets excited to face Dallas, but need break after bruising series against Blues",
+    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-bruising-series-st-louis-blues-nhl-playoffs-1.7526808?cmp=rss",
     "category": "Sports"
   },
   {
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Boychuk's second-half goal earns Montreal Roses FC 2-1 NSL win over Ottawa Rapid FC",
-    "url": "https://www.cbc.ca/sports/soccer/northern-super-league-montreal-ottawa-may-3-1.7526008?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 19.2°C",
+    "headline": "Current Conditions: Mostly Cloudy, 19.5°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
