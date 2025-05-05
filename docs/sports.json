@@ -9,8 +9,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Jets rule out star forward Mark Scheifele for Game 7 against Blues",
-    "url": "https://www.cbc.ca/news/canada/manitoba/jets-scheifele-out-game-7-vs-blues-1.7526198?cmp=rss",
+    "headline": "Former No. 1 Naomi Osaka takes 1st title in 4 years and her first on clay",
+    "url": "https://www.cbc.ca/sports/tennis/naomi-osaka-title-french-tourney-kaja-juvan-1.7526246?cmp=rss",
     "category": "Sports"
   },
   {
@@ -18,13 +18,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "'Consent videos' a focus of ex-world junior hockey players' trial — but does such evidence stand up in court?",
     "url": "https://www.cbc.ca/news/canada/london/consent-videos-hockey-trial-1.7525019?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Former No. 1 Naomi Osaka takes 1st title in 4 years and her first on clay",
-    "url": "https://www.cbc.ca/sports/tennis/naomi-osaka-title-french-tourney-kaja-juvan-1.7526246?cmp=rss",
     "category": "Sports"
   },
   {
@@ -39,6 +32,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ledecky breaks own world record in 800m free, Canada's Kharun wins 100m fly at Tyr Pro Meet",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/ledecky-world-record-ilya-kharun-tyr-pro-series-may-3-1.7526096?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Jets rule out star forward Mark Scheifele for Game 7 against Blues",
+    "url": "https://www.cbc.ca/news/canada/manitoba/jets-scheifele-out-game-7-vs-blues-1.7526198?cmp=rss",
     "category": "Sports"
   },
   {
