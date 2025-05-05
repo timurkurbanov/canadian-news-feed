@@ -2,6 +2,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Conservative Damien Kurek says he'll step aside for Poilievre — but by law he has to wait",
+    "url": "https://www.cbc.ca/news/politics/damien-kurek-poilievre-byelection-1.7526895?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "South Korea pitches Canada on $20B-plus plan for subs, armoured vehicles",
+    "url": "https://www.cbc.ca/news/politics/south-korea-canada-submarines-artillery-defence-1.7523180?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Conservatives signal they are willing to back Carney's Liberals on some legislation",
     "url": "https://www.cbc.ca/news/politics/conservative-support-some-liberal-legislation-1.7526468?cmp=rss",
     "category": "Politics"
@@ -16,8 +30,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "South Korea pitches Canada on $20B-plus plan for subs, armoured vehicles",
-    "url": "https://www.cbc.ca/news/politics/south-korea-canada-submarines-artillery-defence-1.7523180?cmp=rss",
+    "headline": "Alberta premier to chair sovereignty panel, put proposals to 2026 referendum",
+    "url": "https://www.cbc.ca/news/canada/edmonton/alberta-premier-to-chair-sovereignty-panel-put-proposals-to-2026-referendum-1.7527154?cmp=rss",
     "category": "Politics"
   },
   {
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Liberals lose closely contested seat to Bloc Québécois after vote validation",
     "url": "https://www.cbc.ca/news/politics/elections-canada-terrebonne-riding-flips-validation-liberals-bloc-1.7524107?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Monarchists hopeful King Charles will deliver Carney government's first throne speech",
-    "url": "https://www.cbc.ca/news/politics/king-charles-throne-speech-1.7524078?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Conservative caucus to meet Tuesday as MPs press on after election loss",
-    "url": "https://www.cbc.ca/news/politics/conservative-caucus-tuesday-1.7524246?cmp=rss",
     "category": "Politics"
   }
 ]

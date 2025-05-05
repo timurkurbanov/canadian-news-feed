@@ -2,15 +2,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Former U.S. women's basketball head coach Fortner takes over Canada's senior squad",
-    "url": "https://www.cbc.ca/sports/basketball/nell-fortner-head-coach-canada-senior-womens-basketball-team-1.7526769?cmp=rss",
+    "headline": "Your Toronto Maple Leafs bandwagon guide for Round 2 versus Florida",
+    "url": "https://www.cbc.ca/news/canada/toronto/toronto-leafs-fan-guide-round-2-1.7526140?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Curlers Peterman, Gallant 1st athletes named to Canada's 2026 Olympic team",
-    "url": "https://www.cbc.ca/sports/olympics/winter/curling/curling-peterman-gallant-named-to-olympic-team-1.7526596?cmp=rss",
+    "headline": "Former U.S. women's basketball head coach Fortner takes over Canada's senior squad",
+    "url": "https://www.cbc.ca/sports/basketball/nell-fortner-head-coach-canada-senior-womens-basketball-team-1.7526769?cmp=rss",
     "category": "Sports"
   },
   {
@@ -25,6 +25,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Alphonso Davies offers injury update & Montreal Roses FC continue strong start",
     "url": "https://www.cbc.ca/player/play/9.6749074?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Curlers Peterman, Gallant 1st athletes named to Canada's 2026 Olympic team",
+    "url": "https://www.cbc.ca/sports/olympics/winter/curling/curling-peterman-gallant-named-to-olympic-team-1.7526596?cmp=rss",
     "category": "Sports"
   },
   {
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada cruises to 2nd straight U18 world men's hockey title for 1st time",
     "url": "https://www.cbc.ca/sports/hockey/canada-men-s-under18-hockey-title-recap-sweden-1.7526102?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "How a Canadian cliff diver used empowering messages to help overcome mental health struggle",
-    "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/molly-carlson-high-diving-mental-health-social-media-brave-gang-1.7524029?cmp=rss",
     "category": "Sports"
   }
 ]

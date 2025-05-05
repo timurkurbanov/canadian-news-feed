@@ -2,6 +2,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Conservative Damien Kurek says he'll step aside for Poilievre — but by law he has to wait",
+    "url": "https://www.cbc.ca/news/politics/damien-kurek-poilievre-byelection-1.7526895?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "South Korea pitches Canada on $20B-plus plan for subs, armoured vehicles",
+    "url": "https://www.cbc.ca/news/politics/south-korea-canada-submarines-artillery-defence-1.7523180?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Conservatives signal they are willing to back Carney's Liberals on some legislation",
     "url": "https://www.cbc.ca/news/politics/conservative-support-some-liberal-legislation-1.7526468?cmp=rss",
     "category": "Politics"
@@ -16,8 +30,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "South Korea pitches Canada on $20B-plus plan for subs, armoured vehicles",
-    "url": "https://www.cbc.ca/news/politics/south-korea-canada-submarines-artillery-defence-1.7523180?cmp=rss",
+    "headline": "Alberta premier to chair sovereignty panel, put proposals to 2026 referendum",
+    "url": "https://www.cbc.ca/news/canada/edmonton/alberta-premier-to-chair-sovereignty-panel-put-proposals-to-2026-referendum-1.7527154?cmp=rss",
     "category": "Politics"
   },
   {
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Liberals lose closely contested seat to Bloc Québécois after vote validation",
     "url": "https://www.cbc.ca/news/politics/elections-canada-terrebonne-riding-flips-validation-liberals-bloc-1.7524107?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Monarchists hopeful King Charles will deliver Carney government's first throne speech",
-    "url": "https://www.cbc.ca/news/politics/king-charles-throne-speech-1.7524078?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Conservative caucus to meet Tuesday as MPs press on after election loss",
-    "url": "https://www.cbc.ca/news/politics/conservative-caucus-tuesday-1.7524246?cmp=rss",
     "category": "Politics"
   },
   {
@@ -282,15 +282,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Former U.S. women's basketball head coach Fortner takes over Canada's senior squad",
-    "url": "https://www.cbc.ca/sports/basketball/nell-fortner-head-coach-canada-senior-womens-basketball-team-1.7526769?cmp=rss",
+    "headline": "Your Toronto Maple Leafs bandwagon guide for Round 2 versus Florida",
+    "url": "https://www.cbc.ca/news/canada/toronto/toronto-leafs-fan-guide-round-2-1.7526140?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Curlers Peterman, Gallant 1st athletes named to Canada's 2026 Olympic team",
-    "url": "https://www.cbc.ca/sports/olympics/winter/curling/curling-peterman-gallant-named-to-olympic-team-1.7526596?cmp=rss",
+    "headline": "Former U.S. women's basketball head coach Fortner takes over Canada's senior squad",
+    "url": "https://www.cbc.ca/sports/basketball/nell-fortner-head-coach-canada-senior-womens-basketball-team-1.7526769?cmp=rss",
     "category": "Sports"
   },
   {
@@ -305,6 +305,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Alphonso Davies offers injury update & Montreal Roses FC continue strong start",
     "url": "https://www.cbc.ca/player/play/9.6749074?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Curlers Peterman, Gallant 1st athletes named to Canada's 2026 Olympic team",
+    "url": "https://www.cbc.ca/sports/olympics/winter/curling/curling-peterman-gallant-named-to-olympic-team-1.7526596?cmp=rss",
     "category": "Sports"
   },
   {
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "How a Canadian cliff diver used empowering messages to help overcome mental health struggle",
-    "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/molly-carlson-high-diving-mental-health-social-media-brave-gang-1.7524029?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Rain, 15.5°C",
+    "headline": "Current Conditions: Light Rain, 15.3°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
