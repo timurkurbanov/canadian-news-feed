@@ -282,13 +282,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Montreal Victoire select Ottawa Charge as 1st-round opponent in PWHL playoffs",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/montreal-victoire-select-ottawa-charge-as-first-round-opponent-1.7526337?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "De Grasse concludes Grand Slam Track debut with 4th-place finish in 200m",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-day-3-1.7526175?cmp=rss",
     "category": "Sports"
@@ -319,13 +312,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ledecky breaks own world record in 800m free, Canada's Kharun wins 100m fly at Tyr Pro Meet",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/ledecky-world-record-ilya-kharun-tyr-pro-series-may-3-1.7526096?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Jets rule out star forward Mark Scheifele for Game 7 against Blues",
-    "url": "https://www.cbc.ca/news/canada/manitoba/jets-scheifele-out-game-7-vs-blues-1.7526198?cmp=rss",
     "category": "Sports"
   },
   {
@@ -417,6 +403,20 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Newest Raptor A.J. Lawson aiming to represent Canada at 2028 Olympics",
     "url": "https://www.cbc.ca/sports/basketball/nba/raptors-aj-lawson-2028-olympics-la-1.7524512?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Tigers' Riley Greene 1st MLB player to homer twice in 9th inning of a game",
+    "url": "https://www.cbc.ca/sports/baseball/mlb/riley-greene-two-home-runs-ninth-inning-mlb-history-1.7526192?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "16 parkas gifted to visiting girls' hockey team in Rankin Inlet, Nunavut",
+    "url": "https://www.cbc.ca/news/canada/north/parkas-rankin-inlet-hockey-1.7523768?cmp=rss",
     "category": "Sports"
   },
   {
