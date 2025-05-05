@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "E.M. to resume testimony at sexual assault trial of ex-Canada world junior hockey players",
+    "url": "https://www.cbc.ca/9.6748199?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Sidney Crosby to join Team Canada at men's world hockey championship",
     "url": "https://www.cbc.ca/sports/hockey/sidney-crosby-team-canada-world-hockey-1.7526392?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What you need to know about (and how to watch) Grand Slam Track",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/athletics-grand-slam-track-2025-faq-explainer-1.7493578?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Ilya Kharun swims to new Canadian record in win at Tyr Pro Meet",
-    "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/ilya-kharun-summer-mcintosh-tyr-pro-series-may-3-1.7525824?cmp=rss",
     "category": "Sports"
   }
 ]
