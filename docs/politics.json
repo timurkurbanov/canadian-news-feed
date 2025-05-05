@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "South Korea pitches Canada on $20B-plus plan for subs, armoured vehicles",
+    "url": "https://www.cbc.ca/news/politics/south-korea-canada-submarines-artillery-defence-1.7523180?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Trump reiterates 51st state threat as Carney prepares for critical White House meeting",
     "url": "https://www.cbc.ca/news/politics/trump-reiterates-51st-state-threat-as-carney-prepares-for-critical-white-house-meeting-1.7526196?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "How the Liberals came up short in Ontario — and lost their majority bid",
     "url": "https://www.cbc.ca/news/politics/liberal-vote-ontario-majority-conservatives-1.7523038?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Liberals pushed Trump as key election issue, but lost seats on front lines of the trade war",
-    "url": "https://www.cbc.ca/news/politics/liberals-trump-election-conservatives-southern-ontario-1.7523333?cmp=rss",
     "category": "Politics"
   }
 ]
