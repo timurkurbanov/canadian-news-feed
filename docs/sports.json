@@ -2,8 +2,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Former U.S. women's basketball head coach Fortner takes over Canada's senior squad",
+    "url": "https://www.cbc.ca/sports/basketball/nell-fortner-head-coach-canada-senior-womens-basketball-team-1.7526769?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Curlers Peterman, Gallant 1st athletes named to Canada's 2026 Olympic team",
     "url": "https://www.cbc.ca/sports/olympics/winter/curling/curling-peterman-gallant-named-to-olympic-team-1.7526596?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Alphonso Davies offers injury update & Montreal Roses FC continue strong start",
+    "url": "https://www.cbc.ca/player/play/9.6749074?cmp=rss",
     "category": "Sports"
   },
   {
@@ -16,15 +30,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Former U.S. women's basketball head coach Fortner takes over Canada's senior squad",
-    "url": "https://www.cbc.ca/sports/basketball/nell-fortner-head-coach-canada-senior-womens-basketball-team-1.7526769?cmp=rss",
+    "headline": "Shane Lowry, Justin Rose, Wyndham Clark, Max Homa join RBC Canadian Open field",
+    "url": "https://www.cbc.ca/sports/golf/rbc-canadian-open-players-1.7526828?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Shane Lowry, Justin Rose, Wyndham Clark, Max Homa join RBC Canadian Open field",
-    "url": "https://www.cbc.ca/sports/golf/rbc-canadian-open-players-1.7526828?cmp=rss",
+    "headline": "Battle-tested Jets excited to face Dallas, but need break after bruising series against Blues",
+    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-bruising-series-st-louis-blues-nhl-playoffs-1.7526808?cmp=rss",
     "category": "Sports"
   },
   {
@@ -39,13 +53,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Jets captain Lowry scores Game 7 winning goal in double OT against Blues",
     "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-win-game-7-against-stlouis-blues-1.7526341?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Battle-tested Jets excited to face Dallas, but need break after bruising series against Blues",
-    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-bruising-series-st-louis-blues-nhl-playoffs-1.7526808?cmp=rss",
     "category": "Sports"
   },
   {
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poulin scores a pair, Victoire claim PWHL's top seed with 3-2 win over Sirens",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-montreal-victoire-new-york-sirens-may-3-1.7523605?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Sovereignty reigns in 151st Kentucky Derby, outduelling favourite Journalism in the slop",
-    "url": "https://www.cbc.ca/sports/kentucky-derby-2025-1.7526034?cmp=rss",
     "category": "Sports"
   }
 ]
