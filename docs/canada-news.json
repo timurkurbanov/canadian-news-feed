@@ -296,6 +296,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Sidney Crosby to join Team Canada at men's world hockey championship",
+    "url": "https://www.cbc.ca/sports/hockey/sidney-crosby-team-canada-world-hockey-1.7526392?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'Consent videos' a focus of ex-world junior hockey players' trial — but does such evidence stand up in court?",
+    "url": "https://www.cbc.ca/news/canada/london/consent-videos-hockey-trial-1.7525019?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "De Grasse concludes Grand Slam Track debut with 4th-place finish in 200m",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-day-3-1.7526175?cmp=rss",
     "category": "Sports"
@@ -305,13 +319,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Former No. 1 Naomi Osaka takes 1st title in 4 years and her first on clay",
     "url": "https://www.cbc.ca/sports/tennis/naomi-osaka-title-french-tourney-kaja-juvan-1.7526246?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'Consent videos' a focus of ex-world junior hockey players' trial — but does such evidence stand up in court?",
-    "url": "https://www.cbc.ca/news/canada/london/consent-videos-hockey-trial-1.7525019?cmp=rss",
     "category": "Sports"
   },
   {
@@ -331,15 +338,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada cruises to 2nd straight U18 world men's hockey title for 1st time",
-    "url": "https://www.cbc.ca/sports/hockey/canada-men-s-under18-hockey-title-recap-sweden-1.7526102?cmp=rss",
+    "headline": "Hogan-Rochester helps Canada rugby 7 women finish third in season finale",
+    "url": "https://www.cbc.ca/sports/rugby/canada-hsbc-svns-world-championship-may-5-1.7526395?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian rugby 7s women advance to semifinals at HSBC SVNS World Championship",
-    "url": "https://www.cbc.ca/sports/rugby/canada-hsbc-svns-world-championship-may-3-1.7525880?cmp=rss",
+    "headline": "Canada cruises to 2nd straight U18 world men's hockey title for 1st time",
+    "url": "https://www.cbc.ca/sports/hockey/canada-men-s-under18-hockey-title-recap-sweden-1.7526102?cmp=rss",
     "category": "Sports"
   },
   {
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Newest Raptor A.J. Lawson aiming to represent Canada at 2028 Olympics",
-    "url": "https://www.cbc.ca/sports/basketball/nba/raptors-aj-lawson-2028-olympics-la-1.7524512?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Partly Cloudy, 10.1°C",
+    "headline": "Current Conditions: Mostly Cloudy, 11.3°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
