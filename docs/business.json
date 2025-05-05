@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Competition Bureau takes Canada's Wonderland to court over alleged 'deceptive marketing practices'",
+    "url": "https://www.cbc.ca/news/canada/toronto/competition-bureau-canada-wonderland-alleged-misleading-advertising-1.7526933?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Greg Abel named CEO of Berkshire following Buffett's retirement announcement",
     "url": "https://www.cbc.ca/news/world/warren-buffett-retirement-announcement-berkshire-hathaway-1.7525926?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Now comes the hard part for Mark Carney",
     "url": "https://www.cbc.ca/news/business/armstrong-election-economy-1.7521865?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "An energy superpower? Oilpatch skeptical of Carney's support for the sector",
-    "url": "https://www.cbc.ca/news/canada/calgary/oil-sector-mark-carney-1.7521971?cmp=rss",
     "category": "Business"
   }
 ]
