@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "NDP expected to choose interim leader Monday evening: sources",
+    "url": "https://www.cbc.ca/news/politics/ndp-new-leader-1.7526573?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Conservatives signal they are willing to back Carney's Liberals on some legislation",
     "url": "https://www.cbc.ca/news/politics/conservative-support-some-liberal-legislation-1.7526468?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Conservative caucus to meet Tuesday as MPs press on after election loss",
     "url": "https://www.cbc.ca/news/politics/conservative-caucus-tuesday-1.7524246?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "With 24 Sussex still sitting in a sorry state, Carney to move into Rideau Cottage",
-    "url": "https://www.cbc.ca/news/politics/carney-rideau-cottage-1.7523728?cmp=rss",
     "category": "Politics"
   },
   {
@@ -296,7 +296,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "E.M. recalls details of 'degrading' alleged sex assault in testimony at trial of ex-world juniors players",
+    "headline": "Defence begins cross-examination of E.M. at sex assault trial of ex-world junior hockey players",
     "url": "https://www.cbc.ca/9.6748199?cmp=rss",
     "category": "Sports"
   },
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 18.6°C",
+    "headline": "Current Conditions: Mostly Cloudy, 19.2°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
