@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "E.M. resumes testimony at sexual assault trial of ex-Canada world junior hockey players",
+    "url": "https://www.cbc.ca/9.6748199?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Jets captain Lowry scores Game 7 winning goal in double OT against Blues",
     "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-win-game-7-against-stlouis-blues-1.7526341?cmp=rss",
     "category": "Sports"
@@ -11,13 +18,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Montreal Victoire select Ottawa Charge as 1st-round opponent in PWHL playoffs",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/montreal-victoire-select-ottawa-charge-as-first-round-opponent-1.7526337?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "E.M. resumes testimony at sexual assault trial of ex-Canada world junior hockey players",
-    "url": "https://www.cbc.ca/9.6748199?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Not slowing down: Andre De Grasse competing at Grand Slam Track in Miami, has eyes on L.A. 2028",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-andre-degrasse-preview-1.7521716?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "What you need to know about (and how to watch) Grand Slam Track",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/athletics-grand-slam-track-2025-faq-explainer-1.7493578?cmp=rss",
     "category": "Sports"
   }
 ]
