@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Jets captain Lowry scores Game 7 winning goal in double OT against Blues",
+    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-win-game-7-against-stlouis-blues-1.7526341?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "E.M. recalls details of 'degrading' alleged sex assault in testimony at trial of ex-world juniors players",
     "url": "https://www.cbc.ca/9.6748199?cmp=rss",
     "category": "Sports"
@@ -16,8 +23,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Jets captain Lowry scores Game 7 winning goal in double OT against Blues",
-    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-win-game-7-against-stlouis-blues-1.7526341?cmp=rss",
+    "headline": "U.S. Olympic swim great Gary Hall Jr awarded 10 medals to replace those destroyed in L.A. fires",
+    "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/gary-hall-jr-olympic-medals-replacements-las-angeles-wildfires-1.7526649?cmp=rss",
     "category": "Sports"
   },
   {
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Mrázová nets OT winner to lift Charge past Sceptres 2-1, clinch PWHL playoff berth",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-ottawa-charge-ot-winner-may-3-1.7525933?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Runners lace up for Toronto's 1st major marathon of the year",
-    "url": "https://www.cbc.ca/news/canada/toronto/toronto-marathon-1.7526081?cmp=rss",
     "category": "Sports"
   }
 ]
