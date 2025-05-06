@@ -324,6 +324,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Raucous Winnipeg fans poised to be X-factor for Jets in 2nd round against Dallas Stars",
+    "url": "https://www.cbc.ca/news/canada/manitoba/nhl-playoffs-winnipeg-jets-dallas-stars-1.7527538?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Islanders secure No. 1 pick in 2025 NHL draft lottery, jumping 9 positions",
     "url": "https://www.cbc.ca/sports/hockey/nhl/2025-nhl-draft-lottery-1.7527240?cmp=rss",
     "category": "Sports"
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Sidney Crosby, Marc-Andre Fleury to join Team Canada at men's world hockey championship",
-    "url": "https://www.cbc.ca/sports/hockey/sidney-crosby-team-canada-world-hockey-1.7526392?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 20.1°C",
+    "headline": "Current Conditions: Mostly Cloudy, 20.6°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
