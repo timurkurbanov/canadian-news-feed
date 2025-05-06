@@ -303,6 +303,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Edmonton Oilers bound for Las Vegas to open second round against the Golden Knights",
+    "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-bound-for-las-vegas-to-open-second-round-against-the-golden-knights-1.7527426?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Toronto teen Victoria Mboko qualifies for Italian Open main draw with comeback win",
     "url": "https://www.cbc.ca/sports/tennis/victoria-mboko-qualified-main-draw-italian-open-1.7527662?cmp=rss",
     "category": "Sports"
@@ -310,15 +317,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "American champion skier Mikaela Shiffrin joins NWSL Denver's ownership group",
-    "url": "https://www.cbc.ca/sports/soccer/mikaela-shiffrin-denver-ownership-group-nwsl-1.7527828?cmp=rss",
+    "headline": "Nylander powers Leafs over Panthers in Game 1 as Toronto loses Stolarz to injury",
+    "url": "https://www.cbc.ca/news/canada/toronto/hkn-panthers-maple-leafs-1.7527180?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Nylander powers Leafs over Panthers in Game 1 as Toronto loses Stolarz to injury",
-    "url": "https://www.cbc.ca/news/canada/toronto/hkn-panthers-maple-leafs-1.7527180?cmp=rss",
+    "headline": "American champion skier Mikaela Shiffrin joins NWSL Denver's ownership group",
+    "url": "https://www.cbc.ca/sports/soccer/mikaela-shiffrin-denver-ownership-group-nwsl-1.7527828?cmp=rss",
     "category": "Sports"
   },
   {
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Montreal Victoire select Ottawa Charge as 1st-round opponent in PWHL playoffs",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/montreal-victoire-select-ottawa-charge-as-first-round-opponent-1.7526337?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 20.6°C",
+    "headline": "Current Conditions: Mostly Cloudy, 20.8°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
