@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Chasing the Walter Cup: Trio of Canadian teams hunt for glory in PWHL playoffs",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-2025-walter-cup-playoff-semifinal-preview-1.7526974?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Nylander powers Leafs over Panthers in Game 1 as Toronto loses Stolarz to injury",
     "url": "https://www.cbc.ca/news/canada/toronto/hkn-panthers-maple-leafs-1.7527180?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ledecky breaks own world record in 800m free, Canada's Kharun wins 100m fly at Tyr Pro Meet",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/ledecky-world-record-ilya-kharun-tyr-pro-series-may-3-1.7526096?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Hogan-Rochester helps Canada rugby 7 women finish third in season finale",
-    "url": "https://www.cbc.ca/sports/rugby/canada-hsbc-svns-world-championship-may-5-1.7526395?cmp=rss",
     "category": "Sports"
   }
 ]

@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney to speak with Trump today at high-stakes White House meeting",
+    "url": "https://www.cbc.ca/news/politics/carney-trump-first-meeting-washington-1.7527102?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "NDP appoints Don Davies as interim leader Monday evening",
     "url": "https://www.cbc.ca/news/politics/ndp-new-leader-1.7526573?cmp=rss",
     "category": "Politics"
@@ -11,6 +18,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Conservative Damien Kurek says he'll step aside for Poilievre — but by law he has to wait",
     "url": "https://www.cbc.ca/news/politics/damien-kurek-poilievre-byelection-1.7526895?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "5 things to know about South Korea's military submarine pitch to Canada",
+    "url": "https://www.cbc.ca/news/politics/south-korea-hyundai-heavy-industries-hanwha-ocean-submarine-pitch-1.7527252?cmp=rss",
     "category": "Politics"
   },
   {
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "With less than 1% of the vote, does the People's Party of Canada have a future?",
     "url": "https://www.cbc.ca/news/politics/peoples-party-of-canada-ppc-maxime-bernier-election-2025-1.7523653?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Conservative MP open to speaking with friend JD Vance if Liberals ask for help",
-    "url": "https://www.cbc.ca/news/politics/jamil-jivani-j-d-vance-u-s-relations-1.7524407?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Liberals lose closely contested seat to Bloc Québécois after vote validation",
-    "url": "https://www.cbc.ca/news/politics/elections-canada-terrebonne-riding-flips-validation-liberals-bloc-1.7524107?cmp=rss",
     "category": "Politics"
   }
 ]

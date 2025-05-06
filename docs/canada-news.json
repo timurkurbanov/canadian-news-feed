@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney to speak with Trump today at high-stakes White House meeting",
+    "url": "https://www.cbc.ca/news/politics/carney-trump-first-meeting-washington-1.7527102?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "NDP appoints Don Davies as interim leader Monday evening",
     "url": "https://www.cbc.ca/news/politics/ndp-new-leader-1.7526573?cmp=rss",
     "category": "Politics"
@@ -11,6 +18,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Conservative Damien Kurek says he'll step aside for Poilievre — but by law he has to wait",
     "url": "https://www.cbc.ca/news/politics/damien-kurek-poilievre-byelection-1.7526895?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "5 things to know about South Korea's military submarine pitch to Canada",
+    "url": "https://www.cbc.ca/news/politics/south-korea-hyundai-heavy-industries-hanwha-ocean-submarine-pitch-1.7527252?cmp=rss",
     "category": "Politics"
   },
   {
@@ -128,16 +142,9 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Conservative MP open to speaking with friend JD Vance if Liberals ask for help",
-    "url": "https://www.cbc.ca/news/politics/jamil-jivani-j-d-vance-u-s-relations-1.7524407?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Liberals lose closely contested seat to Bloc Québécois after vote validation",
-    "url": "https://www.cbc.ca/news/politics/elections-canada-terrebonne-riding-flips-validation-liberals-bloc-1.7524107?cmp=rss",
-    "category": "Politics"
+    "headline": "After Trump vows tariffs on foreign movies, the Canadian film industry says he's lost the plot",
+    "url": "https://www.cbc.ca/news/business/trump-us-film-industry-tariffs-1.7526419?cmp=rss",
+    "category": "Business"
   },
   {
     "source": "cbc",
@@ -275,9 +282,9 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Now comes the hard part for Mark Carney",
-    "url": "https://www.cbc.ca/news/business/armstrong-election-economy-1.7521865?cmp=rss",
-    "category": "Business"
+    "headline": "Chasing the Walter Cup: Trio of Canadian teams hunt for glory in PWHL playoffs",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-2025-walter-cup-playoff-semifinal-preview-1.7526974?cmp=rss",
+    "category": "Sports"
   },
   {
     "source": "cbc",
@@ -403,13 +410,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ledecky breaks own world record in 800m free, Canada's Kharun wins 100m fly at Tyr Pro Meet",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/ledecky-world-record-ilya-kharun-tyr-pro-series-may-3-1.7526096?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Hogan-Rochester helps Canada rugby 7 women finish third in season finale",
-    "url": "https://www.cbc.ca/sports/rugby/canada-hsbc-svns-world-championship-may-5-1.7526395?cmp=rss",
     "category": "Sports"
   },
   {
