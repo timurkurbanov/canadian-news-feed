@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poilievre strikes positive tone ahead of Conservative caucus meeting",
+    "url": "https://www.cbc.ca/news/politics/poilievre-conservative-caucus-meeting-1.7527562?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "NDP appoints Don Davies as interim leader Monday evening",
     "url": "https://www.cbc.ca/news/politics/ndp-new-leader-1.7526573?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "How will Carney contend with a minority — and what kind of Parliament do MPs want?",
     "url": "https://www.cbc.ca/news/politics/carney-minority-parliament-poilievre-analysis-1.7525414?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre to run for Alberta seat after MP Damien Kurek agrees to step down",
-    "url": "https://www.cbc.ca/news/politics/poilievre-to-run-in-alberta-byelection-1.7525104?cmp=rss",
     "category": "Politics"
   },
   {
@@ -289,7 +289,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Defence suggests complainant in sex assault trial saw world junior hockey player as a rich, elite athlete",
+    "headline": "Defence suggests complainant in world junior hockey sex assault case 'liked the attention' from elite athletes",
     "url": "https://www.cbc.ca/9.6749607?cmp=rss",
     "category": "Sports"
   },
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Partly Cloudy, 16.9°C",
+    "headline": "Current Conditions: Mostly Cloudy, 17.6°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
