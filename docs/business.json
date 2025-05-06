@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "GameStop Canada to be rebranded EB Games after acquisition by Quebec toymaker",
+    "url": "https://www.cbc.ca/news/business/gamestop-canada-eb-games-acquisition-1.7527431?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Hudson's Bay backtracks on cutting workers' commission pay, but still won't offer severance",
     "url": "https://www.cbc.ca/news/business/hudson-s-bay-commission-1.7526339?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's economy shrank 0.2% in February, but signs point to growth in March: StatsCan",
     "url": "https://www.cbc.ca/news/business/canada-gdp-february-1.7522455?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "68,000 job losses possible in Ontario this year due to U.S. trade war: report",
-    "url": "https://www.cbc.ca/news/canada/toronto/fao-report-ontario-impact-us-trade-war-1.7522571?cmp=rss",
     "category": "Business"
   }
 ]
