@@ -16,8 +16,29 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "New Liberal government should scrap EV tariffs on China to help trade, climate goals, say critics",
+    "url": "https://www.cbc.ca/news/canada/china-trump-ev-electric-vehicle-tariffs-canada-carney-1.7526835?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Conservative Damien Kurek says he'll step aside for Poilievre — but by law he has to wait",
     "url": "https://www.cbc.ca/news/politics/damien-kurek-poilievre-byelection-1.7526895?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "One week after Canada's election, Manitoba premier addresses decimation of federal NDP",
+    "url": "https://www.cbc.ca/news/canada/manitoba/kinew-ndp-federal-decimation-response-1.7527346?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Cracks in Ontario's economy were starting to show before Trump's tariffs",
+    "url": "https://www.cbc.ca/news/canada/toronto/ontario-economy-unemployment-doug-ford-trump-tariffs-1.7524283?cmp=rss",
     "category": "Politics"
   },
   {
@@ -116,27 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "King Charles will visit Canada, deliver throne speech to open Parliament",
     "url": "https://www.cbc.ca/news/politics/king-charles-canada-visit-1.7524946?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "PM Carney to meet with President Trump in Washington on Tuesday",
-    "url": "https://www.cbc.ca/news/politics/carney-trump-meeting-tuesday-1.7524324?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "The federal NDP had its worst election ever. Now what?",
-    "url": "https://www.cbc.ca/news/politics/ndp-future-new-leader-party-status-1.7523223?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "With less than 1% of the vote, does the People's Party of Canada have a future?",
-    "url": "https://www.cbc.ca/news/politics/peoples-party-of-canada-ppc-maxime-bernier-election-2025-1.7523653?cmp=rss",
     "category": "Politics"
   }
 ]

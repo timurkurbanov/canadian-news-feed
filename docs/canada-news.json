@@ -16,8 +16,29 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "New Liberal government should scrap EV tariffs on China to help trade, climate goals, say critics",
+    "url": "https://www.cbc.ca/news/canada/china-trump-ev-electric-vehicle-tariffs-canada-carney-1.7526835?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Conservative Damien Kurek says he'll step aside for Poilievre — but by law he has to wait",
     "url": "https://www.cbc.ca/news/politics/damien-kurek-poilievre-byelection-1.7526895?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "One week after Canada's election, Manitoba premier addresses decimation of federal NDP",
+    "url": "https://www.cbc.ca/news/canada/manitoba/kinew-ndp-federal-decimation-response-1.7527346?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Cracks in Ontario's economy were starting to show before Trump's tariffs",
+    "url": "https://www.cbc.ca/news/canada/toronto/ontario-economy-unemployment-doug-ford-trump-tariffs-1.7524283?cmp=rss",
     "category": "Politics"
   },
   {
@@ -121,29 +142,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "PM Carney to meet with President Trump in Washington on Tuesday",
-    "url": "https://www.cbc.ca/news/politics/carney-trump-meeting-tuesday-1.7524324?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "The federal NDP had its worst election ever. Now what?",
-    "url": "https://www.cbc.ca/news/politics/ndp-future-new-leader-party-status-1.7523223?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "With less than 1% of the vote, does the People's Party of Canada have a future?",
-    "url": "https://www.cbc.ca/news/politics/peoples-party-of-canada-ppc-maxime-bernier-election-2025-1.7523653?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "After Trump vows tariffs on foreign movies, the Canadian film industry says he's lost the plot",
     "url": "https://www.cbc.ca/news/business/trump-us-film-industry-tariffs-1.7526419?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada's trade deficit narrows to $506M in March, driven by slump in U.S. imports",
+    "url": "https://www.cbc.ca/news/business/canada-trade-deficit-march-1.7527457?cmp=rss",
     "category": "Business"
   },
   {
@@ -270,13 +277,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "China draws up list of U.S.-made goods exempt from 125% tariffs, sources say",
     "url": "https://www.cbc.ca/news/business/china-tariff-whitelist-1.7522535?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's economy shrank 0.2% in February, but signs point to growth in March: StatsCan",
-    "url": "https://www.cbc.ca/news/business/canada-gdp-february-1.7522455?cmp=rss",
     "category": "Business"
   },
   {
