@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Toronto teen Victoria Mboko qualifies for Italian Open main draw with comeback win",
+    "url": "https://www.cbc.ca/sports/tennis/victoria-mboko-qualified-main-draw-italian-open-1.7527662?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Nylander powers Leafs over Panthers in Game 1 as Toronto loses Stolarz to injury",
     "url": "https://www.cbc.ca/news/canada/toronto/hkn-panthers-maple-leafs-1.7527180?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "De Grasse concludes Grand Slam Track debut with 4th-place finish in 200m",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-day-3-1.7526175?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Former No. 1 Naomi Osaka takes 1st title in 4 years and her first on clay",
-    "url": "https://www.cbc.ca/sports/tennis/naomi-osaka-title-french-tourney-kaja-juvan-1.7526246?cmp=rss",
     "category": "Sports"
   }
 ]

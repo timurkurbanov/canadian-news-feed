@@ -2,14 +2,14 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney in Washington for 1st meeting with Trump to discuss tariffs, Canada-U.S. relations",
-    "url": "https://www.cbc.ca/news/politics/livestory/carney-in-washington-for-1st-meeting-with-trump-to-discuss-tariffs-canada-u-s-relations-9.6749638?cmp=rss",
+    "headline": "Carney arrives at the White House for 1st meeting with Trump to discuss tariffs, Canada-U.S. relations",
+    "url": "https://www.cbc.ca/news/politics/livestory/carney-arrives-at-the-white-house-for-1st-meeting-with-trump-to-discuss-tariffs-canada-u-s-relations-9.6749638?cmp=rss",
     "category": "Politics"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney to speak with Trump today at high-stakes White House meeting",
+    "headline": "Carney arrives at the White House for high-stakes meeting with Trump",
     "url": "https://www.cbc.ca/news/politics/carney-trump-first-meeting-washington-1.7527102?cmp=rss",
     "category": "Politics"
   },
@@ -296,6 +296,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Toronto teen Victoria Mboko qualifies for Italian Open main draw with comeback win",
+    "url": "https://www.cbc.ca/sports/tennis/victoria-mboko-qualified-main-draw-italian-open-1.7527662?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Nylander powers Leafs over Panthers in Game 1 as Toronto loses Stolarz to injury",
     "url": "https://www.cbc.ca/news/canada/toronto/hkn-panthers-maple-leafs-1.7527180?cmp=rss",
     "category": "Sports"
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Former No. 1 Naomi Osaka takes 1st title in 4 years and her first on clay",
-    "url": "https://www.cbc.ca/sports/tennis/naomi-osaka-title-french-tourney-kaja-juvan-1.7526246?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 17.6°C",
+    "headline": "Current Conditions: Mostly Cloudy, 19.6°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
