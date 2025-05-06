@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Spencer's lone goal lifts Rise FC over Tides FC",
+    "url": "https://www.cbc.ca/player/play/9.6749433?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Former U.S. women's basketball head coach Fortner takes over Canada's senior squad",
     "url": "https://www.cbc.ca/sports/basketball/nell-fortner-head-coach-canada-senior-womens-basketball-team-1.7526769?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Marco Arop wins 800m at Grand Slam Track stop in Florida",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-canadians-day-2-1.7525878?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Ledecky breaks own world record in 800m free, Canada's Kharun wins 100m fly at Tyr Pro Meet",
-    "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/ledecky-world-record-ilya-kharun-tyr-pro-series-may-3-1.7526096?cmp=rss",
     "category": "Sports"
   }
 ]
