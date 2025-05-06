@@ -289,6 +289,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Maple Leafs' Stolarz might play Game 2 after taking elbow to head from Panthers' Bennett",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/anthony-stolarz-game-2-status-maple-leafs-bennett-panthers-1.7527782?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Woman in ex-world junior hockey sex assault trial rejects defence's suggestion she wanted a 'wild night'",
     "url": "https://www.cbc.ca/9.6749607?cmp=rss",
     "category": "Sports"
@@ -298,6 +305,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Toronto teen Victoria Mboko qualifies for Italian Open main draw with comeback win",
     "url": "https://www.cbc.ca/sports/tennis/victoria-mboko-qualified-main-draw-italian-open-1.7527662?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "American champion skier Mikaela Shiffrin joins NWSL Denver's ownership group",
+    "url": "https://www.cbc.ca/sports/soccer/mikaela-shiffrin-denver-ownership-group-nwsl-1.7527828?cmp=rss",
     "category": "Sports"
   },
   {
@@ -399,20 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'Consent videos' a focus of ex-world junior hockey players' trial — but does such evidence stand up in court?",
-    "url": "https://www.cbc.ca/news/canada/london/consent-videos-hockey-trial-1.7525019?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "De Grasse concludes Grand Slam Track debut with 4th-place finish in 200m",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/grand-slam-track-miami-day-3-1.7526175?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Rain, 19.2°C",
+    "headline": "Current Conditions: Light Rain, 19.4°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
