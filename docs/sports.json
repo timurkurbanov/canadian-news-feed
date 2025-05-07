@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Cross-examination of woman in sexual assault trial of ex-world junior hockey players continues",
+    "url": "https://www.cbc.ca/9.6751073?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Edmonton Oilers set playoff comeback record with Game 1 win vs. Golden Knights",
     "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-bound-for-las-vegas-to-open-second-round-against-the-golden-knights-1.7527426?cmp=rss",
     "category": "Sports"
@@ -18,13 +25,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Chasing the Walter Cup: Trio of Canadian teams hunt for glory in PWHL playoffs",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-2025-walter-cup-playoff-semifinal-preview-1.7526974?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "In gruelling cross-examination, woman in world junior hockey sex assault trial denies wanting 'wild night'",
-    "url": "https://www.cbc.ca/9.6749607?cmp=rss",
     "category": "Sports"
   },
   {
@@ -114,7 +114,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "During intense testimony, E.M. recalls details of 'degrading' alleged sex assault by ex-world junior players",
+    "headline": "During intense testimony, E.M. recalls details of 'degrading' alleged sex assault by world junior players",
     "url": "https://www.cbc.ca/9.6748199?cmp=rss",
     "category": "Sports"
   },
