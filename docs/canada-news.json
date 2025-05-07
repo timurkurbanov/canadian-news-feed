@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney to meet premiers in Saskatchewan June 2 amid tensions with the west",
+    "url": "https://www.cbc.ca/news/politics/carney-premiers-saskatchewan-1.7528852?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What Trump and Carney discussed over lunch in Washington, according to a senior official",
     "url": "https://www.cbc.ca/news/politics/trump-carney-washington-lunch-1.7528773?cmp=rss",
     "category": "Politics"
@@ -11,6 +18,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Trump says Trudeau 'wrongly' pushed Russia out of G8 — when Harper was in power",
     "url": "https://www.cbc.ca/news/politics/trump-wrongly-credits-trudeau-russia-g8-removal-1.7528717?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Quebec border sees asylum claims double between March and April",
+    "url": "https://www.cbc.ca/news/canada/montreal/asylum-claims-quebec-border-1.7528882?cmp=rss",
     "category": "Politics"
   },
   {
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Alberta premier to chair sovereignty panel, put proposals to 2026 referendum",
     "url": "https://www.cbc.ca/news/canada/edmonton/alberta-premier-to-chair-sovereignty-panel-put-proposals-to-2026-referendum-1.7527154?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump reiterates 51st state threat as Carney prepares for critical White House meeting",
-    "url": "https://www.cbc.ca/news/politics/trump-reiterates-51st-state-threat-as-carney-prepares-for-critical-white-house-meeting-1.7526196?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "The Liberals need a few floor-crossers to form a majority. That might not be so easy",
-    "url": "https://www.cbc.ca/news/liberal-government-floor-crossers-majority-1.7525008?cmp=rss",
     "category": "Politics"
   },
   {
@@ -282,6 +282,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Chasing the Walter Cup: Trio of Canadian teams hunt for glory in PWHL playoffs",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-2025-walter-cup-playoff-semifinal-preview-1.7526974?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "CFL suspends Bombers QB Collaros for failing to respond to off-season drug testing",
     "url": "https://www.cbc.ca/sports/football/cfl/cfl-suspends-winnipeg-blue-bombers-qb-zach-collaros-1.7528858?cmp=rss",
     "category": "Sports"
@@ -289,7 +296,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Defence suggests woman in ex-world junior sex assault trial was putting on a 'performance'",
+    "headline": "Defence suggests woman acted 'in a way' that made world junior players think she consented to sexual activity",
     "url": "https://www.cbc.ca/9.6751073?cmp=rss",
     "category": "Sports"
   },
@@ -319,13 +326,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Edmonton Oilers set playoff comeback record with Game 1 win vs. Golden Knights",
     "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-bound-for-las-vegas-to-open-second-round-against-the-golden-knights-1.7527426?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Chasing the Walter Cup: Trio of Canadian teams hunt for glory in PWHL playoffs",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-2025-walter-cup-playoff-semifinal-preview-1.7526974?cmp=rss",
     "category": "Sports"
   },
   {
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Rain, 14.0°C",
+    "headline": "Current Conditions: Light Rain, 11.6°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

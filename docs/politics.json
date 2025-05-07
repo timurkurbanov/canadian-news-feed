@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney to meet premiers in Saskatchewan June 2 amid tensions with the west",
+    "url": "https://www.cbc.ca/news/politics/carney-premiers-saskatchewan-1.7528852?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What Trump and Carney discussed over lunch in Washington, according to a senior official",
     "url": "https://www.cbc.ca/news/politics/trump-carney-washington-lunch-1.7528773?cmp=rss",
     "category": "Politics"
@@ -11,6 +18,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Trump says Trudeau 'wrongly' pushed Russia out of G8 — when Harper was in power",
     "url": "https://www.cbc.ca/news/politics/trump-wrongly-credits-trudeau-russia-g8-removal-1.7528717?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Quebec border sees asylum claims double between March and April",
+    "url": "https://www.cbc.ca/news/canada/montreal/asylum-claims-quebec-border-1.7528882?cmp=rss",
     "category": "Politics"
   },
   {
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Alberta premier to chair sovereignty panel, put proposals to 2026 referendum",
     "url": "https://www.cbc.ca/news/canada/edmonton/alberta-premier-to-chair-sovereignty-panel-put-proposals-to-2026-referendum-1.7527154?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump reiterates 51st state threat as Carney prepares for critical White House meeting",
-    "url": "https://www.cbc.ca/news/politics/trump-reiterates-51st-state-threat-as-carney-prepares-for-critical-white-house-meeting-1.7526196?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "The Liberals need a few floor-crossers to form a majority. That might not be so easy",
-    "url": "https://www.cbc.ca/news/liberal-government-floor-crossers-majority-1.7525008?cmp=rss",
     "category": "Politics"
   }
 ]
