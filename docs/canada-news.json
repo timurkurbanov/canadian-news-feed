@@ -282,6 +282,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Lawyer suggests to woman in world juniors sex assault trial that allegations were cover story for boyfriend",
+    "url": "https://www.cbc.ca/9.6751073?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Utah unveils Mammoth as permanent name of NHL team in Salt Lake City",
     "url": "https://www.cbc.ca/sports/hockey/nhl/utah-mammoth-permanent-team-name-1.7528599?cmp=rss",
     "category": "Sports"
@@ -289,8 +296,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Lawyer suggests to woman in world juniors sex assault trial that allegations were cover story for boyfriend",
-    "url": "https://www.cbc.ca/9.6751073?cmp=rss",
+    "headline": "Canadian teen Victoria Mboko converts 6 break points, advances to Italian Open 2nd round",
+    "url": "https://www.cbc.ca/sports/tennis/victoria-mboko-victory-first-round-italian-open-1.7528682?cmp=rss",
     "category": "Sports"
   },
   {
@@ -422,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 16.0°C",
+    "headline": "Current Conditions: Mostly Cloudy, 18.4°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
