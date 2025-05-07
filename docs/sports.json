@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "CFL suspends Bombers QB Collaros for failing to respond to off-season drug testing",
+    "url": "https://www.cbc.ca/sports/football/cfl/cfl-suspends-winnipeg-blue-bombers-qb-zach-collaros-1.7528858?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Defence suggests woman in ex-world junior sex assault trial was putting on a 'performance'",
     "url": "https://www.cbc.ca/9.6751073?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "During intense testimony, E.M. recalls details of 'degrading' alleged sex assault by world junior players",
     "url": "https://www.cbc.ca/9.6748199?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Battle-tested Jets excited to face Dallas, but need break after bruising series against Blues",
-    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-bruising-series-st-louis-blues-nhl-playoffs-1.7526808?cmp=rss",
     "category": "Sports"
   }
 ]

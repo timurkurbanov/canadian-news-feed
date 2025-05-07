@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "What Trump and Carney discussed over lunch in Washington, according to a senior official",
+    "url": "https://www.cbc.ca/news/politics/trump-carney-washington-lunch-1.7528773?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Trump says Trudeau 'wrongly' pushed Russia out of G8 — when Harper was in power",
     "url": "https://www.cbc.ca/news/politics/trump-wrongly-credits-trudeau-russia-g8-removal-1.7528717?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "The Liberals need a few floor-crossers to form a majority. That might not be so easy",
     "url": "https://www.cbc.ca/news/liberal-government-floor-crossers-majority-1.7525008?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Remembering the Canadian soldiers who died on a mission of mercy at the close of the Second World War",
-    "url": "https://www.cbc.ca/news/politics/80th-anniversary-europe-liberation-canadian-soldiers-1.7525670?cmp=rss",
     "category": "Politics"
   }
 ]
