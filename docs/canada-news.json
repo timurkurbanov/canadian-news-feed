@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Trump says Trudeau 'wrongly' pushed Russia out of G8 — when Harper was in power",
+    "url": "https://www.cbc.ca/news/politics/trump-wrongly-credits-trudeau-russia-g8-removal-1.7528717?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's allies are wondering if they can still shelter under the U.S. nuclear umbrella",
     "url": "https://www.cbc.ca/news/politics/south-korea-nuclear-weapons-allies-1.7528300?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Remembering the Canadian soldiers who died on a mission of mercy at the close of the Second World War",
     "url": "https://www.cbc.ca/news/politics/80th-anniversary-europe-liberation-canadian-soldiers-1.7525670?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Alberta NDP ending automatic membership in federal party",
-    "url": "https://www.cbc.ca/news/canada/edmonton/alberta-ndp-automatic-membership-convention-1.7526027?cmp=rss",
     "category": "Politics"
   },
   {
@@ -289,7 +289,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Lawyer suggests to woman in world juniors sex assault trial that allegations were cover story for boyfriend",
+    "headline": "Woman in world junior sex assault trial rejects idea she made up allegations as cover story for boyfriend",
     "url": "https://www.cbc.ca/9.6751073?cmp=rss",
     "category": "Sports"
   },
@@ -303,7 +303,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian teen Victoria Mboko converts 6 break points, advances to Italian Open 2nd round",
+    "headline": "Andreescu, Canadian teen Mboko win in straight sets, advance to Italian Open 2nd round",
     "url": "https://www.cbc.ca/sports/tennis/victoria-mboko-victory-first-round-italian-open-1.7528682?cmp=rss",
     "category": "Sports"
   },

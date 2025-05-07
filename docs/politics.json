@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Trump says Trudeau 'wrongly' pushed Russia out of G8 — when Harper was in power",
+    "url": "https://www.cbc.ca/news/politics/trump-wrongly-credits-trudeau-russia-g8-removal-1.7528717?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's allies are wondering if they can still shelter under the U.S. nuclear umbrella",
     "url": "https://www.cbc.ca/news/politics/south-korea-nuclear-weapons-allies-1.7528300?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Remembering the Canadian soldiers who died on a mission of mercy at the close of the Second World War",
     "url": "https://www.cbc.ca/news/politics/80th-anniversary-europe-liberation-canadian-soldiers-1.7525670?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Alberta NDP ending automatic membership in federal party",
-    "url": "https://www.cbc.ca/news/canada/edmonton/alberta-ndp-automatic-membership-convention-1.7526027?cmp=rss",
     "category": "Politics"
   }
 ]
