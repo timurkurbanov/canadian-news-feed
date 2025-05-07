@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Utah unveils Mammoth as permanent name of NHL team in Salt Lake City",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/utah-mammoth-permanent-team-name-1.7528599?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Cross-examination of woman in sexual assault trial of ex-world junior hockey players continues",
     "url": "https://www.cbc.ca/9.6751073?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Battle-tested Jets excited to face Dallas, but need break after bruising series against Blues",
     "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-bruising-series-st-louis-blues-nhl-playoffs-1.7526808?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "U.S. Olympic swim great Gary Hall Jr awarded 10 medals to replace those destroyed in L.A. fires",
-    "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/gary-hall-jr-olympic-medals-replacements-las-angeles-wildfires-1.7526649?cmp=rss",
     "category": "Sports"
   }
 ]
