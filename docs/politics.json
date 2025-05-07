@@ -2,6 +2,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada's allies are wondering if they can still shelter under the U.S. nuclear umbrella",
+    "url": "https://www.cbc.ca/news/politics/south-korea-nuclear-weapons-allies-1.7528300?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Is Donald Trump right when he says the border is just an 'artificially drawn line'?",
+    "url": "https://www.cbc.ca/news/canada/trump-canada-border-1.7528269?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney and Trump are only at the beginning of redefining the Canada-U.S. relationship",
     "url": "https://www.cbc.ca/news/politics/carney-trump-white-house-analysis-1.7528219?cmp=rss",
     "category": "Politics"
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "For the first time, MPs born in the 21st century are headed to the Hill",
     "url": "https://www.cbc.ca/news/politics/first-mps-born-21st-century-1.7525106?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Liberal minority back up to 169 after Elections Canada validates close Ontario race",
-    "url": "https://www.cbc.ca/news/politics/election-validation-riding-flip-liberal-conservative-1.7525641?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "From Trump to Poilievre to the King, what came out of Carney's news conference",
-    "url": "https://www.cbc.ca/9.6745127?cmp=rss",
     "category": "Politics"
   }
 ]
