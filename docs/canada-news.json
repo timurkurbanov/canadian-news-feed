@@ -296,8 +296,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Friends and NHL stars Crosby, MacKinnon reunite at men's hockey worlds after 10 years",
-    "url": "https://www.cbc.ca/sports/hockey/crosby-mackinnon-reunited-canada-mens-world-hockey-championship-1.7529745?cmp=rss",
+    "headline": "Joel Quenneville hired by Ducks for 1st head coaching job since Chicago's sex abuse scandal",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/joel-quenneville-hired-by-ducks-as-coach-1.7530063?cmp=rss",
     "category": "Sports"
   },
   {
@@ -305,6 +305,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Hockey and hijabs: New to Canada and the sport, these girls have found their game",
     "url": "https://www.cbc.ca/news/canada/ottawa/hockey-and-hijabs-new-to-canada-and-the-sport-these-girls-have-found-their-game-1.7526851?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Friends and NHL stars Crosby, MacKinnon reunite at men's hockey worlds after 10 years",
+    "url": "https://www.cbc.ca/sports/hockey/crosby-mackinnon-reunited-canada-mens-world-hockey-championship-1.7529745?cmp=rss",
     "category": "Sports"
   },
   {
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Alphonso Davies offers injury update & Montreal Roses FC continue strong start",
-    "url": "https://www.cbc.ca/player/play/9.6749074?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 10.0°C",
+    "headline": "Current Conditions: Mostly Cloudy, 10.6°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
