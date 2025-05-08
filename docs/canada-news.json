@@ -296,6 +296,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Friends and NHL stars Crosby, MacKinnon reunite at men's hockey worlds after 10 years",
+    "url": "https://www.cbc.ca/sports/hockey/crosby-mackinnon-reunited-canada-mens-world-hockey-championship-1.7529745?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Hockey and hijabs: New to Canada and the sport, these girls have found their game",
+    "url": "https://www.cbc.ca/news/canada/ottawa/hockey-and-hijabs-new-to-canada-and-the-sport-these-girls-have-found-their-game-1.7526851?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Marner tallies 3rd-period winner as Maple Leafs beat Panthers to claim 2-0 series lead",
     "url": "https://www.cbc.ca/news/canada/toronto/hkn-panthers-maple-leafs-1.7529275?cmp=rss",
     "category": "Sports"
@@ -312,20 +326,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Gosling's 2-goal game helps Sceptres secure series opener against Frost",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/toronto-sceptres-minnesota-frost-game1-1.7529486?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Hockey and hijabs: New to Canada and the sport, these girls have found their game",
-    "url": "https://www.cbc.ca/news/canada/ottawa/hockey-and-hijabs-new-to-canada-and-the-sport-these-girls-have-found-their-game-1.7526851?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Chasing the Walter Cup: Trio of Canadian teams hunt for glory in PWHL playoffs",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-2025-walter-cup-playoff-semifinal-preview-1.7526974?cmp=rss",
     "category": "Sports"
   },
   {
