@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Olympic medallist Josh Liendo focused on busy summer swimming schedule",
+    "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/josh-liendo-busy-swimming-season-1.7530177?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "'It all starts here': Olympic champion 4x100m relay team begins journey to world championships",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-andre-de-grasse-glenroy-gilbert-preview-1.7524636?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Raucous Winnipeg fans poised to be X-factor for Jets in 2nd round against Dallas Stars",
     "url": "https://www.cbc.ca/news/canada/manitoba/nhl-playoffs-winnipeg-jets-dallas-stars-1.7527538?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Islanders secure No. 1 pick in 2025 NHL draft lottery, jumping 9 positions",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/2025-nhl-draft-lottery-1.7527240?cmp=rss",
     "category": "Sports"
   }
 ]
