@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "WestJet suspends nine U.S. routes due to lower demand",
+    "url": "https://www.cbc.ca/news/business/westjet-suspends-nine-routes-1.7529746?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Is CUSMA the best path out of the trade war with the U.S.?",
     "url": "https://www.cbc.ca/news/business/armstrong-free-trade-cusma-usmca-1.7528276?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "CUSMA-compliant auto parts won't be hit with tariffs",
     "url": "https://www.cbc.ca/news/world/us-cbp-cusma-auto-parts-tariffs-1.7524359?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian Tire is bidding on Hudson's Bay assets, according to sources",
-    "url": "https://www.cbc.ca/news/business/canadian-tire-hbc-bid-1.7523683?cmp=rss",
     "category": "Business"
   }
 ]
