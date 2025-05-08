@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'It all starts here': Olympic champion 4x100m relay team begins journey to world championships",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-andre-de-grasse-glenroy-gilbert-preview-1.7524636?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Marner tallies 3rd-period winner as Maple Leafs beat Panthers to claim 2-0 series lead",
     "url": "https://www.cbc.ca/news/canada/toronto/hkn-panthers-maple-leafs-1.7529275?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Your Toronto Maple Leafs bandwagon guide for Round 2 versus Florida",
     "url": "https://www.cbc.ca/news/canada/toronto/toronto-leafs-fan-guide-round-2-1.7526140?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Curlers Peterman, Gallant 1st athletes named to Canada's 2026 Olympic team",
-    "url": "https://www.cbc.ca/sports/olympics/winter/curling/curling-peterman-gallant-named-to-olympic-team-1.7526596?cmp=rss",
     "category": "Sports"
   }
 ]

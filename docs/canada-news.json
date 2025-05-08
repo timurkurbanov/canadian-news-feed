@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney's campaign made big promises for AI. Will his government deliver?",
+    "url": "https://www.cbc.ca/news/politics/carney-artificial-intelligence-1.7529251?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What Trump and Carney discussed over lunch in Washington, according to a senior official",
     "url": "https://www.cbc.ca/news/politics/trump-carney-washington-lunch-1.7528773?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "One week after Canada's election, Manitoba premier addresses decimation of federal NDP",
     "url": "https://www.cbc.ca/news/canada/manitoba/kinew-ndp-federal-decimation-response-1.7527346?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Cracks in Ontario's economy were starting to show before Trump's tariffs",
-    "url": "https://www.cbc.ca/news/canada/toronto/ontario-economy-unemployment-doug-ford-trump-tariffs-1.7524283?cmp=rss",
     "category": "Politics"
   },
   {
@@ -282,6 +282,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'It all starts here': Olympic champion 4x100m relay team begins journey to world championships",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-andre-de-grasse-glenroy-gilbert-preview-1.7524636?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Marner tallies 3rd-period winner as Maple Leafs beat Panthers to claim 2-0 series lead",
     "url": "https://www.cbc.ca/news/canada/toronto/hkn-panthers-maple-leafs-1.7529275?cmp=rss",
     "category": "Sports"
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Curlers Peterman, Gallant 1st athletes named to Canada's 2026 Olympic team",
-    "url": "https://www.cbc.ca/sports/olympics/winter/curling/curling-peterman-gallant-named-to-olympic-team-1.7526596?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Rainshower, 6.1°C",
+    "headline": "Current Conditions: Light Rainshower, 6.0°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
