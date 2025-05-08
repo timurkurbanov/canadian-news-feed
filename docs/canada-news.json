@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Conservative fundraising email suggests Liberals trying to 'tip the scales' in recounts",
+    "url": "https://www.cbc.ca/news/politics/conservative-email-liberals-tip-scale-1.7529740?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Retired army colonel fined, reprimanded for insulting British senior officer",
     "url": "https://www.cbc.ca/news/politics/court-marshall-insults-british-officer-1.7530530?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Conservatives choose Andrew Scheer as interim Opposition leader",
     "url": "https://www.cbc.ca/news/politics/poilievre-conservative-caucus-meeting-1.7527562?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "NDP appoints Don Davies as interim leader Monday evening",
-    "url": "https://www.cbc.ca/news/politics/ndp-new-leader-1.7526573?cmp=rss",
     "category": "Politics"
   },
   {
