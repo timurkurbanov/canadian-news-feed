@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Smith says sovereignty referendum provides 'outlet' to avoid creation of new party",
+    "url": "https://www.cbc.ca/news/canada/calgary/smith-says-sovereignty-referendum-provides-outlet-to-avoid-creation-of-new-party-1.7530218?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "NDP faces 'Parliament from hell' without official party status, says former MP",
     "url": "https://www.cbc.ca/news/politics/ndp-parliament-from-hell-svend-robinson-1.7529822?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "New Liberal government should scrap EV tariffs on China to help trade, climate goals, say critics",
     "url": "https://www.cbc.ca/news/canada/china-trump-ev-electric-vehicle-tariffs-canada-carney-1.7526835?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Conservative Damien Kurek says he'll step aside for Poilievre — but by law he has to wait",
-    "url": "https://www.cbc.ca/news/politics/damien-kurek-poilievre-byelection-1.7526895?cmp=rss",
     "category": "Politics"
   }
 ]
