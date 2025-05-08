@@ -2,6 +2,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Marner scores 3rd-period winner as Maple Leafs beat Panthers to take 2-0 series lead",
+    "url": "https://www.cbc.ca/news/canada/toronto/hkn-panthers-maple-leafs-1.7529275?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Gosling's 2-goal game helps Sceptres secure series opener against Frost",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/toronto-sceptres-minnesota-frost-game1-1.7529486?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Chasing the Walter Cup: Trio of Canadian teams hunt for glory in PWHL playoffs",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-2025-walter-cup-playoff-semifinal-preview-1.7526974?cmp=rss",
     "category": "Sports"
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Shane Lowry, Justin Rose, Wyndham Clark, Max Homa join RBC Canadian Open field",
     "url": "https://www.cbc.ca/sports/golf/rbc-canadian-open-players-1.7526828?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "During intense testimony, E.M. recalls details of 'degrading' alleged sex assault by world junior players",
-    "url": "https://www.cbc.ca/9.6748199?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Battle-tested Jets excited to face Dallas, but need break after bruising series against Blues",
-    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-bruising-series-st-louis-blues-nhl-playoffs-1.7526808?cmp=rss",
     "category": "Sports"
   }
 ]
