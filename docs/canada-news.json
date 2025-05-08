@@ -289,14 +289,14 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Lawyer for ex-world junior player in sex assault trial asks woman who is 'to blame'",
+    "headline": "Defence in ex-world juniors sex assault trial suggests woman's 'alter ego' didn't 'think of the consequences'",
     "url": "https://www.cbc.ca/9.6752685?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Joel Quenneville hired by Ducks for 1st head coaching job since sex abuse scandal",
+    "headline": "Joel Quenneville hired by Ducks for 1st head coaching job since Chicago sex abuse scandal",
     "url": "https://www.cbc.ca/sports/hockey/nhl/joel-quenneville-hired-by-ducks-as-coach-1.7530063?cmp=rss",
     "category": "Sports"
   },
@@ -319,6 +319,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Friends and NHL stars Crosby, MacKinnon reunite at men's hockey worlds after 10 years",
     "url": "https://www.cbc.ca/sports/hockey/crosby-mackinnon-reunited-canada-mens-world-hockey-championship-1.7529745?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Regina Pats select prodigious hometown hero Maddox Schultz with top pick of WHL draft",
+    "url": "https://www.cbc.ca/news/canada/saskatchewan/regina-pats-select-prodigious-hometown-hero-maddox-schultz-with-top-pick-of-whl-draft-1.7529288?cmp=rss",
     "category": "Sports"
   },
   {
@@ -410,13 +417,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Islanders secure No. 1 pick in 2025 NHL draft lottery, jumping 9 positions",
     "url": "https://www.cbc.ca/sports/hockey/nhl/2025-nhl-draft-lottery-1.7527240?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Spencer scores winner as Vancouver Rise blank Halifax Tides",
-    "url": "https://www.cbc.ca/sports/soccer/nsl-vancouver-rise-halifax-tides-may-5-1.7527456?cmp=rss",
     "category": "Sports"
   },
   {
