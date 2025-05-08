@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Retired army colonel fined, reprimanded for insulting British senior officer",
+    "url": "https://www.cbc.ca/news/politics/court-marshall-insults-british-officer-1.7530530?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney's campaign made big promises for AI. Will his government deliver?",
     "url": "https://www.cbc.ca/news/politics/carney-artificial-intelligence-1.7529251?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "NDP appoints Don Davies as interim leader Monday evening",
     "url": "https://www.cbc.ca/news/politics/ndp-new-leader-1.7526573?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "New Liberal government should scrap EV tariffs on China to help trade, climate goals, say critics",
-    "url": "https://www.cbc.ca/news/canada/china-trump-ev-electric-vehicle-tariffs-canada-carney-1.7526835?cmp=rss",
     "category": "Politics"
   }
 ]
