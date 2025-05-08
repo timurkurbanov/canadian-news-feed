@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Trump agrees to cut tariffs on U.K. autos, steel and aluminum in planned trade deal",
+    "url": "https://www.cbc.ca/news/world/britain-trump-tariff-deal-1.7529670?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Is CUSMA the best path out of the trade war with the U.S.?",
     "url": "https://www.cbc.ca/news/business/armstrong-free-trade-cusma-usmca-1.7528276?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Aritzia plans to move some of its production away from China amid tariff threats",
     "url": "https://www.cbc.ca/news/business/aritzia-production-china-1.7524753?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Are U.S. ports ‘ghost towns’ thanks to Trump’s tariffs?",
-    "url": "https://www.cbc.ca/player/play/9.6745337?cmp=rss",
     "category": "Business"
   }
 ]

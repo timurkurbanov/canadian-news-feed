@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "NDP faces 'Parliament from hell' without official party status, says former MP",
+    "url": "https://www.cbc.ca/news/politics/ndp-parliament-from-hell-svend-robinson-1.7529822?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What Trump and Carney discussed over lunch in Washington, according to a senior official",
     "url": "https://www.cbc.ca/news/politics/trump-carney-washington-lunch-1.7528773?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Conservative Damien Kurek says he'll step aside for Poilievre — but by law he has to wait",
     "url": "https://www.cbc.ca/news/politics/damien-kurek-poilievre-byelection-1.7526895?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "One week after Canada's election, Manitoba premier addresses decimation of federal NDP",
-    "url": "https://www.cbc.ca/news/canada/manitoba/kinew-ndp-federal-decimation-response-1.7527346?cmp=rss",
     "category": "Politics"
   }
 ]

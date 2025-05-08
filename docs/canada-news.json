@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "NDP faces 'Parliament from hell' without official party status, says former MP",
+    "url": "https://www.cbc.ca/news/politics/ndp-parliament-from-hell-svend-robinson-1.7529822?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What Trump and Carney discussed over lunch in Washington, according to a senior official",
     "url": "https://www.cbc.ca/news/politics/trump-carney-washington-lunch-1.7528773?cmp=rss",
     "category": "Politics"
@@ -135,13 +142,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "One week after Canada's election, Manitoba premier addresses decimation of federal NDP",
-    "url": "https://www.cbc.ca/news/canada/manitoba/kinew-ndp-federal-decimation-response-1.7527346?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "U.S. trade war risks Canadian progress on financial stability, says Bank of Canada",
     "url": "https://www.cbc.ca/news/business/bank-of-canada-financial-stability-report-may-2025-1.7529825?cmp=rss",
     "category": "Business"
@@ -151,6 +151,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "WestJet suspends nine U.S. routes due to lower demand",
     "url": "https://www.cbc.ca/news/business/westjet-suspends-nine-routes-1.7529746?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Trump agrees to cut tariffs on U.K. autos, steel and aluminum in planned trade deal",
+    "url": "https://www.cbc.ca/news/world/britain-trump-tariff-deal-1.7529670?cmp=rss",
     "category": "Business"
   },
   {
@@ -275,13 +282,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Are U.S. ports ‘ghost towns’ thanks to Trump’s tariffs?",
-    "url": "https://www.cbc.ca/player/play/9.6745337?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "'It all starts here': Olympic champion 4x100m relay team begins journey to world championships",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-andre-de-grasse-glenroy-gilbert-preview-1.7524636?cmp=rss",
     "category": "Sports"
@@ -289,7 +289,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Defence to resume questioning woman in sexual assault trial for ex-Team Canada junior hockey players",
+    "headline": "Defence resumes questioning woman in sexual assault trial for ex-Team Canada junior hockey players",
     "url": "https://www.cbc.ca/9.6752685?cmp=rss",
     "category": "Sports"
   },
