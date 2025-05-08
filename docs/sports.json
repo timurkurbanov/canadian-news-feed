@@ -23,13 +23,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Maple Leafs goaltender Stolarz out, Woll gets nod for Game 2 against Panthers",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/anthony-stolarz-out-for-game-2-maple-leafs-panthers-1.7528737?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Utah unveils Mammoth as permanent name of NHL team in Salt Lake City",
     "url": "https://www.cbc.ca/sports/hockey/nhl/utah-mammoth-permanent-team-name-1.7528599?cmp=rss",
     "category": "Sports"
@@ -137,6 +130,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "During intense testimony, E.M. recalls details of 'degrading' alleged sex assault by world junior players",
     "url": "https://www.cbc.ca/9.6748199?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Battle-tested Jets excited to face Dallas, but need break after bruising series against Blues",
+    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-bruising-series-st-louis-blues-nhl-playoffs-1.7526808?cmp=rss",
     "category": "Sports"
   }
 ]
