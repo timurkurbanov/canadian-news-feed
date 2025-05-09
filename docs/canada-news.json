@@ -282,6 +282,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "William Nylander shining for Maple Leafs in playoffs: 'Nothing gets to him'",
+    "url": "https://www.cbc.ca/news/canada/toronto/maple-leafs-panthers-stanley-cup-game-3-may-9-1.7531473?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "FIFA confirms Women's World Cup will increase to 48 teams in 2031",
     "url": "https://www.cbc.ca/sports/soccer/women-world-cup-expanded-field-48-teams-1.7531278?cmp=rss",
     "category": "Sports"
@@ -410,13 +417,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Red-hot Mikko Rantanen records 2nd hat trick in a row, as Stars beat Jets in Game 1",
     "url": "https://www.cbc.ca/news/canada/manitoba/jets-stars-game-1-1.7529189?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Gosling's 2-goal game helps Sceptres secure series opener against Frost",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/toronto-sceptres-minnesota-frost-game1-1.7529486?cmp=rss",
     "category": "Sports"
   },
   {
