@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Trade talks in two acts: Canada-U.S. poised to negotiate in stages",
+    "url": "https://www.cbc.ca/news/world/two-phase-canada-us-talks-1.7531494?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "NDP not seeking 'quid pro quo' with Liberals for party status, interim leader says",
     "url": "https://www.cbc.ca/news/politics/ndp-party-status-liberal-conservative-agreement-negotiations-1.7531523?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's allies are wondering if they can still shelter under the U.S. nuclear umbrella",
     "url": "https://www.cbc.ca/news/politics/south-korea-nuclear-weapons-allies-1.7528300?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'What president ever talks like that?' Biden slams Trump talk of annexing allies like Canada",
-    "url": "https://www.cbc.ca/news/world/biden-bbc-interview-trump-1.7528502?cmp=rss",
     "category": "Politics"
   }
 ]
