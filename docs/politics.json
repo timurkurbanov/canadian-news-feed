@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ballot recounts taking place in 4 tightly contested federal ridings",
+    "url": "https://www.cbc.ca/news/politics/election-recounts-four-ridings-1.7531657?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "NDP not seeking 'quid pro quo' with Liberals for party status, interim leader says",
     "url": "https://www.cbc.ca/news/politics/ndp-party-status-liberal-conservative-agreement-negotiations-1.7531523?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Quebec border sees asylum claims double between March and April",
     "url": "https://www.cbc.ca/news/canada/montreal/asylum-claims-quebec-border-1.7528882?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's allies are wondering if they can still shelter under the U.S. nuclear umbrella",
-    "url": "https://www.cbc.ca/news/politics/south-korea-nuclear-weapons-allies-1.7528300?cmp=rss",
     "category": "Politics"
   }
 ]
