@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Is the promise of military icebreakers political theatre or sensible policy?",
+    "url": "https://www.cbc.ca/news/politics/icebreakers-arctic-election-promises-1.7530018?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Conservative fundraising email suggests Liberals trying to 'tip the scales' in recounts",
     "url": "https://www.cbc.ca/news/politics/conservative-email-liberals-tip-scale-1.7529740?cmp=rss",
     "category": "Politics"
@@ -135,9 +142,9 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Conservatives choose Andrew Scheer as interim Opposition leader",
-    "url": "https://www.cbc.ca/news/politics/poilievre-conservative-caucus-meeting-1.7527562?cmp=rss",
-    "category": "Politics"
+    "headline": "Oil prices are down. It means something different in Canada vs. the U.S",
+    "url": "https://www.cbc.ca/news/canada/calgary/oil-down-canada-us-1.7530208?cmp=rss",
+    "category": "Business"
   },
   {
     "source": "cbc",
@@ -275,9 +282,9 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Aritzia plans to move some of its production away from China amid tariff threats",
-    "url": "https://www.cbc.ca/news/business/aritzia-production-china-1.7524753?cmp=rss",
-    "category": "Business"
+    "headline": "Women's baseball 'legend' Ayami Sato ready to leave a mark in Canadian men's pro league",
+    "url": "https://www.cbc.ca/sports/baseball/ayami-sato-pitcher-toronto-maple-leafs-intercounty-baseball-league-1.7530548?cmp=rss",
+    "category": "Sports"
   },
   {
     "source": "cbc",
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Jets' Hellebuyck relieved to hit reset button against Dallas after dismal performance in Round 1",
-    "url": "https://www.cbc.ca/news/canada/manitoba/jets-hellebuyck-clean-slate-1.7528193?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Cloudy, 6.8°C",
+    "headline": "Current Conditions: Cloudy, 6.9°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
