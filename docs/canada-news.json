@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Prime Minister Carney to name new cabinet on Tuesday",
+    "url": "https://www.cbc.ca/news/politics/carney-to-name-new-cabinet-tuesday-may-13-1.7531177?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Is the promise of military icebreakers political theatre or sensible policy?",
     "url": "https://www.cbc.ca/news/politics/icebreakers-arctic-election-promises-1.7530018?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "RECAP | Everything that happened during Carney's visit to Washington to meet Trump",
     "url": "https://www.cbc.ca/news/politics/livestory/recap-everything-that-happened-during-carney-s-visit-to-washington-to-meet-trump-9.6749638?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney tells Trump Canada is not for sale, president praises PM as a 'very good person'",
-    "url": "https://www.cbc.ca/news/politics/carney-trump-first-meeting-washington-1.7527102?cmp=rss",
     "category": "Politics"
   },
   {
@@ -282,6 +282,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "With 1 year until the franchise tips off, WNBA's Toronto Tempo starting to come together",
+    "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-1-year-out-1.7530768?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Women's baseball 'legend' Ayami Sato ready to leave a mark in Canadian men's pro league",
     "url": "https://www.cbc.ca/sports/baseball/ayami-sato-pitcher-toronto-maple-leafs-intercounty-baseball-league-1.7530548?cmp=rss",
     "category": "Sports"
@@ -410,13 +417,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Andreescu, Canadian teen Mboko win in straight sets, advance to Italian Open 2nd round",
     "url": "https://www.cbc.ca/sports/tennis/victoria-mboko-victory-first-round-italian-open-1.7528682?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Edmonton Oilers set playoff comeback record with Game 1 win vs. Golden Knights",
-    "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-bound-for-las-vegas-to-open-second-round-against-the-golden-knights-1.7527426?cmp=rss",
     "category": "Sports"
   },
   {
