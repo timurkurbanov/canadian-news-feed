@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "NDP not seeking 'quid pro quo' with Liberals for party status, interim leader says",
+    "url": "https://www.cbc.ca/news/politics/ndp-party-status-liberal-conservative-agreement-negotiations-1.7531523?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Prime Minister Carney to name new cabinet on Tuesday",
     "url": "https://www.cbc.ca/news/politics/carney-to-name-new-cabinet-tuesday-may-13-1.7531177?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "'What president ever talks like that?' Biden slams Trump talk of annexing allies like Canada",
     "url": "https://www.cbc.ca/news/world/biden-bbc-interview-trump-1.7528502?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney and Trump are only at the beginning of redefining the Canada-U.S. relationship",
-    "url": "https://www.cbc.ca/news/politics/carney-trump-white-house-analysis-1.7528219?cmp=rss",
     "category": "Politics"
   },
   {
@@ -296,8 +296,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "With 1 year until the franchise tips off, WNBA's Toronto Tempo starting to come together",
-    "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-1-year-out-1.7530768?cmp=rss",
+    "headline": "Women's baseball 'legend' Ayami Sato ready to leave a mark in Canadian men's pro league",
+    "url": "https://www.cbc.ca/sports/baseball/ayami-sato-pitcher-toronto-maple-leafs-intercounty-baseball-league-1.7530548?cmp=rss",
     "category": "Sports"
   },
   {
@@ -310,8 +310,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Women's baseball 'legend' Ayami Sato ready to leave a mark in Canadian men's pro league",
-    "url": "https://www.cbc.ca/sports/baseball/ayami-sato-pitcher-toronto-maple-leafs-intercounty-baseball-league-1.7530548?cmp=rss",
+    "headline": "With 1 year until the franchise tips off, WNBA's Toronto Tempo starting to come together",
+    "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-1-year-out-1.7530768?cmp=rss",
     "category": "Sports"
   },
   {
