@@ -289,22 +289,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Lawyer for ex-world junior player accused of sex assault questions woman about how much she had to drink",
+    "headline": "Defence for ex-world junior player accused of sexual assault grills woman about gaps in memory",
     "url": "https://www.cbc.ca/9.6754418?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Edmonton Oilers score OT win over Golden Knights, take 2-0 series lead",
-    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-golden-knights-game-2-1.7530315?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Darkangelo's winner helps Charge upset Victoire in Game 1 of PWHL semifinal",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/ottawa-charge-montreal-victoire-pwhl-playoffs-game1-1.7530303?cmp=rss",
     "category": "Sports"
   },
   {
@@ -319,6 +305,20 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Olympic medallist Josh Liendo focused on busy summer swimming schedule",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/josh-liendo-busy-swimming-season-1.7530177?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Edmonton Oilers score OT win over Golden Knights, take 2-0 series lead",
+    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-golden-knights-game-2-1.7530315?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Darkangelo's winner helps Charge upset Victoire in Game 1 of PWHL semifinal",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/ottawa-charge-montreal-victoire-pwhl-playoffs-game1-1.7530303?cmp=rss",
     "category": "Sports"
   },
   {
