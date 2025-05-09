@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "What to watch this weekend in sports",
+    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-lookahead-may-9-1.7530879?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Olympic medallist Josh Liendo focused on busy summer swimming schedule",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/josh-liendo-busy-swimming-season-1.7530177?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Edmonton Oilers set playoff comeback record with Game 1 win vs. Golden Knights",
     "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-bound-for-las-vegas-to-open-second-round-against-the-golden-knights-1.7527426?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Toronto teen Victoria Mboko qualifies for Italian Open main draw with comeback win",
-    "url": "https://www.cbc.ca/sports/tennis/victoria-mboko-qualified-main-draw-italian-open-1.7527662?cmp=rss",
     "category": "Sports"
   }
 ]
