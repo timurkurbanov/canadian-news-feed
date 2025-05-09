@@ -51,13 +51,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Defence in ex-world juniors sex assault trial suggests woman's 'alter ego' didn't 'think of the consequences'",
-    "url": "https://www.cbc.ca/9.6752685?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Joel Quenneville hired by Ducks for 1st head coaching job since Chicago sex abuse scandal",
     "url": "https://www.cbc.ca/sports/hockey/nhl/joel-quenneville-hired-by-ducks-as-coach-1.7530063?cmp=rss",
     "category": "Sports"
@@ -137,6 +130,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Edmonton Oilers set playoff comeback record with Game 1 win vs. Golden Knights",
     "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-bound-for-las-vegas-to-open-second-round-against-the-golden-knights-1.7527426?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Toronto teen Victoria Mboko qualifies for Italian Open main draw with comeback win",
+    "url": "https://www.cbc.ca/sports/tennis/victoria-mboko-qualified-main-draw-italian-open-1.7527662?cmp=rss",
     "category": "Sports"
   }
 ]
