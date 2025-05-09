@@ -9,6 +9,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Misinformation about Poilievre's election loss persists. Here are the facts",
+    "url": "https://www.cbc.ca/news/poilievre-election-loss-fact-check-1.7531263?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Will Danielle Smith steer Alberta away from separation, or will this train keep gathering steam?",
+    "url": "https://www.cbc.ca/news/canada/calgary/danielle-smith-separatism-demands-ottawa-analysis-1.7530569?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Is the promise of military icebreakers political theatre or sensible policy?",
     "url": "https://www.cbc.ca/news/politics/icebreakers-arctic-election-promises-1.7530018?cmp=rss",
     "category": "Politics"
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney and Trump are only at the beginning of redefining the Canada-U.S. relationship",
     "url": "https://www.cbc.ca/news/politics/carney-trump-white-house-analysis-1.7528219?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Is Donald Trump right when he says the border is just an 'artificially drawn line'?",
-    "url": "https://www.cbc.ca/news/canada/trump-canada-border-1.7528269?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "RECAP | Everything that happened during Carney's visit to Washington to meet Trump",
-    "url": "https://www.cbc.ca/news/politics/livestory/recap-everything-that-happened-during-carney-s-visit-to-washington-to-meet-trump-9.6749638?cmp=rss",
     "category": "Politics"
   }
 ]
