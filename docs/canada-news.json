@@ -282,8 +282,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Darkangelo's winner helps Charge upset Victoire in Game 1 of PWHL semifinal",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/ottawa-charge-montreal-victoire-pwhl-playoffs-game1-1.7530303?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Olympic medallist Josh Liendo focused on busy summer swimming schedule",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/josh-liendo-busy-swimming-season-1.7530177?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Pope Leo XIV brings hope to Chicago sports fans, and the Knicks for their Villanova ties",
+    "url": "https://www.cbc.ca/sports/pope-leo-xiv-sports-1.7530762?cmp=rss",
     "category": "Sports"
   },
   {
@@ -406,20 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Nylander powers Leafs over Panthers in Game 1 as Toronto loses Stolarz to injury",
-    "url": "https://www.cbc.ca/news/canada/toronto/hkn-panthers-maple-leafs-1.7527180?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Raucous Winnipeg fans poised to be X-factor for Jets in 2nd round against Dallas Stars",
-    "url": "https://www.cbc.ca/news/canada/manitoba/nhl-playoffs-winnipeg-jets-dallas-stars-1.7527538?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 7.8°C",
+    "headline": "Current Conditions: Mostly Cloudy, 6.5°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
