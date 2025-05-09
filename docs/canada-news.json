@@ -296,6 +296,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Defence grills woman in world junior sex assault trial about gaps in memory, surveillance tape",
+    "url": "https://www.cbc.ca/9.6754418?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Women's baseball 'legend' Ayami Sato ready to leave a mark in Canadian men's pro league",
     "url": "https://www.cbc.ca/sports/baseball/ayami-sato-pitcher-toronto-maple-leafs-intercounty-baseball-league-1.7530548?cmp=rss",
     "category": "Sports"
@@ -303,8 +310,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Defence grills woman in world junior sex assault trial about gaps in memory, surveillance tape",
-    "url": "https://www.cbc.ca/9.6754418?cmp=rss",
+    "headline": "Sidney Crosby named Canada's captain at hockey worlds",
+    "url": "https://www.cbc.ca/sports/hockey/sidney-crosby-team-canada-captain-hockey-worlds-1.7531334?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadian Denis Shapovalov upset at Italian Open",
+    "url": "https://www.cbc.ca/sports/tennis/italian-open-roundup-may9-1.7531297?cmp=rss",
     "category": "Sports"
   },
   {
@@ -406,20 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "CFL suspends Bombers QB Collaros for failing to respond to off-season drug testing",
-    "url": "https://www.cbc.ca/sports/football/cfl/cfl-suspends-winnipeg-blue-bombers-qb-zach-collaros-1.7528858?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Utah unveils Mammoth as permanent name of NHL team in Salt Lake City",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/utah-mammoth-permanent-team-name-1.7528599?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 10.7°C",
+    "headline": "Current Conditions: Mostly Cloudy, 11.5°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
