@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Car insurance is getting pricier. 5 ways to try lowering your premium",
+    "url": "https://www.cbc.ca/radio/costofliving/car-insurance-tips-1.7521923?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's unemployment rate ticked up to 6.9% in April, matching pre-pandemic high",
     "url": "https://www.cbc.ca/news/business/labour-force-survey-april-2025-1.7530855?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "One year after the Trans Mountain Pipeline expansion, why isn't it full?",
     "url": "https://www.cbc.ca/news/canada/calgary/one-year-after-the-trans-mountain-pipeline-expansion-why-isn-t-it-full-1.7525284?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Startups aim to bring EV charging to apartment and condo dwellers",
-    "url": "https://www.cbc.ca/news/science/ev-charging-multiresidential-1.7522564?cmp=rss",
     "category": "Business"
   }
 ]
