@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Shutout for Hellebuyck, 2 goals for Ehlers, as Winnipeg Jets even series with Dallas",
+    "url": "https://www.cbc.ca/news/canada/manitoba/jets-stars-game-2-1.7531586?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Marchand scores in OT, Panthers top Maple Leafs 5-4 to cut series deficit to 2-1",
     "url": "https://www.cbc.ca/news/canada/toronto/maple-leafs-panthers-stanley-cup-game-3-may-9-1.7531473?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Football Canada hires LaPolice, Lessard as national flag football head coaches",
     "url": "https://www.cbc.ca/sports/football/football-canada-paul-lapolice-head-coach-1.7530255?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Friends and NHL stars Crosby, MacKinnon reunite at men's hockey worlds after 10 years",
-    "url": "https://www.cbc.ca/sports/hockey/crosby-mackinnon-reunited-canada-mens-world-hockey-championship-1.7529745?cmp=rss",
     "category": "Sports"
   }
 ]
