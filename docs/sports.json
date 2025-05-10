@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Lee Stecklein leads Frost past Sceptres, even PWHL semifinal 1-1",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-minnesota-toronto-recap-may9-1.7531898?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "William Nylander shining for Maple Leafs in playoffs: 'Nothing gets to him'",
     "url": "https://www.cbc.ca/news/canada/toronto/maple-leafs-panthers-stanley-cup-game-3-may-9-1.7531473?cmp=rss",
     "category": "Sports"
@@ -39,6 +46,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "With 1 year until the franchise tips off, WNBA's Toronto Tempo starting to come together",
     "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-1-year-out-1.7530768?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Instead of travelling to Seattle to watch the Blue Jays, some B.C. baseball fans are staying home",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/blue-jay-mariners-visit-seattle-1.7531776?cmp=rss",
     "category": "Sports"
   },
   {
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Friends and NHL stars Crosby, MacKinnon reunite at men's hockey worlds after 10 years",
     "url": "https://www.cbc.ca/sports/hockey/crosby-mackinnon-reunited-canada-mens-world-hockey-championship-1.7529745?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Regina Pats select prodigious hometown hero Maddox Schultz with top pick of WHL draft",
-    "url": "https://www.cbc.ca/news/canada/saskatchewan/regina-pats-select-prodigious-hometown-hero-maddox-schultz-with-top-pick-of-whl-draft-1.7529288?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Marner tallies 3rd-period winner as Maple Leafs beat Panthers to claim 2-0 series lead",
-    "url": "https://www.cbc.ca/news/canada/toronto/hkn-panthers-maple-leafs-1.7529275?cmp=rss",
     "category": "Sports"
   }
 ]
