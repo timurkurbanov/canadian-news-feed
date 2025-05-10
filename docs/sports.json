@@ -2,15 +2,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "How Alex Ovechkin's 1st NHL goal set the stage for record-breaking career",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/ovechkin-1st-career-goal-capitals-2025-1.7530258?cmp=rss",
+    "headline": "De Grasse, Leduc power Canadian 4x100m relay teams to spots at world championships",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-may-10-andre-de-grasse-aaron-brown-1.7531981?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "De Grasse, Leduc power Canadian 4x100m relay teams to spots at world championships",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-may-10-andre-de-grasse-aaron-brown-1.7531981?cmp=rss",
+    "headline": "How Alex Ovechkin's 1st NHL goal set the stage for record-breaking career",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/ovechkin-1st-career-goal-capitals-2025-1.7530258?cmp=rss",
     "category": "Sports"
   },
   {
@@ -25,6 +25,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Olympic medallist Josh Liendo focused on busy summer swimming schedule",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/josh-liendo-busy-swimming-season-1.7530177?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadian Felix Auger-Aliassime withdraws from Italian Open tennis tournament",
+    "url": "https://www.cbc.ca/sports/tennis/canada-felix-auger-aliassime-withdraws-italian-open-1.7532073?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Andreescu, Fernandez advance at Italian Open, Shapovalov, Mboko eliminated",
     "url": "https://www.cbc.ca/sports/tennis/italian-open-roundup-may9-1.7531297?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "What to watch this weekend in sports",
-    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-lookahead-may-9-1.7530879?cmp=rss",
     "category": "Sports"
   }
 ]
