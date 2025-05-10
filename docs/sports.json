@@ -44,6 +44,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Watch Canada's track stars compete at the World Athletics Relays",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-live-stream-andre-de-grasse-aaron-brown-1.7530772?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Shutout for Hellebuyck, 2 goals for Ehlers, as Winnipeg Jets even series with Dallas",
     "url": "https://www.cbc.ca/news/canada/manitoba/jets-stars-game-2-1.7531586?cmp=rss",
     "category": "Sports"
@@ -88,13 +95,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PWHL playoff notebook: A top seed toppled in Game 1 and a suspended rookie",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-playoff-notebook-1-2025-1.7531544?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Watch Canada's track stars compete at the World Athletics Relays",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-live-stream-andre-de-grasse-aaron-brown-1.7530772?cmp=rss",
     "category": "Sports"
   },
   {
