@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "These incumbent MPs lost their races. Now, they're packing up and saying goodbye",
+    "url": "https://www.cbc.ca/news/politics/incumbent-mps-lost-election-1.7531420?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Prime Minister Carney to name new cabinet Tuesday that could include tiered structure",
     "url": "https://www.cbc.ca/news/politics/carney-to-name-new-cabinet-tuesday-may-13-1.7531177?cmp=rss",
     "category": "Politics"
@@ -135,9 +142,9 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Quebec border sees asylum claims double between March and April",
-    "url": "https://www.cbc.ca/news/canada/montreal/asylum-claims-quebec-border-1.7528882?cmp=rss",
-    "category": "Politics"
+    "headline": "Can machine-grown lettuce help cut Canada's reliance on U.S. greens? This farmer is betting on it",
+    "url": "https://www.cbc.ca/news/canada/machine-lettuce-1.7528860?cmp=rss",
+    "category": "Business"
   },
   {
     "source": "cbc",
@@ -275,13 +282,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada Post workers could strike again soon. Here's why",
-    "url": "https://www.cbc.ca/news/business/canada-post-possible-strike-again-1.7524833?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Shutout for Hellebuyck, 2 goals for Ehlers, as Winnipeg Jets even series with Dallas",
     "url": "https://www.cbc.ca/news/canada/manitoba/jets-stars-game-2-1.7531586?cmp=rss",
     "category": "Sports"
@@ -312,6 +312,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "FIFA confirms Women's World Cup will increase to 48 teams in 2031",
     "url": "https://www.cbc.ca/sports/soccer/women-world-cup-expanded-field-48-teams-1.7531278?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "How Alex Ovechkin's 1st NHL goal set the stage for record-breaking career",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/ovechkin-1st-career-goal-capitals-2025-1.7530258?cmp=rss",
     "category": "Sports"
   },
   {
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Football Canada hires LaPolice, Lessard as national flag football head coaches",
-    "url": "https://www.cbc.ca/sports/football/football-canada-paul-lapolice-head-coach-1.7530255?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 7.7°C",
+    "headline": "Current Conditions: Partly Cloudy, 7.6°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

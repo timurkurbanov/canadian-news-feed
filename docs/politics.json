@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "These incumbent MPs lost their races. Now, they're packing up and saying goodbye",
+    "url": "https://www.cbc.ca/news/politics/incumbent-mps-lost-election-1.7531420?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Prime Minister Carney to name new cabinet Tuesday that could include tiered structure",
     "url": "https://www.cbc.ca/news/politics/carney-to-name-new-cabinet-tuesday-may-13-1.7531177?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Yukon Premier Ranj Pillai announces resignation",
     "url": "https://www.cbc.ca/news/canada/north/yukon-premier-ranj-pillai-announces-resignation-1.7529140?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Quebec border sees asylum claims double between March and April",
-    "url": "https://www.cbc.ca/news/canada/montreal/asylum-claims-quebec-border-1.7528882?cmp=rss",
     "category": "Politics"
   }
 ]

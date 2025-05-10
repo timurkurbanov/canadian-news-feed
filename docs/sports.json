@@ -37,6 +37,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "How Alex Ovechkin's 1st NHL goal set the stage for record-breaking career",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/ovechkin-1st-career-goal-capitals-2025-1.7530258?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Women's baseball 'legend' Ayami Sato ready to leave a mark in Canadian men's pro league",
     "url": "https://www.cbc.ca/sports/baseball/ayami-sato-pitcher-toronto-maple-leafs-intercounty-baseball-league-1.7530548?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Hockey and hijabs: New to Canada and the sport, these girls have found their game",
     "url": "https://www.cbc.ca/news/canada/ottawa/hockey-and-hijabs-new-to-canada-and-the-sport-these-girls-have-found-their-game-1.7526851?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Football Canada hires LaPolice, Lessard as national flag football head coaches",
-    "url": "https://www.cbc.ca/sports/football/football-canada-paul-lapolice-head-coach-1.7530255?cmp=rss",
     "category": "Sports"
   }
 ]
