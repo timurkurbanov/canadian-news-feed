@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Quebec riding of Terrebonne flips to Liberals by one vote after judicial recount",
+    "url": "https://www.cbc.ca/news/politics/terrebone-recount-liberal-1.7532136?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "These incumbent MPs lost their races. Now, they're packing up and saying goodbye",
     "url": "https://www.cbc.ca/news/politics/incumbent-mps-lost-election-1.7531420?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Over 800 special ballots mistakenly kept in B.C. riding, Elections Canada says",
     "url": "https://www.cbc.ca/news/canada/british-columbia/special-ballots-mistake-elections-canada-1.7529264?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Yukon Premier Ranj Pillai announces resignation",
-    "url": "https://www.cbc.ca/news/canada/north/yukon-premier-ranj-pillai-announces-resignation-1.7529140?cmp=rss",
     "category": "Politics"
   }
 ]
