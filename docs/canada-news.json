@@ -282,14 +282,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Watch Canada's track stars compete at the World Athletics Relays",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-live-stream-andre-de-grasse-aaron-brown-1.7530772?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "De Grasse, Leduc power Canadian 4x100m relay teams to the world championships",
+    "headline": "De Grasse, Leduc power Canadian 4x100m relay teams to spots at world championships",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-may-10-andre-de-grasse-aaron-brown-1.7531981?cmp=rss",
     "category": "Sports"
   },
@@ -340,6 +333,20 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PWHL playoff notebook: A top seed toppled in Game 1 and a suspended rookie",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-playoff-notebook-1-2025-1.7531544?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Northern Super League: Montreal vs Halifax",
+    "url": "https://www.cbc.ca/player/play/9.6732870?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Watch Canada's track stars compete at the World Athletics Relays",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-live-stream-andre-de-grasse-aaron-brown-1.7530772?cmp=rss",
     "category": "Sports"
   },
   {
@@ -410,13 +417,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Darkangelo's winner helps Charge upset Victoire in Game 1 of PWHL semifinal",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/ottawa-charge-montreal-victoire-pwhl-playoffs-game1-1.7530303?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Pope Leo XIV brings hope to Chicago sports fans, and the Knicks for their Villanova ties",
-    "url": "https://www.cbc.ca/sports/pope-leo-xiv-sports-1.7530762?cmp=rss",
     "category": "Sports"
   },
   {
