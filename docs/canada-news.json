@@ -296,6 +296,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Northern Super League: Montreal vs Halifax",
+    "url": "https://www.cbc.ca/player/play/9.6732870?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Olympic medallist Josh Liendo focused on busy summer swimming schedule",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/josh-liendo-busy-swimming-season-1.7530177?cmp=rss",
     "category": "Sports"
@@ -303,8 +310,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Bo Horvat leads Team Canada at the IIHF world championships",
-    "url": "https://www.cbc.ca/player/play/9.6755879?cmp=rss",
+    "headline": "Canada downs Slovenia 4-0 to open world men's hockey championship event",
+    "url": "https://www.cbc.ca/sports/hockey/canada-downs-slovenia-mens-hockey-worlds-1.7532045?cmp=rss",
     "category": "Sports"
   },
   {
@@ -347,13 +354,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PWHL playoff notebook: A top seed toppled in Game 1 and a suspended rookie",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-playoff-notebook-1-2025-1.7531544?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Northern Super League: Montreal vs Halifax",
-    "url": "https://www.cbc.ca/player/play/9.6732870?cmp=rss",
     "category": "Sports"
   },
   {
