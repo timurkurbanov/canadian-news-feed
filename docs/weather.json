@@ -2,8 +2,8 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "No watches or warnings in effect, Ottawa",
-    "url": "https://weather.gc.ca/index_e.html",
+    "headline": "FROST ADVISORY, Ottawa",
+    "url": "https://weather.gc.ca/warnings/report_e.html?onrm104",
     "category": "Weather"
   },
   {
@@ -16,14 +16,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Saturday: Sunny. High 20.",
-    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
-    "category": "Weather"
-  },
-  {
-    "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Saturday night: Clear. Low plus 2 with risk of frost.",
+    "headline": "Saturday night: A few clouds. Low plus 1 with patchy frost.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
@@ -37,7 +30,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Sunday night: Clear. Low 6.",
+    "headline": "Sunday night: A few clouds. Low 6.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
