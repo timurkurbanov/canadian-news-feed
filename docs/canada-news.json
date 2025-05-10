@@ -282,8 +282,29 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Watch Canada's track stars compete at the World Athletics Relays",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-live-stream-andre-de-grasse-aaron-brown-1.7530772?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'It all starts here': Olympic champion 4x100m relay team begins journey to world championships",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-andre-de-grasse-glenroy-gilbert-preview-1.7524636?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Shutout for Hellebuyck, 2 goals for Ehlers, as Winnipeg Jets even series with Dallas",
     "url": "https://www.cbc.ca/news/canada/manitoba/jets-stars-game-2-1.7531586?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Lee Stecklein leads Frost past Sceptres, even PWHL semifinal 1-1",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-minnesota-toronto-recap-may9-1.7531898?cmp=rss",
     "category": "Sports"
   },
   {
@@ -296,8 +317,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Lee Stecklein leads Frost past Sceptres, even PWHL semifinal 1-1",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-minnesota-toronto-recap-may9-1.7531898?cmp=rss",
+    "headline": "How Alex Ovechkin's 1st NHL goal set the stage for record-breaking career",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/ovechkin-1st-career-goal-capitals-2025-1.7530258?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Olympic medallist Josh Liendo focused on busy summer swimming schedule",
+    "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/josh-liendo-busy-swimming-season-1.7530177?cmp=rss",
     "category": "Sports"
   },
   {
@@ -312,13 +340,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "FIFA confirms Women's World Cup will increase to 48 teams in 2031",
     "url": "https://www.cbc.ca/sports/soccer/women-world-cup-expanded-field-48-teams-1.7531278?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "How Alex Ovechkin's 1st NHL goal set the stage for record-breaking career",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/ovechkin-1st-career-goal-capitals-2025-1.7530258?cmp=rss",
     "category": "Sports"
   },
   {
@@ -373,13 +394,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Olympic medallist Josh Liendo focused on busy summer swimming schedule",
-    "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/josh-liendo-busy-swimming-season-1.7530177?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Edmonton Oilers score OT win over Golden Knights, take 2-0 series lead",
     "url": "https://www.cbc.ca/news/canada/edmonton/oilers-golden-knights-game-2-1.7530315?cmp=rss",
     "category": "Sports"
@@ -401,22 +415,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'It all starts here': Olympic champion 4x100m relay team begins journey to world championships",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-andre-de-grasse-glenroy-gilbert-preview-1.7524636?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Joel Quenneville hired by Ducks for 1st head coaching job since Chicago sex abuse scandal",
     "url": "https://www.cbc.ca/sports/hockey/nhl/joel-quenneville-hired-by-ducks-as-coach-1.7530063?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Hockey and hijabs: New to Canada and the sport, these girls have found their game",
-    "url": "https://www.cbc.ca/news/canada/ottawa/hockey-and-hijabs-new-to-canada-and-the-sport-these-girls-have-found-their-game-1.7526851?cmp=rss",
     "category": "Sports"
   },
   {
