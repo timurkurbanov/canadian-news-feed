@@ -30,6 +30,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "13-year-old Sask. tennis sensation smashes her way to 3rd national title",
+    "url": "https://www.cbc.ca/news/canada/saskatchewan/national-tennis-champion-regina-isabella-ruyu-yan-1.7531088?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Montreal Roses FC, Halifax Tides FC battle to scoreless draw",
     "url": "https://www.cbc.ca/sports/soccer/nsl-montreak-roses-halifax-tides-may-10-1.7532093?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Instead of travelling to Seattle to watch the Blue Jays, some B.C. baseball fans are staying home",
     "url": "https://www.cbc.ca/news/canada/british-columbia/blue-jay-mariners-visit-seattle-1.7531776?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Sidney Crosby named Canada's captain at hockey worlds",
-    "url": "https://www.cbc.ca/sports/hockey/sidney-crosby-team-canada-captain-hockey-worlds-1.7531334?cmp=rss",
     "category": "Sports"
   }
 ]

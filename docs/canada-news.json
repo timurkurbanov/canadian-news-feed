@@ -310,6 +310,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "13-year-old Sask. tennis sensation smashes her way to 3rd national title",
+    "url": "https://www.cbc.ca/news/canada/saskatchewan/national-tennis-champion-regina-isabella-ruyu-yan-1.7531088?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Montreal Roses FC, Halifax Tides FC battle to scoreless draw",
     "url": "https://www.cbc.ca/sports/soccer/nsl-montreak-roses-halifax-tides-may-10-1.7532093?cmp=rss",
     "category": "Sports"
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Sidney Crosby named Canada's captain at hockey worlds",
-    "url": "https://www.cbc.ca/sports/hockey/sidney-crosby-team-canada-captain-hockey-worlds-1.7531334?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "FROST ADVISORY, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Sunny, 2.4°C",
+    "headline": "Current Conditions: Sunny, 3.0°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
