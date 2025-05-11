@@ -282,8 +282,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada wins gold, bronze to end World Relays and clinches another spot at athletics worlds",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-recap-may-11-1.7532205?cmp=rss",
+    "headline": "Japan's Ayami Sato becomes first woman to play in Canadian men's pro baseball league",
+    "url": "https://www.cbc.ca/sports/baseball/ayami-sato-toronto-maple-leafs-ibl-debut-1.7532447?cmp=rss",
     "category": "Sports"
   },
   {
@@ -291,6 +291,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Vancouver Rise, AFC Toronto play to draw in Northern Super League",
     "url": "https://www.cbc.ca/sports/soccer/nsl-roundup-may11-1.7532431?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada wins gold, bronze to end World Relays and clinches another spot at athletics worlds",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-recap-may-11-1.7532205?cmp=rss",
     "category": "Sports"
   },
   {
@@ -310,13 +317,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Women's baseball 'legend' Ayami Sato ready to leave a mark in Canadian men's pro league",
-    "url": "https://www.cbc.ca/sports/baseball/ayami-sato-pitcher-toronto-maple-leafs-intercounty-baseball-league-1.7530548?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Andreescu defeats Rybakina in straight sets, advances to Italian Open 4th round",
     "url": "https://www.cbc.ca/sports/tennis/bianca-andreescu-leylah-fernandez-italian-open-roundup-1.7532309?cmp=rss",
     "category": "Sports"
@@ -326,6 +326,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Golden Knights score with 0.4 seconds left in Game 3 to stun Oilers, narrow series deficit",
     "url": "https://www.cbc.ca/sports/hockey/nhl/game-3-oilers-golden-knights-1.7532175?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Women's baseball 'legend' Ayami Sato ready to leave a mark in Canadian men's pro league",
+    "url": "https://www.cbc.ca/sports/baseball/ayami-sato-pitcher-toronto-maple-leafs-intercounty-baseball-league-1.7530548?cmp=rss",
     "category": "Sports"
   },
   {
@@ -410,13 +417,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Shutout for Hellebuyck, 2 goals for Ehlers, as Winnipeg Jets even series with Dallas",
     "url": "https://www.cbc.ca/news/canada/manitoba/jets-stars-game-2-1.7531586?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Regina to host 2026 National Aboriginal Hockey Championships",
-    "url": "https://www.cbc.ca/news/canada/saskatchewan/regina-national-aboriginal-hockey-championships-2026-1.7532046?cmp=rss",
     "category": "Sports"
   },
   {
