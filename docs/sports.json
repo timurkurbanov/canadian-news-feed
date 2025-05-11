@@ -79,6 +79,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Undefeated N.B. girls volleyball team 'devastated' it can't compete for national title",
+    "url": "https://www.cbc.ca/news/canada/new-brunswick/cyclones-volleyball-new-brunswick-national-championship-1.7532235?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What to watch this weekend in sports",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-lookahead-may-9-1.7530879?cmp=rss",
     "category": "Sports"
@@ -95,6 +102,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada downs Slovenia 4-0 to open world men's hockey championship event",
     "url": "https://www.cbc.ca/sports/hockey/canada-downs-slovenia-mens-hockey-worlds-1.7532045?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Calgary Wild bring in high school students for club's first home game on Sunday",
+    "url": "https://www.cbc.ca/news/canada/calgary/calgary-wild-bring-in-forest-lawn-students-for-club-s-first-home-game-on-sunday-1.7531806?cmp=rss",
     "category": "Sports"
   },
   {
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Marchand scores in OT, Panthers top Maple Leafs 5-4 to cut series deficit to 2-1",
     "url": "https://www.cbc.ca/news/canada/toronto/maple-leafs-panthers-stanley-cup-game-3-may-9-1.7531473?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "PWHL playoff notebook: A top seed toppled in Game 1 and a suspended rookie",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-playoff-notebook-1-2025-1.7531544?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "FIFA confirms Women's World Cup will increase to 48 teams in 2031",
-    "url": "https://www.cbc.ca/sports/soccer/women-world-cup-expanded-field-48-teams-1.7531278?cmp=rss",
     "category": "Sports"
   }
 ]
