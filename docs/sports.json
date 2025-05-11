@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Golden Knights score with 0.4 seconds left in Game 3 to stun Oilers 4-3",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/game-3-oilers-golden-knights-1.7532175?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "De Grasse, Leduc power Canadian 4x100m relay teams to spots at world championships",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-may-10-andre-de-grasse-aaron-brown-1.7531981?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Sidney Crosby named Canada's captain at hockey worlds",
     "url": "https://www.cbc.ca/sports/hockey/sidney-crosby-team-canada-captain-hockey-worlds-1.7531334?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Andreescu, Fernandez advance at Italian Open, Shapovalov, Mboko eliminated",
-    "url": "https://www.cbc.ca/sports/tennis/italian-open-roundup-may9-1.7531297?cmp=rss",
     "category": "Sports"
   }
 ]
