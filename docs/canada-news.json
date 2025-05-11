@@ -289,7 +289,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Retiring Fleury makes several trademark acrobatic saves for Canada in 7-1 rout of Latvia",
+    "headline": "Retiring Fleury makes several trademark acrobatic saves for Canada in rout of Latvia",
     "url": "https://www.cbc.ca/sports/hockey/hockey-worlds-roundup-may-11-1.7532227?cmp=rss",
     "category": "Sports"
   },
@@ -430,13 +430,6 @@
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "Current Conditions: Mainly Sunny, 16.1°C",
-    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
-    "category": "Weather"
-  },
-  {
-    "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Sunday: Sunny. High 17.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
