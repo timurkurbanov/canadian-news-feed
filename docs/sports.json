@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Watch Canada's track stars compete at the World Athletics Relays",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-live-stream-andre-de-grasse-aaron-brown-1.7530772?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "De Grasse, Leduc power Canadian 4x100m relay teams to spots at world championships",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-may-10-andre-de-grasse-aaron-brown-1.7531981?cmp=rss",
     "category": "Sports"
@@ -18,13 +25,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "How Alex Ovechkin's 1st NHL goal set the stage for record-breaking career",
     "url": "https://www.cbc.ca/sports/hockey/nhl/ovechkin-1st-career-goal-capitals-2025-1.7530258?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Watch Canada's track stars compete at the World Athletics Relays",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-live-stream-andre-de-grasse-aaron-brown-1.7530772?cmp=rss",
     "category": "Sports"
   },
   {
@@ -60,6 +60,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "13-year-old Sask. tennis sensation smashes her way to 3rd national title",
     "url": "https://www.cbc.ca/news/canada/saskatchewan/national-tennis-champion-regina-isabella-ruyu-yan-1.7531088?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "What to watch this weekend in sports",
+    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-lookahead-may-9-1.7530879?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "With 1 year until the franchise tips off, WNBA's Toronto Tempo starting to come together",
     "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-1-year-out-1.7530768?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Instead of travelling to Seattle to watch the Blue Jays, some B.C. baseball fans are staying home",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/blue-jay-mariners-visit-seattle-1.7531776?cmp=rss",
     "category": "Sports"
   }
 ]
