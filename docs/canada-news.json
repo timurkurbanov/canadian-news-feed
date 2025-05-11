@@ -289,13 +289,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Watch Canada's track stars compete at the World Athletics Relays",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-live-stream-andre-de-grasse-aaron-brown-1.7530772?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Golden Knights score with 0.4 seconds left in Game 3 to stun Oilers 4-3",
     "url": "https://www.cbc.ca/sports/hockey/nhl/game-3-oilers-golden-knights-1.7532175?cmp=rss",
     "category": "Sports"
@@ -417,6 +410,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "With 1 year until the franchise tips off, WNBA's Toronto Tempo starting to come together",
     "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-1-year-out-1.7530768?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Instead of travelling to Seattle to watch the Blue Jays, some B.C. baseball fans are staying home",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/blue-jay-mariners-visit-seattle-1.7531776?cmp=rss",
     "category": "Sports"
   },
   {
