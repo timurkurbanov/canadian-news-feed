@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada wins gold, bronze to end World Relays and clinches another spot at athletics worlds",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-recap-may-11-1.7532205?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "How Alex Ovechkin's 1st NHL goal set the stage for record-breaking career",
     "url": "https://www.cbc.ca/sports/hockey/nhl/ovechkin-1st-career-goal-capitals-2025-1.7530258?cmp=rss",
     "category": "Sports"
@@ -53,6 +60,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "13-year-old Sask. tennis sensation smashes her way to 3rd national title",
     "url": "https://www.cbc.ca/news/canada/saskatchewan/national-tennis-champion-regina-isabella-ruyu-yan-1.7531088?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "U.S. blanks newcomer Hungary for 2nd straight shutout at men's hockey worlds",
+    "url": "https://www.cbc.ca/sports/hockey/hockey-worlds-roundup-may-11-1.7532227?cmp=rss",
     "category": "Sports"
   },
   {
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Woman says defence's questions in world junior sex assault trial are an attempt to 'discredit' her",
     "url": "https://www.cbc.ca/9.6754418?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "With 1 year until the franchise tips off, WNBA's Toronto Tempo starting to come together",
-    "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-1-year-out-1.7530768?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Instead of travelling to Seattle to watch the Blue Jays, some B.C. baseball fans are staying home",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/blue-jay-mariners-visit-seattle-1.7531776?cmp=rss",
     "category": "Sports"
   }
 ]
