@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Andreescu defeats Rybakina in straight sets, advances to Italian Open 4th round",
+    "url": "https://www.cbc.ca/sports/tennis/bianca-andreescu-leylah-fernandez-italian-open-roundup-1.7532309?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Golden Knights score with 0.4 seconds left in Game 3 to stun Oilers 4-3",
     "url": "https://www.cbc.ca/sports/hockey/nhl/game-3-oilers-golden-knights-1.7532175?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "FIFA confirms Women's World Cup will increase to 48 teams in 2031",
     "url": "https://www.cbc.ca/sports/soccer/women-world-cup-expanded-field-48-teams-1.7531278?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Woman says defence's questions in world junior sex assault trial are an attempt to 'discredit' her",
-    "url": "https://www.cbc.ca/9.6754418?cmp=rss",
     "category": "Sports"
   }
 ]
