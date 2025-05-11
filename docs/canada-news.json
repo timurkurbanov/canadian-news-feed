@@ -310,8 +310,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "13-year-old Sask. tennis sensation smashes her way to 3rd national title",
-    "url": "https://www.cbc.ca/news/canada/saskatchewan/national-tennis-champion-regina-isabella-ruyu-yan-1.7531088?cmp=rss",
+    "headline": "Women's baseball 'legend' Ayami Sato ready to leave a mark in Canadian men's pro league",
+    "url": "https://www.cbc.ca/sports/baseball/ayami-sato-pitcher-toronto-maple-leafs-intercounty-baseball-league-1.7530548?cmp=rss",
     "category": "Sports"
   },
   {
@@ -326,6 +326,20 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Olympic medallist Josh Liendo focused on busy summer swimming schedule",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/josh-liendo-busy-swimming-season-1.7530177?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'It all starts here': Olympic champion 4x100m relay team begins journey to world championships",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-andre-de-grasse-glenroy-gilbert-preview-1.7524636?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "13-year-old Sask. tennis sensation smashes her way to 3rd national title",
+    "url": "https://www.cbc.ca/news/canada/saskatchewan/national-tennis-champion-regina-isabella-ruyu-yan-1.7531088?cmp=rss",
     "category": "Sports"
   },
   {
@@ -368,20 +382,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Marchand scores in OT, Panthers top Maple Leafs 5-4 to cut series deficit to 2-1",
     "url": "https://www.cbc.ca/news/canada/toronto/maple-leafs-panthers-stanley-cup-game-3-may-9-1.7531473?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Women's baseball 'legend' Ayami Sato ready to leave a mark in Canadian men's pro league",
-    "url": "https://www.cbc.ca/sports/baseball/ayami-sato-pitcher-toronto-maple-leafs-intercounty-baseball-league-1.7530548?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'It all starts here': Olympic champion 4x100m relay team begins journey to world championships",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-andre-de-grasse-glenroy-gilbert-preview-1.7524636?cmp=rss",
     "category": "Sports"
   },
   {
