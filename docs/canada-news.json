@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'No reason to think' Americans want to trigger early CUSMA review, says Dominic LeBlanc",
+    "url": "https://www.cbc.ca/news/politics/no-reason-to-think-americans-want-to-trigger-early-cusma-review-says-dominic-leblanc-1.7532267?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Quebec riding of Terrebonne flips to Liberals after recount shows candidate won by single vote",
     "url": "https://www.cbc.ca/news/politics/terrebone-recount-liberal-1.7532136?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Trump says Trudeau 'wrongly' pushed Russia out of G8 — when Harper was in power",
     "url": "https://www.cbc.ca/news/politics/trump-wrongly-credits-trudeau-russia-g8-removal-1.7528717?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Over 800 special ballots mistakenly kept in B.C. riding, Elections Canada says",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/special-ballots-mistake-elections-canada-1.7529264?cmp=rss",
     "category": "Politics"
   },
   {
@@ -387,7 +387,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Calgary Wild brings in high school students to watch club's first home game on Sunday",
+    "headline": "Calgary Wild bring in high school students to watch club's first home game on Sunday",
     "url": "https://www.cbc.ca/news/canada/calgary/calgary-wild-bring-in-forest-lawn-students-for-club-s-first-home-game-on-sunday-1.7531806?cmp=rss",
     "category": "Sports"
   },
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Sunny, 13.3°C",
+    "headline": "Current Conditions: Mainly Sunny, 14.7°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
