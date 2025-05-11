@@ -282,6 +282,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "How Alex Ovechkin's 1st NHL goal set the stage for record-breaking career",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/ovechkin-1st-career-goal-capitals-2025-1.7530258?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Watch Canada's track stars compete at the World Athletics Relays",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-live-stream-andre-de-grasse-aaron-brown-1.7530772?cmp=rss",
     "category": "Sports"
@@ -298,13 +305,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "De Grasse, Leduc power Canadian 4x100m relay teams to spots at world championships",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-may-10-andre-de-grasse-aaron-brown-1.7531981?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "How Alex Ovechkin's 1st NHL goal set the stage for record-breaking career",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/ovechkin-1st-career-goal-capitals-2025-1.7530258?cmp=rss",
     "category": "Sports"
   },
   {
@@ -422,14 +422,14 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "FROST ADVISORY ENDED, Ottawa",
-    "url": "https://weather.gc.ca/warnings/report_e.html?onrm104",
+    "headline": "No watches or warnings in effect, Ottawa",
+    "url": "https://weather.gc.ca/index_e.html",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Sunny, 5.8°C",
+    "headline": "Current Conditions: Mainly Sunny, 7.4°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
