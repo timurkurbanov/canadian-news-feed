@@ -142,6 +142,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "These Canadian millionaires are asking for tax increases — but just for themselves",
+    "url": "https://www.cbc.ca/news/business/patriotic-millionaires-canada-taxes-1.7530936?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Can machine-grown lettuce help cut Canada's reliance on U.S. greens? This farmer is betting on it",
     "url": "https://www.cbc.ca/news/canada/machine-lettuce-1.7528860?cmp=rss",
     "category": "Business"
@@ -270,13 +277,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Dissident to fight board vote delay in court after Parkland, Sunoco ink $9.1B US deal",
     "url": "https://www.cbc.ca/news/canada/calgary/dissident-to-fight-board-vote-delay-in-court-after-parkland-sunoco-ink-9-1b-us-deal-1.7526406?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "One year after the Trans Mountain Pipeline expansion, why isn't it full?",
-    "url": "https://www.cbc.ca/news/canada/calgary/one-year-after-the-trans-mountain-pipeline-expansion-why-isn-t-it-full-1.7525284?cmp=rss",
     "category": "Business"
   },
   {
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Clear, 4.3°C",
+    "headline": "Current Conditions: Clear, 3.4°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
