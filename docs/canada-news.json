@@ -149,7 +149,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "U.S. and China reach deal to slash tariffs for 90 days",
+    "headline": "U.S. and China agree to slash most tariffs for 90 days",
     "url": "https://www.cbc.ca/news/world/us-china-tariffs-1.7532503?cmp=rss",
     "category": "Business"
   },
@@ -303,6 +303,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada wins gold, bronze to end World Relays and clinches another spot at athletics worlds",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-recap-may-11-1.7532205?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Woman's cross-examination so far in hockey sex assault trial in London, Ont., and what's expected next",
     "url": "https://www.cbc.ca/news/canada/london/hockey-canada-junior-sex-assault-trial-london-ontario-1.7532298?cmp=rss",
     "category": "Sports"
@@ -326,13 +333,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Vancouver Rise, AFC Toronto play to draw in Northern Super League",
     "url": "https://www.cbc.ca/sports/soccer/nsl-roundup-may11-1.7532431?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada wins gold, bronze to end World Relays and clinches another spot at athletics worlds",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-recap-may-11-1.7532205?cmp=rss",
     "category": "Sports"
   },
   {
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Sunny, 7.5°C",
+    "headline": "Current Conditions: Mainly Sunny, 10.7°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
