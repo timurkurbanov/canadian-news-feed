@@ -324,8 +324,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Japan's Ayami Sato becomes first woman to play in Canadian men's pro baseball league",
-    "url": "https://www.cbc.ca/sports/baseball/ayami-sato-toronto-maple-leafs-ibl-debut-1.7532447?cmp=rss",
+    "headline": "Sato pitches 2 perfect innings while making Canadian baseball history in pro men's league",
+    "url": "https://www.cbc.ca/news/canada/toronto/ayami-sato-baseball-pitch-1.7532434?cmp=rss",
     "category": "Sports"
   },
   {
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Sunny, 13.1°C",
+    "headline": "Current Conditions: Partly Cloudy, 16.6°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
