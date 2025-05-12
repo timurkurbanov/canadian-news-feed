@@ -289,6 +289,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Frost ice Sceptres in high-scoring Game 3, moving a win away from PWHL final",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/toronto-sceptres-minnesota-frost-game-3-1.7532470?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Jets grounded in Dallas, Stars win Game 3 to take series lead",
     "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-dallas-stars-playoffs-game-3-1.7532403?cmp=rss",
     "category": "Sports"
@@ -324,22 +331,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Oilers stay with Skinner in net for Game 4 with Pickard still out with injury",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/oilers-skinner-starting-pickard-injury-1.7532357?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Andreescu defeats Rybakina in straight sets, advances to Italian Open 4th round",
     "url": "https://www.cbc.ca/sports/tennis/bianca-andreescu-leylah-fernandez-italian-open-roundup-1.7532309?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Golden Knights score with 0.4 seconds left in Game 3 to stun Oilers, narrow series deficit",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/game-3-oilers-golden-knights-1.7532175?cmp=rss",
     "category": "Sports"
   },
   {
@@ -368,13 +361,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "De Grasse, Leduc power Canadian 4x100m relay teams to spots at world championships",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-may-10-andre-de-grasse-aaron-brown-1.7531981?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Montreal Roses FC, Halifax Tides FC battle to scoreless draw",
-    "url": "https://www.cbc.ca/sports/soccer/nsl-montreak-roses-halifax-tides-may-10-1.7532093?cmp=rss",
     "category": "Sports"
   },
   {
@@ -417,6 +403,20 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada downs Slovenia 4-0 to open world men's hockey championship event",
     "url": "https://www.cbc.ca/sports/hockey/canada-downs-slovenia-mens-hockey-worlds-1.7532045?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Calgary Wild bring in high school students to watch club's first home game on Sunday",
+    "url": "https://www.cbc.ca/news/canada/calgary/calgary-wild-bring-in-forest-lawn-students-for-club-s-first-home-game-on-sunday-1.7531806?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Shutout for Hellebuyck, 2 goals for Ehlers, as Winnipeg Jets even series with Dallas",
+    "url": "https://www.cbc.ca/news/canada/manitoba/jets-stars-game-2-1.7531586?cmp=rss",
     "category": "Sports"
   },
   {
