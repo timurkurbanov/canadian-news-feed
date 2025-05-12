@@ -16,8 +16,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Oilers look to regain momentum as Golden Knights aim to even series in Game 4",
+    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-look-to-regain-momentum-as-golden-knights-aim-to-even-series-in-game-4-1.7532823?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Dubois's goal in 4th OT ends longest game in PWHL history as Victoire level series with Charge",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/montreal-victoire-ottawa-charge-game-2-1.7532439?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada wins gold, bronze to end World Relays and clinches another spot at athletics worlds",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-recap-may-11-1.7532205?cmp=rss",
     "category": "Sports"
   },
   {
@@ -32,13 +46,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Frost ice Sceptres in high-scoring Game 3, moving a win away from PWHL final",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/toronto-sceptres-minnesota-frost-game-3-1.7532470?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada wins gold, bronze to end World Relays and clinches another spot at athletics worlds",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-recap-may-11-1.7532205?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What to watch this weekend in sports",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-lookahead-may-9-1.7530879?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian Felix Auger-Aliassime withdraws from Italian Open tennis tournament",
-    "url": "https://www.cbc.ca/sports/tennis/canada-felix-auger-aliassime-withdraws-italian-open-1.7532073?cmp=rss",
     "category": "Sports"
   }
 ]
