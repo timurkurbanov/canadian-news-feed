@@ -142,6 +142,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Several conferences relocate north of the border as Canadians refuse to travel to the U.S.",
+    "url": "https://www.cbc.ca/news/business/conference-us-travel-1.7531255?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "These Canadian millionaires want higher taxes on the rich. Not everyone in their income bracket is so eager",
     "url": "https://www.cbc.ca/news/business/patriotic-millionaires-canada-taxes-1.7530936?cmp=rss",
     "category": "Business"
@@ -275,13 +282,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Dissident to fight board vote delay in court after Parkland, Sunoco ink $9.1B US deal",
-    "url": "https://www.cbc.ca/news/canada/calgary/dissident-to-fight-board-vote-delay-in-court-after-parkland-sunoco-ink-9-1b-us-deal-1.7526406?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Bobrovsky stops 23 shots, Panthers top Maple Leafs 2-0 in Game 4 and tie series at 2 games apiece",
     "url": "https://www.cbc.ca/news/canada/toronto/maple-leafs-panthers-stanley-cup-game-4-may-11-1.7532368?cmp=rss",
     "category": "Sports"
@@ -298,6 +298,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Frost ice Sceptres in high-scoring Game 3, moving a win away from PWHL final",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/toronto-sceptres-minnesota-frost-game-3-1.7532470?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Woman's cross-examination so far in hockey sex assault trial in London, Ont., and what's expected next",
+    "url": "https://www.cbc.ca/news/canada/london/hockey-canada-junior-sex-assault-trial-london-ontario-1.7532298?cmp=rss",
     "category": "Sports"
   },
   {
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Calgary Wild bring in high school students to watch club's first home game on Sunday",
-    "url": "https://www.cbc.ca/news/canada/calgary/calgary-wild-bring-in-forest-lawn-students-for-club-s-first-home-game-on-sunday-1.7531806?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 8.5°C",
+    "headline": "Current Conditions: Mostly Cloudy, 8.2°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
