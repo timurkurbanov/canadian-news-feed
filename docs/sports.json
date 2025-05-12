@@ -2,8 +2,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Dubois' goal in 4th OT ends longest game in PWHL history as Victoire level series with Charge",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/montreal-victoire-ottawa-charge-game-2-1.7532439?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Japan's Ayami Sato becomes first woman to play in Canadian men's pro baseball league",
     "url": "https://www.cbc.ca/sports/baseball/ayami-sato-toronto-maple-leafs-ibl-debut-1.7532447?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Jets grounded in Dallas, Stars win Game 3 to take series lead",
+    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-dallas-stars-playoffs-game-3-1.7532403?cmp=rss",
     "category": "Sports"
   },
   {
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada downs Slovenia 4-0 to open world men's hockey championship event",
     "url": "https://www.cbc.ca/sports/hockey/canada-downs-slovenia-mens-hockey-worlds-1.7532045?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Calgary Wild bring in high school students to watch club's first home game on Sunday",
-    "url": "https://www.cbc.ca/news/canada/calgary/calgary-wild-bring-in-forest-lawn-students-for-club-s-first-home-game-on-sunday-1.7531806?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Shutout for Hellebuyck, 2 goals for Ehlers, as Winnipeg Jets even series with Dallas",
-    "url": "https://www.cbc.ca/news/canada/manitoba/jets-stars-game-2-1.7531586?cmp=rss",
     "category": "Sports"
   }
 ]
