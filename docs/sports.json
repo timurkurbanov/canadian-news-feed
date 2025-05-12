@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Bobrovsky stops 23 shots, Panthers top Maple Leafs 2-0 in Game 4 and tie series at 2 games apiece",
+    "url": "https://www.cbc.ca/news/canada/toronto/maple-leafs-panthers-stanley-cup-game-4-may-11-1.7532368?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Dubois' goal in 4th OT ends longest game in PWHL history as Victoire level series with Charge",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/montreal-victoire-ottawa-charge-game-2-1.7532439?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Calgary Wild bring in high school students to watch club's first home game on Sunday",
     "url": "https://www.cbc.ca/news/canada/calgary/calgary-wild-bring-in-forest-lawn-students-for-club-s-first-home-game-on-sunday-1.7531806?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Shutout for Hellebuyck, 2 goals for Ehlers, as Winnipeg Jets even series with Dallas",
-    "url": "https://www.cbc.ca/news/canada/manitoba/jets-stars-game-2-1.7531586?cmp=rss",
     "category": "Sports"
   }
 ]

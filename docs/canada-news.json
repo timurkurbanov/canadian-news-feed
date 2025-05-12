@@ -282,6 +282,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Bobrovsky stops 23 shots, Panthers top Maple Leafs 2-0 in Game 4 and tie series at 2 games apiece",
+    "url": "https://www.cbc.ca/news/canada/toronto/maple-leafs-panthers-stanley-cup-game-4-may-11-1.7532368?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Dubois' goal in 4th OT ends longest game in PWHL history as Victoire level series with Charge",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/montreal-victoire-ottawa-charge-game-2-1.7532439?cmp=rss",
     "category": "Sports"
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Shutout for Hellebuyck, 2 goals for Ehlers, as Winnipeg Jets even series with Dallas",
-    "url": "https://www.cbc.ca/news/canada/manitoba/jets-stars-game-2-1.7531586?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Clear, 11.4°C",
+    "headline": "Current Conditions: Mostly Cloudy, 11.8°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
