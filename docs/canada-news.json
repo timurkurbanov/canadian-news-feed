@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "First Nations leaders want drinking water bill within 100 days of Parliament's return",
+    "url": "https://www.cbc.ca/news/politics/indigenous-leaders-priorities-100-days-1.7532748?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian-resident return trips from the U.S. drop again for April, StatsCan data shows",
     "url": "https://www.cbc.ca/news/business/canada-travel-april-1.7532552?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre reaches out to Ontario premier after Conservative election loss",
     "url": "https://www.cbc.ca/news/politics/poilievre-ford-outreach-1.7528941?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney to meet premiers in Saskatchewan June 2 amid tensions with the West",
-    "url": "https://www.cbc.ca/news/politics/carney-premiers-saskatchewan-1.7528852?cmp=rss",
     "category": "Politics"
   },
   {
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Sunny, 22.4°C",
+    "headline": "Current Conditions: Mainly Sunny, 24.1°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
