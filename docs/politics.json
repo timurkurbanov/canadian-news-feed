@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Bloc candidate who lost by 1 vote considering 'all options' after report of ballot problem",
+    "url": "https://www.cbc.ca/news/politics/bloc-candidate-terrebonne-considering-options-mail-ballot-1.7534162?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Prime Minister Carney unveils major cabinet overhaul with two dozen new faces",
     "url": "https://www.cbc.ca/news/politics/carney-cabinet-revealed-today-1.7532951?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Conservative fundraising email suggests Liberals trying to 'tip the scales' in recounts",
     "url": "https://www.cbc.ca/news/politics/conservative-email-liberals-tip-scale-1.7529740?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Retired army colonel fined, reprimanded for insulting British senior officer",
-    "url": "https://www.cbc.ca/news/politics/court-marshall-insults-british-officer-1.7530530?cmp=rss",
     "category": "Politics"
   }
 ]
