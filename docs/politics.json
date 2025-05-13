@@ -2,6 +2,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Prime Minister Carney to unveil his cabinet Tuesday — and many new faces are expected",
+    "url": "https://www.cbc.ca/news/politics/carney-cabinet-revealed-today-1.7532951?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Liberals won Terrebonne, Que., riding by 1 vote — but this woman's Bloc ballot wasn't counted",
+    "url": "https://www.cbc.ca/news/canada/montreal/elections-canada-investigating-terrebonne-1.7533228?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Official recounts are underway in close ridings. Here's how they work",
     "url": "https://www.cbc.ca/news/politics/how-dow-official-recounts-work-elections-in-canada-1.7533115?cmp=rss",
     "category": "Politics"
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "NDP faces 'Parliament from hell' without official party status, says former MP",
     "url": "https://www.cbc.ca/news/politics/ndp-parliament-from-hell-svend-robinson-1.7529822?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "What Trump and Carney discussed over lunch in Washington, according to a senior official",
-    "url": "https://www.cbc.ca/news/politics/trump-carney-washington-lunch-1.7528773?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Scheer doesn't seem keen to move into Stornoway, but says talks are 'ongoing'",
-    "url": "https://www.cbc.ca/news/politics/andrew-scheer-pierre-poilievre-stornoway-talks-official-opposition-1.7529175?cmp=rss",
     "category": "Politics"
   }
 ]
