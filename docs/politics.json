@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney shows 10 ministers from his first cabinet the door",
+    "url": "https://www.cbc.ca/news/politics/carney-drops-ten-former-ministers-from-new-cabinet-1.7533668?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Liberals won Terrebonne, Que., riding by 1 vote — but this woman's Bloc ballot wasn't counted",
     "url": "https://www.cbc.ca/news/canada/montreal/elections-canada-investigating-terrebonne-1.7533228?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney's campaign made big promises for AI. Will his government deliver?",
     "url": "https://www.cbc.ca/news/politics/carney-artificial-intelligence-1.7529251?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Smith says sovereignty referendum provides 'outlet' to avoid creation of new party",
-    "url": "https://www.cbc.ca/news/canada/calgary/smith-says-sovereignty-referendum-provides-outlet-to-avoid-creation-of-new-party-1.7530218?cmp=rss",
     "category": "Politics"
   }
 ]
