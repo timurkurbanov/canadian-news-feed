@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Here are the new faces in Prime Minister Carney's cabinet",
+    "url": "https://www.cbc.ca/news/politics/new-members-carney-cabinet-1.7533922?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Prime Minister Carney unveils major cabinet overhaul with two dozen new faces",
     "url": "https://www.cbc.ca/news/politics/carney-cabinet-revealed-today-1.7532951?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Retired army colonel fined, reprimanded for insulting British senior officer",
     "url": "https://www.cbc.ca/news/politics/court-marshall-insults-british-officer-1.7530530?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney's campaign made big promises for AI. Will his government deliver?",
-    "url": "https://www.cbc.ca/news/politics/carney-artificial-intelligence-1.7529251?cmp=rss",
     "category": "Politics"
   },
   {
@@ -289,7 +289,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "MLB reinstates Pete Rose and Shoeless Joe Jackson, making them Hall of Fame eligible",
+    "headline": "MLB reinstates Pete Rose and Shoeless Joe Jackson, making them eligible for Hall of Fame",
     "url": "https://www.cbc.ca/sports/baseball/mlb/pete-rose-shoeless-joe-jackson-reinstated-eligible-for-hall-of-fame-1.7534097?cmp=rss",
     "category": "Sports"
   },
@@ -303,7 +303,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Defence suggests woman wasn't as drunk as she says on night of alleged assaults",
+    "headline": "Cross-examinations done after tense day at sex assault trial of ex-world junior hockey players",
     "url": "https://www.cbc.ca/9.6758374?cmp=rss",
     "category": "Sports"
   },
@@ -319,6 +319,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "FIFA's recognition of Afghanistan women's soccer team doesn't go far enough",
     "url": "https://www.cbc.ca/sports/soccer/opinion-shireen-ahmed-afghanistan-women-soccer-may13-1.7532742?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "CBC Sports' Shireen Ahmed awarded 2nd place in international sports column writing",
+    "url": "https://www.cbc.ca/sports/shireen-ahmed-aips-column-writing-award-1.7534039?cmp=rss",
     "category": "Sports"
   },
   {
@@ -410,13 +417,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Frost ice Sceptres in high-scoring Game 3, moving a win away from PWHL final",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/toronto-sceptres-minnesota-frost-game-3-1.7532470?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Jets grounded in Dallas, Stars win Game 3 to take series lead",
-    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-dallas-stars-playoffs-game-3-1.7532403?cmp=rss",
     "category": "Sports"
   },
   {
