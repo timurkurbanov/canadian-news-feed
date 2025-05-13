@@ -51,6 +51,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Crosby flashes superstar skill, Horvat scores twice as Canada beats France",
+    "url": "https://www.cbc.ca/sports/hockey/canada-france-hockey-worlds-roundup-may-12-1.7534339?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Cross-examinations wrap after tense day at sex assault trial of ex-world junior hockey players",
     "url": "https://www.cbc.ca/9.6758374?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Dubois's goal in 4th OT ends longest game in PWHL history as Victoire level series with Charge",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/montreal-victoire-ottawa-charge-game-2-1.7532439?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Maple Leafs' Domi fined $5,000 US for late hit on Panthers captain Barkov",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/max-domi-fine-1.7532766?cmp=rss",
     "category": "Sports"
   }
 ]
