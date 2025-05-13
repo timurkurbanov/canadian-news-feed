@@ -23,6 +23,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Mandy Gull-Masty becomes 1st Indigenous head of Indigenous Services Canada",
+    "url": "https://www.cbc.ca/news/indigenous/mandy-gull-masty-indigenous-services-minister-1.7533691?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Prime Minister Carney to attend Pope Leo's inaugural mass",
+    "url": "https://www.cbc.ca/news/politics/mark-carney-pope-leo-1.7534261?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney shows 10 ministers from his first cabinet the door",
     "url": "https://www.cbc.ca/news/politics/carney-drops-ten-former-ministers-from-new-cabinet-1.7533668?cmp=rss",
     "category": "Politics"
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Misinformation about Poilievre's election loss persists. Here are the facts",
     "url": "https://www.cbc.ca/news/poilievre-election-loss-fact-check-1.7531263?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Will Danielle Smith steer Alberta away from separation, or will this train keep gathering steam?",
-    "url": "https://www.cbc.ca/news/canada/calgary/danielle-smith-separatism-demands-ottawa-analysis-1.7530569?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Is the promise of military icebreakers political theatre or sensible policy?",
-    "url": "https://www.cbc.ca/news/politics/icebreakers-arctic-election-promises-1.7530018?cmp=rss",
     "category": "Politics"
   }
 ]
