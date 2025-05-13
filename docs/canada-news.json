@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "MPs arriving at Rideau Hall to be sworn into Carney's cabinet",
+    "url": "https://www.cbc.ca/news/politics/livestory/mps-arriving-at-rideau-hall-to-be-sworn-into-carney-s-cabinet-9.6758258?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Prime Minister Carney to announce major cabinet shakeup Tuesday with many new faces going in",
     "url": "https://www.cbc.ca/news/politics/carney-cabinet-revealed-today-1.7532951?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Smith says sovereignty referendum provides 'outlet' to avoid creation of new party",
     "url": "https://www.cbc.ca/news/canada/calgary/smith-says-sovereignty-referendum-provides-outlet-to-avoid-creation-of-new-party-1.7530218?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "NDP faces 'Parliament from hell' without official party status, says former MP",
-    "url": "https://www.cbc.ca/news/politics/ndp-parliament-from-hell-svend-robinson-1.7529822?cmp=rss",
     "category": "Politics"
   },
   {
@@ -317,13 +317,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Oilers look to regain momentum as Golden Knights aim to even series in Game 4",
-    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-look-to-regain-momentum-as-golden-knights-aim-to-even-series-in-game-4-1.7532823?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "'Maybe my last chance': Andreescu attacks latest comeback with sense of urgency",
     "url": "https://www.cbc.ca/sports/tennis/bianca-andreescu-italian-open-fourth-round-loss-rome-1.7532976?cmp=rss",
     "category": "Sports"
@@ -417,6 +410,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "How Alex Ovechkin's 1st NHL goal set the stage for record-breaking career",
     "url": "https://www.cbc.ca/sports/hockey/nhl/ovechkin-1st-career-goal-capitals-2025-1.7530258?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "De Grasse, Leduc power Canadian 4x100m relay teams to spots at world championships",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-may-10-andre-de-grasse-aaron-brown-1.7531981?cmp=rss",
     "category": "Sports"
   },
   {

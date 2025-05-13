@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "MPs arriving at Rideau Hall to be sworn into Carney's cabinet",
+    "url": "https://www.cbc.ca/news/politics/livestory/mps-arriving-at-rideau-hall-to-be-sworn-into-carney-s-cabinet-9.6758258?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Prime Minister Carney to announce major cabinet shakeup Tuesday with many new faces going in",
     "url": "https://www.cbc.ca/news/politics/carney-cabinet-revealed-today-1.7532951?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Smith says sovereignty referendum provides 'outlet' to avoid creation of new party",
     "url": "https://www.cbc.ca/news/canada/calgary/smith-says-sovereignty-referendum-provides-outlet-to-avoid-creation-of-new-party-1.7530218?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "NDP faces 'Parliament from hell' without official party status, says former MP",
-    "url": "https://www.cbc.ca/news/politics/ndp-parliament-from-hell-svend-robinson-1.7529822?cmp=rss",
     "category": "Politics"
   }
 ]
