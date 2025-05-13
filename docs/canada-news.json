@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Mark Carney unveils his crisis cabinet",
+    "url": "https://www.cbc.ca/news/politics/carney-cabinet-crisis-analysis-1.7534209?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Prime Minister Carney unveils major cabinet overhaul with two dozen new faces",
     "url": "https://www.cbc.ca/news/politics/carney-cabinet-revealed-today-1.7532951?cmp=rss",
     "category": "Politics"
@@ -16,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney shows 10 ministers from his first cabinet the door",
+    "url": "https://www.cbc.ca/news/politics/carney-drops-ten-former-ministers-from-new-cabinet-1.7533668?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "RECAP | Carney unveils smaller, focused cabinet with mix of veteran MPs, new faces, and several role changes",
     "url": "https://www.cbc.ca/news/politics/livestory/recap-carney-unveils-smaller-focused-cabinet-with-mix-of-veteran-mps-new-faces-and-several-role-changes-9.6758258?cmp=rss",
     "category": "Politics"
@@ -25,13 +39,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Bloc candidate who lost by 1 vote considering 'all options' after report of ballot problem",
     "url": "https://www.cbc.ca/news/politics/bloc-candidate-terrebonne-considering-options-mail-ballot-1.7534162?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney shows 10 ministers from his first cabinet the door",
-    "url": "https://www.cbc.ca/news/politics/carney-drops-ten-former-ministers-from-new-cabinet-1.7533668?cmp=rss",
     "category": "Politics"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Is the promise of military icebreakers political theatre or sensible policy?",
     "url": "https://www.cbc.ca/news/politics/icebreakers-arctic-election-promises-1.7530018?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Conservative fundraising email suggests Liberals trying to 'tip the scales' in recounts",
-    "url": "https://www.cbc.ca/news/politics/conservative-email-liberals-tip-scale-1.7529740?cmp=rss",
     "category": "Politics"
   },
   {
@@ -303,6 +303,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Tatum undergoes season-ending Achilles surgery, dealing blow to Celtics' repeat hopes",
+    "url": "https://www.cbc.ca/sports/basketball/nba/celtics-jayson-tatum-achilles-surgery-1.7534298?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian media star Lilly Singh joins Toronto Tempo ownership group",
     "url": "https://www.cbc.ca/sports/basketball/youtuber-lilly-singh-toronto-tempo-ownership-1.7533161?cmp=rss",
     "category": "Sports"
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Frost ice Sceptres in high-scoring Game 3, moving a win away from PWHL final",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/toronto-sceptres-minnesota-frost-game-3-1.7532470?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 26.1°C",
+    "headline": "Current Conditions: Mostly Cloudy, 24.5°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
