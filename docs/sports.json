@@ -23,7 +23,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "NHL suspends Panthers vice chairman Doug Cifu over 'inappropriate' comments on social media",
+    "headline": "NHL suspends Panthers vice chairman over 'inappropriate' comments to Leafs fan on social media",
     "url": "https://www.cbc.ca/sports/hockey/nhl/panthers-vice-chairman-nhl-suspended-over-social-media-comments-1.7533706?cmp=rss",
     "category": "Sports"
   },
@@ -32,6 +32,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Cycling champion Bradley Wiggins says he was a cocaine addict and is 'lucky' to be alive",
     "url": "https://www.cbc.ca/sports/olympics/summer/cycling/bradley-wiggins-cyclist-cocaine-addict-1.7533502?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Only 4 Russian figure skaters approved for 2026 Olympic qualification event as neutrals",
+    "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/4-russians-olympic-qualification-event-neutrals-1.7533757?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Andreescu defeats Rybakina in straight sets, advances to Italian Open 4th round",
     "url": "https://www.cbc.ca/sports/tennis/bianca-andreescu-leylah-fernandez-italian-open-roundup-1.7532309?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Women's baseball 'legend' Ayami Sato ready to leave a mark in Canadian men's pro league",
-    "url": "https://www.cbc.ca/sports/baseball/ayami-sato-pitcher-toronto-maple-leafs-intercounty-baseball-league-1.7530548?cmp=rss",
     "category": "Sports"
   }
 ]
