@@ -37,6 +37,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "With 1 year until the franchise tips off, WNBA's Toronto Tempo starting to come together",
+    "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-1-year-out-1.7530768?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadian media star Lilly Singh joins Toronto Tempo ownership group",
+    "url": "https://www.cbc.ca/sports/basketball/youtuber-lilly-singh-toronto-tempo-ownership-1.7533161?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Marathoners headline initial Canadian squad for World Athletics Championships in Tokyo",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/canada-marathon-roster-world-athletics-championships-tokyo-1.7534310?cmp=rss",
     "category": "Sports"
@@ -60,13 +74,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Rory McIlroy goes for back-to-back majors at the PGA Championship",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-rory-mcilroy-pga-championship-1.7534054?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian media star Lilly Singh joins Toronto Tempo ownership group",
-    "url": "https://www.cbc.ca/sports/basketball/youtuber-lilly-singh-toronto-tempo-ownership-1.7533161?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Cycling champion Bradley Wiggins says he was a cocaine addict and is 'lucky' to be alive",
     "url": "https://www.cbc.ca/sports/olympics/summer/cycling/bradley-wiggins-cyclist-cocaine-addict-1.7533502?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Only 4 Russian figure skaters approved for 2026 Olympic qualification event as neutrals",
-    "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/4-russians-olympic-qualification-event-neutrals-1.7533757?cmp=rss",
     "category": "Sports"
   }
 ]
