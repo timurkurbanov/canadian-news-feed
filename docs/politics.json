@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "CBC/Radio-Canada to scrap much-maligned 'performance pay' for managers",
+    "url": "https://www.cbc.ca/news/politics/cbc-scraps-performance-pay-1.7535175?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney's cabinet meets for the first time as it stares down a pile of problems",
     "url": "https://www.cbc.ca/news/politics/carney-cabinet-meets-first-time-1.7534707?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "'No reason to think' Americans want to trigger early CUSMA review, says Dominic LeBlanc",
     "url": "https://www.cbc.ca/news/politics/no-reason-to-think-americans-want-to-trigger-early-cusma-review-says-dominic-leblanc-1.7532267?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Quebec riding of Terrebonne flips to Liberals after recount shows candidate won by single vote",
-    "url": "https://www.cbc.ca/news/politics/terrebone-recount-liberal-1.7532136?cmp=rss",
     "category": "Politics"
   }
 ]
