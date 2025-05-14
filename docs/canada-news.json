@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney says Canadians 'weren't impressed' by U.K.'s offer of second state visit to Trump",
+    "url": "https://www.cbc.ca/news/politics/canadians-unimpressed-state-visit-trump-1.7534490?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Mark Carney unveils his crisis cabinet",
     "url": "https://www.cbc.ca/news/politics/carney-cabinet-crisis-analysis-1.7534209?cmp=rss",
     "category": "Politics"
@@ -135,9 +142,9 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Misinformation about Poilievre's election loss persists. Here are the facts",
-    "url": "https://www.cbc.ca/news/poilievre-election-loss-fact-check-1.7531263?cmp=rss",
-    "category": "Politics"
+    "headline": "GM, LG Energy Solution to make new, lower-cost battery cells for future EVs",
+    "url": "https://www.cbc.ca/news/canada/windsor/gm-lg-low-cost-battery-cells-evs-1.7534487?cmp=rss",
+    "category": "Business"
   },
   {
     "source": "cbc",
@@ -270,13 +277,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "After Trump vows tariffs on foreign movies, the Canadian film industry says he's lost the plot",
     "url": "https://www.cbc.ca/news/business/trump-us-film-industry-tariffs-1.7526419?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's trade deficit narrows to $506M in March, driven by slump in U.S. imports",
-    "url": "https://www.cbc.ca/news/business/canada-trade-deficit-march-1.7527457?cmp=rss",
     "category": "Business"
   },
   {
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Sunny, 16.1°C",
+    "headline": "Current Conditions: Mainly Sunny, 19.1°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

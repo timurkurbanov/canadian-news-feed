@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney says Canadians 'weren't impressed' by U.K.'s offer of second state visit to Trump",
+    "url": "https://www.cbc.ca/news/politics/canadians-unimpressed-state-visit-trump-1.7534490?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Mark Carney unveils his crisis cabinet",
     "url": "https://www.cbc.ca/news/politics/carney-cabinet-crisis-analysis-1.7534209?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "NDP not seeking 'quid pro quo' with Liberals for party status, interim leader says",
     "url": "https://www.cbc.ca/news/politics/ndp-party-status-liberal-conservative-agreement-negotiations-1.7531523?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Misinformation about Poilievre's election loss persists. Here are the facts",
-    "url": "https://www.cbc.ca/news/poilievre-election-loss-fact-check-1.7531263?cmp=rss",
     "category": "Politics"
   }
 ]
