@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Granlund notches hat trick as Stars take stranglehold on series with 3-1 win over Jets",
+    "url": "https://www.cbc.ca/news/canada/manitoba/jets-stars-game-4-1.7534038?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Phillips records 1st playoff shutout as Charge beat Victoire, taking control of semifinal series",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/montreal-victoire-ottawa-charge-game-3-1.7534087?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "'Maybe my last chance': Andreescu attacks latest comeback with sense of urgency",
     "url": "https://www.cbc.ca/sports/tennis/bianca-andreescu-italian-open-fourth-round-loss-rome-1.7532976?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Bobrovsky stops 23 shots, Panthers top Maple Leafs 2-0 in Game 4 and tie series at 2 games apiece",
-    "url": "https://www.cbc.ca/news/canada/toronto/maple-leafs-panthers-stanley-cup-game-4-may-11-1.7532368?cmp=rss",
     "category": "Sports"
   }
 ]
