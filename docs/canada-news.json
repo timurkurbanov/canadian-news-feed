@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney's cabinet meets for the first time as it stares down a pile of problems",
+    "url": "https://www.cbc.ca/news/politics/carney-cabinet-meets-first-time-1.7534707?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney says Canadians 'weren't impressed' by U.K.'s offer of second state visit to Trump",
     "url": "https://www.cbc.ca/news/politics/canadians-unimpressed-state-visit-trump-1.7534490?cmp=rss",
     "category": "Politics"
@@ -135,9 +142,9 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "NDP not seeking 'quid pro quo' with Liberals for party status, interim leader says",
-    "url": "https://www.cbc.ca/news/politics/ndp-party-status-liberal-conservative-agreement-negotiations-1.7531523?cmp=rss",
-    "category": "Politics"
+    "headline": "Ontario, Manitoba agree to boost interprovincial trade, facing U.S. tariff crunch",
+    "url": "https://www.cbc.ca/news/canada/toronto/ontario-manitoba-trade-interprovincial-agreement-1.7534660?cmp=rss",
+    "category": "Business"
   },
   {
     "source": "cbc",
@@ -275,22 +282,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "After Trump vows tariffs on foreign movies, the Canadian film industry says he's lost the plot",
-    "url": "https://www.cbc.ca/news/business/trump-us-film-industry-tariffs-1.7526419?cmp=rss",
-    "category": "Business"
+    "headline": "PWHL players, GMs waiting to hear how expansion draft will affect existing teams",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-expansion-awaiitng-details-2025-1.7533867?cmp=rss",
+    "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Athletes' injury risk altered by menstrual cycle, research indicates",
     "url": "https://www.cbc.ca/sports/women-athletes-sports-injuries-1.7529929?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Angel City's Savy King has heart surgery following on-field collapse",
-    "url": "https://www.cbc.ca/sports/soccer/savy-king-nwsl-heart-surgery-1.7534669?cmp=rss",
     "category": "Sports"
   },
   {
@@ -303,6 +303,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Marathoners headline initial Canadian squad for World Athletics Championships in Tokyo",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/canada-marathon-roster-world-athletics-championships-tokyo-1.7534310?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "World No. 1 Jannik Sinner gives tennis fan Pope Leo XIV racket at Italian Open",
     "url": "https://www.cbc.ca/sports/tennis/jannik-sinner-pope-leo-meeting-vatican-city-italian-open-1.7534692?cmp=rss",
     "category": "Sports"
@@ -310,8 +317,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Marathoners headline initial Canadian squad for World Athletics Championships in Tokyo",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/canada-marathon-roster-world-athletics-championships-tokyo-1.7534310?cmp=rss",
+    "headline": "Angel City's Savy King has heart surgery following on-field collapse",
+    "url": "https://www.cbc.ca/sports/soccer/savy-king-nwsl-heart-surgery-1.7534669?cmp=rss",
     "category": "Sports"
   },
   {
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Cross-examinations wrap after tense day at sex assault trial of ex-world junior hockey players",
-    "url": "https://www.cbc.ca/9.6758374?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 22.3°C",
+    "headline": "Current Conditions: Mostly Cloudy, 23.1°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
