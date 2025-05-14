@@ -37,13 +37,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Watch Canada's Alysha Newman, Aaron Brown compete at Doha Diamond League",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-diamond-league-doha-continental-tour-seiko-golden-1.7528624?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Marathoners headline initial Canadian squad for World Athletics Championships in Tokyo",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/canada-marathon-roster-world-athletics-championships-tokyo-1.7534310?cmp=rss",
     "category": "Sports"
@@ -67,6 +60,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian media star Lilly Singh joins Toronto Tempo ownership group",
     "url": "https://www.cbc.ca/sports/basketball/youtuber-lilly-singh-toronto-tempo-ownership-1.7533161?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Watch Canada's Alysha Newman, Aaron Brown compete at Doha Diamond League",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-diamond-league-doha-continental-tour-seiko-golden-1.7528624?cmp=rss",
     "category": "Sports"
   },
   {
