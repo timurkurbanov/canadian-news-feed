@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Athletes' injury risk altered by menstrual cycle, research indicates",
+    "url": "https://www.cbc.ca/sports/women-athletes-sports-injuries-1.7529929?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Granlund notches hat trick as Stars take stranglehold on series with 3-1 win over Jets",
     "url": "https://www.cbc.ca/news/canada/manitoba/jets-stars-game-4-1.7534038?cmp=rss",
     "category": "Sports"
@@ -30,8 +37,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Watch Canada's Alysha Newman, Aaron Brown compete at Doha Diamond League",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-diamond-league-doha-continental-tour-seiko-golden-1.7528624?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Marathoners headline initial Canadian squad for World Athletics Championships in Tokyo",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/canada-marathon-roster-world-athletics-championships-tokyo-1.7534310?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "A Toronto Maple Leafs bandwagoner's guide for a pivotal Game 5 showdown with Florida",
+    "url": "https://www.cbc.ca/news/canada/toronto/toronto-maple-leafs-florida-panthers-game-5-1.7533750?cmp=rss",
     "category": "Sports"
   },
   {
@@ -116,27 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PWHL playoff notebook: Montreal Victoire in the driver's seat after 4OT win",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-notebook-may12-2025-semifinals-1.7533051?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Stuart Skinner's first playoff win this season a 3-0 shutout for Edmonton Oilers",
-    "url": "https://www.cbc.ca/news/canada/edmonton/stuart-skinner-s-first-playoff-win-this-season-a-3-0-shutout-for-edmonton-oilers-1.7533432?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Raptors slip to 9th in NBA draft lottery; Mavericks win top pick with 1.8 per cent odds",
-    "url": "https://www.cbc.ca/sports/basketball/nba/nba-draft-lottery-raptors-1.7533229?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'Maybe my last chance': Andreescu attacks latest comeback with sense of urgency",
-    "url": "https://www.cbc.ca/sports/tennis/bianca-andreescu-italian-open-fourth-round-loss-rome-1.7532976?cmp=rss",
     "category": "Sports"
   }
 ]
