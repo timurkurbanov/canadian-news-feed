@@ -289,6 +289,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Crown re-questions woman in sex assault trial of ex-world junior hockey players after marathon cross-exams",
+    "url": "https://www.cbc.ca/9.6759988?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Granlund notches hat trick as Stars take stranglehold on series with 3-1 win over Jets",
     "url": "https://www.cbc.ca/news/canada/manitoba/jets-stars-game-4-1.7534038?cmp=rss",
     "category": "Sports"
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Cycling champion Bradley Wiggins says he was a cocaine addict and is 'lucky' to be alive",
-    "url": "https://www.cbc.ca/sports/olympics/summer/cycling/bradley-wiggins-cyclist-cocaine-addict-1.7533502?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Partly Cloudy, 21.0°C",
+    "headline": "Current Conditions: Mostly Cloudy, 22.3°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
