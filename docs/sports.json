@@ -51,6 +51,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Former cycling world champ Dennis receives suspended sentence after death of Olympian wife Hoskins",
+    "url": "https://www.cbc.ca/sports/olympics/summer/cycling/rohan-dennis-suspended-sentence-melissa-hoskins-1.7534495?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Rory McIlroy goes for back-to-back majors at the PGA Championship",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-rory-mcilroy-pga-championship-1.7534054?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Only 4 Russian figure skaters approved for 2026 Olympic qualification event as neutrals",
     "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/4-russians-olympic-qualification-event-neutrals-1.7533757?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "PWHL playoff notebook: Montreal Victoire in the driver's seat after 4OT win",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-notebook-may12-2025-semifinals-1.7533051?cmp=rss",
     "category": "Sports"
   }
 ]
