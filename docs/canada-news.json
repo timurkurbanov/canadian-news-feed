@@ -317,6 +317,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Tage Thompson OT hero for U.S. at hockey worlds after it blew 4-goal lead against Norway",
+    "url": "https://www.cbc.ca/sports/hockey/united-states-norway-recap-hockey-worlds-roundup-may-14-1.7535032?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Marie-Philip Poulin, Sarah Fillier, Hilary Knight in mix for PWHL forward of the year",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-forward-of-the-year-finalists-poulin-fillier-knight-1.7534853?cmp=rss",
     "category": "Sports"
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "CBC Sports' Shireen Ahmed awarded 2nd place in international sports column writing",
-    "url": "https://www.cbc.ca/sports/shireen-ahmed-aips-column-writing-award-1.7534039?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 23.9°C",
+    "headline": "Current Conditions: Mostly Cloudy, 23.8°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
