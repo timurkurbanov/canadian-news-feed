@@ -2,8 +2,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Phillips records 1st playoff shutout as Charge beat Victoire, taking control of semifinal series",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/montreal-victoire-ottawa-charge-game-3-1.7534087?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "MLB reinstates Pete Rose and Shoeless Joe Jackson, making them eligible for Hall of Fame",
     "url": "https://www.cbc.ca/sports/baseball/mlb/pete-rose-shoeless-joe-jackson-reinstated-eligible-for-hall-of-fame-1.7534097?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "4-time Olympic medallist Adam van Koeverden to oversee sport in PM Carney's new cabinet",
+    "url": "https://www.cbc.ca/sports/adam-van-koeverden-secretary-of-state-sport-mark-carney-cabinet-1.7533796?cmp=rss",
     "category": "Sports"
   },
   {
@@ -23,8 +37,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "4-time Olympic medallist Adam van Koeverden to oversee sport in PM Carney's new cabinet",
-    "url": "https://www.cbc.ca/sports/adam-van-koeverden-secretary-of-state-sport-mark-carney-cabinet-1.7533796?cmp=rss",
+    "headline": "Canadian media star Lilly Singh joins Toronto Tempo ownership group",
+    "url": "https://www.cbc.ca/sports/basketball/youtuber-lilly-singh-toronto-tempo-ownership-1.7533161?cmp=rss",
     "category": "Sports"
   },
   {
@@ -32,13 +46,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Tatum undergoes season-ending Achilles surgery, dealing blow to Celtics' repeat hopes",
     "url": "https://www.cbc.ca/sports/basketball/nba/celtics-jayson-tatum-achilles-surgery-1.7534298?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian media star Lilly Singh joins Toronto Tempo ownership group",
-    "url": "https://www.cbc.ca/sports/basketball/youtuber-lilly-singh-toronto-tempo-ownership-1.7533161?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Bobrovsky stops 23 shots, Panthers top Maple Leafs 2-0 in Game 4 and tie series at 2 games apiece",
     "url": "https://www.cbc.ca/news/canada/toronto/maple-leafs-panthers-stanley-cup-game-4-may-11-1.7532368?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada wins gold, bronze to end World Relays and clinches another spot at athletics worlds",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-relays-recap-may-11-1.7532205?cmp=rss",
     "category": "Sports"
   }
 ]
