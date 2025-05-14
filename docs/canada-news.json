@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "New foreign minister says Israel using lack of food as a tool in Gaza",
+    "url": "https://www.cbc.ca/news/politics/foreign-minister-food-gaza-israel-1.7535177?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney says Canadians 'weren't impressed' by U.K.'s offer of second state visit to Trump",
     "url": "https://www.cbc.ca/news/politics/canadians-unimpressed-state-visit-trump-1.7534490?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "These incumbent MPs lost their races. Now, they're packing up and saying goodbye",
     "url": "https://www.cbc.ca/news/politics/incumbent-mps-lost-election-1.7531420?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Prime Minister Carney to name new cabinet Tuesday that could include tiered structure",
-    "url": "https://www.cbc.ca/news/politics/carney-to-name-new-cabinet-tuesday-may-13-1.7531177?cmp=rss",
     "category": "Politics"
   },
   {
@@ -303,7 +303,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canucks promote Adam Foote to head coach, replacing Rick Tocchet",
+    "headline": "Canucks promote Adam Foote to head coach, replacing Rick Tocchet, who joins Flyers",
     "url": "https://www.cbc.ca/sports/hockey/nhl/vancouver-canucks-hire-adam-foote-as-head-coach-1.7534953?cmp=rss",
     "category": "Sports"
   },
