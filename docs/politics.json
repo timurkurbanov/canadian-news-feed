@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Elections Canada says Terrebonne, Que., result is final despite mailing error",
+    "url": "https://www.cbc.ca/news/canada/montreal/terrebonne-elections-canada-1.7535347?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney's cabinet meets for the first time as it stares down a pile of problems",
     "url": "https://www.cbc.ca/news/politics/carney-cabinet-meets-first-time-1.7534707?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian-resident return trips from the U.S. drop again for April, StatsCan data shows",
     "url": "https://www.cbc.ca/news/business/canada-travel-april-1.7532552?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'No reason to think' Americans want to trigger early CUSMA review, says Dominic LeBlanc",
-    "url": "https://www.cbc.ca/news/politics/no-reason-to-think-americans-want-to-trigger-early-cusma-review-says-dominic-leblanc-1.7532267?cmp=rss",
     "category": "Politics"
   }
 ]
