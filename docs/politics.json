@@ -16,7 +16,14 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "New foreign minister says Israel using lack of food as a tool in Gaza",
+    "headline": "13 Trudeau-era ministers survive Carney's cabinet overhaul",
+    "url": "https://www.cbc.ca/news/politics/carney-trudeau-cabinet-ministers-1.7534978?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "New foreign minister says Israel using lack of food as 'political tool' in Gaza",
     "url": "https://www.cbc.ca/news/politics/foreign-minister-food-gaza-israel-1.7535177?cmp=rss",
     "category": "Politics"
   },
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Quebec riding of Terrebonne flips to Liberals after recount shows candidate won by single vote",
     "url": "https://www.cbc.ca/news/politics/terrebone-recount-liberal-1.7532136?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "These incumbent MPs lost their races. Now, they're packing up and saying goodbye",
-    "url": "https://www.cbc.ca/news/politics/incumbent-mps-lost-election-1.7531420?cmp=rss",
     "category": "Politics"
   }
 ]
