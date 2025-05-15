@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Why Conservative Leader Pierre Poilievre moved out of his office, but not Stornoway",
+    "url": "https://www.cbc.ca/news/politics/conservative-leader-stornoway-official-residence-1.7536343?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Bloc Québécois pushes for byelection in Terrebonne, after 5 more ballot issues declared in riding",
     "url": "https://www.cbc.ca/news/canada/montreal/bloc-quebecois-blanchet-recount-challenge-terrebonne-1.7535613?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney shows 10 ministers from his first cabinet the door",
     "url": "https://www.cbc.ca/news/politics/carney-drops-ten-former-ministers-from-new-cabinet-1.7533668?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "RECAP | Carney unveils smaller, focused cabinet with mix of veteran MPs, new faces, and several role changes",
-    "url": "https://www.cbc.ca/news/politics/livestory/recap-carney-unveils-smaller-focused-cabinet-with-mix-of-veteran-mps-new-faces-and-several-role-changes-9.6758258?cmp=rss",
     "category": "Politics"
   }
 ]
