@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadian Tire to take over Hudson's Bay's iconic stripes, logos",
+    "url": "https://www.cbc.ca/news/business/hudson-s-bay-stripes-candian-tire-1.7536366?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "The condo market is slowing down. Where are all the buyers?",
     "url": "https://www.cbc.ca/news/business/condo-market-slowdown-1.7535704?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Enbridge CEO 'completely enthused' by conversation around energy in Canada, U.S.",
     "url": "https://www.cbc.ca/news/canada/calgary/enbridge-ceo-completely-enthused-by-conversation-around-energy-in-canada-u-s-1.7531002?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "U.S. trade war risks Canadian progress on financial stability, says Bank of Canada",
-    "url": "https://www.cbc.ca/news/business/bank-of-canada-financial-stability-report-may-2025-1.7529825?cmp=rss",
     "category": "Business"
   }
 ]
