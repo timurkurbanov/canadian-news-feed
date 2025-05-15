@@ -149,6 +149,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Tariffs hitting shoppers in Canada and U.S., with some prices set to rise at Loblaw stores, Walmart",
+    "url": "https://www.cbc.ca/news/business/tariffs-hitting-prices-loblaws-walmart-1.7535594?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Enbridge sells stake in Westcoast pipeline to First Nations group",
     "url": "https://www.cbc.ca/news/canada/calgary/enbridge-sells-stake-in-westcoast-pipeline-to-first-nations-group-1.7535543?cmp=rss",
     "category": "Business"
@@ -275,13 +282,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump keeps 10% tariffs on U.K., cuts taxes on British autos, steel and aluminum in trade deal",
-    "url": "https://www.cbc.ca/news/world/britain-trump-tariff-deal-1.7529670?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "World Relays reveal Canada can lean on depth, continuity in buildup to 2025 world championships",
     "url": "https://www.cbc.ca/sports/football/nfl/morgan-campbell-world-relays-canada-1.7535233?cmp=rss",
     "category": "Sports"
@@ -289,7 +289,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Former world junior hockey player back testifying at sex assault trial of ex-teammates",
+    "headline": "World junior players' group chat about Hockey Canada investigation under scrutiny as ex-teammate testifies",
     "url": "https://www.cbc.ca/9.6761551?cmp=rss",
     "category": "Sports"
   },
@@ -464,63 +464,63 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Saturday: Chance of showers. High 24. POP 60%",
+    "headline": "Saturday: Chance of showers. High 23. POP 60%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Saturday night: Chance of showers. Low 10. POP 30%",
+    "headline": "Saturday night: Chance of showers. Low 11. POP 40%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Sunday: Cloudy. High 15.",
+    "headline": "Sunday: Chance of showers. High 15. POP 30%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Sunday night: Clear. Low plus 4.",
+    "headline": "Sunday night: Chance of showers. Low plus 5. POP 30%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Monday: Chance of showers. High 19. POP 30%",
+    "headline": "Monday: Chance of showers. High 15. POP 30%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Monday night: Clear. Low plus 5.",
+    "headline": "Monday night: Cloudy periods. Low plus 4.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Tuesday: Sunny. High 21.",
+    "headline": "Tuesday: A mix of sun and cloud. High 17.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Tuesday night: Clear. Low 8.",
+    "headline": "Tuesday night: Cloudy periods. Low 6.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Wednesday: A mix of sun and cloud. High 19.",
+    "headline": "Wednesday: A mix of sun and cloud. High 16.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
