@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Bloc Québécois to contest judicial recount in Terrebonne riding: sources",
+    "url": "https://www.cbc.ca/news/canada/montreal/bloc-quebecois-blanchet-recount-challenge-terrebonne-1.7535613?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's military plans to be in the Arctic 'on a near permanent basis,' says commander",
     "url": "https://www.cbc.ca/news/politics/canada-arctic-troops-expansion-exercise-1.7535095?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Liberals won Quebec's Terrebonne riding by 1 vote — but this woman's Bloc ballot wasn't counted",
     "url": "https://www.cbc.ca/news/canada/montreal/elections-canada-investigating-terrebonne-1.7533228?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Official recounts are underway in close ridings. Here's how they work",
-    "url": "https://www.cbc.ca/news/politics/how-dow-official-recounts-work-elections-in-canada-1.7533115?cmp=rss",
     "category": "Politics"
   },
   {
@@ -282,6 +282,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Former world junior hockey player back to testify at sex assault trial of ex-teammates",
+    "url": "https://www.cbc.ca/9.6761551?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Oilers headed to Western Conference final after beating Golden Knights 1-0 in OT",
     "url": "https://www.cbc.ca/news/canada/edmonton/oilers-golden-knights-game-5-1.7532841?cmp=rss",
     "category": "Sports"
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Former cycling world champ Dennis receives suspended sentence after death of Olympian wife Hoskins",
-    "url": "https://www.cbc.ca/sports/olympics/summer/cycling/rohan-dennis-suspended-sentence-melissa-hoskins-1.7534495?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Drizzle, 17.3°C",
+    "headline": "Current Conditions: Light Drizzle, 17.6°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

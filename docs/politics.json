@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Bloc Québécois to contest judicial recount in Terrebonne riding: sources",
+    "url": "https://www.cbc.ca/news/canada/montreal/bloc-quebecois-blanchet-recount-challenge-terrebonne-1.7535613?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's military plans to be in the Arctic 'on a near permanent basis,' says commander",
     "url": "https://www.cbc.ca/news/politics/canada-arctic-troops-expansion-exercise-1.7535095?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Liberals won Quebec's Terrebonne riding by 1 vote — but this woman's Bloc ballot wasn't counted",
     "url": "https://www.cbc.ca/news/canada/montreal/elections-canada-investigating-terrebonne-1.7533228?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Official recounts are underway in close ridings. Here's how they work",
-    "url": "https://www.cbc.ca/news/politics/how-dow-official-recounts-work-elections-in-canada-1.7533115?cmp=rss",
     "category": "Politics"
   }
 ]
