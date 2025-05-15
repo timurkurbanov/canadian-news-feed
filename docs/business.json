@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Enbridge sells stake in Westcoast pipeline to First Nations group",
+    "url": "https://www.cbc.ca/news/canada/calgary/enbridge-sells-stake-in-westcoast-pipeline-to-first-nations-group-1.7535543?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Union representing Air Canada's flight attendants files for conciliation as talks stall",
     "url": "https://www.cbc.ca/news/business/air-canada-flight-attendant-conciliation-1.7534991?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Trump keeps 10% tariffs on U.K., cuts taxes on British autos, steel and aluminum in trade deal",
     "url": "https://www.cbc.ca/news/world/britain-trump-tariff-deal-1.7529670?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Is CUSMA the best path out of the trade war with the U.S.?",
-    "url": "https://www.cbc.ca/news/business/armstrong-free-trade-cusma-usmca-1.7528276?cmp=rss",
     "category": "Business"
   }
 ]
