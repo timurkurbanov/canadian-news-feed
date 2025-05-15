@@ -2,7 +2,14 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Bloc to contest recount in Terrebonne, after 5 more ballot issues declared in riding",
+    "headline": "Poilievre 'very disappointed' in government's decision to skip spring budget",
+    "url": "https://www.cbc.ca/news/politics/poilievre-budget-very-disappointed-1.7535788?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Bloc Québcois contesting recount in Terrebonne, after 5 more ballot issues declared in riding",
     "url": "https://www.cbc.ca/news/canada/montreal/bloc-quebecois-blanchet-recount-challenge-terrebonne-1.7535613?cmp=rss",
     "category": "Politics"
   },
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Bloc candidate who lost by 1 vote considering 'all options' after report of ballot problem",
     "url": "https://www.cbc.ca/news/politics/bloc-candidate-terrebonne-considering-options-mail-ballot-1.7534162?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Liberals won Quebec's Terrebonne riding by 1 vote — but this woman's Bloc ballot wasn't counted",
-    "url": "https://www.cbc.ca/news/canada/montreal/elections-canada-investigating-terrebonne-1.7533228?cmp=rss",
     "category": "Politics"
   },
   {
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 19.5°C",
+    "headline": "Current Conditions: Mostly Cloudy, 19.8°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
