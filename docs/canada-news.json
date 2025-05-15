@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'It's been very emotional,' says Bloc Terrebonne candidate Nathalie Sinclair-Desgagné",
+    "url": "https://www.cbc.ca/player/play/9.6761921?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's military plans to be in the Arctic 'on a near permanent basis,' says commander",
     "url": "https://www.cbc.ca/news/politics/canada-arctic-troops-expansion-exercise-1.7535095?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "RECAP | Carney unveils smaller, focused cabinet with mix of veteran MPs, new faces, and several role changes",
     "url": "https://www.cbc.ca/news/politics/livestory/recap-carney-unveils-smaller-focused-cabinet-with-mix-of-veteran-mps-new-faces-and-several-role-changes-9.6758258?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Bloc candidate who lost by 1 vote considering 'all options' after report of ballot problem",
-    "url": "https://www.cbc.ca/news/politics/bloc-candidate-terrebonne-considering-options-mail-ballot-1.7534162?cmp=rss",
     "category": "Politics"
   },
   {
@@ -296,6 +296,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "‘We’re definitely the best’: Brendon Rodney says 4x100m squad is greatest Canadian team",
+    "url": "https://www.cbc.ca/player/play/9.6761942?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian soccer star Jonathan David departing France's Lille for unknown club",
     "url": "https://www.cbc.ca/sports/soccer/jonathan-david-lille-farewell-announcement-1.7535659?cmp=rss",
     "category": "Sports"
@@ -319,6 +326,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada to host Davis Cup tie in Halifax in September for 1st time since 2016",
     "url": "https://www.cbc.ca/sports/tennis/canada-israel-davis-cup-world-group1-tie-halifax-1.7535769?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'We have a lot of belief': Edmonton Oilers optimistic for Western Conference final",
+    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-advance-to-conference-final-1.7535800?cmp=rss",
     "category": "Sports"
   },
   {
@@ -406,20 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Angel City's Savy King has heart surgery following on-field collapse",
-    "url": "https://www.cbc.ca/sports/soccer/savy-king-nwsl-heart-surgery-1.7534669?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "MLB reinstates Pete Rose and Shoeless Joe Jackson, making them eligible for Hall of Fame",
-    "url": "https://www.cbc.ca/sports/baseball/mlb/pete-rose-shoeless-joe-jackson-reinstated-eligible-for-hall-of-fame-1.7534097?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 19.8°C",
+    "headline": "Current Conditions: Mostly Cloudy, 19.9°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

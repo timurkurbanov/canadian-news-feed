@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'It's been very emotional,' says Bloc Terrebonne candidate Nathalie Sinclair-Desgagné",
+    "url": "https://www.cbc.ca/player/play/9.6761921?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's military plans to be in the Arctic 'on a near permanent basis,' says commander",
     "url": "https://www.cbc.ca/news/politics/canada-arctic-troops-expansion-exercise-1.7535095?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "RECAP | Carney unveils smaller, focused cabinet with mix of veteran MPs, new faces, and several role changes",
     "url": "https://www.cbc.ca/news/politics/livestory/recap-carney-unveils-smaller-focused-cabinet-with-mix-of-veteran-mps-new-faces-and-several-role-changes-9.6758258?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Bloc candidate who lost by 1 vote considering 'all options' after report of ballot problem",
-    "url": "https://www.cbc.ca/news/politics/bloc-candidate-terrebonne-considering-options-mail-ballot-1.7534162?cmp=rss",
     "category": "Politics"
   }
 ]
