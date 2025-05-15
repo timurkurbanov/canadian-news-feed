@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Panthers wallop listless Leafs 6-1 in Game 5 to take 3-2 series lead",
+    "url": "https://www.cbc.ca/news/canada/toronto/toronto-maple-leafs-florida-panthers-game-five-round-two-nhl-playoffs-1.7535078?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PWHL players, GMs waiting to hear how expansion draft will affect existing teams",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-expansion-awaiitng-details-2025-1.7533867?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Tatum undergoes season-ending Achilles surgery, dealing blow to Celtics' repeat hopes",
     "url": "https://www.cbc.ca/sports/basketball/nba/celtics-jayson-tatum-achilles-surgery-1.7534298?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "FIFA's recognition of Afghanistan women's soccer team doesn't go far enough",
-    "url": "https://www.cbc.ca/sports/soccer/opinion-shireen-ahmed-afghanistan-women-soccer-may13-1.7532742?cmp=rss",
     "category": "Sports"
   }
 ]
