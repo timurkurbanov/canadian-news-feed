@@ -303,6 +303,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Vancouver selected to host FIFA Congress ahead of 2026 Men's World Cup",
+    "url": "https://www.cbc.ca/sports/soccer/vancouver-host-fifa-congress-2026-world-cup-1.7536197?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "World junior players' group chat about Hockey Canada investigation under scrutiny as ex-teammate testifies",
     "url": "https://www.cbc.ca/9.6761551?cmp=rss",
     "category": "Sports"
@@ -310,8 +317,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "‘We’re definitely the best’: Brendon Rodney says 4x100m squad is greatest Canadian team",
-    "url": "https://www.cbc.ca/player/play/9.6761942?cmp=rss",
+    "headline": "Athletes' injury risk altered by menstrual cycle, research indicates",
+    "url": "https://www.cbc.ca/sports/women-athletes-sports-injuries-1.7529929?cmp=rss",
     "category": "Sports"
   },
   {
@@ -319,13 +326,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian soccer star Jonathan David departing France's Lille for unknown club",
     "url": "https://www.cbc.ca/sports/soccer/jonathan-david-lille-farewell-announcement-1.7535659?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Athletes' injury risk altered by menstrual cycle, research indicates",
-    "url": "https://www.cbc.ca/sports/women-athletes-sports-injuries-1.7529929?cmp=rss",
     "category": "Sports"
   },
   {
