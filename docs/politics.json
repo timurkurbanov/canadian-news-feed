@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada's military plans to be in the Arctic 'on a near permanent basis,' says commander",
+    "url": "https://www.cbc.ca/news/politics/canada-arctic-troops-expansion-exercise-1.7535095?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "New housing minister says supply, not costs, root of Canada's real estate crisis",
     "url": "https://www.cbc.ca/news/politics/new-housing-minister-says-supply-not-costs-root-of-canada-s-real-estate-crisis-1.7535338?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Official recounts are underway in close ridings. Here's how they work",
     "url": "https://www.cbc.ca/news/politics/how-dow-official-recounts-work-elections-in-canada-1.7533115?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "First Nations leaders want drinking water bill within 100 days of Parliament's return",
-    "url": "https://www.cbc.ca/news/politics/indigenous-leaders-priorities-100-days-1.7532748?cmp=rss",
     "category": "Politics"
   }
 ]
