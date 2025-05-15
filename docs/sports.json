@@ -30,6 +30,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "MacKinnon collects 2 goals, assist to lead Canada past Austria at men's hockey worlds",
+    "url": "https://www.cbc.ca/sports/hockey/canada-austria-recap-hockey-worlds-1.7536321?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "World junior players' group chat about Hockey Canada investigation under scrutiny as ex-teammate testifies",
     "url": "https://www.cbc.ca/9.6761551?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "4-time Olympic medallist Adam van Koeverden to oversee sport in PM Carney's new cabinet",
     "url": "https://www.cbc.ca/sports/adam-van-koeverden-secretary-of-state-sport-mark-carney-cabinet-1.7533796?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Watch Canada's Alysha Newman, Aaron Brown compete at Doha Diamond League",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-diamond-league-doha-continental-tour-seiko-golden-1.7528624?cmp=rss",
     "category": "Sports"
   }
 ]

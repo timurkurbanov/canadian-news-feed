@@ -310,6 +310,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "MacKinnon collects 2 goals, assist to lead Canada past Austria at men's hockey worlds",
+    "url": "https://www.cbc.ca/sports/hockey/canada-austria-recap-hockey-worlds-1.7536321?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "World junior players' group chat about Hockey Canada investigation under scrutiny as ex-teammate testifies",
     "url": "https://www.cbc.ca/9.6761551?cmp=rss",
     "category": "Sports"
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Watch Canada's Alysha Newman, Aaron Brown compete at Doha Diamond League",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-diamond-league-doha-continental-tour-seiko-golden-1.7528624?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Partly Cloudy, 22.5°C",
+    "headline": "Current Conditions: Mostly Cloudy, 23.0°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
