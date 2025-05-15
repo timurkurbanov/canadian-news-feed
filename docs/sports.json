@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Oilers headed to Western Conference Final after beating Golden Knights 1-0 in OT",
+    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-golden-knights-game-5-1.7532841?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Panthers wallop listless Maple Leafs in Toronto to take 3-2 series lead",
     "url": "https://www.cbc.ca/news/canada/toronto/toronto-maple-leafs-florida-panthers-game-five-round-two-nhl-playoffs-1.7535078?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Rory McIlroy goes for back-to-back majors at the PGA Championship",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-rory-mcilroy-pga-championship-1.7534054?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Watch Canada's Alysha Newman, Aaron Brown compete at Doha Diamond League",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-diamond-league-doha-continental-tour-seiko-golden-1.7528624?cmp=rss",
     "category": "Sports"
   }
 ]
