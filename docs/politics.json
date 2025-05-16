@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada Post should end daily door-to-door delivery, allow part-time work on weekends, report recommends",
+    "url": "https://www.cbc.ca/news/business/canada-post-small-businesses-1.7536827?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Clock starts on timing of byelection Poilievre hopes to use to return to Parliament",
     "url": "https://www.cbc.ca/news/canada/edmonton/clock-starts-on-timing-of-byelection-poilievre-hopes-to-use-to-return-to-parliament-1.7537102?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney says Canadians 'weren't impressed' by U.K.'s offer of second state visit to Trump",
     "url": "https://www.cbc.ca/news/politics/canadians-unimpressed-state-visit-trump-1.7534490?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Conservative MP Jamil Jivani concerned about lack of labour minister amid Trump's tariffs",
-    "url": "https://www.cbc.ca/news/politics/jamil-jivani-lack-of-labour-minister-1.7534716?cmp=rss",
     "category": "Politics"
   }
 ]
