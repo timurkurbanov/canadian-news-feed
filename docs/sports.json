@@ -2,8 +2,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Winnipeg Jets avoid elimination with Game 5 shutout win over Dallas Stars",
-    "url": "https://www.cbc.ca/news/canada/manitoba/jets-stars-game-5-1.7536025?cmp=rss",
+    "headline": "Jury discharged at sexual assault trial for 5 ex-world junior hockey players",
+    "url": "https://www.cbc.ca/9.6763163?cmp=rss",
     "category": "Sports"
   },
   {
@@ -16,6 +16,27 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Watch Canada's Alysha Newman, Aaron Brown compete at Doha Diamond League",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-diamond-league-doha-continental-tour-seiko-golden-1.7528624?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "World Relays reveal Canada can lean on depth, continuity in buildup to 2025 world championships",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/morgan-campbell-world-relays-canada-1.7535233?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Winnipeg Jets avoid elimination with Game 5 shutout win over Dallas Stars",
+    "url": "https://www.cbc.ca/news/canada/manitoba/jets-stars-game-5-1.7536025?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PWHL playoff notebook: 1st line driving Minnesota's quest to repeat as champions",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-playoff-notebook-3-may-2025-1.7535862?cmp=rss",
     "category": "Sports"
@@ -23,8 +44,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Car plows into crowd outside Espanyol vs. Barcelona, injuring 13 people; police call it an accident",
-    "url": "https://www.cbc.ca/sports/soccer/barcelona-espanyol-car-accident-1.7536550?cmp=rss",
+    "headline": "Athletes' injury risk altered by menstrual cycle, research indicates",
+    "url": "https://www.cbc.ca/sports/women-athletes-sports-injuries-1.7529929?cmp=rss",
     "category": "Sports"
   },
   {
@@ -44,15 +65,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Vancouver selected to host FIFA Congress ahead of 2026 Men's World Cup",
-    "url": "https://www.cbc.ca/sports/soccer/vancouver-host-fifa-congress-2026-world-cup-1.7536197?cmp=rss",
+    "headline": "Car plows into crowd outside Espanyol vs. Barcelona, injuring 13 people; police call it an accident",
+    "url": "https://www.cbc.ca/sports/soccer/barcelona-espanyol-car-accident-1.7536550?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "World Relays reveal Canada can lean on depth, continuity in buildup to 2025 world championships",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/morgan-campbell-world-relays-canada-1.7535233?cmp=rss",
+    "headline": "Vancouver selected to host FIFA Congress ahead of 2026 Men's World Cup",
+    "url": "https://www.cbc.ca/sports/soccer/vancouver-host-fifa-congress-2026-world-cup-1.7536197?cmp=rss",
     "category": "Sports"
   },
   {
@@ -81,20 +102,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Grand Slam Track changes schedule for Philadelphia event",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/athletics-grand-slam-track-2025-changes-michael-johnson-1.7536611?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Watch Canada's Alysha Newman, Aaron Brown compete at Doha Diamond League",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-diamond-league-doha-continental-tour-seiko-golden-1.7528624?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Athletes' injury risk altered by menstrual cycle, research indicates",
-    "url": "https://www.cbc.ca/sports/women-athletes-sports-injuries-1.7529929?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Oilers headed to Western Conference final after beating Golden Knights 1-0 in OT",
     "url": "https://www.cbc.ca/news/canada/edmonton/oilers-golden-knights-game-5-1.7532841?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Heise's OT winner helps Frost sink Sceptres, sending Minnesota back to PWHL final",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/toronto-sceptres-minnesota-frost-game-4-1.7535442?cmp=rss",
     "category": "Sports"
   }
 ]
