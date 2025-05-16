@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Strathcona Resources makes stock-and-cash takeover offer for MEG Energy",
+    "url": "https://www.cbc.ca/news/canada/calgary/strathcona-resources-makes-stock-and-cash-takeover-offer-for-meg-energy-1.7536746?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian Tire to take over Hudson's Bay's iconic stripes, logos",
     "url": "https://www.cbc.ca/news/business/hudson-s-bay-stripes-candian-tire-1.7536366?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Oil prices are down. It means something different in Canada vs. the U.S.",
     "url": "https://www.cbc.ca/news/canada/calgary/oil-down-canada-us-1.7530208?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Delta, Korean Air to buy 25% stake in WestJet from Onex",
-    "url": "https://www.cbc.ca/news/business/delta-korean-air-westjet-onex-1.7530830?cmp=rss",
     "category": "Business"
   }
 ]
