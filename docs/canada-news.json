@@ -282,6 +282,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Winnipeg Jets avoid elimination with Game 5 shutout win over Dallas Stars",
+    "url": "https://www.cbc.ca/news/canada/manitoba/jets-stars-game-5-1.7536025?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Brendon Rodney makes the case for his team being Canada's 4x100m relay GOAT",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/cbc-sports-trackside-brendon-rodney-1.7534447?cmp=rss",
     "category": "Sports"
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canucks promote Adam Foote to head coach, replacing Rick Tocchet, who joins Flyers",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/vancouver-canucks-hire-adam-foote-as-head-coach-1.7534953?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Clear, 16.2°C",
+    "headline": "Current Conditions: Partly Cloudy, 16.6°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

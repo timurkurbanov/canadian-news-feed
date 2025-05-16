@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Winnipeg Jets avoid elimination with Game 5 shutout win over Dallas Stars",
+    "url": "https://www.cbc.ca/news/canada/manitoba/jets-stars-game-5-1.7536025?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Brendon Rodney makes the case for his team being Canada's 4x100m relay GOAT",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/cbc-sports-trackside-brendon-rodney-1.7534447?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Panthers wallop listless Maple Leafs in Toronto to take 3-2 series lead",
     "url": "https://www.cbc.ca/news/canada/toronto/toronto-maple-leafs-florida-panthers-game-five-round-two-nhl-playoffs-1.7535078?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canucks promote Adam Foote to head coach, replacing Rick Tocchet, who joins Flyers",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/vancouver-canucks-hire-adam-foote-as-head-coach-1.7534953?cmp=rss",
     "category": "Sports"
   }
 ]
