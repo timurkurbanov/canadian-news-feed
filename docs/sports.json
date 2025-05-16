@@ -37,6 +37,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Pridham's brace leads Rapid past Rise for 2nd straight home victory",
+    "url": "https://www.cbc.ca/player/play/9.6762818?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "MacKinnon collects 2 goals, assist to lead Canada past Austria at men's hockey worlds",
     "url": "https://www.cbc.ca/sports/hockey/canada-austria-recap-hockey-worlds-1.7536321?cmp=rss",
     "category": "Sports"
@@ -53,6 +60,20 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What to watch this long weekend in international sports",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-preview-international-sports-1.7536201?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Grand Slam Track changes schedule for Philadelphia event",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/athletics-grand-slam-track-2025-changes-michael-johnson-1.7536611?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Watch Canada's Alysha Newman, Aaron Brown compete at Doha Diamond League",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-diamond-league-doha-continental-tour-seiko-golden-1.7528624?cmp=rss",
     "category": "Sports"
   },
   {
@@ -116,27 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canucks promote Adam Foote to head coach, replacing Rick Tocchet, who joins Flyers",
     "url": "https://www.cbc.ca/sports/hockey/nhl/vancouver-canucks-hire-adam-foote-as-head-coach-1.7534953?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Marathoners headline initial Canadian squad for World Athletics Championships in Tokyo",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/canada-marathon-roster-world-athletics-championships-tokyo-1.7534310?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "FIFA's recognition of Afghanistan women's soccer team doesn't go far enough",
-    "url": "https://www.cbc.ca/sports/soccer/opinion-shireen-ahmed-afghanistan-women-soccer-may13-1.7532742?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "CBC Sports' Shireen Ahmed awarded 2nd place in international sports column writing",
-    "url": "https://www.cbc.ca/sports/shireen-ahmed-aips-column-writing-award-1.7534039?cmp=rss",
     "category": "Sports"
   }
 ]
