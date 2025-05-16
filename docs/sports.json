@@ -2,13 +2,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Watch Canadian athletes compete at Doha Diamond League",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/world-athletics-diamond-league-doha-continental-tour-seiko-golden-1.7528624?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Trial for ex-world junior players now before judge alone after jurors accused defence of making fun of them",
     "url": "https://www.cbc.ca/9.6763163?cmp=rss",
     "category": "Sports"
@@ -137,6 +130,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada to host Davis Cup tie in Halifax in September for 1st time since 2016",
     "url": "https://www.cbc.ca/sports/tennis/canada-israel-davis-cup-world-group1-tie-halifax-1.7535769?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'We have a lot of belief': Edmonton Oilers optimistic for Western Conference final",
+    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-advance-to-conference-final-1.7535800?cmp=rss",
     "category": "Sports"
   }
 ]
