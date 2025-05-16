@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Recount confirms narrow Liberal victory in Milton East—Halton Hills South",
+    "url": "https://www.cbc.ca/news/politics/recount-confirms-liberal-victory-milton-halton-1.7536903?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "The Liberals aren't tabling a budget. How does that affect the economy — and your wallet?",
     "url": "https://www.cbc.ca/news/politics/no-federal-budget-impact-1.7536200?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Here are the new faces in Prime Minister Carney's cabinet",
     "url": "https://www.cbc.ca/news/politics/new-members-carney-cabinet-1.7533922?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Mandy Gull-Masty becomes 1st Indigenous head of Indigenous Services Canada",
-    "url": "https://www.cbc.ca/news/indigenous/mandy-gull-masty-indigenous-services-minister-1.7533691?cmp=rss",
     "category": "Politics"
   }
 ]
