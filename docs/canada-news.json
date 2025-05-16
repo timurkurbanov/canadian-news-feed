@@ -2,6 +2,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Leaked Canadian military report shows many new recruits are quickly leaving",
+    "url": "https://www.cbc.ca/news/politics/military-retention-program-defunding-1.7536509?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "The Liberals aren't tabling a budget. How does that affect the economy — and your wallet?",
+    "url": "https://www.cbc.ca/news/politics/no-federal-budget-impact-1.7536200?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Why Conservative Leader Pierre Poilievre moved out of his office, but not Stornoway",
     "url": "https://www.cbc.ca/news/politics/conservative-leader-stornoway-official-residence-1.7536343?cmp=rss",
     "category": "Politics"
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Mandy Gull-Masty becomes 1st Indigenous head of Indigenous Services Canada",
     "url": "https://www.cbc.ca/news/indigenous/mandy-gull-masty-indigenous-services-minister-1.7533691?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Prime Minister Carney to attend Pope Leo's inaugural mass",
-    "url": "https://www.cbc.ca/news/politics/mark-carney-pope-leo-1.7534261?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney shows 10 ministers from his first cabinet the door",
-    "url": "https://www.cbc.ca/news/politics/carney-drops-ten-former-ministers-from-new-cabinet-1.7533668?cmp=rss",
     "category": "Politics"
   },
   {
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Partly Cloudy, 15.1°C",
+    "headline": "Current Conditions: Mainly Clear, 13.9°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
