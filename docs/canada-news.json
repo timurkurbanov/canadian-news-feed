@@ -282,13 +282,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Northern Super League: Ottawa vs Vancouver",
-    "url": "https://www.cbc.ca/player/play/9.6738599?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Brendon Rodney makes the case for his team being Canada's 4x100m relay GOAT",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/cbc-sports-trackside-brendon-rodney-1.7534447?cmp=rss",
     "category": "Sports"
@@ -298,6 +291,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PWHL playoff notebook: 1st line driving Minnesota's quest to repeat as champions",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-playoff-notebook-3-may-2025-1.7535862?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Car plows into crowd outside Espanyol vs. Barcelona, injuring 13 people; police call it an accident",
+    "url": "https://www.cbc.ca/sports/soccer/barcelona-espanyol-car-accident-1.7536550?cmp=rss",
     "category": "Sports"
   },
   {
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 21.7°C",
+    "headline": "Current Conditions: Mostly Cloudy, 19.4°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
