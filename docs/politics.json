@@ -16,22 +16,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "U.S. ambassador says country is 'open to doing business' with Canada amid trade war",
-    "url": "https://www.cbc.ca/news/politics/us-trade-disruption-will-pass-former-us-un-ambassador-1.7537635?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada Post should end daily door-to-door delivery, allow part-time work on weekends, report recommends",
     "url": "https://www.cbc.ca/news/business/canada-post-small-businesses-1.7536827?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Clock starts on timing of byelection Poilievre hopes to use to return to Parliament",
-    "url": "https://www.cbc.ca/news/canada/edmonton/clock-starts-on-timing-of-byelection-poilievre-hopes-to-use-to-return-to-parliament-1.7537102?cmp=rss",
     "category": "Politics"
   },
   {
@@ -44,8 +30,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Big streamers argue at CRTC hearing they shouldn't have Canadian content obligations",
-    "url": "https://www.cbc.ca/news/politics/big-streamers-argue-at-crtc-hearing-they-shouldn-t-have-canadian-content-obligations-1.7537489?cmp=rss",
+    "headline": "U.S. ambassador says country is 'open to doing business' with Canada amid trade war",
+    "url": "https://www.cbc.ca/news/politics/us-trade-disruption-will-pass-former-us-un-ambassador-1.7537635?cmp=rss",
     "category": "Politics"
   },
   {
@@ -53,6 +39,20 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney travelling to Rome with Liberal MPs for Pope's inaugural mass",
     "url": "https://www.cbc.ca/news/politics/carney-travelling-to-rome-with-liberal-mps-for-pope-s-inaugural-mass-1.7537089?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Clock starts on timing of byelection Poilievre hopes to use to return to Parliament",
+    "url": "https://www.cbc.ca/news/canada/edmonton/clock-starts-on-timing-of-byelection-poilievre-hopes-to-use-to-return-to-parliament-1.7537102?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Big streamers argue at CRTC hearing they shouldn't have Canadian content obligations",
+    "url": "https://www.cbc.ca/news/politics/big-streamers-argue-at-crtc-hearing-they-shouldn-t-have-canadian-content-obligations-1.7537489?cmp=rss",
     "category": "Politics"
   },
   {
