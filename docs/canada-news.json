@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "U.S. ambassador says country is 'open to doing business' with Canada amid trade war",
+    "url": "https://www.cbc.ca/news/politics/us-trade-disruption-will-pass-former-us-un-ambassador-1.7537635?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada Post should end daily door-to-door delivery, allow part-time work on weekends, report recommends",
     "url": "https://www.cbc.ca/news/business/canada-post-small-businesses-1.7536827?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "13 Trudeau-era ministers survive Carney's cabinet overhaul",
     "url": "https://www.cbc.ca/news/politics/carney-trudeau-cabinet-ministers-1.7534978?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "New foreign minister says Israel using lack of food as 'political tool' in Gaza",
-    "url": "https://www.cbc.ca/news/politics/foreign-minister-food-gaza-israel-1.7535177?cmp=rss",
     "category": "Politics"
   },
   {
