@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Small businesses gear up for another possible Canada Post strike",
+    "url": "https://www.cbc.ca/news/business/canada-post-small-businesses-1.7536827?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "The Liberals aren't tabling a budget. How does that affect the economy — and your wallet?",
     "url": "https://www.cbc.ca/news/politics/no-federal-budget-impact-1.7536200?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's unemployment rate ticked up to 6.9% in April, matching pre-pandemic high",
     "url": "https://www.cbc.ca/news/business/labour-force-survey-april-2025-1.7530855?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Oil prices are down. It means something different in Canada vs. the U.S.",
-    "url": "https://www.cbc.ca/news/canada/calgary/oil-down-canada-us-1.7530208?cmp=rss",
     "category": "Business"
   }
 ]
