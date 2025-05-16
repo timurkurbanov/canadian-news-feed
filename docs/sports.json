@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Leafs coach Berube tweaks forwards for Game 6; Matthews and Marner remain together",
+    "url": "https://www.cbc.ca/news/canada/toronto/toronto-maple-leafs-florida-panthers-game-six-round-two-nhl-playoffs-1.7537136?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Brendon Rodney makes the case for his team being Canada's 4x100m relay GOAT",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/cbc-sports-trackside-brendon-rodney-1.7534447?cmp=rss",
     "category": "Sports"
@@ -25,6 +32,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "World Relays reveal Canada can lean on depth, continuity in buildup to 2025 world championships",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/morgan-campbell-world-relays-canada-1.7535233?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadian women to face Costa Rica in 'Pride Celebration' friendly in June at Toronto's BMO Field",
+    "url": "https://www.cbc.ca/sports/soccer/canada-costa-rica-pride-celebration-friendly-1.7537139?cmp=rss",
     "category": "Sports"
   },
   {
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada to host Davis Cup tie in Halifax in September for 1st time since 2016",
     "url": "https://www.cbc.ca/sports/tennis/canada-israel-davis-cup-world-group1-tie-halifax-1.7535769?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'We have a lot of belief': Edmonton Oilers optimistic for Western Conference final",
-    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-advance-to-conference-final-1.7535800?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Oilers headed to Western Conference final after beating Golden Knights 1-0 in OT",
-    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-golden-knights-game-5-1.7532841?cmp=rss",
     "category": "Sports"
   }
 ]

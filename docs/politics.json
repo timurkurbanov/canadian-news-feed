@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Clock starts on timing of byelection Poilievre hopes to use to return to Parliament",
+    "url": "https://www.cbc.ca/news/canada/edmonton/clock-starts-on-timing-of-byelection-poilievre-hopes-to-use-to-return-to-parliament-1.7537102?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Recount confirms narrow Liberal victory in Milton East-Halton Hills South",
     "url": "https://www.cbc.ca/news/politics/recount-confirms-liberal-victory-milton-halton-1.7536903?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Prime Minister Carney unveils major cabinet overhaul with two dozen new faces",
     "url": "https://www.cbc.ca/news/politics/carney-cabinet-revealed-today-1.7532951?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Here are the new faces in Prime Minister Carney's cabinet",
-    "url": "https://www.cbc.ca/news/politics/new-members-carney-cabinet-1.7533922?cmp=rss",
     "category": "Politics"
   }
 ]
