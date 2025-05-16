@@ -142,8 +142,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Big streamers argue at CRTC hearing they shouldn't have Canadian content obligations",
+    "url": "https://www.cbc.ca/news/politics/big-streamers-argue-at-crtc-hearing-they-shouldn-t-have-canadian-content-obligations-1.7537489?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada Post should end daily door-to-door delivery, allow part-time work on weekends, report recommends",
     "url": "https://www.cbc.ca/news/business/canada-post-small-businesses-1.7536827?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "China emerging as top customer for Canadian oil shipped via Trans Mountain Pipeline",
+    "url": "https://www.cbc.ca/news/business/china-canada-oil-trans-mountain-pipeline-1.7537530?cmp=rss",
     "category": "Business"
   },
   {
@@ -268,21 +282,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Car insurance is getting pricier. 5 ways to try lowering your premium",
-    "url": "https://www.cbc.ca/radio/costofliving/car-insurance-tips-1.7521923?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's unemployment rate ticked up to 6.9% in April, matching pre-pandemic high",
-    "url": "https://www.cbc.ca/news/business/labour-force-survey-april-2025-1.7530855?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trial for ex-world junior players now before judge alone after jurors accused defence of making fun of them",
+    "headline": "Judge to decide fate of ex-world junior players in sex assault trial after jury discharged",
     "url": "https://www.cbc.ca/9.6763163?cmp=rss",
     "category": "Sports"
   },
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Sunny, 26.6°C",
+    "headline": "Current Conditions: Mainly Sunny, 26.8°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
