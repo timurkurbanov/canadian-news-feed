@@ -310,6 +310,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Pridham scores twice as Ottawa Rapid FC beats Vancouver Rise FC n NSL",
+    "url": "https://www.cbc.ca/sports/soccer/nsl-vancouver-rise-afc-toronto-may15-1.7536751?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PGA has strong field and big surprise: Jhonattan Vegas leads at 64 as stars fail to shine",
     "url": "https://www.cbc.ca/sports/golf/pga-championship-round-1-1.7536701?cmp=rss",
     "category": "Sports"
@@ -326,13 +333,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "World Relays reveal Canada can lean on depth, continuity in buildup to 2025 world championships",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/morgan-campbell-world-relays-canada-1.7535233?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Pridham's brace leads Rapid past Rise for 2nd straight home victory",
-    "url": "https://www.cbc.ca/player/play/9.6762818?cmp=rss",
     "category": "Sports"
   },
   {
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Partly Cloudy, 19.1°C",
+    "headline": "Current Conditions: Mostly Cloudy, 20.2°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
