@@ -303,6 +303,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Paolini beats Gauff to become first home player in 40 years to win the Italian Open",
+    "url": "https://www.cbc.ca/sports/tennis/jasmine-paolini-beats-coco-gauff-italian-open-1.7538059?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "New Zealand rallies with late try to tie Canada in pulsating women's rugby clash",
     "url": "https://www.cbc.ca/sports/rugby/pacific-four-series-canada-new-zealand-may-17-1.7538041?cmp=rss",
     "category": "Sports"
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Car plows into crowd outside Espanyol vs. Barcelona, injuring 13 people; police call it an accident",
-    "url": "https://www.cbc.ca/sports/soccer/barcelona-espanyol-car-accident-1.7536550?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "SEVERE THUNDERSTORM WATCH, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Rain, 17.9°C",
+    "headline": "Current Conditions: Mostly Cloudy, 17.7°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
