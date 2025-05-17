@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "MEC back under Canadian ownership after 5 years of U.S. management",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/mountain-equipment-company-mec-sold-1.7538013?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada Post should end daily door-to-door delivery, allow part-time work on weekends, report recommends",
     "url": "https://www.cbc.ca/news/business/canada-post-small-businesses-1.7536827?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "These Canadian millionaires want higher taxes on the rich. Not everyone in their income bracket is so eager",
     "url": "https://www.cbc.ca/news/business/patriotic-millionaires-canada-taxes-1.7530936?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Can machine-grown lettuce help cut Canada's reliance on U.S. greens? This farmer is betting on it",
-    "url": "https://www.cbc.ca/news/canada/machine-lettuce-1.7528860?cmp=rss",
     "category": "Business"
   }
 ]
