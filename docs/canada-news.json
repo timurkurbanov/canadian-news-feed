@@ -282,6 +282,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ottawa Charge advance to PWHL final after eliminating Montreal Victoire",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/montreal-victoire-ottawa-charge-game-4-may16-1.7537906?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Brendon Rodney makes the case for his team being Canada's 4x100m relay GOAT",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/cbc-sports-trackside-brendon-rodney-1.7534447?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Auston Matthews breaks through, Maple Leafs beat Panthers 2-0 to force Game 7",
     "url": "https://www.cbc.ca/news/canada/toronto/toronto-maple-leafs-florida-panthers-game-six-round-two-nhl-playoffs-1.7537136?cmp=rss",
     "category": "Sports"
@@ -289,8 +303,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Ottawa Charge advance to PWHL final after eliminating Montreal Victoire",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/montreal-victoire-ottawa-charge-game-4-may16-1.7537906?cmp=rss",
+    "headline": "With 1 year until the franchise tips off, WNBA's Toronto Tempo starting to come together",
+    "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-1-year-out-1.7530768?cmp=rss",
     "category": "Sports"
   },
   {
@@ -303,15 +317,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Sceptres coach Ryan 'unhappy' but not discouraged after another early PWHL playoff exit",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/toronto-sceptres-pwhl-wrapup-1.7537279?cmp=rss",
+    "headline": "Athletes' injury risk altered by menstrual cycle, research indicates",
+    "url": "https://www.cbc.ca/sports/women-athletes-sports-injuries-1.7529929?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Brendon Rodney makes the case for his team being Canada's 4x100m relay GOAT",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/cbc-sports-trackside-brendon-rodney-1.7534447?cmp=rss",
+    "headline": "Sceptres coach Ryan 'unhappy' but not discouraged after another early PWHL playoff exit",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/toronto-sceptres-pwhl-wrapup-1.7537279?cmp=rss",
     "category": "Sports"
   },
   {
@@ -345,13 +359,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "With 1 year until the franchise tips off, WNBA's Toronto Tempo starting to come together",
-    "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-1-year-out-1.7530768?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian women to face Costa Rica in 'Pride Celebration' friendly in June at Toronto's BMO Field",
     "url": "https://www.cbc.ca/sports/soccer/canada-costa-rica-pride-celebration-friendly-1.7537139?cmp=rss",
     "category": "Sports"
@@ -375,13 +382,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PWHL playoff notebook: 1st line driving Minnesota's quest to repeat as champions",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-playoff-notebook-3-may-2025-1.7535862?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Athletes' injury risk altered by menstrual cycle, research indicates",
-    "url": "https://www.cbc.ca/sports/women-athletes-sports-injuries-1.7529929?cmp=rss",
     "category": "Sports"
   },
   {
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 15.3°C",
+    "headline": "Current Conditions: Mostly Cloudy, 16.0°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
