@@ -44,6 +44,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "FIFA's recognition of Afghanistan women's soccer team doesn't go far enough",
+    "url": "https://www.cbc.ca/sports/soccer/opinion-shireen-ahmed-afghanistan-women-soccer-may13-1.7532742?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Sceptres coach Ryan 'unhappy' but not discouraged after another early PWHL playoff exit",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/toronto-sceptres-pwhl-wrapup-1.7537279?cmp=rss",
     "category": "Sports"
@@ -60,6 +67,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What to watch this long weekend in international sports",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-preview-international-sports-1.7536201?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "PWHL players, GMs waiting to hear how expansion draft will affect existing teams",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-expansion-awaiitng-details-2025-1.7533867?cmp=rss",
     "category": "Sports"
   },
   {
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Vancouver selected to host FIFA Congress ahead of 2026 Men's World Cup",
     "url": "https://www.cbc.ca/sports/soccer/vancouver-host-fifa-congress-2026-world-cup-1.7536197?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "MacKinnon collects 2 goals, assist to lead Canada past Austria at men's hockey worlds",
-    "url": "https://www.cbc.ca/sports/hockey/canada-austria-recap-hockey-worlds-1.7536321?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Grand Slam Track changes schedule for Philadelphia event",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/athletics-grand-slam-track-2025-changes-michael-johnson-1.7536611?cmp=rss",
     "category": "Sports"
   }
 ]
