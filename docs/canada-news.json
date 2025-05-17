@@ -282,6 +282,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Auston Matthews breaks through, Maple Leafs beat Panthers 2-0 to force Game 7",
+    "url": "https://www.cbc.ca/news/canada/toronto/toronto-maple-leafs-florida-panthers-game-six-round-two-nhl-playoffs-1.7537136?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ottawa Charge advance to PWHL final after eliminating Montreal Victoire",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/montreal-victoire-ottawa-charge-game-4-may16-1.7537906?cmp=rss",
     "category": "Sports"
@@ -291,13 +298,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Judge to decide fate of ex-world junior players in sex assault trial after jury discharged",
     "url": "https://www.cbc.ca/9.6763163?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Leafs coach Berube tweaks forwards for Game 6; Matthews and Marner remain together",
-    "url": "https://www.cbc.ca/news/canada/toronto/toronto-maple-leafs-florida-panthers-game-six-round-two-nhl-playoffs-1.7537136?cmp=rss",
     "category": "Sports"
   },
   {
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Partly Cloudy, 21.7°C",
+    "headline": "Current Conditions: Mainly Clear, 19.5°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
