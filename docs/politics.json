@@ -2,6 +2,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada now has a minister of artificial intelligence. What will he do?",
+    "url": "https://www.cbc.ca/news/politics/artificial-intelligence-evan-solomon-1.7536218?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Want to boost Albertans' support for leaving CPP? Ask the question differently",
+    "url": "https://www.cbc.ca/news/canada/calgary/alberta-pension-plan-cpp-survey-guarantee-1.7537733?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Trio of New Democrat MPs blast party's selection process for interim leader",
     "url": "https://www.cbc.ca/news/politics/ndp-mps-concerns-interim-leader-selection-process-1.7537699?cmp=rss",
     "category": "Politics"
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "CBC/Radio-Canada to scrap much-maligned 'performance pay' for managers",
     "url": "https://www.cbc.ca/news/politics/cbc-scraps-performance-pay-1.7535175?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Elections Canada says Terrebonne, Que., result is final despite mailing error",
-    "url": "https://www.cbc.ca/news/canada/montreal/terrebonne-elections-canada-1.7535347?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney's cabinet meets for the first time as it stares down a pile of problems",
-    "url": "https://www.cbc.ca/news/politics/carney-cabinet-meets-first-time-1.7534707?cmp=rss",
     "category": "Politics"
   }
 ]
