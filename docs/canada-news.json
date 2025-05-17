@@ -2,8 +2,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "NDP hold Nunavut after Elections Canada validates results",
-    "url": "https://www.cbc.ca/news/politics/ndp-hold-nunavut-after-elections-canada-validates-results-1.7538038?cmp=rss",
+    "headline": "NDP holds Nunavut after Elections Canada validates results",
+    "url": "https://www.cbc.ca/news/politics/nunavut-election-results-ndp-win-validated-1.7538038?cmp=rss",
     "category": "Politics"
   },
   {
@@ -303,6 +303,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "New Zealand rallies with late try to tie Canada in pulsating women's rugby clash",
+    "url": "https://www.cbc.ca/sports/rugby/pacific-four-series-canada-new-zealand-may-17-1.7538041?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "With 1 year until the franchise tips off, WNBA's Toronto Tempo starting to come together",
     "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-1-year-out-1.7530768?cmp=rss",
     "category": "Sports"
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Vancouver selected to host FIFA Congress ahead of 2026 Men's World Cup",
-    "url": "https://www.cbc.ca/sports/soccer/vancouver-host-fifa-congress-2026-world-cup-1.7536197?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "SEVERE THUNDERSTORM WATCH, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Rain, 16.2°C",
+    "headline": "Current Conditions: Light Rain, 17.9°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
