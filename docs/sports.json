@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Father of Winnipeg Jets star centre Mark Scheifele has died, team says",
+    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-mark-scheifele-father-death-1.7538075?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Brendon Rodney makes the case for his team being Canada's 4x100m relay GOAT",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/cbc-sports-trackside-brendon-rodney-1.7534447?cmp=rss",
     "category": "Sports"
@@ -16,8 +23,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Auston Matthews breaks through, Maple Leafs beat Panthers 2-0 to force Game 7",
-    "url": "https://www.cbc.ca/news/canada/toronto/toronto-maple-leafs-florida-panthers-game-six-round-two-nhl-playoffs-1.7537136?cmp=rss",
+    "headline": "Canada's Katie Vincent paddles to canoe sprint gold at World Cup event in Hungary",
+    "url": "https://www.cbc.ca/sports/olympics/summer/canoe-kayak/katie-vincent-canoe-sprint-gold-world-cup-1.7538079?cmp=rss",
     "category": "Sports"
   },
   {
@@ -32,6 +39,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "New Zealand rallies with late try to tie Canada in pulsating women's rugby clash",
     "url": "https://www.cbc.ca/sports/rugby/pacific-four-series-canada-new-zealand-may-17-1.7538041?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Auston Matthews breaks through, Maple Leafs beat Panthers 2-0 to force Game 7",
+    "url": "https://www.cbc.ca/news/canada/toronto/toronto-maple-leafs-florida-panthers-game-six-round-two-nhl-playoffs-1.7537136?cmp=rss",
     "category": "Sports"
   },
   {
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Winnipeg Jets avoid elimination with Game 5 shutout win over Dallas Stars",
     "url": "https://www.cbc.ca/news/canada/manitoba/jets-stars-game-5-1.7536025?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "PWHL playoff notebook: 1st line driving Minnesota's quest to repeat as champions",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-playoff-notebook-3-may-2025-1.7535862?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "PGA has strong field and big surprise: Jhonattan Vegas leads at 64 as stars fail to shine",
-    "url": "https://www.cbc.ca/sports/golf/pga-championship-round-1-1.7536701?cmp=rss",
     "category": "Sports"
   }
 ]
