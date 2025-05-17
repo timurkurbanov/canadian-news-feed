@@ -317,6 +317,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Jhonattan Vegas stays ahead in PGA Championship as Scottie Scheffler looms large",
+    "url": "https://www.cbc.ca/sports/golf/pga-championship-round-2-1.7537939?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What to watch this long weekend in international sports",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-preview-international-sports-1.7536201?cmp=rss",
     "category": "Sports"
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian soccer star Jonathan David departing France's Lille for unknown club",
-    "url": "https://www.cbc.ca/sports/soccer/jonathan-david-lille-farewell-announcement-1.7535659?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Clear, 21.7°C",
+    "headline": "Current Conditions: Partly Cloudy, 21.7°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

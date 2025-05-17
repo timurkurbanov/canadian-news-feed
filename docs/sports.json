@@ -37,6 +37,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Jhonattan Vegas stays ahead in PGA Championship as Scottie Scheffler looms large",
+    "url": "https://www.cbc.ca/sports/golf/pga-championship-round-2-1.7537939?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What to watch this long weekend in international sports",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-preview-international-sports-1.7536201?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Grand Slam Track changes schedule for Philadelphia event",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/athletics-grand-slam-track-2025-changes-michael-johnson-1.7536611?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian soccer star Jonathan David departing France's Lille for unknown club",
-    "url": "https://www.cbc.ca/sports/soccer/jonathan-david-lille-farewell-announcement-1.7535659?cmp=rss",
     "category": "Sports"
   }
 ]
