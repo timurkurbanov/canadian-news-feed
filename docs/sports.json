@@ -37,8 +37,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Colby Barnett's early goal lifts AFC Toronto past Halifax Tides 1-0 in NSL",
-    "url": "https://www.cbc.ca/sports/soccer/nsl-halifax-tides-afc-toronto-may-17-1.7538078?cmp=rss",
+    "headline": "Caitlin Clark says flagrant foul for shoving Angel Reese was not 'malicious'",
+    "url": "https://www.cbc.ca/sports/basketball/caitlin-clark-flagrant-foul-angel-reese-1.7538299?cmp=rss",
     "category": "Sports"
   },
   {
@@ -46,6 +46,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "World Relays reveal Canada can lean on depth, continuity in buildup to 2025 world championships",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/morgan-campbell-world-relays-canada-1.7535233?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Colby Barnett's early goal lifts AFC Toronto past Halifax Tides 1-0 in NSL",
+    "url": "https://www.cbc.ca/sports/soccer/nsl-halifax-tides-afc-toronto-may-17-1.7538078?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Judge to decide fate of ex-world junior players in sex assault trial after jury discharged",
     "url": "https://www.cbc.ca/9.6763163?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Athletes' injury risk altered by menstrual cycle, research indicates",
-    "url": "https://www.cbc.ca/sports/women-athletes-sports-injuries-1.7529929?cmp=rss",
     "category": "Sports"
   }
 ]
