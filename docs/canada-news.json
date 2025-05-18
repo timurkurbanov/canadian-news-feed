@@ -338,6 +338,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "What to watch this long weekend in international sports",
+    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-preview-international-sports-1.7536201?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ottawa Charge advance to PWHL final after eliminating Montreal Victoire",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/montreal-victoire-ottawa-charge-game-4-may16-1.7537906?cmp=rss",
     "category": "Sports"
@@ -401,13 +408,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "What to watch this long weekend in international sports",
-    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-preview-international-sports-1.7536201?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PWHL players, GMs waiting to hear how expansion draft will affect existing teams",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-expansion-awaiitng-details-2025-1.7533867?cmp=rss",
     "category": "Sports"
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Rain, 12.1°C",
+    "headline": "Current Conditions: Light Rain, 12.4°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
