@@ -289,6 +289,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Scottie Scheffler storms into a 3-shot lead in the PGA Championship with another major in sight",
+    "url": "https://www.cbc.ca/sports/golf/pga-championship-round-3-1.7538102?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Journalism wins the Preakness two weeks after finishing 2nd in the Kentucky Derby",
+    "url": "https://www.cbc.ca/sports/2025-preakness-recap-may-17-1.7538153?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Colby Barnett's early goal lifts AFC Toronto past Halifax Tides 1-0 in NSL",
     "url": "https://www.cbc.ca/sports/soccer/nsl-halifax-tides-afc-toronto-may-17-1.7538078?cmp=rss",
     "category": "Sports"
@@ -298,13 +312,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Winnipeg Jets star  Mark Scheifele to play Saturday hours after learning of father's death",
     "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-mark-scheifele-father-death-1.7538075?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Journalism wins the Preakness two weeks after finishing 2nd in the Kentucky Derby",
-    "url": "https://www.cbc.ca/sports/2025-preakness-recap-may-17-1.7538153?cmp=rss",
     "category": "Sports"
   },
   {
@@ -413,30 +420,16 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "World Relays reveal Canada can lean on depth, continuity in buildup to 2025 world championships",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/morgan-campbell-world-relays-canada-1.7535233?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "SEVERE THUNDERSTORM WATCH, Ottawa",
-    "url": "https://weather.gc.ca/warnings/report_e.html?onrm104",
+    "headline": "No watches or warnings in effect, Ottawa",
+    "url": "https://weather.gc.ca/index_e.html",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "SEVERE THUNDERSTORM WARNING ENDED, Ottawa",
-    "url": "https://weather.gc.ca/warnings/report_e.html?onrm104",
-    "category": "Weather"
-  },
-  {
-    "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 16.4°C",
+    "headline": "Current Conditions: Mostly Cloudy, 15.7°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
