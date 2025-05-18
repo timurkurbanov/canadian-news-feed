@@ -282,8 +282,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Stars score OT power-play goal to beat Jets 2-1, winning playoff series",
-    "url": "https://www.cbc.ca/news/canada/manitoba/dallas-stars-winnipeg-jets-nhl-playoffs-1.7538068?cmp=rss",
+    "headline": "Maple Leafs winger Matthew Knies to play Game 7 against Panthers",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/matthews-knies-game-7-status-1.7538309?cmp=rss",
     "category": "Sports"
   },
   {
@@ -296,15 +296,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Winnipeg Jets star Mark Scheifele plays, scores team's lone goal hours after learning of father's death",
-    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-mark-scheifele-father-death-1.7538075?cmp=rss",
+    "headline": "Stars score OT power-play goal to beat Jets 2-1, winning playoff series",
+    "url": "https://www.cbc.ca/news/canada/manitoba/dallas-stars-winnipeg-jets-nhl-playoffs-1.7538068?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Maple Leafs winger Matthew Knies to play Game 7 against Panthers",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/matthews-knies-game-7-status-1.7538309?cmp=rss",
+    "headline": "Winnipeg Jets star Mark Scheifele plays, scores team's lone goal hours after learning of father's death",
+    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-mark-scheifele-father-death-1.7538075?cmp=rss",
     "category": "Sports"
   },
   {
@@ -317,8 +317,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Brendon Rodney makes the case for his team being Canada's 4x100m relay GOAT",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/cbc-sports-trackside-brendon-rodney-1.7534447?cmp=rss",
+    "headline": "Athletes' injury risk altered by menstrual cycle, research indicates",
+    "url": "https://www.cbc.ca/sports/women-athletes-sports-injuries-1.7529929?cmp=rss",
     "category": "Sports"
   },
   {
@@ -331,8 +331,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "World Relays reveal Canada can lean on depth, continuity in buildup to 2025 world championships",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/morgan-campbell-world-relays-canada-1.7535233?cmp=rss",
+    "headline": "Marathoners headline initial Canadian squad for World Athletics Championships in Tokyo",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/canada-marathon-roster-world-athletics-championships-tokyo-1.7534310?cmp=rss",
     "category": "Sports"
   },
   {
@@ -373,6 +373,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Brendon Rodney makes the case for his team being Canada's 4x100m relay GOAT",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/cbc-sports-trackside-brendon-rodney-1.7534447?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Paolini beats Gauff to become first home player in 40 years to win the Italian Open",
     "url": "https://www.cbc.ca/sports/tennis/jasmine-paolini-beats-coco-gauff-italian-open-1.7538059?cmp=rss",
     "category": "Sports"
@@ -387,8 +394,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Marathoners headline initial Canadian squad for World Athletics Championships in Tokyo",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/canada-marathon-roster-world-athletics-championships-tokyo-1.7534310?cmp=rss",
+    "headline": "World Relays reveal Canada can lean on depth, continuity in buildup to 2025 world championships",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/morgan-campbell-world-relays-canada-1.7535233?cmp=rss",
     "category": "Sports"
   },
   {
@@ -403,13 +410,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ottawa Charge advance to PWHL final after eliminating Montreal Victoire",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/montreal-victoire-ottawa-charge-game-4-may16-1.7537906?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "With 1 year until the franchise tips off, WNBA's Toronto Tempo starting to come together",
-    "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-1-year-out-1.7530768?cmp=rss",
     "category": "Sports"
   },
   {
