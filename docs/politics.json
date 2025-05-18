@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Prime Minister Mark Carney holds a media conference",
+    "url": "https://www.cbc.ca/player/play/9.6765028?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Zelenskyy calls for pressure on Russia during 1st face-to-face meeting with Carney",
     "url": "https://www.cbc.ca/news/politics/carney-zelenskyy-meeting-g7-prep-1.7538111?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's military plans to be in the Arctic 'on a near permanent basis,' says commander",
     "url": "https://www.cbc.ca/news/politics/canada-arctic-troops-expansion-exercise-1.7535095?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "New housing minister says supply, not costs, root of Canada's real estate crisis",
-    "url": "https://www.cbc.ca/news/politics/new-housing-minister-says-supply-not-costs-root-of-canada-s-real-estate-crisis-1.7535338?cmp=rss",
     "category": "Politics"
   }
 ]

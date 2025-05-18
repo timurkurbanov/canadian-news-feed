@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Prime Minister Mark Carney holds a media conference",
+    "url": "https://www.cbc.ca/player/play/9.6765028?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Zelenskyy calls for pressure on Russia during 1st face-to-face meeting with Carney",
     "url": "https://www.cbc.ca/news/politics/carney-zelenskyy-meeting-g7-prep-1.7538111?cmp=rss",
     "category": "Politics"
@@ -135,13 +142,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "New housing minister says supply, not costs, root of Canada's real estate crisis",
-    "url": "https://www.cbc.ca/news/politics/new-housing-minister-says-supply-not-costs-root-of-canada-s-real-estate-crisis-1.7535338?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Big streamers argue at CRTC hearing they shouldn't have Canadian content obligations",
     "url": "https://www.cbc.ca/news/politics/big-streamers-argue-at-crtc-hearing-they-shouldn-t-have-canadian-content-obligations-1.7537489?cmp=rss",
     "category": "Business"
@@ -270,13 +270,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "U.S. and China agree to slash most tariffs for 90 days",
     "url": "https://www.cbc.ca/news/world/us-china-tariffs-1.7532503?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "These Canadian millionaires want higher taxes on the rich. Not everyone in their income bracket is so eager",
-    "url": "https://www.cbc.ca/news/business/patriotic-millionaires-canada-taxes-1.7530936?cmp=rss",
     "category": "Business"
   },
   {
