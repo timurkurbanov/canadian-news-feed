@@ -23,15 +23,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Scottie Scheffler storms into a 3-shot lead in the PGA Championship with another major in sight",
-    "url": "https://www.cbc.ca/sports/golf/pga-championship-round-3-1.7538102?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Journalism wins the Preakness two weeks after finishing 2nd in the Kentucky Derby",
-    "url": "https://www.cbc.ca/sports/2025-preakness-recap-may-17-1.7538153?cmp=rss",
+    "headline": "Brendon Rodney makes the case for his team being Canada's 4x100m relay GOAT",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/cbc-sports-trackside-brendon-rodney-1.7534447?cmp=rss",
     "category": "Sports"
   },
   {
@@ -39,6 +32,27 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Colby Barnett's early goal lifts AFC Toronto past Halifax Tides 1-0 in NSL",
     "url": "https://www.cbc.ca/sports/soccer/nsl-halifax-tides-afc-toronto-may-17-1.7538078?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Scottie Scheffler storms into a 3-shot lead in the PGA Championship with another major in sight",
+    "url": "https://www.cbc.ca/sports/golf/pga-championship-round-3-1.7538102?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "World Relays reveal Canada can lean on depth, continuity in buildup to 2025 world championships",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/morgan-campbell-world-relays-canada-1.7535233?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Journalism wins the Preakness two weeks after finishing 2nd in the Kentucky Derby",
+    "url": "https://www.cbc.ca/sports/2025-preakness-recap-may-17-1.7538153?cmp=rss",
     "category": "Sports"
   },
   {
@@ -65,6 +79,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Marathoners headline initial Canadian squad for World Athletics Championships in Tokyo",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/canada-marathon-roster-world-athletics-championships-tokyo-1.7534310?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What to watch this long weekend in international sports",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-preview-international-sports-1.7536201?cmp=rss",
     "category": "Sports"
@@ -74,13 +95,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ottawa Charge advance to PWHL final after eliminating Montreal Victoire",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/montreal-victoire-ottawa-charge-game-4-may16-1.7537906?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Brendon Rodney makes the case for his team being Canada's 4x100m relay GOAT",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/cbc-sports-trackside-brendon-rodney-1.7534447?cmp=rss",
     "category": "Sports"
   },
   {
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Sceptres coach Ryan 'unhappy' but not discouraged after another early PWHL playoff exit",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/toronto-sceptres-pwhl-wrapup-1.7537279?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Jhonattan Vegas stays ahead in PGA Championship as Scottie Scheffler looms large",
-    "url": "https://www.cbc.ca/sports/golf/pga-championship-round-2-1.7537939?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "PWHL players, GMs waiting to hear how expansion draft will affect existing teams",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-expansion-awaiitng-details-2025-1.7533867?cmp=rss",
     "category": "Sports"
   }
 ]

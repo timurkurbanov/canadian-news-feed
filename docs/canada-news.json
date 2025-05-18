@@ -2,13 +2,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Prime Minister Mark Carney holds a media conference",
-    "url": "https://www.cbc.ca/player/play/9.6765028?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Zelenskyy calls for pressure on Russia during 1st face-to-face meeting with Carney",
     "url": "https://www.cbc.ca/news/politics/carney-zelenskyy-meeting-g7-prep-1.7538111?cmp=rss",
     "category": "Politics"
@@ -137,6 +130,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's military plans to be in the Arctic 'on a near permanent basis,' says commander",
     "url": "https://www.cbc.ca/news/politics/canada-arctic-troops-expansion-exercise-1.7535095?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "New housing minister says supply, not costs, root of Canada's real estate crisis",
+    "url": "https://www.cbc.ca/news/politics/new-housing-minister-says-supply-not-costs-root-of-canada-s-real-estate-crisis-1.7535338?cmp=rss",
     "category": "Politics"
   },
   {
@@ -296,15 +296,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Scottie Scheffler storms into a 3-shot lead in the PGA Championship with another major in sight",
-    "url": "https://www.cbc.ca/sports/golf/pga-championship-round-3-1.7538102?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Journalism wins the Preakness two weeks after finishing 2nd in the Kentucky Derby",
-    "url": "https://www.cbc.ca/sports/2025-preakness-recap-may-17-1.7538153?cmp=rss",
+    "headline": "Brendon Rodney makes the case for his team being Canada's 4x100m relay GOAT",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/cbc-sports-trackside-brendon-rodney-1.7534447?cmp=rss",
     "category": "Sports"
   },
   {
@@ -312,6 +305,27 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Colby Barnett's early goal lifts AFC Toronto past Halifax Tides 1-0 in NSL",
     "url": "https://www.cbc.ca/sports/soccer/nsl-halifax-tides-afc-toronto-may-17-1.7538078?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Scottie Scheffler storms into a 3-shot lead in the PGA Championship with another major in sight",
+    "url": "https://www.cbc.ca/sports/golf/pga-championship-round-3-1.7538102?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "World Relays reveal Canada can lean on depth, continuity in buildup to 2025 world championships",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/morgan-campbell-world-relays-canada-1.7535233?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Journalism wins the Preakness two weeks after finishing 2nd in the Kentucky Derby",
+    "url": "https://www.cbc.ca/sports/2025-preakness-recap-may-17-1.7538153?cmp=rss",
     "category": "Sports"
   },
   {
@@ -338,6 +352,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Marathoners headline initial Canadian squad for World Athletics Championships in Tokyo",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/canada-marathon-roster-world-athletics-championships-tokyo-1.7534310?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "What to watch this long weekend in international sports",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-preview-international-sports-1.7536201?cmp=rss",
     "category": "Sports"
@@ -347,13 +368,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ottawa Charge advance to PWHL final after eliminating Montreal Victoire",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/montreal-victoire-ottawa-charge-game-4-may16-1.7537906?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Brendon Rodney makes the case for his team being Canada's 4x100m relay GOAT",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/cbc-sports-trackside-brendon-rodney-1.7534447?cmp=rss",
     "category": "Sports"
   },
   {
@@ -399,20 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Jhonattan Vegas stays ahead in PGA Championship as Scottie Scheffler looms large",
-    "url": "https://www.cbc.ca/sports/golf/pga-championship-round-2-1.7537939?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "PWHL players, GMs waiting to hear how expansion draft will affect existing teams",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-expansion-awaiitng-details-2025-1.7533867?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Drizzle, 12.2°C",
+    "headline": "Current Conditions: Light Drizzle, 11.4°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
