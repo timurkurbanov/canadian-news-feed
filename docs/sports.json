@@ -2,8 +2,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'Beyond the crash': TV series on former Humboldt Bronco Ryan Straschnitzki set to air",
+    "url": "https://www.cbc.ca/sports/paralympics/summer/wheelchair-baketball/humboldt-bronco-ryan-straschnitzki-tv-series-1.7538249?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Stars score OT power-play goal to beat Jets 2-1, winning playoff series",
     "url": "https://www.cbc.ca/news/canada/manitoba/dallas-stars-winnipeg-jets-nhl-playoffs-1.7538068?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Winnipeg Jets star Mark Scheifele plays, scores team's lone goal hours after learning of father's death",
+    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-mark-scheifele-father-death-1.7538075?cmp=rss",
     "category": "Sports"
   },
   {
@@ -16,8 +30,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'Beyond the crash': TV series on former Humboldt Bronco Ryan Straschnitzki set to air",
-    "url": "https://www.cbc.ca/sports/paralympics/summer/wheelchair-baketball/humboldt-bronco-ryan-straschnitzki-tv-series-1.7538249?cmp=rss",
+    "headline": "Maple Leafs winger Matthew Knies to play Game 7 against Panthers",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/matthews-knies-game-7-status-1.7538309?cmp=rss",
     "category": "Sports"
   },
   {
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "With 1 year until the franchise tips off, WNBA's Toronto Tempo starting to come together",
     "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-1-year-out-1.7530768?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Auston Matthews breaks through, Maple Leafs beat Panthers 2-0 to force Game 7",
-    "url": "https://www.cbc.ca/news/canada/toronto/toronto-maple-leafs-florida-panthers-game-six-round-two-nhl-playoffs-1.7537136?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Judge to decide fate of ex-world junior players in sex assault trial after jury discharged",
-    "url": "https://www.cbc.ca/9.6763163?cmp=rss",
     "category": "Sports"
   }
 ]
