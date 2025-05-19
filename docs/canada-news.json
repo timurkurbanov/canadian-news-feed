@@ -142,6 +142,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada Post receives strike notice; workers plan Friday walkout",
+    "url": "https://www.cbc.ca/news/business/canada-post-strike-notice-1.7538696?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Bankrupt DNA testing company 23andMe to be bought by Regeneron",
     "url": "https://www.cbc.ca/news/business/23andme-bought-by-regeneron-1.7538510?cmp=rss",
     "category": "Business"
@@ -268,15 +275,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian-resident return trips from the U.S. drop again for April, StatsCan data shows",
-    "url": "https://www.cbc.ca/news/business/canada-travel-april-1.7532552?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "PWHL unveils expansion draft and signing guidelines for new franchises in Vancouver, Seattle",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-unveils-expansion-draft-and-signing-guidelines-1.7538548?cmp=rss",
+    "headline": "Charge, Frost keep focus on Walter Cup final after expansion draft announcement",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-walter-cup-final-frost-charge-expansion-draft-1.7538683?cmp=rss",
     "category": "Sports"
   },
   {
@@ -298,6 +298,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada coach Jesse Marsch understands why some fans may not want to travel to US for Gold Cup",
     "url": "https://www.cbc.ca/sports/soccer/canada-gold-cup-us-travel-1.7538663?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "PWHL unveils expansion draft and signing guidelines for new franchises in Vancouver, Seattle",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-unveils-expansion-draft-and-signing-guidelines-1.7538548?cmp=rss",
     "category": "Sports"
   },
   {
@@ -403,13 +410,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Athletes' injury risk altered by menstrual cycle, research indicates",
     "url": "https://www.cbc.ca/sports/women-athletes-sports-injuries-1.7529929?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Caitlin Clark says flagrant foul for shoving Angel Reese was not 'malicious'",
-    "url": "https://www.cbc.ca/sports/basketball/caitlin-clark-flagrant-foul-angel-reese-1.7538299?cmp=rss",
     "category": "Sports"
   },
   {
