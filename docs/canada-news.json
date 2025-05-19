@@ -373,6 +373,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "How a girls' hockey team from Nain, Labrador found themselves at a PWHL playoff game",
+    "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nain-girls-hockey-team-pwhl-playoff-game-1.7537332?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Alcaraz beats Sinner again to win Italian Open, solidifying his status as French Open favourite",
     "url": "https://www.cbc.ca/sports/tennis/alcaraz-beats-sinner-italian-open-final-1.7538343?cmp=rss",
     "category": "Sports"
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Athletes' injury risk altered by menstrual cycle, research indicates",
-    "url": "https://www.cbc.ca/sports/women-athletes-sports-injuries-1.7529929?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,28 +429,21 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Monday: Overcast. High 13.",
+    "headline": "Monday night: Overcast. Low 6.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Monday night: Cloudy. Low 6.",
+    "headline": "Tuesday: Cloudy. High 14.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Tuesday: Cloudy. High 15.",
-    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
-    "category": "Weather"
-  },
-  {
-    "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Tuesday night: Cloudy. Low 8.",
+    "headline": "Tuesday night: Chance of showers. Low 9. POP 40%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
