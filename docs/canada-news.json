@@ -275,6 +275,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Maple Leafs go down quietly in Game 7 as Panthers advance to Eastern Conference final",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/toronto-maple-leafs-florida-panthers-game-7-recap-1.7538309?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "World No. 1 player Scheffler pulls away to win PGA Championship for third major title",
     "url": "https://www.cbc.ca/sports/golf/pga-championship-round-4-recap-1.7538431?cmp=rss",
     "category": "Sports"
@@ -289,8 +296,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Maple Leafs winger Matthew Knies to play Game 7 against Panthers",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/matthews-knies-game-7-status-1.7538309?cmp=rss",
+    "headline": "Robertson's late goal lifts Calgary Wild to late upset win over Montreal Roses",
+    "url": "https://www.cbc.ca/sports/soccer/nsl-calgary-wild-montreal-roses-may-18-1.7538405?cmp=rss",
     "category": "Sports"
   },
   {
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "New Zealand rallies with late try to tie Canada in pulsating women's rugby clash",
-    "url": "https://www.cbc.ca/sports/rugby/pacific-four-series-canada-new-zealand-may-17-1.7538041?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Cloudy, 7.9°C",
+    "headline": "Current Conditions: Cloudy, 7.6°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
