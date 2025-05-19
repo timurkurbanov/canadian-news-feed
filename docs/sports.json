@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada Soccer names preliminary 60-man roster for this summer's CONCACAF Gold Cup",
+    "url": "https://www.cbc.ca/sports/soccer/canada-preliminary-roster-gold-cup-1.7538646?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Maple Leafs go down quietly in Game 7 as Panthers advance to Eastern Conference final",
     "url": "https://www.cbc.ca/sports/hockey/nhl/toronto-maple-leafs-florida-panthers-game-7-recap-1.7538309?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Caitlin Clark says flagrant foul for shoving Angel Reese was not 'malicious'",
     "url": "https://www.cbc.ca/sports/basketball/caitlin-clark-flagrant-foul-angel-reese-1.7538299?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Marathoners headline initial Canadian squad for World Athletics Championships in Tokyo",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/canada-marathon-roster-world-athletics-championships-tokyo-1.7534310?cmp=rss",
     "category": "Sports"
   }
 ]
