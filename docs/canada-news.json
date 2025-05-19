@@ -2,6 +2,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada, Britain, France threaten action if Israel does not stop military offensive and lift aid restrictions",
+    "url": "https://www.cbc.ca/news/world/israel-gaza-aid-military-1.7538495?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney talks trade with U.S. Vice-President JD Vance in Rome",
+    "url": "https://www.cbc.ca/news/world/carney-vance-trade-rome-1.7538449?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Liberals will table a budget this fall, Prime Minister Mark Carney says",
     "url": "https://www.cbc.ca/news/politics/federal-budget-mark-carney-1.7538248?cmp=rss",
     "category": "Politics"
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre 'very disappointed' in government's decision to skip spring budget",
     "url": "https://www.cbc.ca/news/politics/poilievre-budget-very-disappointed-1.7535788?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'It's been very emotional,' says Bloc Terrebonne candidate Nathalie Sinclair-Desgagné",
-    "url": "https://www.cbc.ca/player/play/9.6761921?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's military plans to be in the Arctic 'on a near permanent basis,' says commander",
-    "url": "https://www.cbc.ca/news/politics/canada-arctic-troops-expansion-exercise-1.7535095?cmp=rss",
     "category": "Politics"
   },
   {
@@ -282,13 +282,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada Soccer names preliminary 60-man roster for this summer's CONCACAF Gold Cup",
-    "url": "https://www.cbc.ca/sports/soccer/canada-preliminary-roster-gold-cup-1.7538646?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Maple Leafs go down quietly in Game 7 as Panthers advance to Eastern Conference final",
     "url": "https://www.cbc.ca/sports/hockey/nhl/toronto-maple-leafs-florida-panthers-game-7-recap-1.7538309?cmp=rss",
     "category": "Sports"
@@ -296,15 +289,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Andreescu blanks Chinese opponent to open French Open qualifiers",
-    "url": "https://www.cbc.ca/sports/tennis/bianca-andreescu-french-open-qualifiers-1.7538586?cmp=rss",
+    "headline": "Sports broadcaster Gary Lineker to leave BBC after sharing Instagram story about Zionism",
+    "url": "https://www.cbc.ca/news/world/gary-lineker-steps-down-1.7538515?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Sports broadcaster Gary Lineker to leave BBC after sharing Instagram story about Zionism",
-    "url": "https://www.cbc.ca/news/world/gary-lineker-steps-down-1.7538515?cmp=rss",
+    "headline": "Canada coach Jesse Marsch understands why some fans may not want to travel to US for Gold Cup",
+    "url": "https://www.cbc.ca/sports/soccer/canada-gold-cup-us-travel-1.7538663?cmp=rss",
     "category": "Sports"
   },
   {
@@ -324,8 +317,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "How a soccer team in Chile with Palestinian roots gives fans reason to cheer amid Gaza war",
-    "url": "https://www.cbc.ca/news/world/palestino-palestinian-soccer-chile-1.7536572?cmp=rss",
+    "headline": "Andreescu blanks Chinese opponent to open French Open qualifiers",
+    "url": "https://www.cbc.ca/sports/tennis/bianca-andreescu-french-open-qualifiers-1.7538586?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Eco-friendly transportation a condition of planned Ottawa Senators arena",
+    "url": "https://www.cbc.ca/news/canada/ottawa/eco-friendly-transportation-a-condition-of-planned-ottawa-senators-arena-1.7538545?cmp=rss",
     "category": "Sports"
   },
   {
@@ -338,15 +338,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "World No. 1 player Scheffler pulls away to win PGA Championship for third major title",
-    "url": "https://www.cbc.ca/sports/golf/pga-championship-round-4-recap-1.7538431?cmp=rss",
+    "headline": "How a soccer team in Chile with Palestinian roots gives fans reason to cheer amid Gaza war",
+    "url": "https://www.cbc.ca/news/world/palestino-palestinian-soccer-chile-1.7536572?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Eco-friendly transportation a condition of planned Ottawa Senators arena",
-    "url": "https://www.cbc.ca/news/canada/ottawa/eco-friendly-transportation-a-condition-of-planned-ottawa-senators-arena-1.7538545?cmp=rss",
+    "headline": "World No. 1 player Scheffler pulls away to win PGA Championship for third major title",
+    "url": "https://www.cbc.ca/sports/golf/pga-championship-round-4-recap-1.7538431?cmp=rss",
     "category": "Sports"
   },
   {
@@ -361,20 +361,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "De Grasse finishes 2nd in tight 200m at Golden Grand Prix in Tokyo",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/2025-golden-grand-prix-canadians-1.7538226?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "New book about hockey team from Pelican Lake Indian Residential School set for Thunder Bay launch",
-    "url": "https://www.cbc.ca/news/canada/thunder-bay/beyond-the-rink-1.7534781?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "How a girls' hockey team from Nain, Labrador found themselves at a PWHL playoff game",
-    "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nain-girls-hockey-team-pwhl-playoff-game-1.7537332?cmp=rss",
     "category": "Sports"
   },
   {
@@ -413,6 +399,20 @@
     "category": "Sports"
   },
   {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Athletes' injury risk altered by menstrual cycle, research indicates",
+    "url": "https://www.cbc.ca/sports/women-athletes-sports-injuries-1.7529929?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Caitlin Clark says flagrant foul for shoving Angel Reese was not 'malicious'",
+    "url": "https://www.cbc.ca/sports/basketball/caitlin-clark-flagrant-foul-angel-reese-1.7538299?cmp=rss",
+    "category": "Sports"
+  },
+  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 10.6°C",
+    "headline": "Current Conditions: Mostly Cloudy, 10.3°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

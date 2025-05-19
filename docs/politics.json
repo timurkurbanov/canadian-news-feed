@@ -2,6 +2,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada, Britain, France threaten action if Israel does not stop military offensive and lift aid restrictions",
+    "url": "https://www.cbc.ca/news/world/israel-gaza-aid-military-1.7538495?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney talks trade with U.S. Vice-President JD Vance in Rome",
+    "url": "https://www.cbc.ca/news/world/carney-vance-trade-rome-1.7538449?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Liberals will table a budget this fall, Prime Minister Mark Carney says",
     "url": "https://www.cbc.ca/news/politics/federal-budget-mark-carney-1.7538248?cmp=rss",
     "category": "Politics"
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre 'very disappointed' in government's decision to skip spring budget",
     "url": "https://www.cbc.ca/news/politics/poilievre-budget-very-disappointed-1.7535788?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'It's been very emotional,' says Bloc Terrebonne candidate Nathalie Sinclair-Desgagné",
-    "url": "https://www.cbc.ca/player/play/9.6761921?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's military plans to be in the Arctic 'on a near permanent basis,' says commander",
-    "url": "https://www.cbc.ca/news/politics/canada-arctic-troops-expansion-exercise-1.7535095?cmp=rss",
     "category": "Politics"
   }
 ]
