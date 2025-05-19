@@ -37,8 +37,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's Bianca Andreescu cruises to win in French Open qualifiers",
+    "headline": "Andreescu blanks Chinese opponent to open French Open qualifiers",
     "url": "https://www.cbc.ca/sports/tennis/bianca-andreescu-french-open-qualifiers-1.7538586?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Eco-friendly transportation a condition of planned Ottawa Senators arena",
+    "url": "https://www.cbc.ca/news/canada/ottawa/eco-friendly-transportation-a-condition-of-planned-ottawa-senators-arena-1.7538545?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Marathoners headline initial Canadian squad for World Athletics Championships in Tokyo",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/canada-marathon-roster-world-athletics-championships-tokyo-1.7534310?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Colby Barnett's early goal lifts AFC Toronto past Halifax Tides 1-0 in NSL",
-    "url": "https://www.cbc.ca/sports/soccer/nsl-halifax-tides-afc-toronto-may-17-1.7538078?cmp=rss",
     "category": "Sports"
   }
 ]
