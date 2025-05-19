@@ -275,6 +275,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "World No. 1 player Scheffler pulls away to win PGA Championship for third major title",
+    "url": "https://www.cbc.ca/sports/golf/pga-championship-round-4-recap-1.7538431?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "'Beyond the crash': TV series on former Humboldt Bronco Ryan Straschnitzki set to air",
     "url": "https://www.cbc.ca/sports/paralympics/summer/wheelchair-baketball/humboldt-bronco-ryan-straschnitzki-tv-series-1.7538249?cmp=rss",
     "category": "Sports"
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "World Relays reveal Canada can lean on depth, continuity in buildup to 2025 world championships",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/morgan-campbell-world-relays-canada-1.7535233?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Cloudy, 8.3°C",
+    "headline": "Current Conditions: Cloudy, 8.1°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
