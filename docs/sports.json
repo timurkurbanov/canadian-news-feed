@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Sports broadcaster Gary Lineker to leave BBC after sharing Instagram story about Zionism",
+    "url": "https://www.cbc.ca/news/world/gary-lineker-steps-down-1.7538515?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "World No. 1 player Scheffler pulls away to win PGA Championship for third major title",
     "url": "https://www.cbc.ca/sports/golf/pga-championship-round-4-recap-1.7538431?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's Katie Vincent paddles to canoe sprint gold at World Cup event in Hungary",
     "url": "https://www.cbc.ca/sports/olympics/summer/canoe-kayak/katie-vincent-canoe-sprint-gold-world-cup-1.7538079?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Brendon Rodney makes the case for his team being Canada's 4x100m relay GOAT",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/cbc-sports-trackside-brendon-rodney-1.7534447?cmp=rss",
     "category": "Sports"
   }
 ]
