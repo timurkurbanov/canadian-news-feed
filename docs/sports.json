@@ -2,13 +2,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Tolvanen nets SO winner as Finland hands Canada first loss of men's hockey worlds",
-    "url": "https://www.cbc.ca/sports/hockey/recap-hockey-worlds-may-19-1.7538623?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Charge, Frost keep focus on Walter Cup final after expansion draft announcement",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-walter-cup-final-frost-charge-expansion-draft-1.7538683?cmp=rss",
     "category": "Sports"
@@ -16,15 +9,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Maple Leafs go down quietly in Game 7 as Panthers advance to Eastern Conference final",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/toronto-maple-leafs-florida-panthers-game-7-recap-1.7538309?cmp=rss",
+    "headline": "Edmonton Oilers confident ahead of meeting Dallas Stars again in Western final",
+    "url": "https://www.cbc.ca/news/canada/edmonton/hkn-oilers-stars-1.7538824?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Draisaitl and McDavid vs. Rantanen a matchup to watch in Western Conference Final",
-    "url": "https://www.cbc.ca/news/canada/edmonton/nhl-playoffs-oilers-stars-conference-final-1.7538680?cmp=rss",
+    "headline": "Tolvanen nets SO winner as Finland hands Canada first loss of men's hockey worlds",
+    "url": "https://www.cbc.ca/sports/hockey/recap-hockey-worlds-may-19-1.7538623?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Maple Leafs go down quietly in Game 7 as Panthers advance to Eastern Conference final",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/toronto-maple-leafs-florida-panthers-game-7-recap-1.7538309?cmp=rss",
     "category": "Sports"
   },
   {
