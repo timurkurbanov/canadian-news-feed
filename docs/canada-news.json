@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Trump: Canada has asked to join missile-defence program",
+    "url": "https://www.cbc.ca/news/world/trump-us-missile-defence-canada-1.7539390?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Here's the itinerary for the King's visit to deliver the throne speech in Ottawa",
     "url": "https://www.cbc.ca/news/politics/king-charles-visit-canada-pomp-1.7539041?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Recount confirms narrow Liberal victory in Milton East-Halton Hills South",
     "url": "https://www.cbc.ca/news/politics/recount-confirms-liberal-victory-milton-halton-1.7536903?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "The Liberals aren't tabling a budget. How does that affect the economy — and your wallet?",
-    "url": "https://www.cbc.ca/news/politics/no-federal-budget-impact-1.7536200?cmp=rss",
     "category": "Politics"
   },
   {
