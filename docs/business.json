@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "What can Toronto's real estate industry do to solve the city's big problem of small condos?",
+    "url": "https://www.cbc.ca/news/business/making-small-condos-bigger-1.7538637?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada Post receives strike notice; workers plan Friday walkout",
     "url": "https://www.cbc.ca/news/business/canada-post-strike-notice-1.7538696?cmp=rss",
     "category": "Business"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "U.S. car prices, consumer demand surge in April after tariffs hit",
     "url": "https://www.cbc.ca/news/canada/windsor/us-car-prices-surge-april-tariff-1.7533393?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Several conferences relocate north of the border as Canadians refuse to travel to the U.S.",
-    "url": "https://www.cbc.ca/news/business/conference-us-travel-1.7531255?cmp=rss",
     "category": "Business"
   }
 ]
