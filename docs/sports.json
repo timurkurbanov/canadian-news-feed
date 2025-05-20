@@ -16,8 +16,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Edmonton Oilers confident ahead of meeting Dallas Stars again in Western final",
-    "url": "https://www.cbc.ca/news/canada/edmonton/hkn-oilers-stars-1.7538824?cmp=rss",
+    "headline": "Long weekend recap: Men's hockey worlds heat up",
+    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-long-weekend-recap-may-20-1.7539434?cmp=rss",
     "category": "Sports"
   },
   {
@@ -25,6 +25,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Much-maligned Marner mum on Maple Leafs future after 2nd-round playoff exit",
     "url": "https://www.cbc.ca/sports/hockey/nhl/marner-mum-maple-leafs-future-tavares-nhl-1.7539105?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Edmonton Oilers confident ahead of meeting Dallas Stars again in Western final",
+    "url": "https://www.cbc.ca/news/canada/edmonton/hkn-oilers-stars-1.7538824?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Marathoners headline initial Canadian squad for World Athletics Championships in Tokyo",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/canada-marathon-roster-world-athletics-championships-tokyo-1.7534310?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "U.S. women's rugby star, Olympian Alev Kelter stomps opponent's head in Pacific Four Series match",
-    "url": "https://www.cbc.ca/sports/rugby/rugby-player-alev-kelter-head-stomp-1.7538279?cmp=rss",
     "category": "Sports"
   }
 ]
