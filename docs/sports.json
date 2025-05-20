@@ -44,6 +44,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada's Zach Edey named to NBA All-Rookie 1st team, joining Grizzlies teammate",
+    "url": "https://www.cbc.ca/sports/basketball/nba/zach-edey-nba-all-rookie-team-1.7539449?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian defender Vanessa Gilles joins Bayern Munich after soccer success in France",
     "url": "https://www.cbc.ca/sports/soccer/vanessa-gilles-transfer-bayern-munich-lyon-soccer-1.7539054?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Caitlin Clark says flagrant foul for shoving Angel Reese was not 'malicious'",
     "url": "https://www.cbc.ca/sports/basketball/caitlin-clark-flagrant-foul-angel-reese-1.7538299?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Marathoners headline initial Canadian squad for World Athletics Championships in Tokyo",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/canada-marathon-roster-world-athletics-championships-tokyo-1.7534310?cmp=rss",
     "category": "Sports"
   }
 ]
