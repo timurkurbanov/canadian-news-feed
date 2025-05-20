@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "King's visit to deliver throne speech will unleash 2 days of pomp and ceremony in Ottawa",
+    "url": "https://www.cbc.ca/news/politics/king-charles-visit-canada-pomp-1.7539041?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Inflation rate drops to 1.7% in April, driven by lower energy prices after carbon tax removal",
     "url": "https://www.cbc.ca/news/business/inflation-consumer-price-index-april-1.7538823?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "The Liberals aren't tabling a budget. How does that affect the economy — and your wallet?",
     "url": "https://www.cbc.ca/news/politics/no-federal-budget-impact-1.7536200?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Why Conservative Leader Pierre Poilievre moved out of his office, but not Stornoway",
-    "url": "https://www.cbc.ca/news/politics/conservative-leader-stornoway-official-residence-1.7536343?cmp=rss",
     "category": "Politics"
   },
   {
@@ -303,6 +303,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadian defender Vanessa Gilles joins Bayern Munich after soccer success in France",
+    "url": "https://www.cbc.ca/sports/soccer/vanessa-gilles-transfer-bayern-munich-lyon-soccer-1.7539054?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Tolvanen nets SO winner as Finland hands Canada 1st loss at men's hockey worlds",
     "url": "https://www.cbc.ca/sports/hockey/recap-hockey-worlds-may-19-1.7538623?cmp=rss",
     "category": "Sports"
@@ -403,13 +410,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Athletes' injury risk altered by menstrual cycle, research indicates",
     "url": "https://www.cbc.ca/sports/women-athletes-sports-injuries-1.7529929?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Caitlin Clark says flagrant foul for shoving Angel Reese was not 'malicious'",
-    "url": "https://www.cbc.ca/sports/basketball/caitlin-clark-flagrant-foul-angel-reese-1.7538299?cmp=rss",
     "category": "Sports"
   },
   {
