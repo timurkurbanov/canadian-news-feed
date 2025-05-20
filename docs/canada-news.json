@@ -2,7 +2,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "King's visit to deliver throne speech will bring 2 days of pomp and ceremony to Ottawa",
+    "headline": "Here's the itinerary for the King's visit to deliver the throne speech in Ottawa",
     "url": "https://www.cbc.ca/news/politics/king-charles-visit-canada-pomp-1.7539041?cmp=rss",
     "category": "Politics"
   },
@@ -163,6 +163,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "TotalEnergies signs supply deal with proposed Ksi Lisims LNG project on B.C. coast",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/totalenergies-supply-deal-ksi-lisims-lng-1.7539074?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Subaru of America is the latest carmaker to raise prices citing market conditions",
     "url": "https://www.cbc.ca/news/canada/windsor/subarua-carmaker-tariff-trump-prices-rise-1.7538813?cmp=rss",
     "category": "Business"
@@ -263,13 +270,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Union representing Air Canada's flight attendants files for conciliation as talks stall",
     "url": "https://www.cbc.ca/news/business/air-canada-flight-attendant-conciliation-1.7534991?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Ontario, Manitoba agree to boost interprovincial trade, facing U.S. tariff crunch",
-    "url": "https://www.cbc.ca/news/canada/toronto/ontario-manitoba-trade-interprovincial-agreement-1.7534660?cmp=rss",
     "category": "Business"
   },
   {
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 12.7°C",
+    "headline": "Current Conditions: Mostly Cloudy, 13.3°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
