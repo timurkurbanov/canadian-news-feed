@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ex-teammate under cross-examination at judge-only sex assault trial of former world junior hockey players",
+    "url": "https://www.cbc.ca/news/canada/london/livestory/ex-teammate-under-cross-examination-at-judge-only-sex-assault-trial-of-former-world-junior-hockey-players-9.6766098?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Tolvanen nets SO winner as Finland hands Canada first loss of men's hockey worlds",
     "url": "https://www.cbc.ca/sports/hockey/recap-hockey-worlds-may-19-1.7538623?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Stars score OT power-play goal to beat Jets 2-1, winning playoff series",
     "url": "https://www.cbc.ca/news/canada/manitoba/dallas-stars-winnipeg-jets-nhl-playoffs-1.7538068?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Winnipeg Jets star Mark Scheifele plays, scores team's lone goal hours after learning of father's death",
-    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-jets-mark-scheifele-father-death-1.7538075?cmp=rss",
     "category": "Sports"
   }
 ]
