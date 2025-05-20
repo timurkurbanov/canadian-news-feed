@@ -9,8 +9,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "PWHL unveils expansion draft and signing guidelines for new franchises in Vancouver, Seattle",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-unveils-expansion-draft-and-signing-guidelines-1.7538548?cmp=rss",
+    "headline": "NFL owners unanimously approve player participation in 2028 Olympic flag football",
+    "url": "https://www.cbc.ca/sports/football/nfl/nfl-owners-flag-football-2028-olympics-1.7539460?cmp=rss",
     "category": "Sports"
   },
   {
@@ -46,6 +46,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's Zach Edey named to NBA All-Rookie 1st team, joining Grizzlies teammate",
     "url": "https://www.cbc.ca/sports/basketball/nba/zach-edey-nba-all-rookie-team-1.7539449?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "PWHL unveils expansion draft and signing guidelines for new franchises in Vancouver, Seattle",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-unveils-expansion-draft-and-signing-guidelines-1.7538548?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Athletes' injury risk altered by menstrual cycle, research indicates",
     "url": "https://www.cbc.ca/sports/women-athletes-sports-injuries-1.7529929?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Caitlin Clark says flagrant foul for shoving Angel Reese was not 'malicious'",
-    "url": "https://www.cbc.ca/sports/basketball/caitlin-clark-flagrant-foul-angel-reese-1.7538299?cmp=rss",
     "category": "Sports"
   }
 ]
