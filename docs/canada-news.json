@@ -2,7 +2,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "King's visit to deliver throne speech will unleash 2 days of pomp and ceremony in Ottawa",
+    "headline": "King's visit to deliver throne speech will bring 2 days of pomp and ceremony to Ottawa",
     "url": "https://www.cbc.ca/news/politics/king-charles-visit-canada-pomp-1.7539041?cmp=rss",
     "category": "Politics"
   },
@@ -296,6 +296,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Much-maligned Marner mum on Maple Leafs future after 2nd-round playoff exit",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/marner-mum-maple-leafs-future-tavares-nhl-1.7539105?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ex-teammate and NHLer Brett Howden testifying at sex assault trial of former world junior players",
     "url": "https://www.cbc.ca/news/canada/london/livestory/ex-teammate-and-nhler-brett-howden-testifying-at-sex-assault-trial-of-former-world-junior-players-9.6766098?cmp=rss",
     "category": "Sports"
@@ -305,13 +312,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian defender Vanessa Gilles joins Bayern Munich after soccer success in France",
     "url": "https://www.cbc.ca/sports/soccer/vanessa-gilles-transfer-bayern-munich-lyon-soccer-1.7539054?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Tolvanen nets SO winner as Finland hands Canada 1st loss at men's hockey worlds",
-    "url": "https://www.cbc.ca/sports/hockey/recap-hockey-worlds-may-19-1.7538623?cmp=rss",
     "category": "Sports"
   },
   {
@@ -345,13 +345,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Maple Leafs go down quietly in Game 7 as Panthers advance to Eastern Conference final",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/toronto-maple-leafs-florida-panthers-game-7-recap-1.7538309?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Andreescu blanks Chinese opponent to open French Open qualifiers",
     "url": "https://www.cbc.ca/sports/tennis/bianca-andreescu-french-open-qualifiers-1.7538586?cmp=rss",
     "category": "Sports"
@@ -361,13 +354,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Eco-friendly transportation a condition of planned Ottawa Senators arena",
     "url": "https://www.cbc.ca/news/canada/ottawa/eco-friendly-transportation-a-condition-of-planned-ottawa-senators-arena-1.7538545?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Robertson's late goal lifts Calgary Wild to late upset win over Montreal Roses",
-    "url": "https://www.cbc.ca/sports/soccer/nsl-calgary-wild-montreal-roses-may-18-1.7538405?cmp=rss",
     "category": "Sports"
   },
   {
@@ -401,15 +387,29 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Alcaraz beats Sinner again to win Italian Open, solidifying his status as French Open favourite",
-    "url": "https://www.cbc.ca/sports/tennis/alcaraz-beats-sinner-italian-open-final-1.7538343?cmp=rss",
+    "headline": "Athletes' injury risk altered by menstrual cycle, research indicates",
+    "url": "https://www.cbc.ca/sports/women-athletes-sports-injuries-1.7529929?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Athletes' injury risk altered by menstrual cycle, research indicates",
-    "url": "https://www.cbc.ca/sports/women-athletes-sports-injuries-1.7529929?cmp=rss",
+    "headline": "Caitlin Clark says flagrant foul for shoving Angel Reese was not 'malicious'",
+    "url": "https://www.cbc.ca/sports/basketball/caitlin-clark-flagrant-foul-angel-reese-1.7538299?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Marathoners headline initial Canadian squad for World Athletics Championships in Tokyo",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/canada-marathon-roster-world-athletics-championships-tokyo-1.7534310?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "U.S. women's rugby star, Olympian Alev Kelter stomps opponent's head in Pacific Four Series match",
+    "url": "https://www.cbc.ca/sports/rugby/rugby-player-alev-kelter-head-stomp-1.7538279?cmp=rss",
     "category": "Sports"
   },
   {
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Tuesday: Mainly cloudy. High 12.",
+    "headline": "Tuesday: Mainly cloudy. High 13.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
