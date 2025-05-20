@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Top finance officials from G7 countries gather in Banff for 3-day summit",
+    "url": "https://www.cbc.ca/news/canada/calgary/calgary-g7-finance-ministers-meeting-banff-1.7539528?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Here's the itinerary for the King's visit to deliver the throne speech in Ottawa",
     "url": "https://www.cbc.ca/news/politics/king-charles-visit-canada-pomp-1.7539041?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Clock starts on timing of byelection Poilievre hopes to use to return to Parliament",
     "url": "https://www.cbc.ca/news/canada/edmonton/clock-starts-on-timing-of-byelection-poilievre-hopes-to-use-to-return-to-parliament-1.7537102?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Big streamers argue at CRTC hearing they shouldn't have Canadian content obligations",
-    "url": "https://www.cbc.ca/news/politics/big-streamers-argue-at-crtc-hearing-they-shouldn-t-have-canadian-content-obligations-1.7537489?cmp=rss",
     "category": "Politics"
   }
 ]
