@@ -149,6 +149,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Subaru of America is the latest carmaker to raise prices citing market conditions",
+    "url": "https://www.cbc.ca/news/canada/windsor/subarua-carmaker-tariff-trump-prices-rise-1.7538813?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada Post receives strike notice; workers plan Friday walkout",
     "url": "https://www.cbc.ca/news/business/canada-post-strike-notice-1.7538696?cmp=rss",
     "category": "Business"
@@ -263,13 +270,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Honda to postpone plans for EV plant in Canada for at least 2 years",
     "url": "https://www.cbc.ca/news/business/honda-canada-ev-announcement-1.7533402?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "U.S. car prices, consumer demand surge in April after tariffs hit",
-    "url": "https://www.cbc.ca/news/canada/windsor/us-car-prices-surge-april-tariff-1.7533393?cmp=rss",
     "category": "Business"
   },
   {
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Partly Cloudy, 4.5°C",
+    "headline": "Current Conditions: Mainly Sunny, 6.8°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
