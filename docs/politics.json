@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "CRTC hears debate on considering 'cultural element' when defining Canadian content",
+    "url": "https://www.cbc.ca/news/entertainment/crtc-cultural-element-debate-1.7539405?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Here's the itinerary for the King's visit to deliver the throne speech in Ottawa",
     "url": "https://www.cbc.ca/news/politics/king-charles-visit-canada-pomp-1.7539041?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Big streamers argue at CRTC hearing they shouldn't have Canadian content obligations",
     "url": "https://www.cbc.ca/news/politics/big-streamers-argue-at-crtc-hearing-they-shouldn-t-have-canadian-content-obligations-1.7537489?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Recount confirms narrow Liberal victory in Milton East-Halton Hills South",
-    "url": "https://www.cbc.ca/news/politics/recount-confirms-liberal-victory-milton-halton-1.7536903?cmp=rss",
     "category": "Politics"
   }
 ]
