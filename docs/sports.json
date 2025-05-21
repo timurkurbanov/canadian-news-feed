@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "NFL owners unanimously approve player participation in 2028 Olympic flag football",
+    "url": "https://www.cbc.ca/sports/football/nfl/nfl-owners-flag-football-2028-olympics-1.7539460?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PWHL Finals preview: Ottawa Charge looking to become 1st Canadian PWHL champions",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-finals-preview-2025-1.7539021?cmp=rss",
     "category": "Sports"
@@ -16,8 +23,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "NFL owners unanimously approve player participation in 2028 Olympic flag football",
-    "url": "https://www.cbc.ca/sports/football/nfl/nfl-owners-flag-football-2028-olympics-1.7539460?cmp=rss",
+    "headline": "Canada's Zach Edey named to NBA All-Rookie 1st team, joining Grizzlies teammate",
+    "url": "https://www.cbc.ca/sports/basketball/nba/zach-edey-nba-all-rookie-team-1.7539449?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'It's time': U.S. women's hockey star Hilary Knight says 2026 Olympics will be her last",
+    "url": "https://www.cbc.ca/sports/hockey/hilary-knight-2026-olympics-1.7539685?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "RECAP | Crown suggests inconsistencies in NHLer Brett Howden’s testimony at trial of ex- world junior players",
+    "url": "https://www.cbc.ca/news/canada/london/livestory/recap-crown-suggests-inconsistencies-in-nhler-brett-howdens-testimony-at-trial-of-ex-world-junior-players-9.6766098?cmp=rss",
     "category": "Sports"
   },
   {
@@ -37,22 +58,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "RECAP | Crown suggests inconsistencies in NHLer Brett Howden’s testimony at trial of ex- world junior players",
-    "url": "https://www.cbc.ca/news/canada/london/livestory/recap-crown-suggests-inconsistencies-in-nhler-brett-howdens-testimony-at-trial-of-ex-world-junior-players-9.6766098?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Edmonton Oilers confident ahead of meeting Dallas Stars again in Western final",
     "url": "https://www.cbc.ca/news/canada/edmonton/hkn-oilers-stars-1.7538824?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's Zach Edey named to NBA All-Rookie 1st team, joining Grizzlies teammate",
-    "url": "https://www.cbc.ca/sports/basketball/nba/zach-edey-nba-all-rookie-team-1.7539449?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "De Grasse finishes 2nd in tight 200m at Golden Grand Prix in Tokyo",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/2025-golden-grand-prix-canadians-1.7538226?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Athletes' injury risk altered by menstrual cycle, research indicates",
-    "url": "https://www.cbc.ca/sports/women-athletes-sports-injuries-1.7529929?cmp=rss",
     "category": "Sports"
   }
 ]
