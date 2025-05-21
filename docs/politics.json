@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Arctic energy, security on agenda as Western premiers meet  in Yellowknife",
+    "url": "https://www.cbc.ca/news/canada/north/western-premiers-set-to-meet-in-yellowknife-for-2-day-conference-1.7539803?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada wants to join Golden Dome missile-defence program, Trump says",
     "url": "https://www.cbc.ca/news/world/golden-dome-trump-us-missile-defence-canada-1.7539390?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Leaked Canadian military report shows many new recruits are quickly leaving",
     "url": "https://www.cbc.ca/news/politics/military-retention-program-defunding-1.7536509?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "U.S. ambassador says country is 'open to doing business' with Canada amid trade war",
-    "url": "https://www.cbc.ca/news/politics/us-trade-disruption-will-pass-former-us-un-ambassador-1.7537635?cmp=rss",
     "category": "Politics"
   }
 ]

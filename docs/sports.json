@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Thunder star Shai Gilgeous-Alexander expected to be 2nd Canadian to win NBA MVP when award announced tonight",
+    "url": "https://www.cbc.ca/sports/basketball/nba/nba-mvp-shai-gilgeous-alexander-may-21-1.7539832?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Emily Clark scores OT winner as Charge edge Frost in Game 1 of PWHL Finals",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/ottawa-charge-minnesota-frost-pwhl-finals-recap-game-1-1.7539691?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Eco-friendly transportation a condition of planned Ottawa Senators arena",
     "url": "https://www.cbc.ca/news/canada/ottawa/eco-friendly-transportation-a-condition-of-planned-ottawa-senators-arena-1.7538545?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "How a soccer team in Chile with Palestinian roots gives fans reason to cheer amid Gaza war",
-    "url": "https://www.cbc.ca/news/world/palestino-palestinian-soccer-chile-1.7536572?cmp=rss",
     "category": "Sports"
   }
 ]
