@@ -2,7 +2,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Postal worker union floats 2-week pause on potential strike after Canada Post makes offer",
+    "headline": "Canada Post rejects union's offer to delay potential strike",
     "url": "https://www.cbc.ca/news/business/canada-post-cupw-offer-1.7540053?cmp=rss",
     "category": "Politics"
   },
@@ -142,7 +142,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Postal worker union floats 2-week pause on potential strike after Canada Post makes offer",
+    "headline": "Canada Post rejects union's offer to delay potential strike",
     "url": "https://www.cbc.ca/news/business/canada-post-cupw-offer-1.7540053?cmp=rss",
     "category": "Business"
   },
@@ -429,28 +429,21 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Wednesday: Chance of showers. High 16. POP 30%",
+    "headline": "Wednesday night: Chance of showers. Low 7. POP 40%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Wednesday night: Chance of showers. Low 9. POP 40%",
+    "headline": "Thursday: Periods of rain. High 10.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Thursday: Periods of rain. High 11.",
-    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
-    "category": "Weather"
-  },
-  {
-    "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Thursday night: Chance of showers. Low 7. POP 60%",
+    "headline": "Thursday night: Chance of showers. Low 6. POP 40%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
@@ -464,7 +457,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Friday night: Chance of showers. Low 8. POP 60%",
+    "headline": "Friday night: Chance of showers. Low 7. POP 60%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
@@ -478,14 +471,14 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Saturday night: Chance of showers. Low 8. POP 40%",
+    "headline": "Saturday night: Chance of showers. Low 7. POP 40%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Sunday: Chance of showers. High 19. POP 30%",
+    "headline": "Sunday: Chance of showers. High 20. POP 30%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
@@ -499,7 +492,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Monday: Chance of showers. High 21. POP 40%",
+    "headline": "Monday: Chance of showers. High 22. POP 40%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
@@ -513,7 +506,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Tuesday: Cloudy. High 18.",
+    "headline": "Tuesday: Cloudy. High 20.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
