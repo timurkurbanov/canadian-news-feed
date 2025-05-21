@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Much the same even with some new names as Oilers and Stars meet again in West final",
+    "url": "https://www.cbc.ca/news/canada/edmonton/much-the-same-even-with-some-new-names-as-oilers-and-stars-meet-again-in-west-final-1.7539933?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "NFL owners reportedly vote to keep tush push short-yardage play",
     "url": "https://www.cbc.ca/sports/football/nfl/nfl-owners-tush-push-vote-1.7540065?cmp=rss",
     "category": "Sports"
@@ -30,15 +37,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "NFL owners unanimously approve player participation in 2028 Olympic flag football",
-    "url": "https://www.cbc.ca/sports/football/nfl/nfl-owners-flag-football-2028-olympics-1.7539460?cmp=rss",
+    "headline": "Emily Clark scores OT winner as Charge edge Frost in Game 1 of PWHL Finals",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/ottawa-charge-minnesota-frost-pwhl-finals-recap-game-1-1.7539691?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Emily Clark scores OT winner as Charge edge Frost in Game 1 of PWHL Finals",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/ottawa-charge-minnesota-frost-pwhl-finals-recap-game-1-1.7539691?cmp=rss",
+    "headline": "NFL owners unanimously approve player participation in 2028 Olympic flag football",
+    "url": "https://www.cbc.ca/sports/football/nfl/nfl-owners-flag-football-2028-olympics-1.7539460?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada coach Jesse Marsch understands why some fans may not want to travel to US for Gold Cup",
     "url": "https://www.cbc.ca/sports/soccer/canada-gold-cup-us-travel-1.7538663?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "WNBA investigating alleged racial slurs by fans toward Angel Reese during Indiana game: reports",
-    "url": "https://www.cbc.ca/sports/basketball/wnba-investigating-racial-slurs-made-at-angel-reese-1.7538540?cmp=rss",
     "category": "Sports"
   }
 ]
