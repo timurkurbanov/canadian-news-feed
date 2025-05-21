@@ -163,6 +163,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "3-year deal reached in labour dispute between LifeLabs and 1,200 striking workers",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/lifelabs-deal-reached-1.7540160?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Top finance officials from G7 countries gather in Banff for 3-day summit",
     "url": "https://www.cbc.ca/news/canada/calgary/calgary-g7-finance-ministers-meeting-banff-1.7539528?cmp=rss",
     "category": "Business"
@@ -268,22 +275,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian Tire to take over Hudson's Bay's iconic stripes, logos",
-    "url": "https://www.cbc.ca/news/business/hudson-s-bay-stripes-candian-tire-1.7536366?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Thunder star Shai Gilgeous-Alexander expected to be 2nd Canadian to win NBA MVP when award announced tonight",
     "url": "https://www.cbc.ca/sports/basketball/nba/nba-mvp-shai-gilgeous-alexander-may-21-1.7539832?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'I'm back': Pacquiao unretiring at 46 to challenge WBC welterweight champion Barrios in Las Vegas",
-    "url": "https://www.cbc.ca/sports/olympics/summer/boxing/manny-pacquiao-unretires-46-years-old-1.7540019?cmp=rss",
     "category": "Sports"
   },
   {
@@ -296,8 +289,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "RBC Canadian Open poised for launch, as Nick Taylor's 2023 win helped spur a national golf renaissance",
+    "url": "https://www.cbc.ca/sports/golf/canada-golfers-2025-canadian-open-1.7539480?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Much the same even with some new names as Oilers and Stars meet again in West final",
     "url": "https://www.cbc.ca/news/canada/edmonton/much-the-same-even-with-some-new-names-as-oilers-and-stars-meet-again-in-west-final-1.7539933?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'I'm back': Pacquiao unretiring at 46 to challenge WBC welterweight champion Barrios in Las Vegas",
+    "url": "https://www.cbc.ca/sports/olympics/summer/boxing/manny-pacquiao-unretires-46-years-old-1.7540019?cmp=rss",
     "category": "Sports"
   },
   {
@@ -403,13 +410,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian defender Vanessa Gilles joins Bayern Munich after soccer success in France",
     "url": "https://www.cbc.ca/sports/soccer/vanessa-gilles-transfer-bayern-munich-lyon-soccer-1.7539054?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Sports broadcaster Gary Lineker to leave BBC after sharing Instagram story about Zionism",
-    "url": "https://www.cbc.ca/news/world/gary-lineker-steps-down-1.7538515?cmp=rss",
     "category": "Sports"
   },
   {
