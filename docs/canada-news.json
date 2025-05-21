@@ -142,6 +142,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Top finance officials from G7 countries gather in Banff for 3-day summit",
+    "url": "https://www.cbc.ca/news/canada/calgary/calgary-g7-finance-ministers-meeting-banff-1.7539528?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada Post is in trouble. Here are the facts",
+    "url": "https://www.cbc.ca/news/canada/canada-post-crisis-facts-1.7539354?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Inflation rate drops to 1.7% in April, driven by lower energy prices after carbon tax removal",
     "url": "https://www.cbc.ca/news/business/inflation-consumer-price-index-april-1.7538823?cmp=rss",
     "category": "Business"
@@ -256,20 +270,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Will the Liberals' campaign promises help fix the housing crisis?",
     "url": "https://www.cbc.ca/news/liberals-campaign-promises-housing-1.7524791?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Enbridge sells stake in Westcoast pipeline to First Nations group",
-    "url": "https://www.cbc.ca/news/canada/calgary/enbridge-sells-stake-in-westcoast-pipeline-to-first-nations-group-1.7535543?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Union representing Air Canada's flight attendants files for conciliation as talks stall",
-    "url": "https://www.cbc.ca/news/business/air-canada-flight-attendant-conciliation-1.7534991?cmp=rss",
     "category": "Business"
   },
   {
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 8.6°C",
+    "headline": "Current Conditions: Mostly Cloudy, 9.4°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
