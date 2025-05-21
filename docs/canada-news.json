@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada Post is in trouble. Here are the facts",
+    "url": "https://www.cbc.ca/news/canada/canada-post-crisis-facts-1.7539354?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada wants to join Golden Dome missile-defence program, Trump says",
     "url": "https://www.cbc.ca/news/world/golden-dome-trump-us-missile-defence-canada-1.7539390?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney travelling to Rome with Liberal MPs for Pope's inaugural mass",
     "url": "https://www.cbc.ca/news/politics/carney-travelling-to-rome-with-liberal-mps-for-pope-s-inaugural-mass-1.7537089?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Clock starts on timing of byelection Poilievre hopes to use to return to Parliament",
-    "url": "https://www.cbc.ca/news/canada/edmonton/clock-starts-on-timing-of-byelection-poilievre-hopes-to-use-to-return-to-parliament-1.7537102?cmp=rss",
     "category": "Politics"
   },
   {
@@ -296,6 +296,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Hamilton-born artist-turned-fighter to represent Canada at Muay Thai world championship",
+    "url": "https://www.cbc.ca/news/canada/hamilton/fehn-foss-muay-thai-1.7538934?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada wins Group A at men's hockey worlds, will face Denmark in Thursday quarterfinal",
     "url": "https://www.cbc.ca/sports/hockey/austria-recap-hockey-worlds-may-20-1.7538890?cmp=rss",
     "category": "Sports"
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "World No. 1 player Scheffler pulls away to win PGA Championship for third major title",
-    "url": "https://www.cbc.ca/sports/golf/pga-championship-round-4-recap-1.7538431?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 8.9°C",
+    "headline": "Current Conditions: Light Drizzle, 8.7°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

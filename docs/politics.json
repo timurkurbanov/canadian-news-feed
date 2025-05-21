@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada Post is in trouble. Here are the facts",
+    "url": "https://www.cbc.ca/news/canada/canada-post-crisis-facts-1.7539354?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada wants to join Golden Dome missile-defence program, Trump says",
     "url": "https://www.cbc.ca/news/world/golden-dome-trump-us-missile-defence-canada-1.7539390?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney travelling to Rome with Liberal MPs for Pope's inaugural mass",
     "url": "https://www.cbc.ca/news/politics/carney-travelling-to-rome-with-liberal-mps-for-pope-s-inaugural-mass-1.7537089?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Clock starts on timing of byelection Poilievre hopes to use to return to Parliament",
-    "url": "https://www.cbc.ca/news/canada/edmonton/clock-starts-on-timing-of-byelection-poilievre-hopes-to-use-to-return-to-parliament-1.7537102?cmp=rss",
     "category": "Politics"
   }
 ]
