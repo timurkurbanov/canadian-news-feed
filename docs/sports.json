@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Emily Clark scores OT winner as Charge edge Frost in Game 1 of PWHL Finals",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/ottawa-charge-minnesota-frost-pwhl-finals-recap-game-1-1.7539691?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "NFL owners unanimously approve player participation in 2028 Olympic flag football",
     "url": "https://www.cbc.ca/sports/football/nfl/nfl-owners-flag-football-2028-olympics-1.7539460?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "World No. 1 player Scheffler pulls away to win PGA Championship for third major title",
     "url": "https://www.cbc.ca/sports/golf/pga-championship-round-4-recap-1.7538431?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'Beyond the crash': TV series on former Humboldt Bronco Ryan Straschnitzki set to air",
-    "url": "https://www.cbc.ca/sports/paralympics/summer/wheelchair-baketball/humboldt-bronco-ryan-straschnitzki-tv-series-1.7538249?cmp=rss",
     "category": "Sports"
   }
 ]
