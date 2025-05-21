@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "4 Canadians were part of West Bank tour when IDF fired warning shots: Anand",
+    "url": "https://www.cbc.ca/news/politics/anand-idf-canadains-west-bank-warning-shots-1.7540343?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada Post rejects union's offer to delay potential strike",
     "url": "https://www.cbc.ca/news/business/canada-post-cupw-offer-1.7540053?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Trio of New Democrat MPs blast party's selection process for interim leader",
     "url": "https://www.cbc.ca/news/politics/ndp-mps-concerns-interim-leader-selection-process-1.7537699?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Why what Poilievre says matters — even though he lost his seat",
-    "url": "https://www.cbc.ca/news/politics/poilievre-controls-the-party-from-outside-house-1.7537169?cmp=rss",
     "category": "Politics"
   },
   {
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 13.7°C",
+    "headline": "Current Conditions: Mostly Cloudy, 13.1°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
