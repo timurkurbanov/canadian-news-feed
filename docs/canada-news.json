@@ -324,6 +324,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Andreescu among trio of Canadians eliminated in French Open qualifying",
+    "url": "https://www.cbc.ca/sports/tennis/bianca-andreescu-eliminated-french-open-qualifying-1.7540161?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada wins Group A at men's hockey worlds, will face Denmark in Thursday quarterfinal",
     "url": "https://www.cbc.ca/sports/hockey/austria-recap-hockey-worlds-may-20-1.7538890?cmp=rss",
     "category": "Sports"
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada coach Jesse Marsch understands why some fans may not want to travel to US for Gold Cup",
-    "url": "https://www.cbc.ca/sports/soccer/canada-gold-cup-us-travel-1.7538663?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 12.8°C",
+    "headline": "Current Conditions: Mostly Cloudy, 13.5°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
