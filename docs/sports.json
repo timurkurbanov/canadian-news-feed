@@ -58,6 +58,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "A man is charged with providing alcohol to 20-year-old who fell from PNC Park outfield wall in April",
+    "url": "https://www.cbc.ca/sports/baseball/mlb/man-charged-alcohol-pirates-fan-fall-1.7539688?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Edmonton Oilers confident ahead of meeting Dallas Stars again in Western final",
     "url": "https://www.cbc.ca/news/canada/edmonton/hkn-oilers-stars-1.7538824?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "'Beyond the crash': TV series on former Humboldt Bronco Ryan Straschnitzki set to air",
     "url": "https://www.cbc.ca/sports/paralympics/summer/wheelchair-baketball/humboldt-bronco-ryan-straschnitzki-tv-series-1.7538249?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "De Grasse finishes 2nd in tight 200m at Golden Grand Prix in Tokyo",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/2025-golden-grand-prix-canadians-1.7538226?cmp=rss",
     "category": "Sports"
   }
 ]
