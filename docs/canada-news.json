@@ -2,8 +2,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada Post is in trouble. Here are the facts",
-    "url": "https://www.cbc.ca/news/canada/canada-post-crisis-facts-1.7539354?cmp=rss",
+    "headline": "Postal worker union floats 2-week pause on potential strike after Canada Post makes offer",
+    "url": "https://www.cbc.ca/news/business/canada-post-cupw-offer-1.7540053?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Military police watchdog calling rare public hearing into alleged mishandling of suicide case",
+    "url": "https://www.cbc.ca/news/politics/military-watchdog-public-hearing-alleged-negligence-1.7540068?cmp=rss",
     "category": "Politics"
   },
   {
@@ -11,6 +18,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Iran says it is 'ready for talks' about renewing relations with Canada, but Ottawa must make 1st move",
     "url": "https://www.cbc.ca/news/world/iran-canada-diplomatic-relations-1.7539652?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada Post is in trouble. Here are the facts",
+    "url": "https://www.cbc.ca/news/canada/canada-post-crisis-facts-1.7539354?cmp=rss",
     "category": "Politics"
   },
   {
@@ -128,16 +142,9 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada Post should end daily door-to-door delivery, allow part-time work on weekends, report recommends",
-    "url": "https://www.cbc.ca/news/business/canada-post-small-businesses-1.7536827?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Leaked Canadian military report shows many new recruits are quickly leaving",
-    "url": "https://www.cbc.ca/news/politics/military-retention-program-defunding-1.7536509?cmp=rss",
-    "category": "Politics"
+    "headline": "Postal worker union floats 2-week pause on potential strike after Canada Post makes offer",
+    "url": "https://www.cbc.ca/news/business/canada-post-cupw-offer-1.7540053?cmp=rss",
+    "category": "Business"
   },
   {
     "source": "cbc",
@@ -263,13 +270,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "The condo market is slowing down. Where are all the buyers?",
     "url": "https://www.cbc.ca/news/business/condo-market-slowdown-1.7535704?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Tariffs hitting shoppers in Canada and U.S., with some prices set to rise at Loblaw stores, Walmart",
-    "url": "https://www.cbc.ca/news/business/tariffs-hitting-prices-loblaws-walmart-1.7535594?cmp=rss",
     "category": "Business"
   },
   {
