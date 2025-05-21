@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Iran says it is 'ready for talks' about renewing relations with Canada, but Ottawa must make 1st move",
+    "url": "https://www.cbc.ca/news/world/iran-canada-diplomatic-relations-1.7539652?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada wants to join Golden Dome missile-defence program, Trump says",
     "url": "https://www.cbc.ca/news/world/golden-dome-trump-us-missile-defence-canada-1.7539390?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "U.S. ambassador says country is 'open to doing business' with Canada amid trade war",
     "url": "https://www.cbc.ca/news/politics/us-trade-disruption-will-pass-former-us-un-ambassador-1.7537635?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney travelling to Rome with Liberal MPs for Pope's inaugural mass",
-    "url": "https://www.cbc.ca/news/politics/carney-travelling-to-rome-with-liberal-mps-for-pope-s-inaugural-mass-1.7537089?cmp=rss",
     "category": "Politics"
   }
 ]
