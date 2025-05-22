@@ -282,8 +282,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "PWHL expansion draft explainer: How it works and what's at stake",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-expansion-draft-explainer-2025-1.7540797?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Shai Gilgeous-Alexander's dad says son's NBA MVP award is '100% surreal'",
     "url": "https://www.cbc.ca/news/canada/hamilton/hamilton-reaction-shai-gilgeous-alexander-nba-mvp-1.7540967?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "U.S. overcomes slow start to clinch semifinal berth at men's hockey worlds, downing Finland",
+    "url": "https://www.cbc.ca/sports/hockey/canada-finland-united-states-roundup-quarterfinals-hockey-worlds-1.7541180?cmp=rss",
     "category": "Sports"
   },
   {
@@ -296,8 +310,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "PWHL expansion draft explainer: How it works and what's at stake",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-expansion-draft-explainer-2025-1.7540797?cmp=rss",
+    "headline": "NHLer says he had 'no reason to lie' in text under scrutiny at trial of former world junior players",
+    "url": "https://www.cbc.ca/9.6768959?cmp=rss",
     "category": "Sports"
   },
   {
@@ -305,13 +319,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Stars score 3 in 5½ minutes to beat Oilers in Game 1 of Western Conference final",
     "url": "https://www.cbc.ca/news/canada/edmonton/oilers-stars-western-conference-game-1-1.7540158?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "NHLer says he had 'no reason to lie' in text under scrutiny at trial of former world junior players",
-    "url": "https://www.cbc.ca/9.6768959?cmp=rss",
     "category": "Sports"
   },
   {
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "WNBA investigating alleged racial slurs by fans toward Angel Reese during Indiana game: reports",
-    "url": "https://www.cbc.ca/sports/basketball/wnba-investigating-racial-slurs-made-at-angel-reese-1.7538540?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 10.7°C",
+    "headline": "Current Conditions: Mostly Cloudy, 11.0°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
