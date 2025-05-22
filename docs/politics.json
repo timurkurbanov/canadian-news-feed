@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "B.C. expected to play 'extremely important' role as federal NDP faces uncertain future",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/bc-federal-ndp-final-frontier-1.7540849?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "'Totally unacceptable' that IDF fired shots near Canadians, Carney says",
     "url": "https://www.cbc.ca/news/politics/israel-canadians-west-bank-shots-1.7540343?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "NDP holds Nunavut after Elections Canada validates results",
     "url": "https://www.cbc.ca/news/politics/nunavut-election-results-ndp-win-validated-1.7538038?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada now has a minister of artificial intelligence. What will he do?",
-    "url": "https://www.cbc.ca/news/politics/artificial-intelligence-evan-solomon-1.7536218?cmp=rss",
     "category": "Politics"
   }
 ]
