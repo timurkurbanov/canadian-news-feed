@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "G7 finance ministers to wrap up summit in Banff",
+    "url": "https://www.cbc.ca/news/canada/calgary/g7-finance-ministers-banff-global-economy-ukraine-1.7540831?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "'Totally unacceptable' that IDF fired shots near Canadians, Carney says",
     "url": "https://www.cbc.ca/news/politics/israel-canadians-west-bank-shots-1.7540343?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada now has a minister of artificial intelligence. What will he do?",
     "url": "https://www.cbc.ca/news/politics/artificial-intelligence-evan-solomon-1.7536218?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Want to boost Albertans' support for leaving CPP? Ask the question differently",
-    "url": "https://www.cbc.ca/news/canada/calgary/alberta-pension-plan-cpp-survey-guarantee-1.7537733?cmp=rss",
     "category": "Politics"
   }
 ]
