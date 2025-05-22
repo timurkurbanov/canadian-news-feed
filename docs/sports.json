@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Indianapolis Colts' music-loving owner Jim Irsay dies at age 65",
+    "url": "https://www.cbc.ca/sports/football/nfl/colts-owner-jim-irsay-dies-65-1.7540596?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Much the same even with some new names as Oilers and Stars meet again in West final",
     "url": "https://www.cbc.ca/news/canada/edmonton/much-the-same-even-with-some-new-names-as-oilers-and-stars-meet-again-in-west-final-1.7539933?cmp=rss",
     "category": "Sports"
@@ -30,15 +37,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "NFL owners reportedly vote to keep tush push short-yardage play",
-    "url": "https://www.cbc.ca/sports/football/nfl/nfl-owners-tush-push-vote-1.7540065?cmp=rss",
+    "headline": "NHLer had inconsistencies in testimony at sex assault trial of ex-world junior players, judge rules",
+    "url": "https://www.cbc.ca/9.6767504?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "NHLer had inconsistencies in testimony at sex assault trial of ex-world junior players, judge rules",
-    "url": "https://www.cbc.ca/9.6767504?cmp=rss",
+    "headline": "NFL owners reportedly vote to keep tush push short-yardage play",
+    "url": "https://www.cbc.ca/sports/football/nfl/nfl-owners-tush-push-vote-1.7540065?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Edmonton Oilers confident ahead of meeting Dallas Stars again in Western final",
     "url": "https://www.cbc.ca/news/canada/edmonton/hkn-oilers-stars-1.7538824?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "PWHL unveils expansion draft and signing guidelines for new franchises in Vancouver, Seattle",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-unveils-expansion-draft-and-signing-guidelines-1.7538548?cmp=rss",
     "category": "Sports"
   }
 ]
