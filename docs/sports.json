@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Leafs president Shanahan won't have contract renewed after team's 2nd-round playoff exit",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/brendan-shanahan-maple-leafs-president-departure-nhl-1.7541430?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Shai Gilgeous-Alexander's dad says son's NBA MVP award is '100% surreal'",
     "url": "https://www.cbc.ca/news/canada/hamilton/hamilton-reaction-shai-gilgeous-alexander-nba-mvp-1.7540967?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "WNBA investigating alleged racial slurs by fans toward Angel Reese during Indiana game: reports",
     "url": "https://www.cbc.ca/sports/basketball/wnba-investigating-racial-slurs-made-at-angel-reese-1.7538540?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Eco-friendly transportation a condition of planned Ottawa Senators arena",
-    "url": "https://www.cbc.ca/news/canada/ottawa/eco-friendly-transportation-a-condition-of-planned-ottawa-senators-arena-1.7538545?cmp=rss",
     "category": "Sports"
   }
 ]
