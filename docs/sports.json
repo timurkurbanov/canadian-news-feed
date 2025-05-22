@@ -44,6 +44,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Edmonton Oilers ready for reset after 3rd-period collapse in Game 1",
+    "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-ready-for-reset-after-3rd-period-collapse-in-game-1-1.7541442?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Stars score 3 in 5½ minutes to beat Oilers in Game 1 of Western Conference final",
     "url": "https://www.cbc.ca/news/canada/edmonton/oilers-stars-western-conference-game-1-1.7540158?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Sports broadcaster Gary Lineker to leave BBC after sharing Instagram story about Zionism",
     "url": "https://www.cbc.ca/news/world/gary-lineker-steps-down-1.7538515?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada coach Jesse Marsch understands why some fans may not want to travel to US for Gold Cup",
-    "url": "https://www.cbc.ca/sports/soccer/canada-gold-cup-us-travel-1.7538663?cmp=rss",
     "category": "Sports"
   }
 ]
