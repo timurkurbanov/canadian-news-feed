@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Pressure mounting on Poilievre to fire Jenni Byrne: sources",
+    "url": "https://www.cbc.ca/news/politics/poilievre-byrne-conservative-caucus-1.7540215?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "'Totally unacceptable' that IDF fired shots near Canadians, Carney says",
     "url": "https://www.cbc.ca/news/politics/israel-canadians-west-bank-shots-1.7540343?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Want to boost Albertans' support for leaving CPP? Ask the question differently",
     "url": "https://www.cbc.ca/news/canada/calgary/alberta-pension-plan-cpp-survey-guarantee-1.7537733?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trio of New Democrat MPs blast party's selection process for interim leader",
-    "url": "https://www.cbc.ca/news/politics/ndp-mps-concerns-interim-leader-selection-process-1.7537699?cmp=rss",
     "category": "Politics"
   },
   {
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Rain, 7.8°C",
+    "headline": "Current Conditions: Light Rain, 7.9°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
