@@ -317,6 +317,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "No stranger to pressure, Whitehorse's Gavin McKenna embraces Memorial Cup spotlight",
+    "url": "https://www.cbc.ca/news/canada/north/gavin-mckenna-whitehorse-memorial-cup-2025-1.7542532?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian women dominate Australia in Pacific Four Series rugby win",
     "url": "https://www.cbc.ca/sports/rugby/canadian-women-dominate-australia-in-45-7-pacific-four-series-rugby-win-1.7541862?cmp=rss",
     "category": "Sports"
@@ -399,13 +406,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Toronto may have to scale back on FIFA World Cup budget after provincial 'clawback': Chow",
-    "url": "https://www.cbc.ca/news/canada/toronto/fifa-toronto-ontario-costs-city-council-1.7539782?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -415,7 +415,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 10.6°C",
+    "headline": "Current Conditions: Light Rain, 9.7°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

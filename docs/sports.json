@@ -44,6 +44,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "No stranger to pressure, Whitehorse's Gavin McKenna embraces Memorial Cup spotlight",
+    "url": "https://www.cbc.ca/news/canada/north/gavin-mckenna-whitehorse-memorial-cup-2025-1.7542532?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian women dominate Australia in Pacific Four Series rugby win",
     "url": "https://www.cbc.ca/sports/rugby/canadian-women-dominate-australia-in-45-7-pacific-four-series-rugby-win-1.7541862?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Edmonton Oilers ready for reset after 3rd-period collapse in Game 1",
     "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-ready-for-reset-after-3rd-period-collapse-in-game-1-1.7541442?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Toronto may have to scale back on FIFA World Cup budget after provincial 'clawback': Chow",
-    "url": "https://www.cbc.ca/news/canada/toronto/fifa-toronto-ontario-costs-city-council-1.7539782?cmp=rss",
     "category": "Sports"
   }
 ]
