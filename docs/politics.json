@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadians were promised a foreign agent registry — so where is it?",
+    "url": "https://www.cbc.ca/news/politics/foreign-agent-registry-1.7540028?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Israeli ambassador suggests diplomats in West Bank led astray to provoke IDF",
     "url": "https://www.cbc.ca/news/politics/west-bank-shots-fired-near-diplomatic-group-idf-1.7541617?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada Post receives strike notice; workers plan Friday walkout",
     "url": "https://www.cbc.ca/news/business/canada-post-strike-notice-1.7538696?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada, Britain, France threaten action if Israel does not stop military offensive and lift aid restrictions",
-    "url": "https://www.cbc.ca/news/world/israel-gaza-aid-military-1.7538495?cmp=rss",
     "category": "Politics"
   }
 ]

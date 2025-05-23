@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Watch Canada's Newman, Morales Williams compete in Rabat Diamond League",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/world-athletics-diamond-league-rabat-may-25-1.7538066?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Denmark eliminates Canadian men in quarterfinal shocker at world hockey championship",
     "url": "https://www.cbc.ca/sports/hockey/canada-finland-united-states-roundup-quarterfinals-hockey-worlds-1.7541180?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "'It's time': U.S. women's hockey star Hilary Knight says 2026 Olympics will be her last",
     "url": "https://www.cbc.ca/sports/hockey/hilary-knight-2026-olympics-1.7539685?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Much-maligned Marner mum on Maple Leafs future after 2nd-round playoff exit",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/marner-mum-maple-leafs-future-tavares-nhl-1.7539105?cmp=rss",
     "category": "Sports"
   }
 ]
