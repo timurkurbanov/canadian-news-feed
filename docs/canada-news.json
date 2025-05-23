@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Federal public service shrinks for 1st time in a decade",
+    "url": "https://www.cbc.ca/news/canada/ottawa/federal-public-service-shrinks-for-1st-time-in-a-decade-1.6302059?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadians were promised a foreign agent registry — so where is it?",
     "url": "https://www.cbc.ca/news/politics/foreign-agent-registry-1.7540028?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Here's the itinerary for the King's visit to deliver the throne speech in Ottawa",
     "url": "https://www.cbc.ca/news/politics/king-charles-visit-canada-pomp-1.7539041?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Inflation rate drops to 1.7% in April, driven by lower energy prices after carbon tax removal",
-    "url": "https://www.cbc.ca/news/business/inflation-consumer-price-index-april-1.7538823?cmp=rss",
     "category": "Politics"
   },
   {
@@ -410,13 +410,6 @@
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
     "url": "https://weather.gc.ca/index_e.html",
-    "category": "Weather"
-  },
-  {
-    "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Cloudy, 9.1°C",
-    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
