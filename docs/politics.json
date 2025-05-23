@@ -2,8 +2,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Federal public service shrinks for 1st time in a decade",
-    "url": "https://www.cbc.ca/news/canada/ottawa/canada-public-service-size-jobs-cuts-2025-1.6302059?cmp=rss",
+    "headline": "Conservative Jonathan Rowe wins Terra Nova-The Peninsulas following recount",
+    "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/terra-nova-peninsulas-recount-decision-1.7538809?cmp=rss",
     "category": "Politics"
   },
   {
@@ -16,8 +16,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Federal public service shrinks for 1st time in a decade",
+    "url": "https://www.cbc.ca/news/canada/ottawa/canada-public-service-size-jobs-cuts-2025-1.6302059?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "'Energy is Canada's power': New federal energy minister touts past Alberta oilpatch ties",
     "url": "https://www.cbc.ca/news/canada/calgary/bakx-hodgson-calgary-chamber-oilpatch-1.7541268?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Bloc Québécois files legal challenge of Terrebonne riding results after 1-vote loss",
+    "url": "https://www.cbc.ca/news/canada/montreal/bloc-quebecois-files-legal-challenge-terrebonne-1.7542470?cmp=rss",
     "category": "Politics"
   },
   {
@@ -123,20 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada wants to join Golden Dome missile-defence program, Trump says",
     "url": "https://www.cbc.ca/news/world/golden-dome-trump-us-missile-defence-canada-1.7539390?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "CRTC hears debate on considering 'cultural element' when defining Canadian content",
-    "url": "https://www.cbc.ca/news/entertainment/crtc-cultural-element-debate-1.7539405?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Top finance officials from G7 countries gather in Banff for 3-day summit",
-    "url": "https://www.cbc.ca/news/canada/calgary/calgary-g7-finance-ministers-meeting-banff-1.7539528?cmp=rss",
     "category": "Politics"
   }
 ]
