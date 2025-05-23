@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Conservative Kathy Borrelli narrowly upholds win in federal Windsor-area riding recount",
+    "url": "https://www.cbc.ca/news/canada/windsor/recount-results-election-windsor-tecumseh-lakeshore-federal-1.7540229?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Israeli ambassador suggests diplomats in West Bank led astray to provoke IDF",
     "url": "https://www.cbc.ca/news/politics/west-bank-shots-fired-near-diplomatic-group-idf-1.7541617?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Inflation rate drops to 1.7% in April, driven by lower energy prices after carbon tax removal",
     "url": "https://www.cbc.ca/news/business/inflation-consumer-price-index-april-1.7538823?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada Post receives strike notice; workers plan Friday walkout",
-    "url": "https://www.cbc.ca/news/business/canada-post-strike-notice-1.7538696?cmp=rss",
     "category": "Politics"
   }
 ]
