@@ -275,6 +275,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "PWHL notebook: Vancouver and Seattle GMs named, and Minnesota's Curl-Salemme plays the villain in Cup final",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-playoff-notebook-may-23-2025-1.7542239?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "MLSE boss says Maple Leafs won't fill president's role after Shanahan's dismissal",
     "url": "https://www.cbc.ca/sports/hockey/nhl/keith-pelley-media-availability-1.7542398?cmp=rss",
     "category": "Sports"
@@ -399,13 +406,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'Beyond the crash': TV series on former Humboldt Bronco Ryan Straschnitzki set to air",
-    "url": "https://www.cbc.ca/sports/paralympics/summer/wheelchair-baketball/humboldt-bronco-ryan-straschnitzki-tv-series-1.7538249?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -415,7 +415,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 10.7°C",
+    "headline": "Current Conditions: Mostly Cloudy, 10.6°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
