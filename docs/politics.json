@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "'Energy is Canada's power': New federal energy minister touts past Alberta oilpatch ties",
+    "url": "https://www.cbc.ca/news/canada/calgary/bakx-hodgson-calgary-chamber-oilpatch-1.7541268?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Conservative Kathy Borrelli narrowly upholds win in federal Windsor-area riding recount",
     "url": "https://www.cbc.ca/news/canada/windsor/recount-results-election-windsor-tecumseh-lakeshore-federal-1.7540229?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Top finance officials from G7 countries gather in Banff for 3-day summit",
     "url": "https://www.cbc.ca/news/canada/calgary/calgary-g7-finance-ministers-meeting-banff-1.7539528?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Here's the itinerary for the King's visit to deliver the throne speech in Ottawa",
-    "url": "https://www.cbc.ca/news/politics/king-charles-visit-canada-pomp-1.7539041?cmp=rss",
     "category": "Politics"
   }
 ]
