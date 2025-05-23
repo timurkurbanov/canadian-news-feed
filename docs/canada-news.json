@@ -289,6 +289,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "NHLer Brett Howden's text message can't be used as evidence at trial of ex-world junior players, judge rules",
+    "url": "https://www.cbc.ca/9.6770401?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian women dominate Australia in Pacific Four Series rugby win",
     "url": "https://www.cbc.ca/sports/rugby/canadian-women-dominate-australia-in-45-7-pacific-four-series-rugby-win-1.7541862?cmp=rss",
     "category": "Sports"
@@ -340,13 +347,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Thunder star Shai Gilgeous-Alexander named NBA MVP, becoming 2nd Canadian to win the award",
     "url": "https://www.cbc.ca/sports/basketball/nba/nba-mvp-shai-gilgeous-alexander-may-21-1.7539832?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "NHLer says he had 'no reason to lie' in text under scrutiny at trial of former world junior players",
-    "url": "https://www.cbc.ca/9.6768959?cmp=rss",
     "category": "Sports"
   },
   {
@@ -443,14 +443,14 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Saturday night: Chance of showers. Low 8. POP 60%",
+    "headline": "Saturday night: Chance of showers. Low 7. POP 60%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Sunday: Chance of showers. High 17. POP 30%",
+    "headline": "Sunday: Chance of showers. High 15. POP 30%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
@@ -464,7 +464,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Monday: Chance of showers. High 21. POP 40%",
+    "headline": "Monday: Chance of showers. High 22. POP 40%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
@@ -478,21 +478,21 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Tuesday: A mix of sun and cloud. High 22.",
+    "headline": "Tuesday: A mix of sun and cloud. High 24.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Tuesday night: Cloudy. Low 11.",
+    "headline": "Tuesday night: Cloudy. Low 12.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Wednesday: Chance of showers. High 20. POP 60%",
+    "headline": "Wednesday: Chance of showers. High 19. POP 40%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
@@ -506,7 +506,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Thursday: Chance of showers. High 21. POP 30%",
+    "headline": "Thursday: Chance of showers. High 19. POP 30%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
