@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada's Para hockey team set to open defence of world title in Buffalo",
+    "url": "https://www.cbc.ca/sports/paralympics/winter-sports/para-ice-hockey/canada-para-hockey-world-title-defence-1.7542795?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Curl-Salemme scores tying goal, OT winner as Frost even PWHL final against Charge",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/ottawa-charge-minnesota-frost-pwhl-finals-recap-game-2-1.7541419?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Trump's Harvard visa threat could wipe out several of the school's sports teams",
     "url": "https://www.cbc.ca/sports/trump-harvard-sports-1.7541769?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Edmonton Oilers ready for reset after 3rd-period collapse in Game 1",
-    "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-ready-for-reset-after-3rd-period-collapse-in-game-1-1.7541442?cmp=rss",
     "category": "Sports"
   }
 ]
