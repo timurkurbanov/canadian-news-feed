@@ -317,6 +317,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Hurricanes suffer 14th straight loss in a conference final as Panthers take 2-0 series lead",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/nhl-playoffs-eastern-final-panthers-hurricanes-game2-may-23-1.7541846?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Okoronkwo, Regan lead AFC Toronto past Montreal Roses, extending unbeaten run to 4 games",
     "url": "https://www.cbc.ca/sports/soccer/nsl-afc-toronto-montreal-roses-recap-may-22-1.7541779?cmp=rss",
     "category": "Sports"
@@ -352,13 +359,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Stars score 3 in 5½ minutes to beat Oilers in Game 1 of Western Conference final",
-    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-stars-western-conference-game-1-1.7540158?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Toronto may have to scale back on FIFA World Cup budget after provincial 'clawback': Chow",
     "url": "https://www.cbc.ca/news/canada/toronto/fifa-toronto-ontario-costs-city-council-1.7539782?cmp=rss",
     "category": "Sports"
@@ -387,20 +387,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "NHLer had inconsistencies in testimony at sex assault trial of ex-world junior players, judge rules",
-    "url": "https://www.cbc.ca/9.6767504?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Emily Clark scores OT winner as Charge edge Frost in Game 1 of PWHL Finals",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/ottawa-charge-minnesota-frost-pwhl-finals-recap-game-1-1.7539691?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Hamilton-born artist-turned-fighter to represent Canada at Muay Thai world championship",
     "url": "https://www.cbc.ca/news/canada/hamilton/fehn-foss-muay-thai-1.7538934?cmp=rss",
     "category": "Sports"
@@ -413,6 +399,20 @@
     "category": "Sports"
   },
   {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "PWHL unveils expansion draft and signing guidelines for new franchises in Vancouver, Seattle",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-unveils-expansion-draft-and-signing-guidelines-1.7538548?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada coach Jesse Marsch understands why some fans may not want to travel to US for Gold Cup",
+    "url": "https://www.cbc.ca/sports/soccer/canada-gold-cup-us-travel-1.7538663?cmp=rss",
+    "category": "Sports"
+  },
+  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 6.7°C",
+    "headline": "Current Conditions: Mostly Cloudy, 7.1°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
