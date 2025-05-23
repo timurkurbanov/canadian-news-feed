@@ -16,14 +16,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Thursday night: Chance of showers. Low 6. POP 40%",
-    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
-    "category": "Weather"
-  },
-  {
-    "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Friday: Chance of showers. High 11. POP 40%",
+    "headline": "Friday: A few showers. High 11.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
@@ -37,7 +30,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Saturday: Showers. High 11.",
+    "headline": "Saturday: Chance of showers. High 12. POP 70%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
@@ -94,6 +87,20 @@
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "Wednesday: Chance of showers. High 20. POP 60%",
+    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
+    "category": "Weather"
+  },
+  {
+    "source": "weather.gc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
+    "headline": "Wednesday night: Chance of showers. Low 12. POP 40%",
+    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
+    "category": "Weather"
+  },
+  {
+    "source": "weather.gc",
+    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
+    "headline": "Thursday: Chance of showers. High 21. POP 30%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
