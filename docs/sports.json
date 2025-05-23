@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Edmonton Oilers look to even series with Dallas Stars after fraught final frame in Game 1",
+    "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-look-to-even-series-with-dallas-stars-after-fraught-final-frame-in-game-1-1.7542061?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Curl-Salemme scores tying goal, OT winner as Frost even PWHL final against Charge",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/ottawa-charge-minnesota-frost-pwhl-finals-recap-game-2-1.7541419?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Hamilton-born artist-turned-fighter to represent Canada at Muay Thai world championship",
     "url": "https://www.cbc.ca/news/canada/hamilton/fehn-foss-muay-thai-1.7538934?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'It's time': U.S. women's hockey star Hilary Knight says 2026 Olympics will be her last",
-    "url": "https://www.cbc.ca/sports/hockey/hilary-knight-2026-olympics-1.7539685?cmp=rss",
     "category": "Sports"
   }
 ]
