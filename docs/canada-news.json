@@ -289,6 +289,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Hunter St. Martin lifts Medicine Hat Tigers over Rimouski Océanic in Memorial Cup opener",
+    "url": "https://www.cbc.ca/sports/hockey/memorial-cup-oceanic-tigers-theberge-may-23-1.7543057?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "MLSE boss says Maple Leafs won't fill president's role after Shanahan's dismissal",
     "url": "https://www.cbc.ca/sports/hockey/nhl/keith-pelley-media-availability-1.7542398?cmp=rss",
     "category": "Sports"
@@ -399,13 +406,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Thunder star Shai Gilgeous-Alexander named NBA MVP, becoming 2nd Canadian to win the award",
-    "url": "https://www.cbc.ca/sports/basketball/nba/nba-mvp-shai-gilgeous-alexander-may-21-1.7539832?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -415,7 +415,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Rain, 6.8°C",
+    "headline": "Current Conditions: Light Rain, 7.1°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
