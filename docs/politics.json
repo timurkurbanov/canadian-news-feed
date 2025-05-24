@@ -2,6 +2,34 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Mark Carney's to-do list is short, but steep",
+    "url": "https://www.cbc.ca/news/politics/carney-mandate-letter-trudeau-analysis-1.7542564?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "The King's visit is a response to Trump's 51st state threats. Will it help?",
+    "url": "https://www.cbc.ca/news/politics/king-charles-visit-trump-1.7542388?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "How Canada's relationship with Israel went from 'best friend' to breakdown",
+    "url": "https://www.cbc.ca/news/politics/canada-israel-friendship-gaza-1.7541957?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Inside the NDP's last-ditch efforts to save Jagmeet Singh and his riding",
+    "url": "https://www.cbc.ca/news/politics/jagmeet-singh-riding-burnaby-central-election-1.7542379?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Why some Liberal MPs want to reserve the right to oust Mark Carney",
     "url": "https://www.cbc.ca/news/politics/liberals-reform-act-caucus-meeting-1.7542530?cmp=rss",
     "category": "Politics"
@@ -109,34 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "'Totally unacceptable' that IDF fired shots near Canadians, Carney says",
     "url": "https://www.cbc.ca/news/politics/israel-canadians-west-bank-shots-1.7540343?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada Post rejects union's offer to delay potential strike",
-    "url": "https://www.cbc.ca/news/business/canada-post-cupw-offer-1.7540053?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Military police watchdog calling rare public hearing into alleged mishandling of suicide case",
-    "url": "https://www.cbc.ca/news/politics/military-watchdog-public-hearing-alleged-negligence-1.7540068?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Iran says it is 'ready for talks' about renewing relations with Canada, but Ottawa must make 1st move",
-    "url": "https://www.cbc.ca/news/world/iran-canada-diplomatic-relations-1.7539652?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada Post is in trouble. Here are the facts",
-    "url": "https://www.cbc.ca/news/canada/canada-post-crisis-facts-1.7539354?cmp=rss",
     "category": "Politics"
   }
 ]
