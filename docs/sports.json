@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "US beats Sweden 6-2 to set the final against Switzerland at ice hockey worlds",
+    "url": "https://www.cbc.ca/sports/hockey/hockey-worlds-roundup-may-24-1.7543112?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PWHL notebook: Vancouver and Seattle GMs named, and Minnesota's Curl-Salemme plays the villain in Cup final",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-playoff-notebook-may-23-2025-1.7542239?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Why Shai Gilgeous-Alexander won NBA MVP",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-how-gilgeous-alexander-won-mvp-1.7541507?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Blue Bombers sign QB Zach Collaros to 1-year extension",
-    "url": "https://www.cbc.ca/sports/football/cfl/blue-bombers-sign-zach-collaros-1-year-extension-1.7542561?cmp=rss",
     "category": "Sports"
   }
 ]
