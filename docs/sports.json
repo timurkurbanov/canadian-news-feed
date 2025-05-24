@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Doping cases, lingering lawsuit among biggest questions ahead of the French Open",
+    "url": "https://www.cbc.ca/sports/tennis/french-open-2025-preview-1.7543064?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "MLSE boss says Maple Leafs won't fill president's role after Shanahan's dismissal",
     "url": "https://www.cbc.ca/sports/hockey/nhl/keith-pelley-media-availability-1.7542398?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Hurricanes suffer 14th straight loss in a conference final as Panthers take 2-0 series lead",
     "url": "https://www.cbc.ca/sports/hockey/nhl/nhl-playoffs-eastern-final-panthers-hurricanes-game2-may-23-1.7541846?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Okoronkwo, Regan lead AFC Toronto past Montreal Roses, extending unbeaten run to 4 games",
-    "url": "https://www.cbc.ca/sports/soccer/nsl-afc-toronto-montreal-roses-recap-may-22-1.7541779?cmp=rss",
     "category": "Sports"
   }
 ]
