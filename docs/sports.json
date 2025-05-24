@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Edmonton Oilers tie conference final with Game 2 shutout win over Dallas Stars",
+    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-stars-western-conference-finals-game-2-1.7542370?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PWHL notebook: Vancouver and Seattle GMs named, and Minnesota's Curl-Salemme plays the villain in Cup final",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-playoff-notebook-may-23-2025-1.7542239?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Thunder star Shai Gilgeous-Alexander named NBA MVP, becoming 2nd Canadian to win the award",
     "url": "https://www.cbc.ca/sports/basketball/nba/nba-mvp-shai-gilgeous-alexander-may-21-1.7539832?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump's Harvard visa threat could wipe out several of the school's sports teams",
-    "url": "https://www.cbc.ca/sports/trump-harvard-sports-1.7541769?cmp=rss",
     "category": "Sports"
   }
 ]

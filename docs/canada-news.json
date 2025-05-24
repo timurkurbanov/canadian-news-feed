@@ -275,6 +275,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Edmonton Oilers tie conference final with Game 2 shutout win over Dallas Stars",
+    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-stars-western-conference-finals-game-2-1.7542370?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "PWHL notebook: Vancouver and Seattle GMs named, and Minnesota's Curl-Salemme plays the villain in Cup final",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-playoff-notebook-may-23-2025-1.7542239?cmp=rss",
     "category": "Sports"
@@ -399,13 +406,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump's Harvard visa threat could wipe out several of the school's sports teams",
-    "url": "https://www.cbc.ca/sports/trump-harvard-sports-1.7541769?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -415,7 +415,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Rain, 7.3°C",
+    "headline": "Current Conditions: Light Rain, 6.9°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
