@@ -317,6 +317,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Snowboarder Liam Gill explores his N.W.T. roots in documentary now online",
+    "url": "https://www.cbc.ca/news/canada/north/snowboarder-liam-gill-explores-relationship-with-n-w-t-in-documentary-now-on-youtube-1.7540245?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "MLSE boss says Maple Leafs won't fill president's role after Shanahan's dismissal",
     "url": "https://www.cbc.ca/sports/hockey/nhl/keith-pelley-media-availability-1.7542398?cmp=rss",
     "category": "Sports"
@@ -340,6 +347,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Curl-Salemme scores tying goal, OT winner as Frost even PWHL final against Charge",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/ottawa-charge-minnesota-frost-pwhl-finals-recap-game-2-1.7541419?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Running in Afghanistan was an act of defiance. Now in Canada, I run to show others they can",
+    "url": "https://www.cbc.ca/news/canada/saskatchewan/running-afghanistan-canada-defiance-1.7532677?cmp=rss",
     "category": "Sports"
   },
   {
@@ -392,20 +406,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Toronto teen Victoria Mboko breaks through to French Open main draw",
-    "url": "https://www.cbc.ca/sports/tennis/victoria-mboko-qualifies-french-open-1.7542515?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Denmark eliminates Canadian men in quarterfinal shocker at world hockey championship",
-    "url": "https://www.cbc.ca/sports/hockey/canada-finland-united-states-roundup-quarterfinals-hockey-worlds-1.7541180?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -415,7 +415,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Rainshower, 10.6°C",
+    "headline": "Current Conditions: Mostly Cloudy, 11.4°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
