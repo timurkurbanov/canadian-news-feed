@@ -289,15 +289,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Edmonton Oilers look to even series with Dallas Stars after fraught final frame in Game 1",
-    "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-look-to-even-series-with-dallas-stars-after-fraught-final-frame-in-game-1-1.7542061?cmp=rss",
+    "headline": "Canada's Para hockey team set to open defence of world title in Buffalo",
+    "url": "https://www.cbc.ca/sports/paralympics/winter-sports/para-ice-hockey/canada-para-hockey-world-title-defence-1.7542795?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's Para hockey team set to open defence of world title in Buffalo",
-    "url": "https://www.cbc.ca/sports/paralympics/winter-sports/para-ice-hockey/canada-para-hockey-world-title-defence-1.7542795?cmp=rss",
+    "headline": "Edmonton Oilers look to even series with Dallas Stars after fraught final frame in Game 1",
+    "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-look-to-even-series-with-dallas-stars-after-fraught-final-frame-in-game-1-1.7542061?cmp=rss",
     "category": "Sports"
   },
   {
@@ -324,6 +324,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Watch Canada's Newman, Morales Williams compete in Rabat Diamond League",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/world-athletics-diamond-league-rabat-may-25-1.7538066?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "No stranger to pressure, Whitehorse's Gavin McKenna embraces Memorial Cup spotlight",
     "url": "https://www.cbc.ca/news/canada/north/gavin-mckenna-whitehorse-memorial-cup-2025-1.7542532?cmp=rss",
     "category": "Sports"
@@ -340,13 +347,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Why Shai Gilgeous-Alexander won NBA MVP",
     "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-how-gilgeous-alexander-won-mvp-1.7541507?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Watch Canada's Newman, Morales Williams compete in Rabat Diamond League",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/world-athletics-diamond-league-rabat-may-25-1.7538066?cmp=rss",
     "category": "Sports"
   },
   {
@@ -415,7 +415,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Rain, 8.7°C",
+    "headline": "Current Conditions: Light Rain, 8.2°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
