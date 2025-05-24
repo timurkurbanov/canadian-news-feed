@@ -37,6 +37,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada's Mathis Beaulieu wins bronze at World Triathlon Cup in Uzbekistan",
+    "url": "https://www.cbc.ca/sports/canada-mathis-beaulieu-wins-bronze-world-triathlon-cup-1.7543176?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Hunter St. Martin lifts Medicine Hat Tigers over Rimouski Océanic in Memorial Cup opener",
     "url": "https://www.cbc.ca/sports/hockey/memorial-cup-oceanic-tigers-theberge-may-23-1.7543057?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian women dominate Australia in Pacific Four Series rugby win",
     "url": "https://www.cbc.ca/sports/rugby/canadian-women-dominate-australia-in-45-7-pacific-four-series-rugby-win-1.7541862?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Why Shai Gilgeous-Alexander won NBA MVP",
-    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-how-gilgeous-alexander-won-mvp-1.7541507?cmp=rss",
     "category": "Sports"
   }
 ]
