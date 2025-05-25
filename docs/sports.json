@@ -2,15 +2,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian teen Victoria Mboko wins Grand Slam debut at French Open and looks for more",
-    "url": "https://www.cbc.ca/sports/tennis/victoria-mboko-wins-first-grand-slam-match-1.7543320?cmp=rss",
+    "headline": "Watch Canada's Newman, Morales Williams compete in Rabat Diamond League",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/world-athletics-diamond-league-rabat-may-25-1.7538066?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Watch Canada's Newman, Morales Williams compete in Rabat Diamond League",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/world-athletics-diamond-league-rabat-may-25-1.7538066?cmp=rss",
+    "headline": "Canadian teen Victoria Mboko wins Grand Slam debut at French Open and looks for more",
+    "url": "https://www.cbc.ca/sports/tennis/victoria-mboko-wins-first-grand-slam-match-1.7543320?cmp=rss",
     "category": "Sports"
   },
   {
@@ -25,6 +25,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Vancouver Rise, Calgary Wild play to 1-1 draw at Swangard Stadium",
     "url": "https://www.cbc.ca/sports/soccer/calgary-wild-vancouver-rise-nsl-recap-may-24-1.7543191?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Star-studded Sweden earns 2nd straight bronze medal at men's hockey worlds",
+    "url": "https://www.cbc.ca/sports/hockey/united-states-sweden-hockey-worlds-medallists-2025-1.7543362?cmp=rss",
     "category": "Sports"
   },
   {
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Doping cases, lingering lawsuit among biggest questions ahead of the French Open",
     "url": "https://www.cbc.ca/sports/tennis/french-open-2025-preview-1.7543064?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Edmonton Oilers tie conference final with Game 2 shutout win over Dallas Stars",
-    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-stars-western-conference-finals-game-2-1.7542370?cmp=rss",
     "category": "Sports"
   }
 ]
