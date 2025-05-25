@@ -2,13 +2,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Mark Carney's to-do list is short but steep",
-    "url": "https://www.cbc.ca/news/politics/carney-mandate-letter-trudeau-analysis-1.7542564?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "The King's visit is a response to Trump's 51st state threats. Will it help?",
     "url": "https://www.cbc.ca/news/politics/king-charles-visit-trump-1.7542388?cmp=rss",
     "category": "Politics"
@@ -18,6 +11,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "How Canada's relationship with Israel went from 'best friend' to breakdown",
     "url": "https://www.cbc.ca/news/politics/canada-israel-friendship-gaza-1.7541957?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Mark Carney's to-do list is short but steep",
+    "url": "https://www.cbc.ca/news/politics/carney-mandate-letter-trudeau-analysis-1.7542564?cmp=rss",
     "category": "Politics"
   },
   {
