@@ -100,6 +100,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Toronto clamps down on FIFA World Cup spending over funding fight with Ontario",
+    "url": "https://www.cbc.ca/news/canada/toronto/toronto-fifa-world-cup-spending-fight-1.7542101?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Doping cases, lingering lawsuit among biggest questions ahead of the French Open",
     "url": "https://www.cbc.ca/sports/tennis/french-open-2025-preview-1.7543064?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Crown wraps questioning of NHLer Brett Howden at sexual assault trial of 5 ex-world junior hockey players",
     "url": "https://www.cbc.ca/9.6770401?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Bianca St-Georges replaces Ashley Lawrence on Canada roster for Haiti games in Winnipeg, Montreal",
-    "url": "https://www.cbc.ca/sports/soccer/bianca-st-georges-replaces-ashley-lawrence-haiti-games-1.7543006?cmp=rss",
     "category": "Sports"
   }
 ]
