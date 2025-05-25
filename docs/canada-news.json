@@ -289,13 +289,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Edmonton Oilers tie conference final with Game 2 shutout win over Dallas Stars",
-    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-stars-western-conference-finals-game-2-1.7542370?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "US beats Sweden 6-2 to set the final against Switzerland at ice hockey worlds",
     "url": "https://www.cbc.ca/sports/hockey/hockey-worlds-roundup-may-24-1.7543112?cmp=rss",
     "category": "Sports"
@@ -317,6 +310,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Watch Canada's Newman, Morales Williams compete in Rabat Diamond League",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/world-athletics-diamond-league-rabat-may-25-1.7538066?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's Mathis Beaulieu wins bronze at World Triathlon Cup in Uzbekistan",
     "url": "https://www.cbc.ca/sports/canada-mathis-beaulieu-wins-bronze-world-triathlon-cup-1.7543176?cmp=rss",
     "category": "Sports"
@@ -333,6 +333,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Doping cases, lingering lawsuit among biggest questions ahead of the French Open",
     "url": "https://www.cbc.ca/sports/tennis/french-open-2025-preview-1.7543064?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Edmonton Oilers tie conference final with Game 2 shutout win over Dallas Stars",
+    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-stars-western-conference-finals-game-2-1.7542370?cmp=rss",
     "category": "Sports"
   },
   {
@@ -389,13 +396,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Crown wraps questioning of NHLer Brett Howden at sexual assault trial of 5 ex-world junior hockey players",
     "url": "https://www.cbc.ca/9.6770401?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Watch Canada's Newman, Morales Williams compete in Rabat Diamond League",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/world-athletics-diamond-league-rabat-may-25-1.7538066?cmp=rss",
     "category": "Sports"
   },
   {
