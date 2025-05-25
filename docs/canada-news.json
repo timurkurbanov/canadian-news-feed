@@ -275,6 +275,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Knoll scores in third OT as Frost edge Charge for 2-1 series lead",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/ottawa-charge-minnesota-frost-pwhl-finals-recap-game-3-1.7543192?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Djokovic clinches his 100th career singles title at Geneva Open",
     "url": "https://www.cbc.ca/sports/tennis/novak-djokovic-clinches-100-career-singles-title-geneva-open-1.7543117?cmp=rss",
     "category": "Sports"
@@ -399,13 +406,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian women dominate Australia in Pacific Four Series rugby win",
-    "url": "https://www.cbc.ca/sports/rugby/canadian-women-dominate-australia-in-45-7-pacific-four-series-rugby-win-1.7541862?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -415,7 +415,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Rain, 9.5°C",
+    "headline": "Current Conditions: Mostly Cloudy, 9.3°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
