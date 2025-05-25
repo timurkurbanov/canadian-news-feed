@@ -65,6 +65,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "WNBA's Toronto Tempo will be 'Canada's team,' president says, as 1-year countdown begins",
+    "url": "https://www.cbc.ca/news/canada/toronto/toronto-tempo-one-year-to-tip-off-1.7543101?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian women lose Pacific Four Series rugby title to New Zealand on a tiebreaker",
     "url": "https://www.cbc.ca/sports/rugby/canadian-women-lose-pacific-four-series-title-to-new-zealand-on-tiebreaker-1.7543100?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Bianca St-Georges replaces Ashley Lawrence on Canada roster for Haiti games in Winnipeg, Montreal",
     "url": "https://www.cbc.ca/sports/soccer/bianca-st-georges-replaces-ashley-lawrence-haiti-games-1.7543006?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'You're not allowed to run. But you can hurry': new basketball league in Sudbury for women over 50",
-    "url": "https://www.cbc.ca/news/canada/sudbury/silver-sisters-basketball-1.7542263?cmp=rss",
     "category": "Sports"
   }
 ]
