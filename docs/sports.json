@@ -79,6 +79,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Our Olympic flag football dream teams for the U.S. and Canada",
+    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-olympic-flag-football-predictions-1.7540383?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Snowboarder Liam Gill explores his N.W.T. roots in documentary now online",
     "url": "https://www.cbc.ca/news/canada/north/snowboarder-liam-gill-explores-relationship-with-n-w-t-in-documentary-now-on-youtube-1.7540245?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "MLSE boss says Maple Leafs won't fill president's role after Shanahan's dismissal",
     "url": "https://www.cbc.ca/sports/hockey/nhl/keith-pelley-media-availability-1.7542398?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Crown wraps questioning of NHLer Brett Howden at sexual assault trial of 5 ex-world junior hockey players",
-    "url": "https://www.cbc.ca/9.6770401?cmp=rss",
     "category": "Sports"
   }
 ]
