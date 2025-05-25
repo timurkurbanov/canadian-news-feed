@@ -282,6 +282,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Vancouver Rise, Calgary Wild play to 1-1 draw at Swangard Stadium",
+    "url": "https://www.cbc.ca/sports/soccer/calgary-wild-vancouver-rise-nsl-recap-may-24-1.7543191?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "PWHL expansion draft explainer: How it works and what's at stake",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-expansion-draft-explainer-2025-1.7540797?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Djokovic clinches his 100th career singles title at Geneva Open",
     "url": "https://www.cbc.ca/sports/tennis/novak-djokovic-clinches-100-career-singles-title-geneva-open-1.7543117?cmp=rss",
     "category": "Sports"
@@ -289,8 +303,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "US beats Sweden 6-2 to set the final against Switzerland at ice hockey worlds",
-    "url": "https://www.cbc.ca/sports/hockey/hockey-worlds-roundup-may-24-1.7543112?cmp=rss",
+    "headline": "RBC Canadian Open poised for launch, as Nick Taylor's 2023 win helped spur a national golf renaissance",
+    "url": "https://www.cbc.ca/sports/golf/canada-golfers-2025-canadian-open-1.7539480?cmp=rss",
     "category": "Sports"
   },
   {
@@ -303,15 +317,22 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian women lose Pacific Four Series rugby title to New Zealand on a tiebreaker",
-    "url": "https://www.cbc.ca/sports/rugby/canadian-women-lose-pacific-four-series-title-to-new-zealand-on-tiebreaker-1.7543100?cmp=rss",
+    "headline": "Watch Canada's Newman, Morales Williams compete in Rabat Diamond League",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/world-athletics-diamond-league-rabat-may-25-1.7538066?cmp=rss",
     "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Watch Canada's Newman, Morales Williams compete in Rabat Diamond League",
-    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/world-athletics-diamond-league-rabat-may-25-1.7538066?cmp=rss",
+    "headline": "US beats Sweden 6-2 to set the final against Switzerland at ice hockey worlds",
+    "url": "https://www.cbc.ca/sports/hockey/hockey-worlds-roundup-may-24-1.7543112?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadian women lose Pacific Four Series rugby title to New Zealand on a tiebreaker",
+    "url": "https://www.cbc.ca/sports/rugby/canadian-women-lose-pacific-four-series-title-to-new-zealand-on-tiebreaker-1.7543100?cmp=rss",
     "category": "Sports"
   },
   {
@@ -385,27 +406,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "PWHL expansion draft explainer: How it works and what's at stake",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-expansion-draft-explainer-2025-1.7540797?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Crown wraps questioning of NHLer Brett Howden at sexual assault trial of 5 ex-world junior hockey players",
-    "url": "https://www.cbc.ca/9.6770401?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "No stranger to pressure, Whitehorse's Gavin McKenna embraces Memorial Cup spotlight",
-    "url": "https://www.cbc.ca/news/canada/north/gavin-mckenna-whitehorse-memorial-cup-2025-1.7542532?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -415,7 +415,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 8.6°C",
+    "headline": "Current Conditions: Mostly Cloudy, 10.0°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
