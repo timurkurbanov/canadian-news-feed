@@ -149,6 +149,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada Post to meet with union Sunday amid national overtime ban by mail workers",
+    "url": "https://www.cbc.ca/news/canada/canada-post-union-of-postal-workers-national-overtime-ban-negotiations-strike-1.7543361?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Trump threatens EU with 50% tariff, Apple and other smartphone makers with 25%",
     "url": "https://www.cbc.ca/news/business/trump-trade-threats-eu-apple-1.7541856?cmp=rss",
     "category": "Business"
@@ -415,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 17.9°C",
+    "headline": "Current Conditions: Mostly Cloudy, 17.5°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
