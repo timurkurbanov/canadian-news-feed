@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "King Charles and Queen Camilla arriving in Ottawa for royal tour, throne speech",
+    "url": "https://www.cbc.ca/news/politics/livestory/king-charles-and-queen-camilla-arriving-in-ottawa-for-royal-tour-throne-speech-9.6772981?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "King Charles and Queen Camilla begin royal visit to Canada",
     "url": "https://www.cbc.ca/news/politics/king-charles-queen-camilla-visit-canada-1.7542067?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Israeli ambassador suggests diplomats in West Bank led astray to provoke IDF",
     "url": "https://www.cbc.ca/news/politics/west-bank-shots-fired-near-diplomatic-group-idf-1.7541617?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney's heavily scrutinized chief of staff to remain in role for now",
-    "url": "https://www.cbc.ca/news/politics/marco-mendicino-chief-of-staff-carney-1.7541709?cmp=rss",
     "category": "Politics"
   }
 ]
