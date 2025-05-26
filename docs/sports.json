@@ -2,6 +2,20 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Judge to rule whether NHLer's texts can be evidence at trial of ex-world junior hockey teammates",
+    "url": "https://www.cbc.ca/9.6772828?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Paris silver medallists Humana-Paredes, Wilkerson set sights on Hollywood ending at next Olympics",
+    "url": "https://www.cbc.ca/sports/olympics/summer/volleyball/beach/beach-volleyball-canada-wilkerson-humana-paredes-1.7540760?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Hyman, Nugent-Hopkins help Oilers dominate Game 3 vs. Stars, take series lead",
     "url": "https://www.cbc.ca/news/canada/edmonton/oilers-stars-game-three-1.7543353?cmp=rss",
     "category": "Sports"
@@ -18,13 +32,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Christopher Morales Williams 5th at Diamond League Rabat in 400m outdoor season debut",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/world-athletics-diamond-league-rabat-may-25-1.7538066?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Paris silver medallists Humana-Paredes, Wilkerson set sights on Hollywood ending at next Olympics",
-    "url": "https://www.cbc.ca/sports/olympics/summer/volleyball/beach/beach-volleyball-canada-wilkerson-humana-paredes-1.7540760?cmp=rss",
     "category": "Sports"
   },
   {
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian women lose Pacific Four Series rugby title to New Zealand on a tiebreaker",
     "url": "https://www.cbc.ca/sports/rugby/canadian-women-lose-pacific-four-series-title-to-new-zealand-on-tiebreaker-1.7543100?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Our Olympic flag football dream teams for the U.S. and Canada",
-    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-olympic-flag-football-predictions-1.7540383?cmp=rss",
     "category": "Sports"
   }
 ]
