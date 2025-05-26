@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ryan Nugent-Hopkins once again shining for Edmonton Oilers in post-season",
+    "url": "https://www.cbc.ca/news/canada/edmonton/ryan-nugent-hopkins-once-again-shining-for-edmonton-oilers-in-post-season-1.7543709?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Serious head injury after Hockey Canada days has impacted memory, NHLer testifies at sex assault trial",
     "url": "https://www.cbc.ca/9.6772828?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Djokovic clinches his 100th career singles title at Geneva Open",
     "url": "https://www.cbc.ca/sports/tennis/novak-djokovic-clinches-100-career-singles-title-geneva-open-1.7543117?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "U.S. beats Sweden 6-2 to set the final against Switzerland at ice hockey worlds",
-    "url": "https://www.cbc.ca/sports/hockey/hockey-worlds-roundup-may-24-1.7543112?cmp=rss",
     "category": "Sports"
   }
 ]
