@@ -2,21 +2,21 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Liberal MP Francis Scarpaleggia elected new Speaker of the House of Commons",
+    "headline": "Crowds greet King Charles and Queen Camilla as they arrive in Ottawa for 2-day tour",
+    "url": "https://www.cbc.ca/news/politics/livestory/crowds-greet-king-charles-and-queen-camilla-as-they-arrive-in-ottawa-for-2-day-tour-9.6772981?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "New Speaker Francis Scarpaleggia asks for 'a little grace period' as Parliament opens",
     "url": "https://www.cbc.ca/news/politics/new-speaker-house-of-commons-1.7543572?cmp=rss",
     "category": "Politics"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "King Charles and Queen Camilla touch down in Ottawa for royal tour, throne speech",
-    "url": "https://www.cbc.ca/news/politics/livestory/king-charles-and-queen-camilla-touch-down-in-ottawa-for-royal-tour-throne-speech-9.6772981?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "King Charles and Queen Camilla touch down in Canada for two-day visit amid U.S. tensions",
+    "headline": "King Charles and Queen Camilla arrive in Canada for two-day visit amid U.S. tensions",
     "url": "https://www.cbc.ca/news/politics/king-charles-queen-camilla-visit-canada-1.7542067?cmp=rss",
     "category": "Politics"
   },
@@ -331,6 +331,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ontario horse trainer suspended 10 years for buying performance-enhancing drugs: AGCO",
+    "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/guelph-jeffrey-gillis-standardbred-horse-trainer-suspended-10-years-agco-1.7543602?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Christopher Morales Williams 5th at Diamond League Rabat in 400m outdoor season debut",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/world-athletics-diamond-league-rabat-may-25-1.7538066?cmp=rss",
     "category": "Sports"
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Djokovic clinches his 100th career singles title at Geneva Open",
-    "url": "https://www.cbc.ca/sports/tennis/novak-djokovic-clinches-100-career-singles-title-geneva-open-1.7543117?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Sunny, 22.1°C",
+    "headline": "Current Conditions: Partly Cloudy, 22.8°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

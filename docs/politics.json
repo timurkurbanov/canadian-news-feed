@@ -2,21 +2,21 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Liberal MP Francis Scarpaleggia elected new Speaker of the House of Commons",
+    "headline": "Crowds greet King Charles and Queen Camilla as they arrive in Ottawa for 2-day tour",
+    "url": "https://www.cbc.ca/news/politics/livestory/crowds-greet-king-charles-and-queen-camilla-as-they-arrive-in-ottawa-for-2-day-tour-9.6772981?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "New Speaker Francis Scarpaleggia asks for 'a little grace period' as Parliament opens",
     "url": "https://www.cbc.ca/news/politics/new-speaker-house-of-commons-1.7543572?cmp=rss",
     "category": "Politics"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "King Charles and Queen Camilla touch down in Ottawa for royal tour, throne speech",
-    "url": "https://www.cbc.ca/news/politics/livestory/king-charles-and-queen-camilla-touch-down-in-ottawa-for-royal-tour-throne-speech-9.6772981?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "King Charles and Queen Camilla touch down in Canada for two-day visit amid U.S. tensions",
+    "headline": "King Charles and Queen Camilla arrive in Canada for two-day visit amid U.S. tensions",
     "url": "https://www.cbc.ca/news/politics/king-charles-queen-camilla-visit-canada-1.7542067?cmp=rss",
     "category": "Politics"
   },
