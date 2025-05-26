@@ -303,8 +303,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Tage Thompson scores in OT to give the U.S. its 1st men's hockey world title in 92 years",
-    "url": "https://www.cbc.ca/sports/hockey/united-states-sweden-hockey-worlds-medallists-2025-1.7543362?cmp=rss",
+    "headline": "Paris silver medallists Humana-Paredes, Wilkerson set sights on Hollywood ending at next Olympics",
+    "url": "https://www.cbc.ca/sports/olympics/summer/volleyball/beach/beach-volleyball-canada-wilkerson-humana-paredes-1.7540760?cmp=rss",
     "category": "Sports"
   },
   {
@@ -312,6 +312,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Toronto Sceptres defender Renata Fast — up for PWHL top defender and MVP — didn't think she'd reach this level",
     "url": "https://www.cbc.ca/news/canada/hamilton/renata-fast-league-honours-1.7542028?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Tage Thompson scores in OT to give the U.S. its 1st men's hockey world title in 92 years",
+    "url": "https://www.cbc.ca/sports/hockey/united-states-sweden-hockey-worlds-medallists-2025-1.7543362?cmp=rss",
     "category": "Sports"
   },
   {
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's Mathis Beaulieu wins bronze at World Triathlon Cup in Uzbekistan",
-    "url": "https://www.cbc.ca/sports/canada-mathis-beaulieu-wins-bronze-world-triathlon-cup-1.7543176?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Sunny, 9.3°C",
+    "headline": "Current Conditions: Mainly Sunny, 11.4°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
