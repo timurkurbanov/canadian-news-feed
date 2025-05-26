@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "King Charles and Queen Camilla begin royal visit to Canada",
+    "url": "https://www.cbc.ca/news/politics/king-charles-queen-camilla-visit-canada-1.7542067?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney tells MPs to brace for 'very, very busy' few weeks as Parliament reopens",
     "url": "https://www.cbc.ca/news/politics/carney-caucus-meeting-1.7542021?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Trump's Golden Dome raises major questions: Can it be built? Should it be built? What's Canada's role?",
     "url": "https://www.cbc.ca/news/politics/golden-dome-canada-1.7540566?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'Easier ways to send messages' to Trump than bringing in the King: U.S. ambassador",
-    "url": "https://www.cbc.ca/news/politics/us-ambassador-trump-1.7541432?cmp=rss",
     "category": "Politics"
   }
 ]
