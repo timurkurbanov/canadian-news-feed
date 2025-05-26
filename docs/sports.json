@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Iga Swiatek and Carlos Alcaraz off to strong start in French Open title defences",
+    "url": "https://www.cbc.ca/sports/tennis/shapovalov-diallo-swiatek-alcaraz-french-open-roundup-1.7543693?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's Linkletter narrowly close to winning his 1st-ever marathon, placing 2nd in Ottawa",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/road/linkletter-ottawa-marathon-philibert-thiboutot-canadian-10k-record-1.7543430?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "U.S. beats Sweden 6-2 to set the final against Switzerland at ice hockey worlds",
     "url": "https://www.cbc.ca/sports/hockey/hockey-worlds-roundup-may-24-1.7543112?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "WNBA's Toronto Tempo will be 'Canada's team,' president says, as 1-year countdown begins",
-    "url": "https://www.cbc.ca/news/canada/toronto/toronto-tempo-one-year-to-tip-off-1.7543101?cmp=rss",
     "category": "Sports"
   }
 ]

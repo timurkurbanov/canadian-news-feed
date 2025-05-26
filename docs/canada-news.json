@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Liberal MP Francis Scarpaleggia elected new Speaker of the House of Commons",
+    "url": "https://www.cbc.ca/news/politics/new-speaker-house-of-commons-1.7543572?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "King Charles and Queen Camilla begin royal visit to Canada",
     "url": "https://www.cbc.ca/news/politics/king-charles-queen-camilla-visit-canada-1.7542067?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney's heavily scrutinized chief of staff to remain in role for now",
     "url": "https://www.cbc.ca/news/politics/marco-mendicino-chief-of-staff-carney-1.7541709?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump's Golden Dome raises major questions: Can it be built? Should it be built? What's Canada's role?",
-    "url": "https://www.cbc.ca/news/politics/golden-dome-canada-1.7540566?cmp=rss",
     "category": "Politics"
   },
   {
@@ -303,6 +303,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Iga Swiatek and Carlos Alcaraz off to strong start in French Open title defences",
+    "url": "https://www.cbc.ca/sports/tennis/shapovalov-diallo-swiatek-alcaraz-french-open-roundup-1.7543693?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's Linkletter narrowly close to winning his 1st-ever marathon, placing 2nd in Ottawa",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/road/linkletter-ottawa-marathon-philibert-thiboutot-canadian-10k-record-1.7543430?cmp=rss",
     "category": "Sports"
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "WNBA's Toronto Tempo will be 'Canada's team,' president says, as 1-year countdown begins",
-    "url": "https://www.cbc.ca/news/canada/toronto/toronto-tempo-one-year-to-tip-off-1.7543101?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Sunny, 18.3°C",
+    "headline": "Current Conditions: Mainly Sunny, 20.7°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
