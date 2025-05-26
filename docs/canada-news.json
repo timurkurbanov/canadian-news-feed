@@ -289,8 +289,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Tage Thompson scores in OT to give the U.S. its first men's hockey world title in 92 years",
-    "url": "https://www.cbc.ca/sports/hockey/united-states-sweden-hockey-worlds-medallists-2025-1.7543362?cmp=rss",
+    "headline": "Canada's Linkletter narrowly close to winning his 1st-ever marathon, placing 2nd in Ottawa",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/road/linkletter-ottawa-marathon-philibert-thiboutot-canadian-10k-record-1.7543430?cmp=rss",
     "category": "Sports"
   },
   {
@@ -298,6 +298,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Christopher Morales Williams 5th at Diamond League Rabat in 400m outdoor season debut",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/world-athletics-diamond-league-rabat-may-25-1.7538066?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Tage Thompson scores in OT to give the U.S. its 1st men's hockey world title in 92 years",
+    "url": "https://www.cbc.ca/sports/hockey/united-states-sweden-hockey-worlds-medallists-2025-1.7543362?cmp=rss",
     "category": "Sports"
   },
   {
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Toronto clamps down on FIFA World Cup spending over funding fight with Ontario",
-    "url": "https://www.cbc.ca/news/canada/toronto/toronto-fifa-world-cup-spending-fight-1.7542101?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 12.7°C",
+    "headline": "Current Conditions: Mostly Cloudy, 13.1°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

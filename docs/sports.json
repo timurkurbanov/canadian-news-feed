@@ -9,8 +9,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Tage Thompson scores in OT to give the U.S. its first men's hockey world title in 92 years",
-    "url": "https://www.cbc.ca/sports/hockey/united-states-sweden-hockey-worlds-medallists-2025-1.7543362?cmp=rss",
+    "headline": "Canada's Linkletter narrowly close to winning his 1st-ever marathon, placing 2nd in Ottawa",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/road/linkletter-ottawa-marathon-philibert-thiboutot-canadian-10k-record-1.7543430?cmp=rss",
     "category": "Sports"
   },
   {
@@ -18,6 +18,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Christopher Morales Williams 5th at Diamond League Rabat in 400m outdoor season debut",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/world-athletics-diamond-league-rabat-may-25-1.7538066?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Tage Thompson scores in OT to give the U.S. its 1st men's hockey world title in 92 years",
+    "url": "https://www.cbc.ca/sports/hockey/united-states-sweden-hockey-worlds-medallists-2025-1.7543362?cmp=rss",
     "category": "Sports"
   },
   {
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Hunter St. Martin lifts Medicine Hat Tigers over Rimouski Océanic in Memorial Cup opener",
     "url": "https://www.cbc.ca/sports/hockey/memorial-cup-oceanic-tigers-theberge-may-23-1.7543057?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Toronto clamps down on FIFA World Cup spending over funding fight with Ontario",
-    "url": "https://www.cbc.ca/news/canada/toronto/toronto-fifa-world-cup-spending-fight-1.7542101?cmp=rss",
     "category": "Sports"
   }
 ]
