@@ -142,6 +142,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ontario judge approves $500M settlement in Loblaw bread-fixing case",
+    "url": "https://www.cbc.ca/news/business/judge-approves-500-million-settlement-loblaw-bread-price-fixing-1.7543680?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Trump drops tariff threat against EU after weekend call with bloc chief",
     "url": "https://www.cbc.ca/news/business/trump-drops-tariff-threat-eu-ursula-von-der-leyen-1.7543601?cmp=rss",
     "category": "Business"
@@ -275,13 +282,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada Post receives strike notice; workers plan Friday walkout",
-    "url": "https://www.cbc.ca/news/business/canada-post-strike-notice-1.7538696?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "NHLer's text about alleged slap can't be used as evidence at ex-world junior hockey trial, judge rules",
     "url": "https://www.cbc.ca/9.6772828?cmp=rss",
     "category": "Sports"
@@ -291,6 +291,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Paris silver medallists Humana-Paredes, Wilkerson set sights on Hollywood ending at next Olympics",
     "url": "https://www.cbc.ca/sports/olympics/summer/volleyball/beach/beach-volleyball-canada-wilkerson-humana-paredes-1.7540760?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "How women's advocates are using the Hockey Canada sexual assault trial to talk to players about consent",
+    "url": "https://www.cbc.ca/news/canada/london/how-women-s-advocates-are-using-the-hockey-canada-sexual-assault-trial-to-talk-to-players-about-consent-1.7542278?cmp=rss",
     "category": "Sports"
   },
   {
@@ -403,13 +410,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "WNBA's Toronto Tempo will be 'Canada's team,' president says, as 1-year countdown begins",
     "url": "https://www.cbc.ca/news/canada/toronto/toronto-tempo-one-year-to-tip-off-1.7543101?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian women lose Pacific Four Series rugby title to New Zealand on a tiebreaker",
-    "url": "https://www.cbc.ca/sports/rugby/canadian-women-lose-pacific-four-series-title-to-new-zealand-on-tiebreaker-1.7543100?cmp=rss",
     "category": "Sports"
   },
   {
