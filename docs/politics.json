@@ -2,8 +2,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Crowds greet King Charles and Queen Camilla as they arrive in Ottawa for 2-day tour",
-    "url": "https://www.cbc.ca/news/politics/livestory/crowds-greet-king-charles-and-queen-camilla-as-they-arrive-in-ottawa-for-2-day-tour-9.6772981?cmp=rss",
+    "headline": "King Charles and Queen Camilla attend tree planting, Privy Council ceremony at Rideau Hall",
+    "url": "https://www.cbc.ca/news/politics/livestory/king-charles-and-queen-camilla-attend-tree-planting-privy-council-ceremony-at-rideau-hall-9.6772981?cmp=rss",
     "category": "Politics"
   },
   {
@@ -25,6 +25,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney tells MPs to brace for 'very, very busy' few weeks as Parliament reopens",
     "url": "https://www.cbc.ca/news/politics/carney-caucus-meeting-1.7542021?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Francis Scarpaleggia elected as new Speaker of House of Commons",
+    "url": "https://www.cbc.ca/player/play/9.6773159?cmp=rss",
     "category": "Politics"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Conservative Kathy Borrelli narrowly upholds win in federal Windsor-area riding recount",
     "url": "https://www.cbc.ca/news/canada/windsor/recount-results-election-windsor-tecumseh-lakeshore-federal-1.7540229?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Israeli ambassador suggests diplomats in West Bank led astray to provoke IDF",
-    "url": "https://www.cbc.ca/news/politics/west-bank-shots-fired-near-diplomatic-group-idf-1.7541617?cmp=rss",
     "category": "Politics"
   }
 ]
