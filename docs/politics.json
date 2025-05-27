@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Former prime minister Jean Chrétien recovering after stent insertion: source",
+    "url": "https://www.cbc.ca/news/politics/jean-chretien-heart-surgery-1.7545239?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "King says 'strong and free' Canada is a force for good in historic throne speech",
     "url": "https://www.cbc.ca/news/politics/king-charles-delivers-throne-speech-1.7544242?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Mark Carney's to-do list is short but steep",
     "url": "https://www.cbc.ca/news/politics/carney-mandate-letter-trudeau-analysis-1.7542564?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Inside the NDP's last-ditch efforts to save Jagmeet Singh and his riding",
-    "url": "https://www.cbc.ca/news/politics/jagmeet-singh-riding-burnaby-central-election-1.7542379?cmp=rss",
     "category": "Politics"
   }
 ]
