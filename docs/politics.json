@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney says Canada is looking to join major European military buildup by July 1",
+    "url": "https://www.cbc.ca/news/politics/rearm-europe-deal-canada-carney-interview-1.7545303?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "King says 'strong and free' Canada is a force for good in historic throne speech",
     "url": "https://www.cbc.ca/news/politics/king-charles-delivers-throne-speech-1.7544242?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Inside the NDP's last-ditch efforts to save Jagmeet Singh and his riding",
     "url": "https://www.cbc.ca/news/politics/jagmeet-singh-riding-burnaby-central-election-1.7542379?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Why some Liberal MPs want to reserve the right to oust Mark Carney",
-    "url": "https://www.cbc.ca/news/politics/liberals-reform-act-caucus-meeting-1.7542530?cmp=rss",
     "category": "Politics"
   }
 ]
