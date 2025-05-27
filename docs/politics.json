@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Wreath-bearer to the Queen: The story of Warrant Officer Olivia Vernelli",
+    "url": "https://www.cbc.ca/news/politics/royal-visit-cadet-afghanistan-1.7545019?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Read the full throne speech delivered by King Charles",
     "url": "https://www.cbc.ca/news/politics/full-throne-speech-1.7544999?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Why some Liberal MPs want to reserve the right to oust Mark Carney",
     "url": "https://www.cbc.ca/news/politics/liberals-reform-act-caucus-meeting-1.7542530?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Conservative Jonathan Rowe wins Terra Nova-The Peninsulas following recount",
-    "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/terra-nova-peninsulas-recount-decision-1.7538809?cmp=rss",
     "category": "Politics"
   }
 ]
