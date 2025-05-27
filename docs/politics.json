@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Harper and Trudeau share laughs, and other lighter throne speech moments",
+    "url": "https://www.cbc.ca/news/politics/senate-chamber-moments-throne-speech-1.7545254?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney says more movement on tariffs needed before CUSMA talks start",
     "url": "https://www.cbc.ca/news/politics/carney-cusma-trade-review-tariffs-1.7545170?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "The King's visit is a response to Trump's 51st state threats. Will it help?",
     "url": "https://www.cbc.ca/news/politics/king-charles-visit-trump-1.7542388?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "How Canada's relationship with Israel went from 'best friend' to breakdown",
-    "url": "https://www.cbc.ca/news/politics/canada-israel-friendship-gaza-1.7541957?cmp=rss",
     "category": "Politics"
   }
 ]
