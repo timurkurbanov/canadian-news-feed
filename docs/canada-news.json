@@ -303,7 +303,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Cozzolino's 2 goals leads Canada win over China at para hockey worlds",
+    "headline": "Cozzolino's 2 goals leads Canada win over China at Para hockey worlds",
     "url": "https://www.cbc.ca/sports/paralympics/winter-sports/para-ice-hockey/canada-china-recap-para-hockey-world-championship-may27-1.7545111?cmp=rss",
     "category": "Sports"
   },
@@ -429,28 +429,21 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Tuesday: Sunny. High 26.",
+    "headline": "Tuesday night: Clear. Low 9.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Tuesday night: Clear. Low 10.",
+    "headline": "Wednesday: Mainly sunny. High 26.",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Wednesday: Cloudy. High 24.",
-    "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
-    "category": "Weather"
-  },
-  {
-    "source": "weather.gc",
-    "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Wednesday night: Chance of showers. Low 12. POP 30%",
+    "headline": "Wednesday night: Chance of showers. Low 13. POP 30%",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
