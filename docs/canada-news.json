@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "King says 'strong and free' Canada is a force for good in historic throne speech",
+    "url": "https://www.cbc.ca/news/politics/king-charles-delivers-throne-speech-1.7544242?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "5 key messages in King Charles's speech from the throne",
     "url": "https://www.cbc.ca/news/politics/speech-from-throne-king-charles-five-things-1.7544963?cmp=rss",
     "category": "Politics"
@@ -11,13 +18,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "RECAP | King Charles, Queen Camilla wrap whirlwind visit, after War Memorial wreath laying, throne speech",
     "url": "https://www.cbc.ca/news/politics/livestory/recap-king-charles-queen-camilla-wrap-whirlwind-visit-after-war-memorial-wreath-laying-throne-speech-9.6774177?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "King says 'strong and free' Canada is a force for good in historic throne speech",
-    "url": "https://www.cbc.ca/news/politics/king-charles-delivers-throne-speech-1.7544242?cmp=rss",
     "category": "Politics"
   },
   {
@@ -282,8 +282,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "World juniors sexual assault trial hears from 1 of the 5 accused men for 1st time, via police video",
-    "url": "https://www.cbc.ca/9.6774227?cmp=rss",
+    "headline": "With PWHL expansion looming, the defending champion Frost go out on top",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-walter-cup-frost-back-to-back-expansion-looming-1.7545086?cmp=rss",
     "category": "Sports"
   },
   {
@@ -291,6 +291,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "See it, be it, and then tee it up: Black Women Golfers group opens new space in golf",
     "url": "https://www.cbc.ca/sports/soccer/opinion-shireen-ahmed-black-women-golfers-may-27-1.7543822?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "World juniors sexual assault trial hears from 1 of the 5 accused men for 1st time, via police video",
+    "url": "https://www.cbc.ca/9.6774227?cmp=rss",
     "category": "Sports"
   },
   {
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Tage Thompson scores in OT to give the U.S. its 1st men's hockey world title in 92 years",
-    "url": "https://www.cbc.ca/sports/hockey/united-states-sweden-hockey-worlds-medallists-2025-1.7543362?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Sunny, 24.5°C",
+    "headline": "Current Conditions: Mainly Sunny, 26.0°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
