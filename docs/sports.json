@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Stuart Skinner rising to the occasion for Edmonton Oilers after mid-playoff reset",
+    "url": "https://www.cbc.ca/news/canada/edmonton/stuart-skinner-rising-to-the-occasion-for-edmonton-oilers-after-mid-playoff-reset-1.7544395?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Paris silver medallists Humana-Paredes, Wilkerson set sights on Hollywood ending at next Olympics",
     "url": "https://www.cbc.ca/sports/olympics/summer/volleyball/beach/beach-volleyball-canada-wilkerson-humana-paredes-1.7540760?cmp=rss",
     "category": "Sports"
@@ -65,20 +72,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Ryan Nugent-Hopkins once again shining for Edmonton Oilers in post-season",
-    "url": "https://www.cbc.ca/news/canada/edmonton/ryan-nugent-hopkins-once-again-shining-for-edmonton-oilers-in-post-season-1.7543709?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Hyman, Nugent-Hopkins help Oilers dominate Game 3 vs. Stars, take series lead",
-    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-stars-game-three-1.7543353?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ontario horse trainer suspended 10 years for buying performance-enhancing drugs: AGCO",
     "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/guelph-jeffrey-gillis-standardbred-horse-trainer-suspended-10-years-agco-1.7543602?cmp=rss",
     "category": "Sports"
@@ -114,22 +107,29 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian teen Victoria Mboko wins Grand Slam debut at French Open and looks for more",
-    "url": "https://www.cbc.ca/sports/tennis/victoria-mboko-wins-first-grand-slam-match-1.7543320?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Knoll scores in third OT as Frost edge Charge for 2-1 series lead",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/ottawa-charge-minnesota-frost-pwhl-finals-recap-game-3-1.7543192?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Vancouver Rise, Calgary Wild play to 1-1 draw at Swangard Stadium",
     "url": "https://www.cbc.ca/sports/soccer/calgary-wild-vancouver-rise-nsl-recap-may-24-1.7543191?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "McGregor, Cozzolino pace Canadian men in 11-0 rout of Germany to open Para hockey worlds",
+    "url": "https://www.cbc.ca/sports/paralympics/winter-sports/para-ice-hockey/canada-germany-recap-para-hockey-world-championship-buffalo-1.7543269?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "PWHL expansion draft explainer: How it works and what's at stake",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-expansion-draft-explainer-2025-1.7540797?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "RBC Canadian Open poised for launch, as Nick Taylor's 2023 win helped spur a national golf renaissance",
+    "url": "https://www.cbc.ca/sports/golf/canada-golfers-2025-canadian-open-1.7539480?cmp=rss",
     "category": "Sports"
   }
 ]

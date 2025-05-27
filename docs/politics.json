@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "King Charles to deliver speech from the throne as 45th Parliament opens",
+    "url": "https://www.cbc.ca/news/politics/livestory/king-charles-to-deliver-speech-from-the-throne-as-45th-parliament-opens-9.6774177?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "King Charles to deliver throne speech today, starting new session of Parliament",
     "url": "https://www.cbc.ca/news/politics/king-charles-delivers-throne-speech-1.7544242?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Federal public service shrinks for 1st time in a decade",
     "url": "https://www.cbc.ca/news/canada/ottawa/canada-public-service-size-jobs-cuts-2025-1.6302059?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "'Energy is Canada's power': New federal energy minister touts past Alberta oilpatch ties",
-    "url": "https://www.cbc.ca/news/canada/calgary/bakx-hodgson-calgary-chamber-oilpatch-1.7541268?cmp=rss",
     "category": "Politics"
   }
 ]
