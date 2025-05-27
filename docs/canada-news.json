@@ -30,6 +30,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Government moves to purge consumer carbon tax from law",
+    "url": "https://www.cbc.ca/news/politics/government-to-cut-consumer-carbon-tax-out-of-law-1.7545352?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "King says 'strong and free' Canada is a force for good in historic throne speech",
     "url": "https://www.cbc.ca/news/politics/king-charles-delivers-throne-speech-1.7544242?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "As Parliament returns, routine proceedings will see some novel twists, flair and a visit from King Charles",
     "url": "https://www.cbc.ca/news/politics/parliament-return-throne-speech-1.7540624?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "The King's visit is a response to Trump's 51st state threats. Will it help?",
-    "url": "https://www.cbc.ca/news/politics/king-charles-visit-trump-1.7542388?cmp=rss",
     "category": "Politics"
   },
   {
