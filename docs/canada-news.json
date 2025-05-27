@@ -282,6 +282,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Back to back: Frost beat Charge in overtime to successfully defend Walter Cup crown",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/ottawa-charge-minnesota-frost-pwhl-finals-recap-game-4-1.7544254?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Paris silver medallists Humana-Paredes, Wilkerson set sights on Hollywood ending at next Olympics",
     "url": "https://www.cbc.ca/sports/olympics/summer/volleyball/beach/beach-volleyball-canada-wilkerson-humana-paredes-1.7540760?cmp=rss",
     "category": "Sports"
@@ -406,13 +413,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "McGregor, Cozzolino pace Canadian men in 11-0 rout of Germany to open Para hockey worlds",
-    "url": "https://www.cbc.ca/sports/paralympics/winter-sports/para-ice-hockey/canada-germany-recap-para-hockey-world-championship-buffalo-1.7543269?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -422,7 +422,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 20.9°C",
+    "headline": "Current Conditions: Mainly Clear, 16.6°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
