@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Cozzolino's 2 goals leads Canada win over China at para hockey worlds",
+    "url": "https://www.cbc.ca/sports/paralympics/winter-sports/para-ice-hockey/canada-china-recap-para-hockey-world-championship-may27-1.7545111?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Russian teams remain barred from competing at Milan-Cortina Olympics next February",
     "url": "https://www.cbc.ca/sports/olympics/winter/russian-ban-milan-cortina-winter-olympics-2026-1.7544698?cmp=rss",
     "category": "Sports"
@@ -123,13 +130,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Tage Thompson scores in OT to give the U.S. its 1st men's hockey world title in 92 years",
     "url": "https://www.cbc.ca/sports/hockey/united-states-sweden-hockey-worlds-medallists-2025-1.7543362?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Vancouver Rise, Calgary Wild play to 1-1 draw at Swangard Stadium",
-    "url": "https://www.cbc.ca/sports/soccer/calgary-wild-vancouver-rise-nsl-recap-may-24-1.7543191?cmp=rss",
     "category": "Sports"
   }
 ]
