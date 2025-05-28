@@ -2,7 +2,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian swim star Summer McIntosh confirms she's joining famed coach Bob Bowman's program",
+    "headline": "Canadian swim star Summer McIntosh confirms she will train with Michael Phelps's former coach",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/summer-mcintosh-bob-bowman-coach-confirm-may28-1.7544915?cmp=rss",
     "category": "Sports"
   },
@@ -16,8 +16,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Edmonton Oilers inch closer to Stanley Cup final after another win at home",
-    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-stars-western-conference-final-game-4-1.7545025?cmp=rss",
+    "headline": "Crown questions detective who led 1st investigation that ended with no charges against ex-world junior players",
+    "url": "https://www.cbc.ca/9.6775735?cmp=rss",
     "category": "Sports"
   },
   {
@@ -25,6 +25,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian teen Mboko extends perfect run to reach 3rd round at French Open",
     "url": "https://www.cbc.ca/sports/tennis/french-open-canadians-may-28-1.7545733?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Edmonton Oilers inch closer to Stanley Cup final after another win at home",
+    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-stars-western-conference-final-game-4-1.7545025?cmp=rss",
     "category": "Sports"
   },
   {
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's Linkletter narrowly close to winning his 1st-ever marathon, placing 2nd in Ottawa",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/road/linkletter-ottawa-marathon-philibert-thiboutot-canadian-10k-record-1.7543430?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Diallo, Shapovalov into French Open 2nd round for Canada after straight-set victories",
-    "url": "https://www.cbc.ca/sports/tennis/shapovalov-diallo-swiatek-alcaraz-french-open-roundup-1.7543693?cmp=rss",
     "category": "Sports"
   }
 ]

@@ -282,7 +282,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian swim star Summer McIntosh confirms she's joining famed coach Bob Bowman's program",
+    "headline": "Canadian swim star Summer McIntosh confirms she will train with Michael Phelps's former coach",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/summer-mcintosh-bob-bowman-coach-confirm-may28-1.7544915?cmp=rss",
     "category": "Sports"
   },
@@ -296,8 +296,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Edmonton Oilers inch closer to Stanley Cup final after another win at home",
-    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-stars-western-conference-final-game-4-1.7545025?cmp=rss",
+    "headline": "Crown questions detective who led 1st investigation that ended with no charges against ex-world junior players",
+    "url": "https://www.cbc.ca/9.6775735?cmp=rss",
     "category": "Sports"
   },
   {
@@ -305,6 +305,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian teen Mboko extends perfect run to reach 3rd round at French Open",
     "url": "https://www.cbc.ca/sports/tennis/french-open-canadians-may-28-1.7545733?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Edmonton Oilers inch closer to Stanley Cup final after another win at home",
+    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-stars-western-conference-final-game-4-1.7545025?cmp=rss",
     "category": "Sports"
   },
   {
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Diallo, Shapovalov into French Open 2nd round for Canada after straight-set victories",
-    "url": "https://www.cbc.ca/sports/tennis/shapovalov-diallo-swiatek-alcaraz-french-open-roundup-1.7543693?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mainly Sunny, 19.1°C",
+    "headline": "Current Conditions: Mainly Sunny, 21.6°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
