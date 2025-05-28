@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Donald Trump says Golden Dome would cost Canada $61 billion US",
+    "url": "https://www.cbc.ca/news/politics/golden-dome-61-billion-1.7545414?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's energy conversation shouldn't 'start and end' with pipelines, Carney says",
     "url": "https://www.cbc.ca/news/politics/mark-carney-alberta-oil-and-gas-energy-sector-1.7545224?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre says Conservatives will fight for change in new session of Parliament",
     "url": "https://www.cbc.ca/news/politics/poilievre-says-conservatives-will-fight-for-change-in-new-session-of-parliament-1.7543304?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Britain waiting for Parliament to return before deciding on pursuing Canada-U.K. trade deal",
-    "url": "https://www.cbc.ca/news/politics/britain-canada-parliament-trade-deal-1.7543343?cmp=rss",
     "category": "Politics"
   }
 ]
