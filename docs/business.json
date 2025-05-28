@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Amazon's in-car software deal with Stellantis fizzles",
+    "url": "https://www.cbc.ca/news/canada/windsor/amazon-in-car-software-deal-stellantis-fizzles-1.7545690?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "How you can get your dough in the $500M Loblaw bread-fixing settlement",
     "url": "https://www.cbc.ca/news/canada/loblaw-bread-fixing-payout-1.7544627?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada Post is in trouble. Here are the facts",
     "url": "https://www.cbc.ca/news/canada/canada-post-crisis-facts-1.7539354?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Inflation rate drops to 1.7% in April, driven by lower energy prices after carbon tax removal",
-    "url": "https://www.cbc.ca/news/business/inflation-consumer-price-index-april-1.7538823?cmp=rss",
     "category": "Business"
   }
 ]
