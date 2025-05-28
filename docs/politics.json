@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Defence minister tells arms makers to prepare for accelerated federal spending",
+    "url": "https://www.cbc.ca/news/politics/mcguinty-defence-spending-contractors-speech-1.7545797?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poll finds Albertans' attachment to Canada has grown as support for separatism has hardened",
     "url": "https://www.cbc.ca/news/canada/calgary/alberta-janet-brown-may-2025-poll-separation-sentiment-1.7544074?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney tells MPs to brace for 'very, very busy' few weeks as Parliament reopens",
     "url": "https://www.cbc.ca/news/politics/carney-caucus-meeting-1.7542021?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Francis Scarpaleggia elected as new Speaker of House of Commons",
-    "url": "https://www.cbc.ca/player/play/9.6773159?cmp=rss",
     "category": "Politics"
   }
 ]
