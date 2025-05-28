@@ -1,1 +1,142 @@
-[]
+[
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Mark Carney meets the battleground of question period",
+    "url": "https://www.cbc.ca/news/politics/carney-question-period-analysis-1.7546380?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada Post reports $1.3B operating loss with declines in both letter and parcel revenue",
+    "url": "https://www.cbc.ca/news/politics/canada-post-financial-report-1.7546234?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadian doctors who served in Gaza call for arms embargo, sanctions against Israel",
+    "url": "https://www.cbc.ca/news/politics/canadian-doctors-gaza-israel-sanctions-1.7546178?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poilievre says Conservatives will back Liberal tax cuts, but wants them to go further",
+    "url": "https://www.cbc.ca/news/politics/conservatives-liberal-tax-cuts-1.7546143?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Trump's ambassador predicts Canada trade deal — with a catch",
+    "url": "https://www.cbc.ca/news/world/hoekstra-comments-1.7546333?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Minister defends Canada's sovereignty as Trump says Golden Dome would cost 'zero dollars' for 51st state",
+    "url": "https://www.cbc.ca/news/politics/trump-golden-dome-51-state-mcguinty-caucus-1.7545859?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Mexico's president noncommittal about coming to Canada for G7 summit",
+    "url": "https://www.cbc.ca/news/politics/mexico-g7-invitation-1.7545969?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney met with former prime minister Harper on day of throne speech: sources",
+    "url": "https://www.cbc.ca/news/politics/carney-harper-meeting-1.7545953?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Defence minister tells arms makers to prepare for accelerated federal spending",
+    "url": "https://www.cbc.ca/news/politics/mcguinty-defence-spending-contractors-speech-1.7545797?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poll finds Albertans' attachment to Canada has grown as support for separatism has hardened",
+    "url": "https://www.cbc.ca/news/canada/calgary/alberta-janet-brown-may-2025-poll-separation-sentiment-1.7544074?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Donald Trump says Golden Dome would cost Canada $61 billion US",
+    "url": "https://www.cbc.ca/news/politics/golden-dome-61-billion-1.7545414?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada's energy conversation shouldn't 'start and end' with pipelines, Carney says",
+    "url": "https://www.cbc.ca/news/politics/mark-carney-alberta-oil-and-gas-energy-sector-1.7545224?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney says Canada is looking to join major European military buildup by July 1",
+    "url": "https://www.cbc.ca/news/politics/rearm-europe-deal-canada-carney-interview-1.7545303?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "King says 'strong and free' Canada is a force for good in historic throne speech",
+    "url": "https://www.cbc.ca/news/politics/king-charles-delivers-throne-speech-1.7544242?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Harper and Trudeau share laughs, and other lighter throne speech moments",
+    "url": "https://www.cbc.ca/news/politics/senate-chamber-moments-throne-speech-1.7545254?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney says more movement on tariffs needed before CUSMA talks start",
+    "url": "https://www.cbc.ca/news/politics/carney-cusma-trade-review-tariffs-1.7545170?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Former prime minister Jean Chrétien recovering after stent insertion",
+    "url": "https://www.cbc.ca/news/politics/jean-chretien-heart-surgery-1.7545239?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Government moves to purge consumer carbon tax from law",
+    "url": "https://www.cbc.ca/news/politics/government-to-cut-consumer-carbon-tax-out-of-law-1.7545352?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "5 key messages in King Charles's speech from the throne",
+    "url": "https://www.cbc.ca/news/politics/speech-from-throne-king-charles-five-things-1.7544963?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "RECAP | King Charles, Queen Camilla wrap whirlwind visit, after War Memorial wreath laying, throne speech",
+    "url": "https://www.cbc.ca/news/politics/livestory/recap-king-charles-queen-camilla-wrap-whirlwind-visit-after-war-memorial-wreath-laying-throne-speech-9.6774177?cmp=rss",
+    "category": "Politics"
+  }
+]
