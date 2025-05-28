@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Watch today's full question period",
+    "url": "https://www.cbc.ca/news/politics/follow-the-house-of-commons-question-period-1.2842646?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney met with former prime minister Harper on day of throne speech: sources",
     "url": "https://www.cbc.ca/news/politics/carney-harper-meeting-1.7545953?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "King Charles and Queen Camilla arrive in Canada for 2-day visit amid U.S. tensions",
     "url": "https://www.cbc.ca/news/politics/king-charles-queen-camilla-visit-canada-1.7542067?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "RECAP | King Charles, Queen Camilla greeted by sun and warm crowds in Ottawa on 1st day of royal tour",
-    "url": "https://www.cbc.ca/news/politics/livestory/recap-king-charles-queen-camilla-greeted-by-sun-and-warm-crowds-in-ottawa-on-1st-day-of-royal-tour-9.6772981?cmp=rss",
     "category": "Politics"
   }
 ]
