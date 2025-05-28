@@ -23,6 +23,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadian teen Mboko extends perfect run to reach 3rd round at French Open",
+    "url": "https://www.cbc.ca/sports/tennis/french-open-canadians-may-28-1.7545733?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "With PWHL expansion looming, the defending champion Frost go out on top",
     "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-walter-cup-frost-back-to-back-expansion-looming-1.7545086?cmp=rss",
     "category": "Sports"
@@ -53,13 +60,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "NSL midseason highlights, plus Bayern’s new star, Vanessa Gilles",
     "url": "https://www.cbc.ca/player/play/9.6775390?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's Auger-Aliassime gives up 2-set lead in French Open loss to Italy's Arnaldi",
-    "url": "https://www.cbc.ca/sports/tennis/french-open-canadians-may-27-1.7545289?cmp=rss",
     "category": "Sports"
   },
   {
