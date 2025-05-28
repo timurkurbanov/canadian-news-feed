@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poilievre says Conservatives will back Liberal tax cuts, but wants them to go further",
+    "url": "https://www.cbc.ca/news/politics/conservatives-liberal-tax-cuts-1.7546143?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Defence minister defends sovereignty after Trump promises Golden Dome access for $61B — or annexation",
     "url": "https://www.cbc.ca/news/politics/trump-golden-dome-51-state-mcguinty-caucus-1.7545859?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "King Charles and Queen Camilla arrive in Canada for 2-day visit amid U.S. tensions",
     "url": "https://www.cbc.ca/news/politics/king-charles-queen-camilla-visit-canada-1.7542067?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "RECAP | King Charles, Queen Camilla greeted by sun and warm crowds in Ottawa on 1st day of royal tour",
-    "url": "https://www.cbc.ca/news/politics/livestory/recap-king-charles-queen-camilla-greeted-by-sun-and-warm-crowds-in-ottawa-on-1st-day-of-royal-tour-9.6772981?cmp=rss",
     "category": "Politics"
   }
 ]
