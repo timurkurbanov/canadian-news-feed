@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Poll finds Albertans' attachment to Canada has grown as support for separatism has hardened",
+    "url": "https://www.cbc.ca/news/canada/calgary/alberta-janet-brown-may-2025-poll-separation-sentiment-1.7544074?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Donald Trump says Golden Dome would cost Canada $61 billion US",
     "url": "https://www.cbc.ca/news/politics/golden-dome-61-billion-1.7545414?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Francis Scarpaleggia elected as new Speaker of House of Commons",
     "url": "https://www.cbc.ca/player/play/9.6773159?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre says Conservatives will fight for change in new session of Parliament",
-    "url": "https://www.cbc.ca/news/politics/poilievre-says-conservatives-will-fight-for-change-in-new-session-of-parliament-1.7543304?cmp=rss",
     "category": "Politics"
   }
 ]
