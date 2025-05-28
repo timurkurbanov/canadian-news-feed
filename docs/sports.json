@@ -16,7 +16,14 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Court watches police interview with a 2nd accused player speaking on what led up to alleged sex assaults",
+    "headline": "Edmonton Oilers claim Game 4 win over Stars but lose workhorse winger Zach Hyman",
+    "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-claim-game-4-win-over-stars-but-lose-workhorse-winger-zach-hyman-1.7545704?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "In 2018 police interviews played at sex assault trial, ex-players get graphic about night at London hotel",
     "url": "https://www.cbc.ca/9.6775735?cmp=rss",
     "category": "Sports"
   },
@@ -25,13 +32,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian teen Mboko extends perfect run to reach 3rd round at French Open",
     "url": "https://www.cbc.ca/sports/tennis/french-open-canadians-may-28-1.7545733?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Edmonton Oilers inch closer to Stanley Cup final after another win at home",
-    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-stars-western-conference-final-game-4-1.7545025?cmp=rss",
     "category": "Sports"
   },
   {
