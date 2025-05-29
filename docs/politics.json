@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "30 MPs accepted $230K in free travel last year, mostly for trips to Taiwan",
+    "url": "https://www.cbc.ca/news/politics/sponsored-mp-travel-list-2024-1.7547436?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney welcomes U.S. court decision striking down parts of Trump's tariffs agenda",
     "url": "https://www.cbc.ca/news/politics/carney-trump-tariffs-court-ruling-1.7546835?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's energy conversation shouldn't 'start and end' with pipelines, Carney says",
     "url": "https://www.cbc.ca/news/politics/mark-carney-alberta-oil-and-gas-energy-sector-1.7545224?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney says Canada is looking to join major European military buildup by July 1",
-    "url": "https://www.cbc.ca/news/politics/rearm-europe-deal-canada-carney-interview-1.7545303?cmp=rss",
     "category": "Politics"
   }
 ]
