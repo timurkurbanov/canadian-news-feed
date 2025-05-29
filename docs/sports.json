@@ -30,6 +30,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Shai Gilgeous-Alexander still hasn't achieved his main goal for the Thunder",
+    "url": "https://www.cbc.ca/sports/basketball/nba/thunder-timberwolves-western-final-sga-mvp-1.7546721?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada Soccer reports 2024 loss of $4 million, looks to eliminate deficit in 2026",
     "url": "https://www.cbc.ca/sports/soccer/canada-soccer-financial-report-may28-1.7546120?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Stuart Skinner rising to the occasion for Edmonton Oilers after mid-playoff reset",
     "url": "https://www.cbc.ca/news/canada/edmonton/stuart-skinner-rising-to-the-occasion-for-edmonton-oilers-after-mid-playoff-reset-1.7544395?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Paris silver medallists Humana-Paredes, Wilkerson set sights on Hollywood ending at next Olympics",
-    "url": "https://www.cbc.ca/sports/olympics/summer/volleyball/beach/beach-volleyball-canada-wilkerson-humana-paredes-1.7540760?cmp=rss",
     "category": "Sports"
   }
 ]
