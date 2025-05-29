@@ -310,8 +310,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Defending champion Panthers advance to 3rd straight Stanley Cup final after eliminating Hurricanes",
-    "url": "https://www.cbc.ca/sports/hockey/nhl/panthers-hurricanes-eastern-conference-final-recap-may28-1.7546652?cmp=rss",
+    "headline": "Maple Leafs GM Treliving says 'DNA' needs to change in team after playoff loss to Panthers",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/treliving-season-wrap-maple-leafs-general-manager-nhl-1.7547087?cmp=rss",
     "category": "Sports"
   },
   {
@@ -319,6 +319,20 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian swim star Summer McIntosh confirms she will train with Michael Phelps's former coach",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/summer-mcintosh-bob-bowman-coach-confirm-may28-1.7544915?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Defending champion Panthers advance to 3rd straight Stanley Cup final after eliminating Hurricanes",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/panthers-hurricanes-eastern-conference-final-recap-may28-1.7546652?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada's Diallo eliminated by Griekspoor in 2nd round of French Open",
+    "url": "https://www.cbc.ca/sports/tennis/french-open-canadians-may-29-1.7547069?cmp=rss",
     "category": "Sports"
   },
   {
@@ -406,20 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Cozzolino leads Canada past China at Para hockey worlds, earning team a berth to 2026 Olympics",
-    "url": "https://www.cbc.ca/sports/paralympics/winter-sports/para-ice-hockey/canada-china-recap-para-hockey-world-championship-may27-1.7545111?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Back to back: Frost beat Charge in OT to successfully defend Walter Cup crown",
-    "url": "https://www.cbc.ca/sports/hockey/pwhl/ottawa-charge-minnesota-frost-pwhl-finals-recap-game-4-1.7544254?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 15.6°C",
+    "headline": "Current Conditions: Mostly Cloudy, 15.8°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
