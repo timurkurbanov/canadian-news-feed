@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ottawa planning 'up-front' approval for projects deemed in the national interest",
+    "url": "https://www.cbc.ca/news/politics/national-interest-projects-approvals-legislation-1.7547435?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "U.S. appeals court says Trump can keep collecting tariffs — for now",
     "url": "https://www.cbc.ca/news/world/trump-tariffs-appeal-court-ruling-1.7547404?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney says Canada is looking to join major European military buildup by July 1",
     "url": "https://www.cbc.ca/news/politics/rearm-europe-deal-canada-carney-interview-1.7545303?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "King says 'strong and free' Canada is a force for good in historic throne speech",
-    "url": "https://www.cbc.ca/news/politics/king-charles-delivers-throne-speech-1.7544242?cmp=rss",
     "category": "Politics"
   }
 ]
