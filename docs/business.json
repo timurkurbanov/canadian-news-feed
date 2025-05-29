@@ -30,6 +30,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Hudson’s Bay employees get ready for last day on the job",
+    "url": "https://www.cbc.ca/player/play/9.6776673?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "How one company plans to suck carbon right out of the air (and make money doing it)",
     "url": "https://www.cbc.ca/news/canada/calgary/carbon-removal-efforts-1.7537449?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada Post rejects union's offer to delay potential strike",
     "url": "https://www.cbc.ca/news/business/canada-post-cupw-offer-1.7540053?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Duolingo's CEO says AI will soon replace teachers. But... should it?",
-    "url": "https://www.cbc.ca/news/world/duolingo-ai-teachers-1.7539838?cmp=rss",
     "category": "Business"
   }
 ]

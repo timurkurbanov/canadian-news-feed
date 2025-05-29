@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Carney welcomes U.S. court decision striking down parts of Trump's tariffs agenda",
+    "url": "https://www.cbc.ca/news/politics/carney-trump-tariffs-court-ruling-1.7546835?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Followed, threatened and smeared — attacks by China against its critics in Canada are on the rise",
     "url": "https://www.cbc.ca/news/politics/china-targets-dissidents-canada-1.7543745?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Former prime minister Jean Chrétien recovering after stent insertion",
     "url": "https://www.cbc.ca/news/politics/jean-chretien-heart-surgery-1.7545239?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Government moves to purge consumer carbon tax from law",
-    "url": "https://www.cbc.ca/news/politics/government-to-cut-consumer-carbon-tax-out-of-law-1.7545352?cmp=rss",
     "category": "Politics"
   }
 ]
