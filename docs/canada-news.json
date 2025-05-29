@@ -149,7 +149,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Her job interview was with an AI bot. It was odd",
+    "headline": "Your next job interview could be with an AI bot",
     "url": "https://www.cbc.ca/player/play/9.6776961?cmp=rss",
     "category": "Business"
   },
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Rain, 16.7°C",
+    "headline": "Current Conditions: Mostly Cloudy, 16.6°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
