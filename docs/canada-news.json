@@ -23,7 +23,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian doctors who served in Gaza call for arms embargo, sanctions against Israel",
+    "headline": "Canadian doctors who worked in Gaza call for arms embargo, sanctions against Israel",
     "url": "https://www.cbc.ca/news/politics/canadian-doctors-gaza-israel-sanctions-1.7546178?cmp=rss",
     "category": "Politics"
   },
@@ -282,6 +282,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada's Gilgeous-Alexander, Thunder blow out Timberwolves to reach NBA Finals",
+    "url": "https://www.cbc.ca/sports/basketball/nba/thunder-timberwolves-western-final-recap-may-28-1.7546637?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian swim star Summer McIntosh confirms she will train with Michael Phelps's former coach",
     "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/summer-mcintosh-bob-bowman-coach-confirm-may28-1.7544915?cmp=rss",
     "category": "Sports"
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Fever star Caitlin Clark out at least 2 weeks with left quad strain",
-    "url": "https://www.cbc.ca/sports/basketball/indiana-fever-caitlin-clark-injured-quad-strain-1.7544069?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Partly Cloudy, 19.3°C",
+    "headline": "Current Conditions: Mostly Cloudy, 17.4°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
