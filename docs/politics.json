@@ -16,6 +16,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Watch today's full question period",
+    "url": "https://www.cbc.ca/news/politics/follow-the-house-of-commons-question-period-1.2842646?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Followed, threatened and smeared — attacks by China against its critics in Canada are on the rise",
     "url": "https://www.cbc.ca/news/politics/china-targets-dissidents-canada-1.7543745?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Harper and Trudeau share laughs, and other lighter throne speech moments",
     "url": "https://www.cbc.ca/news/politics/senate-chamber-moments-throne-speech-1.7545254?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Carney says more movement on tariffs needed before CUSMA talks start",
-    "url": "https://www.cbc.ca/news/politics/carney-cusma-trade-review-tariffs-1.7545170?cmp=rss",
     "category": "Politics"
   }
 ]
