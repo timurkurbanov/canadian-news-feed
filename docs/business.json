@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "U.S. appeals court reinstates Trump tariffs for now",
+    "url": "https://www.cbc.ca/news/world/trump-tariffs-appeal-court-ruling-1.7547404?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Her job interview was with an AI bot. It was odd",
     "url": "https://www.cbc.ca/player/play/9.6776961?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Stellantis postpones Canadian-made 2026 Dodge Charger R/T model amid tariffs",
     "url": "https://www.cbc.ca/news/canada/windsor/windsor-stellantis-dodge-charger-1.7540754?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada Post rejects union's offer to delay potential strike",
-    "url": "https://www.cbc.ca/news/business/canada-post-cupw-offer-1.7540053?cmp=rss",
     "category": "Business"
   }
 ]
