@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Russian national charged in Toronto with illegally exporting goods to Russia",
+    "url": "https://www.cbc.ca/news/investigates/russian-national-charged-toronto-sanctions-1.7547540?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's GDP grew by annualized rate of 2.2% in first quarter",
     "url": "https://www.cbc.ca/news/business/canada-economy-gdp-q1-1.7547889?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Poilievre says Conservatives will back Liberal tax cuts, but wants them to go further",
     "url": "https://www.cbc.ca/news/politics/conservatives-liberal-tax-cuts-1.7546143?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump's ambassador predicts Canada trade deal — with a catch",
-    "url": "https://www.cbc.ca/news/world/hoekstra-comments-1.7546333?cmp=rss",
     "category": "Politics"
   }
 ]
