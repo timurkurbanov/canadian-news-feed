@@ -9,6 +9,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Some First Nations worry Carney's major projects bill will only lead to more conflict",
+    "url": "https://www.cbc.ca/news/politics/first-nations-carney-major-projects-1.7548709?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Russian national charged in Toronto with illegally exporting goods to Russia",
     "url": "https://www.cbc.ca/news/investigates/russian-national-charged-toronto-sanctions-1.7547540?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian doctors who worked in Gaza call for arms embargo, sanctions against Israel",
     "url": "https://www.cbc.ca/news/politics/canadian-doctors-gaza-israel-sanctions-1.7546178?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poilievre says Conservatives will back Liberal tax cuts, but wants them to go further",
-    "url": "https://www.cbc.ca/news/politics/conservatives-liberal-tax-cuts-1.7546143?cmp=rss",
     "category": "Politics"
   }
 ]
