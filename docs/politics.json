@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada's GDP grew by annualized rate of 2.2% in first quarter",
+    "url": "https://www.cbc.ca/news/business/canada-economy-gdp-q1-1.7547889?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Amid 51st state taunts, King's popularity in Canada grows",
     "url": "https://www.cbc.ca/news/politics/king-charles-popularity-spikes-1.7547157?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Carney met with former prime minister Harper on day of throne speech: sources",
     "url": "https://www.cbc.ca/news/politics/carney-harper-meeting-1.7545953?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Defence minister tells arms makers to prepare for accelerated federal spending",
-    "url": "https://www.cbc.ca/news/politics/mcguinty-defence-spending-contractors-speech-1.7545797?cmp=rss",
     "category": "Politics"
   }
 ]
