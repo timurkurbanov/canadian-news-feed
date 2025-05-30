@@ -2,13 +2,6 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Edmonton Oilers back in Stanley Cup final after Game 5 win over Dallas Stars",
-    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-western-conference-final-1.7547693?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Aaron Brown, Andre De Grasse go head-to-head at Grand Slam Track Philadelphia",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/athletics-grand-slam-track-2025-philadelphia-aaron-brown-andre-de-grasse-1.7541870?cmp=rss",
     "category": "Sports"
@@ -16,7 +9,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Crown questions Carter Hart, 1st accused player to testify at ex-world juniors sex assault trial",
+    "headline": "Crown at world juniors trial hammers ex-player Carter Hart on his memory of what happened in London hotel room",
     "url": "https://www.cbc.ca/9.6778928?cmp=rss",
     "category": "Sports"
   },
@@ -25,6 +18,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canadian teen Mboko falls to Olympic champion Zheng at French Open",
     "url": "https://www.cbc.ca/sports/tennis/french-open-canadians-may-30-1.7547912?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Edmonton Oilers back in Stanley Cup final after Game 5 win over Dallas Stars",
+    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-western-conference-final-1.7547693?cmp=rss",
     "category": "Sports"
   },
   {
