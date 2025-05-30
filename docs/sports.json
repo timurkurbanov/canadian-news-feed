@@ -16,7 +16,7 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Crown set to question Carter Hart, 1st accused player to testify at ex-world juniors sex assault trial",
+    "headline": "Crown questions Carter Hart, 1st accused player to testify at ex-world juniors sex assault trial",
     "url": "https://www.cbc.ca/9.6778928?cmp=rss",
     "category": "Sports"
   },
@@ -39,13 +39,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Damian Warner, Pierce LePage face off in sneak preview of showdown at world championships",
     "url": "https://www.cbc.ca/sports/olympics/summer/athletics/athletics-decathlon-damian-warner-pierce-lepage-hypomeeting-gotzis-1.7540749?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "RECAP | Carter Hart, 1st world junior player to testify at trial, says E.M. ‘willingly’ took part in sex acts",
-    "url": "https://www.cbc.ca/news/canada/london/livestory/recap-carter-hart-1st-world-junior-player-to-testify-at-trial-says-e-m-willingly-took-part-in-sex-acts-9.6777319?cmp=rss",
     "category": "Sports"
   },
   {
@@ -137,6 +130,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Edmonton Oilers' Zach Hyman needs season-ending surgery after Game 4 injury",
     "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-claim-game-4-win-over-stars-but-lose-workhorse-winger-zach-hyman-1.7545704?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Police interviews, possible mystery witness punctuate dramatic day at world juniors sex assault trial",
+    "url": "https://www.cbc.ca/9.6775735?cmp=rss",
     "category": "Sports"
   }
 ]
