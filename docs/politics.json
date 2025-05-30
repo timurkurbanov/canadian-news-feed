@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Trump says he plans to double steel tariffs to 50%",
+    "url": "https://www.cbc.ca/news/world/trump-canada-steel-tariffs-1.7548855?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Israel's provocative settlement response may force Canada to back up its words",
     "url": "https://www.cbc.ca/news/politics/israel-west-bank-settlements-1.7547426?cmp=rss",
     "category": "Politics"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada should still trust U.S., Trump's former secretary of state tells defence convention",
     "url": "https://www.cbc.ca/news/politics/mike-pompeo-cansec-conference-1.7546388?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canadian doctors who worked in Gaza call for arms embargo, sanctions against Israel",
-    "url": "https://www.cbc.ca/news/politics/canadian-doctors-gaza-israel-sanctions-1.7546178?cmp=rss",
     "category": "Politics"
   }
 ]
