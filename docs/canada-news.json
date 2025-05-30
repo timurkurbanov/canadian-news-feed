@@ -2,6 +2,27 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Amid 51st state taunts, King's popularity in Canada grows",
+    "url": "https://www.cbc.ca/news/politics/king-charles-popularity-spikes-1.7547157?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "The time when foreign invasions were impossible is over, former diplomats tell defence conference",
+    "url": "https://www.cbc.ca/news/politics/cansec-nato-latvia-speeches-1.7547698?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "It's time to act on foreign interference, attacks on dissidents, say opposition MPs",
+    "url": "https://www.cbc.ca/news/politics/foreign-interference-opposition-registry-1.7547650?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ottawa planning 'up-front' approval for projects deemed in the national interest",
     "url": "https://www.cbc.ca/news/politics/national-interest-projects-approvals-legislation-1.7547435?cmp=rss",
     "category": "Politics"
@@ -121,23 +142,9 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poll finds Albertans' attachment to Canada has grown as support for separatism has hardened",
-    "url": "https://www.cbc.ca/news/canada/calgary/alberta-janet-brown-may-2025-poll-separation-sentiment-1.7544074?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Donald Trump says Golden Dome would cost Canada $61 billion US",
-    "url": "https://www.cbc.ca/news/politics/golden-dome-61-billion-1.7545414?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's energy conversation shouldn't 'start and end' with pipelines, Carney says",
-    "url": "https://www.cbc.ca/news/politics/mark-carney-alberta-oil-and-gas-energy-sector-1.7545224?cmp=rss",
-    "category": "Politics"
+    "headline": "U.S. tourism operators offer exclusive deals for Canadians to try to convince them to return",
+    "url": "https://www.cbc.ca/news/business/u-s-canadian-tourism-discounts-1.7546881?cmp=rss",
+    "category": "Business"
   },
   {
     "source": "cbc",
@@ -275,15 +282,15 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Stellantis postpones Canadian-made 2026 Dodge Charger R/T model amid tariffs",
-    "url": "https://www.cbc.ca/news/canada/windsor/windsor-stellantis-dodge-charger-1.7540754?cmp=rss",
-    "category": "Business"
+    "headline": "Edmonton Oilers back in Stanley Cup final after Game 5 win over Dallas Stars",
+    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-western-conference-final-1.7547693?cmp=rss",
+    "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Edmonton Oilers back in Stanley Cup final after Game 5 win over Dallas Stars",
-    "url": "https://www.cbc.ca/news/canada/edmonton/oilers-western-conference-final-1.7547693?cmp=rss",
+    "headline": "Aaron Brown, Andre De Grasse go head-to-head at Grand Slam Track Philadelphia",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/athletics-grand-slam-track-2025-philadelphia-aaron-brown-andre-de-grasse-1.7541870?cmp=rss",
     "category": "Sports"
   },
   {
@@ -413,13 +420,6 @@
     "category": "Sports"
   },
   {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "See it, be it, and then tee it up: Black Women Golfers group opens new space in golf",
-    "url": "https://www.cbc.ca/sports/opinion-shireen-ahmed-black-women-golfers-may-27-1.7543822?cmp=rss",
-    "category": "Sports"
-  },
-  {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
     "headline": "No watches or warnings in effect, Ottawa",
@@ -429,7 +429,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Mostly Cloudy, 13.8°C",
+    "headline": "Current Conditions: Partly Cloudy, 13.0°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },

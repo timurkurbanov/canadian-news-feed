@@ -2,6 +2,27 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Amid 51st state taunts, King's popularity in Canada grows",
+    "url": "https://www.cbc.ca/news/politics/king-charles-popularity-spikes-1.7547157?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "The time when foreign invasions were impossible is over, former diplomats tell defence conference",
+    "url": "https://www.cbc.ca/news/politics/cansec-nato-latvia-speeches-1.7547698?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "It's time to act on foreign interference, attacks on dissidents, say opposition MPs",
+    "url": "https://www.cbc.ca/news/politics/foreign-interference-opposition-registry-1.7547650?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Ottawa planning 'up-front' approval for projects deemed in the national interest",
     "url": "https://www.cbc.ca/news/politics/national-interest-projects-approvals-legislation-1.7547435?cmp=rss",
     "category": "Politics"
@@ -116,27 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Defence minister tells arms makers to prepare for accelerated federal spending",
     "url": "https://www.cbc.ca/news/politics/mcguinty-defence-spending-contractors-speech-1.7545797?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Poll finds Albertans' attachment to Canada has grown as support for separatism has hardened",
-    "url": "https://www.cbc.ca/news/canada/calgary/alberta-janet-brown-may-2025-poll-separation-sentiment-1.7544074?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Donald Trump says Golden Dome would cost Canada $61 billion US",
-    "url": "https://www.cbc.ca/news/politics/golden-dome-61-billion-1.7545414?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada's energy conversation shouldn't 'start and end' with pipelines, Carney says",
-    "url": "https://www.cbc.ca/news/politics/mark-carney-alberta-oil-and-gas-energy-sector-1.7545224?cmp=rss",
     "category": "Politics"
   }
 ]

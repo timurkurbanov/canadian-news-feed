@@ -2,6 +2,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "U.S. tourism operators offer exclusive deals for Canadians to try to convince them to return",
+    "url": "https://www.cbc.ca/news/business/u-s-canadian-tourism-discounts-1.7546881?cmp=rss",
+    "category": "Business"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "U.S. appeals court says Trump can keep collecting tariffs — for now",
     "url": "https://www.cbc.ca/news/world/trump-tariffs-appeal-court-ruling-1.7547404?cmp=rss",
     "category": "Business"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada Post reviewing union's offer responses as OT ban remains in effect",
     "url": "https://www.cbc.ca/news/canada/canada-post-union-of-postal-workers-national-overtime-ban-negotiations-strike-1.7543361?cmp=rss",
-    "category": "Business"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Stellantis postpones Canadian-made 2026 Dodge Charger R/T model amid tariffs",
-    "url": "https://www.cbc.ca/news/canada/windsor/windsor-stellantis-dodge-charger-1.7540754?cmp=rss",
     "category": "Business"
   }
 ]
