@@ -37,6 +37,13 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Olympic champion Sha'Carri Richardson investing in team-based track and field league",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/sha-carri-richardson-track-and-field-league-1.7548593?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's Gale captures World Athletics Continental Tour 400-metre silver medal in Poland",
     "url": "https://www.cbc.ca/player/play/9.6779707?cmp=rss",
     "category": "Sports"
@@ -130,13 +137,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Shai Gilgeous-Alexander still hasn't achieved his main goal for the Thunder",
     "url": "https://www.cbc.ca/sports/basketball/nba/thunder-timberwolves-western-final-sga-mvp-1.7546721?cmp=rss",
-    "category": "Sports"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Canada Soccer reports 2024 loss of $4 million, looks to eliminate deficit in 2026",
-    "url": "https://www.cbc.ca/sports/soccer/canada-soccer-financial-report-may28-1.7546120?cmp=rss",
     "category": "Sports"
   }
 ]
