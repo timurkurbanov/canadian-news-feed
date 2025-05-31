@@ -2,15 +2,8 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump says he plans to double steel tariffs to 50%",
+    "headline": "Trump says he plans to double steel and aluminum tariffs",
     "url": "https://www.cbc.ca/news/world/trump-canada-steel-tariffs-1.7548855?cmp=rss",
-    "category": "Politics"
-  },
-  {
-    "source": "cbc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Israel's provocative settlement response may force Canada to back up its words",
-    "url": "https://www.cbc.ca/news/politics/israel-west-bank-settlements-1.7547426?cmp=rss",
     "category": "Politics"
   },
   {
@@ -18,6 +11,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Some First Nations worry Carney's major projects bill will only lead to more conflict",
     "url": "https://www.cbc.ca/news/politics/first-nations-carney-major-projects-1.7548709?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Israel's provocative settlement response may force Canada to back up its words",
+    "url": "https://www.cbc.ca/news/politics/israel-west-bank-settlements-1.7547426?cmp=rss",
     "category": "Politics"
   },
   {
