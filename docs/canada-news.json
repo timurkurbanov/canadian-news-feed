@@ -2,142 +2,282 @@
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Can Mark Carney defeat Canadian populism?",
+    "url": "https://www.cbc.ca/news/politics/carney-populism-poilievre-trump-analysis-1.7548623?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Trump says he plans to double steel and aluminum tariffs",
+    "url": "https://www.cbc.ca/news/world/trump-canada-steel-tariffs-1.7548855?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Some First Nations worry Carney's major projects bill will only lead to more conflict",
+    "url": "https://www.cbc.ca/news/politics/first-nations-carney-major-projects-1.7548709?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Israel's provocative settlement response may force Canada to back up its words",
+    "url": "https://www.cbc.ca/news/politics/israel-west-bank-settlements-1.7547426?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Russian national charged in Toronto with illegally exporting goods to Russia",
+    "url": "https://www.cbc.ca/news/investigates/russian-national-charged-toronto-sanctions-1.7547540?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada's GDP grew by annualized rate of 2.2% in first quarter",
     "url": "https://www.cbc.ca/news/business/canada-economy-gdp-q1-1.7547889?cmp=rss",
-    "category": "Business"
+    "category": "Politics"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "U.S. tourism operators offer exclusive deals for Canadians to try to convince them to return",
-    "url": "https://www.cbc.ca/news/business/u-s-canadian-tourism-discounts-1.7546881?cmp=rss",
-    "category": "Business"
+    "headline": "Amid 51st state taunts, King's popularity in Canada grows",
+    "url": "https://www.cbc.ca/news/politics/king-charles-popularity-spikes-1.7547157?cmp=rss",
+    "category": "Politics"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "This Alberta solar field is becoming a high-tech hobby farm on the side",
-    "url": "https://www.cbc.ca/news/canada/calgary/bakx-beecube-ukko-strathmore-agrivoltaics-1.7547169?cmp=rss",
-    "category": "Business"
+    "headline": "Sikh groups say Ottawa should not invite Indian PM Modi to G7 summit",
+    "url": "https://www.cbc.ca/news/politics/g7-modi-1.7548156?cmp=rss",
+    "category": "Politics"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Oil companies sued over heat dome 'wrongful' death",
-    "url": "https://www.cbc.ca/news/science/heat-dome-lawsuit-1.7547975?cmp=rss",
-    "category": "Business"
+    "headline": "Halting spy operation placed CSIS team in unnecessary danger, watchdog report says",
+    "url": "https://www.cbc.ca/news/politics/csis-operation-nsira-1.7547940?cmp=rss",
+    "category": "Politics"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Tesla registrations down 90% in Quebec in 1st quarter of 2025",
-    "url": "https://www.cbc.ca/news/canada/tesla-registrations-quebec-1.7547483?cmp=rss",
-    "category": "Business"
+    "headline": "The time when foreign invasions were impossible is over, former diplomats tell defence conference",
+    "url": "https://www.cbc.ca/news/politics/cansec-nato-latvia-speeches-1.7547698?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "It's time to act on foreign interference, attacks on dissidents, say opposition MPs",
+    "url": "https://www.cbc.ca/news/politics/foreign-interference-opposition-registry-1.7547650?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Ottawa planning 'up-front' approval for projects deemed in the national interest",
+    "url": "https://www.cbc.ca/news/politics/national-interest-projects-approvals-legislation-1.7547435?cmp=rss",
+    "category": "Politics"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "U.S. appeals court says Trump can keep collecting tariffs — for now",
     "url": "https://www.cbc.ca/news/world/trump-tariffs-appeal-court-ruling-1.7547404?cmp=rss",
-    "category": "Business"
+    "category": "Politics"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Your next job interview could be with an AI bot",
-    "url": "https://www.cbc.ca/player/play/9.6776961?cmp=rss",
-    "category": "Business"
+    "headline": "30 MPs accepted $230K in free travel last year, mostly for trips to Taiwan",
+    "url": "https://www.cbc.ca/news/politics/sponsored-mp-travel-list-2024-1.7547436?cmp=rss",
+    "category": "Politics"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Bell Canada to launch 6 AI data centres in B.C.",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/bell-ai-new-data-centres-bc-1.7546516?cmp=rss",
-    "category": "Business"
+    "headline": "Carney welcomes U.S. court decision striking down parts of Trump's tariffs agenda",
+    "url": "https://www.cbc.ca/news/politics/carney-trump-tariffs-court-ruling-1.7546835?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadian charity pauses Gaza aid after U.S.-backed group takes over distribution",
+    "url": "https://www.cbc.ca/news/politics/gaza-aid-delivery-suspended-1.7547365?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Prescott, Ont., man pleads guilty to uttering death threat aimed at Conservative MP",
+    "url": "https://www.cbc.ca/news/politics/man-guilty-michael-barrett-threats-1.7546742?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Followed, threatened and smeared — attacks by China against its critics in Canada are on the rise",
+    "url": "https://www.cbc.ca/news/politics/china-targets-dissidents-canada-1.7543745?cmp=rss",
+    "category": "Politics"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Mark Carney meets the battleground of question period",
+    "url": "https://www.cbc.ca/news/politics/carney-question-period-analysis-1.7546380?cmp=rss",
+    "category": "Politics"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
     "headline": "Canada Post reports $1.3B operating loss with declines in both letter and parcel revenue",
     "url": "https://www.cbc.ca/news/politics/canada-post-financial-report-1.7546234?cmp=rss",
-    "category": "Business"
+    "category": "Politics"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump tariffs suffer staggering setback in U.S. court",
-    "url": "https://www.cbc.ca/news/world/trump-tariffs-trade-court-1.7546547?cmp=rss",
-    "category": "Business"
+    "headline": "What to watch this weekend in international sports",
+    "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-weekend-lookahead-may-30-1.7548604?cmp=rss",
+    "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Hudson’s Bay employees get ready for last day on the job",
-    "url": "https://www.cbc.ca/player/play/9.6776673?cmp=rss",
-    "category": "Business"
+    "headline": "Canada's Katzberg, Rogers win hammer throw titles at Kip Keino Classic",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/field/kip-keino-classic-hammer-throw-ethan-katzberg-camryn-rogers-1.7549071?cmp=rss",
+    "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "How one company plans to suck carbon right out of the air (and make money doing it)",
-    "url": "https://www.cbc.ca/news/canada/calgary/carbon-removal-efforts-1.7537449?cmp=rss",
-    "category": "Business"
+    "headline": "Damian Warner, Pierce LePage face off in sneak preview of showdown at world championships",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/athletics-decathlon-damian-warner-pierce-lepage-hypomeeting-gotzis-1.7540749?cmp=rss",
+    "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Hailey Bieber sells makeup brand Rhode to Elf Beauty in $1B deal",
-    "url": "https://www.cbc.ca/news/business/rhode-beauty-elf-hailey-bieber-1.7546270?cmp=rss",
-    "category": "Business"
+    "headline": "Watch Aaron Brown, Andre De Grasse go head-to-head at Grand Slam Track Philadelphia",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/athletics-grand-slam-track-2025-philadelphia-aaron-brown-andre-de-grasse-1.7541870?cmp=rss",
+    "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Amazon's in-car software deal with Stellantis fizzles",
-    "url": "https://www.cbc.ca/news/canada/windsor/amazon-in-car-software-deal-stellantis-fizzles-1.7545690?cmp=rss",
-    "category": "Business"
+    "headline": "PWHL Vancouver GM  Gardner Morey excited to build expansion team's inaugural roster",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-vancouver-general-manager-cara-gardner-morey-1.7548953?cmp=rss",
+    "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "How you can get your dough in the $500M Loblaw bread-fixing settlement",
-    "url": "https://www.cbc.ca/news/canada/loblaw-bread-fixing-payout-1.7544627?cmp=rss",
-    "category": "Business"
+    "headline": "Canadian cricket already benefiting from boost of impending Olympic return",
+    "url": "https://www.cbc.ca/sports/cricket/canada-cricket-olympic-boost-1.7547462?cmp=rss",
+    "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "1.4 million consumers missed a credit payment in Q1, says Equifax report",
-    "url": "https://www.cbc.ca/news/business/equifax-report-missed-credit-payments-q1-2025-1.7545243?cmp=rss",
-    "category": "Business"
+    "headline": "Ex-teammate's testimony, police interviews mark consequential week at Hockey Canada sex assault trial",
+    "url": "https://www.cbc.ca/9.6778928?cmp=rss",
+    "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Hudson's Bay to lay off more than 8,300 employees by June 1",
-    "url": "https://www.cbc.ca/news/business/hudsons-bay-8300-employees-june-1-1.7544639?cmp=rss",
-    "category": "Business"
+    "headline": "Canada off to gold-medal game at para hockey worlds after win over Czech Republic",
+    "url": "https://www.cbc.ca/sports/paralympics/winter-sports/para-ice-hockey/canada-czech-republic-recap-para-hockey-world-championship-may30-1.7548925?cmp=rss",
+    "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Ontario judge approves $500M settlement in Loblaw bread-fixing case",
-    "url": "https://www.cbc.ca/news/business/judge-approves-500-million-settlement-loblaw-bread-price-fixing-1.7543680?cmp=rss",
-    "category": "Business"
+    "headline": "Olympic boxing champion Imane Khelif must undergo genetic sex screening to fight for new governing body",
+    "url": "https://www.cbc.ca/sports/olympics/summer/boxing/olympic-boxing-imane-genetic-sex-screening-1.7548484?cmp=rss",
+    "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "Trump drops tariff threat against EU after weekend call with bloc chief",
-    "url": "https://www.cbc.ca/news/business/trump-drops-tariff-threat-eu-ursula-von-der-leyen-1.7543601?cmp=rss",
-    "category": "Business"
+    "headline": "Revenge or reprise? 'Mature' Oilers poised for Cup final rematch with battle-tested Panthers",
+    "url": "https://www.cbc.ca/news/canada/edmonton/revenge-or-reprise-mature-oilers-poised-for-cup-final-rematch-with-battle-tested-panthers-1.7548340?cmp=rss",
+    "category": "Sports"
   },
   {
     "source": "cbc",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
-    "headline": "How the peaceful world of puzzles has been upended by the global trade war",
-    "url": "https://www.cbc.ca/radio/day6/puzzles-trade-war-1.7540862?cmp=rss",
-    "category": "Business"
+    "headline": "Olympic champion Sha'Carri Richardson investing in team-based track and field league",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/sha-carri-richardson-track-and-field-league-1.7548593?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Marco Arop's coach hails world champion runner as 'once-in-a-lifetime athlete,' marvels at fast recovery time",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/marco-arop-recovery-grand-slam-track-philadelphia-1.7545460?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadian teen Mboko falls to Olympic champion Zheng at French Open",
+    "url": "https://www.cbc.ca/sports/tennis/french-open-canadians-may-30-1.7547912?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada's Gale captures World Athletics Continental Tour 400-metre silver medal in Poland",
+    "url": "https://www.cbc.ca/player/play/9.6779707?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Grand Slam Track Philadelphia's compressed schedule is a compromise that won't skimp on quality",
+    "url": "https://www.cbc.ca/sports/olympics/summer/athletics/track/opinion-morgan-campbell-grand-slam-track-philadelphia-1.7546532?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada's Vanessa Gilles ready to hunt for soccer trophies with new club Bayern Munich",
+    "url": "https://www.cbc.ca/sports/soccer/vanessa-gilles-bayern-munich-lyon-soccer-desiree-scott-1.7546366?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canadian swim star Summer McIntosh confirms she will train with Michael Phelps's former coach",
+    "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/summer-mcintosh-bob-bowman-coach-confirm-may28-1.7544915?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Maple Leafs GM Treliving says 'DNA' needs to change in team after playoff loss to Panthers",
+    "url": "https://www.cbc.ca/sports/hockey/nhl/treliving-season-wrap-maple-leafs-general-manager-nhl-1.7547087?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Skateboarding legend Tony Hawk makes surprise visit to B.C. mountain town to open skate park expansion",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/tony-hawk-smithers-b-c-1.7546925?cmp=rss",
+    "category": "Sports"
+  },
+  {
+    "source": "cbc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CBC_Logo_2020.svg",
+    "headline": "Canada's Gilgeous-Alexander, Thunder blow out Timberwolves to reach NBA Finals",
+    "url": "https://www.cbc.ca/sports/basketball/nba/thunder-timberwolves-western-final-recap-may-28-1.7546637?cmp=rss",
+    "category": "Sports"
   },
   {
     "source": "weather.gc",
@@ -149,7 +289,7 @@
   {
     "source": "weather.gc",
     "logo": "https://cdn.shopify.com/s/files/1/0649/5997/1534/files/images.png?v=1743940410",
-    "headline": "Current Conditions: Light Rain, 7.9°C",
+    "headline": "Current Conditions: Light Rain, 8.1°C",
     "url": "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
     "category": "Weather"
   },
